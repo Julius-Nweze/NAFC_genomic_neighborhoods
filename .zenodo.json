@@ -1,0 +1,19 @@
+{
+  "title": "NAFC genomic-neighborhood analysis scripts",
+  "upload_type": "software",
+  "description": "Analysis scripts for the article \"Wetland-root microbial genomes contain recurrent multi-gene neighborhoods with potential relevance to naphthenic acid fractional compound transformation\". The workflow covers MAG recovery and abundance, Prokka annotation, phylogenomics, a curated 667-protein reference-panel BLASTP screen of 365 genomes, candidate genomic-neighborhood reconstruction, iTOL dataset generation, architecture signatures, annotation confirmation, ROW versus OSPW comparison, and figure generation.",
+  "creators": [
+    {
+      "name": "Nweze, Julius Eyiuche",
+      "affiliation": "Institut National de la Recherche Scientifique, Centre Armand-Frappier Santé Biotechnologie, Laval, QC, Canada"
+    }
+  ],
+  "keywords": [
+    "naphthenic acid fractional compounds",
+    "oil sands process-affected water",
+    "metagenome-assembled genomes",
+    "root microbiome",
+    "genomic neighborhoods",
+    "comparative genomics"
+  ]
+}
