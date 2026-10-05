@@ -1,11 +1,14 @@
 # NAFC genomic-neighborhood analysis scripts
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23165100.svg)](https://doi.org/10.5281/zenodo.23165100)
+
 Analysis code for the article "Wetland-root microbial genomes contain recurrent multi-gene neighborhoods
 with potential relevance to naphthenic acid fractional compound transformation" (Nweze et al.).
 
 - **Author:** Julius Eyiuche Nweze
 - **Contact:** julipeale2001@gmail.com
-- **Repository URL / DOI:** pending
+- **Repository:** https://github.com/Julius-Nweze/NAFC_genomic_neighborhoods
+- **DOI:** [10.5281/zenodo.23165100](https://doi.org/10.5281/zenodo.23165100)
 
 This folder contains the analysis scripts. Raw genomes, annotations, and sequencing reads are deposited
 separately (see the Data Availability section of the article).
@@ -51,5 +54,9 @@ Folders are numbered in the order they were used. Within each folder, run the sc
 Input and output locations are set near the top of each script as `/path/to/your/...`. Replace these with the
 location of your own data. Cluster scripts also use `<your-account>` and `<your-email>` in their `#SBATCH`
 lines. Script-to-script references resolve relative to this folder.
+
+## How to cite
+
+Nweze JE. 2026. NAFC genomic-neighborhood analysis scripts (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.23165100
 
 © 2026 Julius Eyiuche Nweze
