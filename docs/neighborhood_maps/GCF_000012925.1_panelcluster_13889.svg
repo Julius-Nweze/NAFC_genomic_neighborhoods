@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GCF_000012925.1_panelcluster_13889</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GCF_000012925.1 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: acdB; atoB; badH; benD; chcB1; chcB2; chcC1; crt; fadA;</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">paaH; pimC/aabA; pimD</text>
+<text x="32.0" y="82.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Benzoate; Beta-oxidation; Catechol-ortho;</text>
+<text x="32.0" y="94.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Cyclohexanecarboxylate; Phenylacetate</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="473.0,86.0 459.0,86.0 452.0,97.0 459.0,108.0 473.0,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>HEBOPMAE_02246 | kduD | Dehydrogenase/oxidoreductase | 2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase | PANEL HIT: chcB2 (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=37.805000 qcovs=97.000000</title></polygon>
+<text x="462.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 462.5 121.0)" fill="#111">kduD (chcB2)</text>
+<polygon points="495.2,86.0 480.9,86.0 473.9,97.0 480.9,108.0 495.2,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>HEBOPMAE_02247 | crt_5 | Hydratase/dehydratase/isomerase | Short-chain-enoyl-CoA hydratase | PANEL HIT: crt (Beta-oxidation / Beta-oxidation) | pident=39.922000 qcovs=97.000000</title></polygon>
+<text x="484.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 484.6 121.0)" fill="#111">crt_5 (crt)</text>
+<polygon points="519.8,86.0 504.3,86.0 496.7,97.0 504.3,108.0 519.8,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>HEBOPMAE_02248 | fadJ | Accessory/other | Fatty acid oxidation complex subunit alpha</title></polygon>
+<text x="508.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 508.3 121.0)" fill="#555">fadJ</text>
+<polygon points="553.9,86.0 531.7,86.0 520.8,97.0 531.7,108.0 553.9,108.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>HEBOPMAE_02249 | fadA | Thiolase/transferase | Putative acyltransferase | PANEL HIT: fadA (Catechol-ortho / Catechol-ortho) | pident=40.295000 qcovs=99.000000</title></polygon>
+<text x="537.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 537.4 121.0)" fill="#111">fadA (fadA)</text>
+<polygon points="585.6,86.0 564.8,86.0 554.5,97.0 564.8,108.0 585.6,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>HEBOPMAE_02250 | acdA_2 | Dehydrogenase/oxidoreductase | Acyl-CoA dehydrogenase | PANEL HIT: pimD (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=31.053000 qcovs=99.000000</title></polygon>
+<text x="570.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 570.1 121.0)" fill="#111">acdA_2 (pimD)</text>
+<polygon points="617.9,86.0 596.5,86.0 585.9,97.0 596.5,108.0 617.9,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>HEBOPMAE_02251 | HEBOPMAE_02251 | Dehydrogenase/oxidoreductase | Acyl-CoA dehydrogenase FadE26 | PANEL HIT: pimC/aabA (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=35.075000 qcovs=100.000000</title></polygon>
+<text x="601.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 601.9 121.0)" fill="#111">HEBOPMAE_02251 (pimC/...</text>
+<polygon points="645.6,86.0 629.2,86.0 621.1,97.0 629.2,108.0 645.6,108.0" fill="#b15928" stroke="#888" stroke-width="0.8"><title>HEBOPMAE_02252 | pqsE | Hydrolase/decarboxylase/lyase | 2-aminobenzoylacetyl-CoA thioesterase</title></polygon>
+<text x="633.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 633.3 121.0)" fill="#555">pqsE</text>
+<polygon points="694.4,86.0 661.6,86.0 645.5,97.0 661.6,108.0 694.4,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>HEBOPMAE_02253 | adeC | Accessory/other | Adenine deaminase</title></polygon>
+<text x="669.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 669.9 121.0)" fill="#555">adeC</text>
+<polygon points="752.0,86.0 713.4,86.0 695.4,97.0 713.4,108.0 752.0,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>HEBOPMAE_02254 | HEBOPMAE_02254 | Dehydrogenase/oxidoreductase | Metal reductase</title></polygon>
+<text x="723.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 723.7 121.0)" fill="#555">HEBOPMAE_02254</text>
+<polygon points="782.2,86.0 766.2,86.0 758.3,97.0 766.2,108.0 782.2,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>HEBOPMAE_02255 | hbd_2 | Dehydrogenase/oxidoreductase | 3-hydroxybutyryl-CoA dehydrogenase | PANEL HIT: paaH (Phenylacetate / Phenylacetate) | pident=39.041000 qcovs=61.000000</title></polygon>
+<text x="770.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 770.3 121.0)" fill="#111">hbd_2 (paaH)</text>
+<polygon points="807.5,86.0 793.0,86.0 785.8,97.0 793.0,108.0 807.5,108.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>HEBOPMAE_02256 | echA8 | Hydratase/dehydratase/isomerase | putative enoyl-CoA hydratase echA8</title></polygon>
+<text x="796.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 796.7 121.0)" fill="#555">echA8</text>
+<polygon points="858.9,86.0 825.8,86.0 809.5,97.0 825.8,108.0 858.9,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HEBOPMAE_02257 | HEBOPMAE_02257 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="834.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 834.2 121.0)" fill="#555">HEBOPMAE_02257</text>
+<polygon points="881.5,86.0 867.5,86.0 860.5,97.0 867.5,108.0 881.5,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>HEBOPMAE_02258 | gno_1 | Dehydrogenase/oxidoreductase | Gluconate 5-dehydrogenase | PANEL HIT: benD (Benzoate / Benzoate) | pident=33.594000 qcovs=97.000000</title></polygon>
+<text x="871.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 871.0 121.0)" fill="#111">gno_1 (benD)</text>
+<polygon points="905.3,86.0 890.7,86.0 883.4,97.0 890.7,108.0 905.3,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>HEBOPMAE_02259 | HEBOPMAE_02259 | Hydratase/dehydratase/isomerase | Crotonyl-CoA hydratase | PANEL HIT: crt (Beta-oxidation / Beta-oxidation) | pident=37.308000 qcovs=97.000000</title></polygon>
+<text x="894.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 894.4 121.0)" fill="#111">HEBOPMAE_02259 (crt)</text>
+<polygon points="924.5,86.0 913.5,86.0 906.5,97.0 913.5,108.0 924.5,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>HEBOPMAE_02260 | mcm_2 | Accessory/other | Methylmalonyl-CoA mutase</title></polygon>
+<text x="915.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 915.5 121.0)" fill="#555">mcm_2</text>
+<polygon points="965.6,86.0 935.0,86.0 919.9,97.0 935.0,108.0 965.6,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>HEBOPMAE_02261 | mcm_3 | Accessory/other | Methylmalonyl-CoA mutase</title></polygon>
+<text x="942.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 942.7 121.0)" fill="#555">mcm_3</text>
+<polygon points="985.8,86.0 974.8,86.0 967.8,97.0 974.8,108.0 985.8,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>HEBOPMAE_02262 | HEBOPMAE_02262 | Accessory/other | putative GTPase</title></polygon>
+<text x="976.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 976.8 121.0)" fill="#555">HEBOPMAE_02262</text>
+<polygon points="1045.6,86.0 1011.6,86.0 994.9,97.0 1011.6,108.0 1045.6,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>HEBOPMAE_02263 | dmdC | Dehydrogenase/oxidoreductase | 3-methylmercaptopropionyl-CoA dehydrogenase | PANEL HIT: acdB (Beta-oxidation / Beta-oxidation) | pident=34.355000 qcovs=98.000000</title></polygon>
+<text x="1020.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1020.2 121.0)" fill="#111">dmdC (acdB)</text>
+<polygon points="1068.4,86.0 1053.9,86.0 1046.7,97.0 1053.9,108.0 1068.4,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>HEBOPMAE_02264 | HEBOPMAE_02264 | Hydratase/dehydratase/isomerase | Crotonyl-CoA hydratase | PANEL HIT: crt (Beta-oxidation / Beta-oxidation) | pident=41.509000 qcovs=97.000000</title></polygon>
+<text x="1057.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1057.5 121.0)" fill="#111">HEBOPMAE_02264 (crt)</text>
+<polygon points="1103.4,86.0 1081.8,86.0 1071.1,97.0 1081.8,108.0 1103.4,108.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>HEBOPMAE_02265 | thlA_3 | Thiolase/transferase | Acetyl-CoA acetyltransferase | PANEL HIT: atoB (Beta-oxidation / Beta-oxidation) | pident=52.941000 qcovs=99.000000</title></polygon>
+<text x="1087.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1087.2 121.0)" fill="#111">thlA_3 (atoB)</text>
+<polygon points="1123.0,86.0 1112.0,86.0 1105.0,97.0 1112.0,108.0 1123.0,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HEBOPMAE_02266 | HEBOPMAE_02266 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1114.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1114.0 121.0)" fill="#555">HEBOPMAE_02266</text>
+<polygon points="1153.6,86.0 1126.9,86.0 1113.8,97.0 1126.9,108.0 1153.6,108.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>HEBOPMAE_02267 | abfD | Hydratase/dehydratase/isomerase | 4-hydroxybutyryl-CoA dehydratase/vinylacetyl-CoA-Delta-isomerase</title></polygon>
+<text x="1133.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1133.7 121.0)" fill="#555">abfD</text>
+<polygon points="1180.9,86.0 1169.9,86.0 1162.9,97.0 1169.9,108.0 1180.9,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HEBOPMAE_02268 | HEBOPMAE_02268 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1171.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1171.9 121.0)" fill="#555">HEBOPMAE_02268</text>
+<polygon points="1207.0,86.0 1192.8,86.0 1185.7,97.0 1192.8,108.0 1207.0,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>HEBOPMAE_02269 | HEBOPMAE_02269 | Dehydrogenase/oxidoreductase | 3-beta-hydroxysteroid dehydrogenase | PANEL HIT: chcB1 (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=39.300000 qcovs=94.000000</title></polygon>
+<text x="1196.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1196.4 121.0)" fill="#111">HEBOPMAE_02269 (chcB1)</text>
+<polygon points="1237.7,86.0 1220.9,86.0 1212.6,97.0 1220.9,108.0 1237.7,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HEBOPMAE_02270 | HEBOPMAE_02270 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1225.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1225.2 121.0)" fill="#555">HEBOPMAE_02270</text>
+<polygon points="1243.0,86.0 1257.2,86.0 1264.2,97.0 1257.2,108.0 1243.0,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>HEBOPMAE_02271 | ade_1 | Accessory/other | Adenine deaminase</title></polygon>
+<text x="1253.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1253.6 121.0)" fill="#555">ade_1</text>
+<polygon points="1266.5,86.0 1283.7,86.0 1292.2,97.0 1283.7,108.0 1266.5,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>HEBOPMAE_02272 | ade_2 | Accessory/other | Adenine deaminase</title></polygon>
+<text x="1279.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1279.3 121.0)" fill="#555">ade_2</text>
+<polygon points="1302.1,86.0 1313.1,86.0 1320.1,97.0 1313.1,108.0 1302.1,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HEBOPMAE_02273 | HEBOPMAE_02273 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1311.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1311.1 121.0)" fill="#555">HEBOPMAE_02273</text>
+<polygon points="1313.7,86.0 1324.7,86.0 1331.7,97.0 1324.7,108.0 1313.7,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HEBOPMAE_02274 | HEBOPMAE_02274 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1322.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1322.7 121.0)" fill="#555">HEBOPMAE_02274</text>
+<polygon points="1375.7,86.0 1345.0,86.0 1329.9,97.0 1345.0,108.0 1375.7,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>HEBOPMAE_02275 | norR_7 | Regulator | Anaerobic nitric oxide reductase transcription regulator NorR</title></polygon>
+<text x="1352.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1352.8 121.0)" fill="#555">norR_7</text>
+<polygon points="1382.9,86.0 1397.2,86.0 1404.3,97.0 1397.2,108.0 1382.9,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>HEBOPMAE_02276 | crt_6 | Hydratase/dehydratase/isomerase | Short-chain-enoyl-CoA hydratase | PANEL HIT: crt (Beta-oxidation / Beta-oxidation) | pident=41.016000 qcovs=97.000000</title></polygon>
+<text x="1393.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1393.6 121.0)" fill="#111">crt_6 (crt)</text>
+<polygon points="1405.4,86.0 1434.9,86.0 1449.5,97.0 1434.9,108.0 1405.4,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>HEBOPMAE_02277 | kstD | Dehydrogenase/oxidoreductase | 3-oxosteroid 1-dehydrogenase | PANEL HIT: chcC1 (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=32.724000 qcovs=93.000000</title></polygon>
+<text x="1427.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1427.4 121.0)" fill="#111">kstD (chcC1)</text>
+<polygon points="1450.8,86.0 1465.3,86.0 1472.4,97.0 1465.3,108.0 1450.8,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>HEBOPMAE_02278 | HEBOPMAE_02278 | Dehydrogenase/oxidoreductase | 3-alpha-(or 20-beta)-hydroxysteroid dehydrogenase | PANEL HIT: chcB1 (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=44.106000 qcovs=97.000000</title></polygon>
+<text x="1461.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1461.6 121.0)" fill="#111">HEBOPMAE_02278 (chcB1)</text>
+<polygon points="1547.3,86.0 1492.0,86.0 1474.0,97.0 1492.0,108.0 1547.3,108.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>HEBOPMAE_02279 | HEBOPMAE_02279 | Hydratase/dehydratase/isomerase | Acetylene hydratase</title></polygon>
+<text x="1510.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1510.7 121.0)" fill="#555">HEBOPMAE_02279</text>
+<polygon points="1566.7,86.0 1555.7,86.0 1548.7,97.0 1555.7,108.0 1566.7,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HEBOPMAE_02280 | HEBOPMAE_02280 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1557.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1557.7 121.0)" fill="#555">HEBOPMAE_02280</text>
+<polygon points="1607.7,86.0 1579.4,86.0 1565.4,97.0 1579.4,108.0 1607.7,108.0" fill="#1f78b4" stroke="#888" stroke-width="0.8"><title>HEBOPMAE_02281 | lcfB_3 | CoA ligase/synthetase | Long-chain-fatty-acid--CoA ligase</title></polygon>
+<text x="1586.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1586.5 121.0)" fill="#555">lcfB_3</text>
+<polygon points="1641.4,86.0 1621.1,86.0 1611.1,97.0 1621.1,108.0 1641.4,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>HEBOPMAE_02282 | ord | Dehydrogenase/oxidoreductase | 2,4-diaminopentanoate dehydrogenase</title></polygon>
+<text x="1626.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1626.3 121.0)" fill="#555">ord</text>
+<polygon points="1664.0,86.0 1649.8,86.0 1642.8,97.0 1649.8,108.0 1664.0,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>HEBOPMAE_02283 | gno_2 | Dehydrogenase/oxidoreductase | Gluconate 5-dehydrogenase | PANEL HIT: badH (Beta-oxidation / Beta-oxidation) | pident=36.111000 qcovs=97.000000</title></polygon>
+<text x="1653.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1653.4 121.0)" fill="#111">gno_2 (badH)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">2,481,897 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">2,526,130 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

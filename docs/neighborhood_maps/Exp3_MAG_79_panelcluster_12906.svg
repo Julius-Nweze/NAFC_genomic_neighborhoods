@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_79_panelcluster_12906</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_79 | MAGs/Exp3_MAG_79_c_000000000207 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: benC; bphC; bphD; bphF; carAa; mhpD; mhpF; todF</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Benzoate; Catechol-meta</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="506.6,86.0 470.0,86.0 452.0,97.0 470.0,108.0 506.6,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>JIEGIFCP_02141 | bphC | Oxygenase/dioxygenase | Biphenyl-2,3-diol 1,2-dioxygenase | PANEL HIT: bphC (Aromatics / Biphenyl) | pident=40.830000 qcovs=96.000000</title></polygon>
+<text x="479.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 479.3 121.0)" fill="#111">bphC (bphC)</text>
+<polygon points="553.3,86.0 521.9,86.0 506.4,97.0 521.9,108.0 553.3,108.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>JIEGIFCP_02142 | todF_1 | Hydrolase/decarboxylase/lyase | 2-hydroxy-6-oxo-2,4-heptadienoate hydrolase | PANEL HIT: todF (Aromatics / Toluene) | pident=50.000000 qcovs=99.000000</title></polygon>
+<text x="529.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 529.8 121.0)" fill="#111">todF_1 (todF)</text>
+<polygon points="581.8,86.0 565.6,86.0 557.6,97.0 565.6,108.0 581.8,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>JIEGIFCP_02143 | JIEGIFCP_02143 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="569.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 569.7 121.0)" fill="#555">JIEGIFCP_02143</text>
+<polygon points="633.4,86.0 600.2,86.0 583.9,97.0 600.2,108.0 633.4,108.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>JIEGIFCP_02144 | mhpC | Hydrolase/decarboxylase/lyase | 2-hydroxy-6-oxononadienedioate/2-hydroxy-6-oxononatrienedioate hydrolase | PANEL HIT: bphD (Aromatics / Biphenyl) | pident=50.347000 qcovs=98.000000</title></polygon>
+<text x="608.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 608.7 121.0)" fill="#111">mhpC (bphD)</text>
+<polygon points="693.8,86.0 654.0,86.0 636.0,97.0 654.0,108.0 693.8,108.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>JIEGIFCP_02145 | mhpE | Hydrolase/decarboxylase/lyase | 4-hydroxy-2-oxovalerate aldolase | PANEL HIT: bphF (Aromatics / Biphenyl) | pident=83.483000 qcovs=95.000000</title></polygon>
+<text x="664.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 664.9 121.0)" fill="#111">mhpE (bphF)</text>
+<polygon points="747.9,86.0 712.2,86.0 694.6,97.0 712.2,108.0 747.9,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>JIEGIFCP_02146 | mhpF | Dehydrogenase/oxidoreductase | Acetaldehyde dehydrogenase | PANEL HIT: mhpF (Catechol-meta / Catechol-meta) | pident=75.649000 qcovs=97.000000</title></polygon>
+<text x="721.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 721.3 121.0)" fill="#111">mhpF (mhpF)</text>
+<polygon points="793.0,86.0 763.2,86.0 748.5,97.0 763.2,108.0 793.0,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>JIEGIFCP_02147 | mhpD_4 | Hydratase/dehydratase/isomerase | 2-keto-4-pentenoate hydratase | PANEL HIT: mhpD (Catechol-meta / Catechol-meta) | pident=58.238000 qcovs=99.000000</title></polygon>
+<text x="770.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 770.8 121.0)" fill="#111">mhpD_4 (mhpD)</text>
+<polygon points="847.6,86.0 811.9,86.0 794.4,97.0 811.9,108.0 847.6,108.0" fill="#d73027" stroke="#888" stroke-width="0.8"><title>JIEGIFCP_02148 | mhpB | Oxygenase/dioxygenase | 2,3-dihydroxyphenylpropionate/2,3-dihydroxicinnamic acid 1,2-dioxygenase</title></polygon>
+<text x="821.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 821.0 121.0)" fill="#555">mhpB</text>
+<polygon points="928.2,86.0 875.6,86.0 857.6,97.0 875.6,108.0 928.2,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>JIEGIFCP_02149 | JIEGIFCP_02149 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="892.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 892.9 121.0)" fill="#555">JIEGIFCP_02149</text>
+<polygon points="1019.4,86.0 947.4,86.0 929.4,97.0 947.4,108.0 1019.4,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>JIEGIFCP_02150 | JIEGIFCP_02150 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="974.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 974.4 121.0)" fill="#555">JIEGIFCP_02150</text>
+<polygon points="1156.4,86.0 1040.8,86.0 1022.8,97.0 1040.8,108.0 1156.4,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>JIEGIFCP_02151 | JIEGIFCP_02151 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1089.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1089.6 121.0)" fill="#555">JIEGIFCP_02151</text>
+<polygon points="1218.5,86.0 1175.9,86.0 1157.9,97.0 1175.9,108.0 1218.5,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>JIEGIFCP_02152 | hcf136 | Accessory/other | Ycf48-like protein</title></polygon>
+<text x="1188.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1188.2 121.0)" fill="#555">hcf136</text>
+<polygon points="1311.4,86.0 1247.7,86.0 1229.7,97.0 1247.7,108.0 1311.4,108.0" fill="#b15928" stroke="#888" stroke-width="0.8"><title>JIEGIFCP_02153 | mdlY | Hydrolase/decarboxylase/lyase | Mandelamide hydrolase</title></polygon>
+<text x="1270.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1270.6 121.0)" fill="#555">mdlY</text>
+<polygon points="1355.1,86.0 1327.1,86.0 1313.4,97.0 1327.1,108.0 1355.1,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>JIEGIFCP_02154 | JIEGIFCP_02154 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1334.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1334.2 121.0)" fill="#555">JIEGIFCP_02154</text>
+<polygon points="1431.9,86.0 1374.8,86.0 1356.8,97.0 1374.8,108.0 1431.9,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>JIEGIFCP_02155 | JIEGIFCP_02155 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1394.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1394.4 121.0)" fill="#555">JIEGIFCP_02155</text>
+<polygon points="1491.4,86.0 1451.5,86.0 1433.5,97.0 1451.5,108.0 1491.4,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>JIEGIFCP_02156 | benC | Oxygenase/dioxygenase | Benzoate 1,2-dioxygenase electron transfer component | PANEL HIT: benC (Aromatics; Benzoate / Benzene) | pident=33.136000 qcovs=96.000000</title></polygon>
+<text x="1462.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1462.4 121.0)" fill="#111">benC (benC)</text>
+<polygon points="1570.8,86.0 1510.0,86.0 1492.0,97.0 1510.0,108.0 1570.8,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>JIEGIFCP_02157 | amiD_1 | Accessory/other | Putative amidase AmiD</title></polygon>
+<text x="1531.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1531.4 121.0)" fill="#555">amiD_1</text>
+<polygon points="1664.0,86.0 1606.4,86.0 1588.4,97.0 1606.4,108.0 1664.0,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>JIEGIFCP_02158 | carAa | Oxygenase/dioxygenase | Carbazole 1,9a-dioxygenase, terminal oxygenase component CarAa | PANEL HIT: carAa (Aromatics / Carbazol) | pident=42.487000 qcovs=94.000000</title></polygon>
+<text x="1626.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1626.2 121.0)" fill="#111">carAa (carAa)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">15,085 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">36,580 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GCF_000736435.1_panelcluster_14702</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GCF_000736435.1 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: fadD; paaG; pimC/aabA</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Beta-oxidation; Cyclohexanecarboxylate;</text>
+<text x="32.0" y="82.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Phenylacetate</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="589.2,86.0 470.0,86.0 452.0,97.0 470.0,108.0 589.2,108.0" fill="#1f78b4" stroke="#111" stroke-width="2.2"><title>BEEEDNJF_06989 | lcfB_30 | CoA ligase/synthetase | Long-chain-fatty-acid--CoA ligase | PANEL HIT: fadD (Beta-oxidation / Beta-oxidation) | pident=33.524000 qcovs=92.000000</title></polygon>
+<text x="520.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 520.6 121.0)" fill="#111">lcfB_30 (fadD)</text>
+<polygon points="637.1,86.0 608.1,86.0 593.8,97.0 608.1,108.0 637.1,108.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>BEEEDNJF_06990 | BEEEDNJF_06990 | Hydratase/dehydratase/isomerase | putative enoyl-CoA hydratase 1</title></polygon>
+<text x="615.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 615.5 121.0)" fill="#555">BEEEDNJF_06990</text>
+<polygon points="651.7,86.0 707.6,86.0 725.6,97.0 707.6,108.0 651.7,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>BEEEDNJF_06991 | hcaB_14 | Dehydrogenase/oxidoreductase | 3-phenylpropionate-dihydrodiol/cinnamic acid-dihydrodiol dehydrogenase</title></polygon>
+<text x="688.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 688.7 121.0)" fill="#555">hcaB_14</text>
+<polygon points="725.2,86.0 780.5,86.0 798.5,97.0 780.5,108.0 725.2,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>BEEEDNJF_06992 | BEEEDNJF_06992 | Hydratase/dehydratase/isomerase | putative enoyl-CoA hydratase echA12 | PANEL HIT: paaG (Phenylacetate / Phenylacetate) | pident=37.308000 qcovs=98.000000</title></polygon>
+<text x="761.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 761.9 121.0)" fill="#111">BEEEDNJF_06992 (paaG)</text>
+<polygon points="797.3,86.0 892.3,86.0 910.3,97.0 892.3,108.0 797.3,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>BEEEDNJF_06993 | bbsG_5 | Dehydrogenase/oxidoreductase | (R)-benzylsuccinyl-CoA dehydrogenase</title></polygon>
+<text x="853.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 853.8 121.0)" fill="#555">bbsG_5</text>
+<polygon points="910.4,86.0 963.0,86.0 981.0,97.0 963.0,108.0 910.4,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>BEEEDNJF_06994 | fabG_22 | Dehydrogenase/oxidoreductase | 3-oxoacyl-[acyl-carrier-protein] reductase FabG</title></polygon>
+<text x="945.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 945.7 121.0)" fill="#555">fabG_22</text>
+<polygon points="980.3,86.0 1055.6,86.0 1073.6,97.0 1055.6,108.0 980.3,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>BEEEDNJF_06995 | BEEEDNJF_06995 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1027.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1027.0 121.0)" fill="#555">BEEEDNJF_06995</text>
+<polygon points="1086.1,86.0 1121.4,86.0 1138.8,97.0 1121.4,108.0 1086.1,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>BEEEDNJF_06996 | fabG_23 | Dehydrogenase/oxidoreductase | 3-oxoacyl-[acyl-carrier-protein] reductase FabG</title></polygon>
+<text x="1112.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1112.5 121.0)" fill="#555">fabG_23</text>
+<polygon points="1139.3,86.0 1228.7,86.0 1246.7,97.0 1228.7,108.0 1139.3,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>BEEEDNJF_06997 | BEEEDNJF_06997 | Dehydrogenase/oxidoreductase | Acyl-CoA dehydrogenase FadE34 | PANEL HIT: pimC/aabA (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=35.278000 qcovs=87.000000</title></polygon>
+<text x="1193.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1193.0 121.0)" fill="#111">BEEEDNJF_06997 (pimC/...</text>
+<polygon points="1246.3,86.0 1327.6,86.0 1345.6,97.0 1327.6,108.0 1246.3,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>BEEEDNJF_06998 | BEEEDNJF_06998 | Dehydrogenase/oxidoreductase | Acyl-CoA dehydrogenase FadE27</title></polygon>
+<text x="1296.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1296.0 121.0)" fill="#555">BEEEDNJF_06998</text>
+<polygon points="1348.8,86.0 1419.5,86.0 1437.5,97.0 1419.5,108.0 1348.8,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>BEEEDNJF_06999 | BEEEDNJF_06999 | Dehydrogenase/oxidoreductase | 2-haloacrylate reductase</title></polygon>
+<text x="1393.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1393.1 121.0)" fill="#555">BEEEDNJF_06999</text>
+<polygon points="1438.5,86.0 1491.6,86.0 1509.6,97.0 1491.6,108.0 1438.5,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>BEEEDNJF_07000 | rhlG | Dehydrogenase/oxidoreductase | Rhamnolipids biosynthesis 3-oxoacyl-[acyl-carrier-protein] reductase</title></polygon>
+<text x="1474.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1474.1 121.0)" fill="#555">rhlG</text>
+<polygon points="1514.4,86.0 1646.0,86.0 1664.0,97.0 1646.0,108.0 1514.4,108.0" fill="#1f78b4" stroke="#111" stroke-width="2.2"><title>BEEEDNJF_07001 | fadD_4 | CoA ligase/synthetase | Long-chain-fatty-acid--CoA ligase | PANEL HIT: fadD (Beta-oxidation / Beta-oxidation) | pident=35.432000 qcovs=97.000000</title></polygon>
+<text x="1589.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1589.2 121.0)" fill="#111">fadD_4 (fadD)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">7,702,709 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">7,716,149 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

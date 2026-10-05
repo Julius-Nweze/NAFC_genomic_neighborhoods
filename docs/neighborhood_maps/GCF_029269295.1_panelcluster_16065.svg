@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GCF_029269295.1_panelcluster_16065</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GCF_029269295.1 | c_000000000030 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: bphJ; bphX3; catR; chnD; chnE; dmpO; tomA1; tomA2;</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">tomA3; tomA5; xylE; xylG; xylI; xylJ</text>
+<text x="32.0" y="82.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Aromatics; Catechol-meta; Catechol-ortho</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="500.9,86.0 468.1,86.0 452.0,97.0 468.1,108.0 500.9,108.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>POIEIANE_01382 | bphI | Hydrolase/decarboxylase/lyase | 4-hydroxy-2-oxovalerate aldolase 4 | PANEL HIT: bphX3 (Aromatics / Biphenyl) | pident=67.449000 qcovs=99.000000</title></polygon>
+<text x="476.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 476.5 121.0)" fill="#111">bphI (bphX3)</text>
+<polygon points="543.3,86.0 514.9,86.0 500.9,97.0 514.9,108.0 543.3,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>POIEIANE_01383 | bphJ | Dehydrogenase/oxidoreductase | Acetaldehyde dehydrogenase 4 | PANEL HIT: bphJ (Aromatics / Biphenyl) | pident=72.819000 qcovs=98.000000</title></polygon>
+<text x="522.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 522.1 121.0)" fill="#111">bphJ (bphJ)</text>
+<polygon points="561.1,86.0 550.1,86.0 543.1,97.0 550.1,108.0 561.1,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>POIEIANE_01384 | POIEIANE_01384 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="552.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 552.1 121.0)" fill="#555">POIEIANE_01384</text>
+<polygon points="591.3,86.0 566.3,86.0 554.0,97.0 566.3,108.0 591.3,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>POIEIANE_01385 | hpcG | Hydratase/dehydratase/isomerase | 2-oxo-hept-4-ene-1,7-dioate hydratase | PANEL HIT: xylI (Catechol-meta / Catechol-meta) | pident=56.322000 qcovs=99.000000</title></polygon>
+<text x="572.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 572.6 121.0)" fill="#111">hpcG (xylI)</text>
+<polygon points="628.0,86.0 603.3,86.0 591.1,97.0 603.3,108.0 628.0,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>POIEIANE_01386 | tesE | Hydratase/dehydratase/isomerase | 2-hydroxyhexa-2,4-dienoate hydratase | PANEL HIT: xylJ (Catechol-meta / Catechol-meta) | pident=60.181000 qcovs=99.000000</title></polygon>
+<text x="609.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 609.6 121.0)" fill="#111">tesE (xylJ)</text>
+<polygon points="696.1,86.0 646.5,86.0 628.5,97.0 646.5,108.0 696.1,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>POIEIANE_01387 | xylG_1 | Dehydrogenase/oxidoreductase | 2-hydroxymuconic semialdehyde dehydrogenase | PANEL HIT: xylG (Catechol-meta / Catechol-meta) | pident=66.667000 qcovs=100.000000</title></polygon>
+<text x="662.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 662.3 121.0)" fill="#111">xylG_1 (xylG)</text>
+<polygon points="755.2,86.0 722.2,86.0 706.0,97.0 722.2,108.0 755.2,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>POIEIANE_01388 | dmpP | Oxygenase/dioxygenase | Phenol hydroxylase P5 protein | PANEL HIT: tomA5 (Aromatics / Toluene) | pident=65.730000 qcovs=100.000000</title></polygon>
+<text x="730.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 730.6 121.0)" fill="#111">dmpP (tomA5)</text>
+<polygon points="773.7,86.0 762.7,86.0 755.7,97.0 762.7,108.0 773.7,108.0" fill="#d9d9d9" stroke="#111" stroke-width="2.2"><title>POIEIANE_01389 | POIEIANE_01389 | Hypothetical/accessory | hypothetical protein | PANEL HIT: dmpO (Aromatics / Phenol) | pident=42.982000 qcovs=96.000000</title></polygon>
+<text x="764.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 764.7 121.0)" fill="#111">POIEIANE_01389 (dmpO)</text>
+<polygon points="846.1,86.0 793.6,86.0 775.6,97.0 793.6,108.0 846.1,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>POIEIANE_01390 | tmoA | Oxygenase/dioxygenase | Toluene-4-monooxygenase system, hydroxylase component subunit alpha | PANEL HIT: tomA3 (Aromatics / Toluene) | pident=61.840000 qcovs=98.000000</title></polygon>
+<text x="810.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 810.9 121.0)" fill="#111">tmoA (tomA3)</text>
+<polygon points="864.8,86.0 853.8,86.0 846.8,97.0 853.8,108.0 864.8,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>POIEIANE_01391 | dmpM | Oxygenase/dioxygenase | Phenol hydroxylase P2 protein | PANEL HIT: tomA2 (Aromatics / Toluene) | pident=57.303000 qcovs=100.000000</title></polygon>
+<text x="855.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 855.8 121.0)" fill="#111">dmpM (tomA2)</text>
+<polygon points="905.7,86.0 874.9,86.0 859.7,97.0 874.9,108.0 905.7,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>POIEIANE_01392 | mphL | Oxygenase/dioxygenase | Phenol hydroxylase P1 protein | PANEL HIT: tomA1 (Aromatics / Toluene) | pident=55.927000 qcovs=99.000000</title></polygon>
+<text x="882.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 882.7 121.0)" fill="#111">mphL (tomA1)</text>
+<polygon points="925.9,86.0 914.9,86.0 907.9,97.0 914.9,108.0 925.9,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>POIEIANE_01393 | POIEIANE_01393 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="916.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 916.9 121.0)" fill="#555">POIEIANE_01393</text>
+<polygon points="965.2,86.0 936.3,86.0 922.1,97.0 936.3,108.0 965.2,108.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>POIEIANE_01394 | xylE | Accessory/other | Metapyrocatechase | PANEL HIT: xylE (Catechol-meta / Catechol-meta) | pident=51.634000 qcovs=99.000000</title></polygon>
+<text x="943.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 943.7 121.0)" fill="#111">xylE (xylE)</text>
+<polygon points="997.7,86.0 986.7,86.0 979.7,97.0 986.7,108.0 997.7,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>POIEIANE_01395 | POIEIANE_01395 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="988.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 988.7 121.0)" fill="#555">POIEIANE_01395</text>
+<polygon points="1086.3,86.0 1025.7,86.0 1007.7,97.0 1025.7,108.0 1086.3,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>POIEIANE_01396 | mopR | Regulator | Phenol regulator MopR</title></polygon>
+<text x="1047.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1047.0 121.0)" fill="#555">mopR</text>
+<polygon points="1160.7,86.0 1109.7,86.0 1091.7,97.0 1109.7,108.0 1160.7,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>POIEIANE_01397 | POIEIANE_01397 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1126.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1126.2 121.0)" fill="#555">POIEIANE_01397</text>
+<polygon points="1275.7,86.0 1182.4,86.0 1164.4,97.0 1182.4,108.0 1275.7,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>POIEIANE_01398 | POIEIANE_01398 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1220.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1220.1 121.0)" fill="#555">POIEIANE_01398</text>
+<polygon points="1327.4,86.0 1292.7,86.0 1275.6,97.0 1292.7,108.0 1327.4,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>POIEIANE_01399 | hcf136_2 | Accessory/other | Ycf48-like protein</title></polygon>
+<text x="1301.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1301.5 121.0)" fill="#555">hcf136_2</text>
+<polygon points="1396.2,86.0 1351.4,86.0 1333.4,97.0 1351.4,108.0 1396.2,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>POIEIANE_01400 | POIEIANE_01400 | Accessory/other | putative protein</title></polygon>
+<text x="1364.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1364.8 121.0)" fill="#555">POIEIANE_01400</text>
+<polygon points="1473.9,86.0 1415.6,86.0 1397.6,97.0 1415.6,108.0 1473.9,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>POIEIANE_01401 | POIEIANE_01401 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1435.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1435.7 121.0)" fill="#555">POIEIANE_01401</text>
+<polygon points="1486.4,86.0 1514.8,86.0 1528.8,97.0 1514.8,108.0 1486.4,108.0" fill="#fdbf6f" stroke="#111" stroke-width="2.2"><title>POIEIANE_01402 | tfdS | Regulator | HTH-type transcriptional regulator TfdS | PANEL HIT: catR (Catechol-ortho / Catechol-ortho) | pident=33.448000 qcovs=98.000000</title></polygon>
+<text x="1507.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1507.6 121.0)" fill="#111">tfdS (catR)</text>
+<polygon points="1578.9,86.0 1547.5,86.0 1532.1,97.0 1547.5,108.0 1578.9,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>POIEIANE_01403 | adhP | Dehydrogenase/oxidoreductase | Alcohol dehydrogenase, propanol-preferring | PANEL HIT: chnD (Alkanes / Terminal/biterminal oxidation) | pident=32.110000 qcovs=92.000000</title></polygon>
+<text x="1555.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1555.5 121.0)" fill="#111">adhP (chnD)</text>
+<polygon points="1599.5,86.0 1646.0,86.0 1664.0,97.0 1646.0,108.0 1599.5,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>POIEIANE_01404 | gabD1 | Dehydrogenase/oxidoreductase | Succinate-semialdehyde dehydrogenase [NADP(+)] 1 | PANEL HIT: chnE (Alkanes / Terminal/biterminal oxidation) | pident=44.248000 qcovs=98.000000</title></polygon>
+<text x="1631.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1631.8 121.0)" fill="#111">gabD1 (chnE)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">69,673 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">95,834 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

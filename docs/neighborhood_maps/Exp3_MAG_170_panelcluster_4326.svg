@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_170_panelcluster_4326</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_170 | MAGs/Exp3_MAG_170_c_000000000088 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: PGRcl; acdB; fadK; rdxR</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Beta-oxidation; Pyrogallol</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="549.0,86.0 470.0,86.0 452.0,97.0 470.0,108.0 549.0,108.0" fill="#1f78b4" stroke="#111" stroke-width="2.2"><title>DPMHALPB_01915 | DPMHALPB_01915 | CoA ligase/synthetase | Long-chain-fatty-acid--CoA ligase FadD13 | PANEL HIT: fadK (Beta-oxidation / Beta-oxidation) | pident=30.000000 qcovs=91.000000</title></polygon>
+<text x="500.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 500.5 121.0)" fill="#111">DPMHALPB_01915 (fadK)</text>
+<polygon points="583.3,86.0 563.6,86.0 553.9,97.0 563.6,108.0 583.3,108.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>DPMHALPB_01916 | DPMHALPB_01916 | Hydratase/dehydratase/isomerase | putative enoyl-CoA hydratase 1</title></polygon>
+<text x="568.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 568.6 121.0)" fill="#555">DPMHALPB_01916</text>
+<polygon points="659.5,86.0 602.2,86.0 584.2,97.0 602.2,108.0 659.5,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>DPMHALPB_01917 | DPMHALPB_01917 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="621.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 621.9 121.0)" fill="#555">DPMHALPB_01917</text>
+<polygon points="710.7,86.0 678.2,86.0 662.2,97.0 678.2,108.0 710.7,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>DPMHALPB_01918 | gno | Dehydrogenase/oxidoreductase | Gluconate 5-dehydrogenase | PANEL HIT: PGRcl (Pyrogallol / Pyrogallol) | pident=30.385000 qcovs=94.000000</title></polygon>
+<text x="686.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 686.5 121.0)" fill="#111">gno (PGRcl)</text>
+<polygon points="825.3,86.0 730.7,86.0 712.7,97.0 730.7,108.0 825.3,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>DPMHALPB_01919 | dmdC_1 | Dehydrogenase/oxidoreductase | 3-methylmercaptopropionyl-CoA dehydrogenase | PANEL HIT: acdB (Beta-oxidation / Beta-oxidation) | pident=38.916000 qcovs=99.000000</title></polygon>
+<text x="769.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 769.0 121.0)" fill="#111">dmdC_1 (acdB)</text>
+<polygon points="875.0,86.0 842.1,86.0 825.9,97.0 842.1,108.0 875.0,108.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>DPMHALPB_01920 | paaF_1 | Hydratase/dehydratase/isomerase | 2,3-dehydroadipyl-CoA hydratase</title></polygon>
+<text x="850.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 850.5 121.0)" fill="#555">paaF_1</text>
+<polygon points="993.0,86.0 894.8,86.0 876.8,97.0 894.8,108.0 993.0,108.0" fill="#1f78b4" stroke="#888" stroke-width="0.8"><title>DPMHALPB_01921 | DPMHALPB_01921 | CoA ligase/synthetase | Long-chain-fatty-acid--CoA ligase FadD15</title></polygon>
+<text x="934.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 934.9 121.0)" fill="#555">DPMHALPB_01921</text>
+<polygon points="1002.0,86.0 1029.4,86.0 1042.9,97.0 1029.4,108.0 1002.0,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>DPMHALPB_01922 | DPMHALPB_01922 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1022.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1022.5 121.0)" fill="#555">DPMHALPB_01922</text>
+<polygon points="1146.0,86.0 1281.6,86.0 1299.6,97.0 1281.6,108.0 1146.0,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>DPMHALPB_01923 | nasD_2 | Dehydrogenase/oxidoreductase | Nitrite reductase [NAD(P)H] | PANEL HIT: rdxR (Alkanes / Terminal/biterminal oxidation) | pident=33.591000 qcovs=67.000000</title></polygon>
+<text x="1222.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1222.8 121.0)" fill="#111">nasD_2 (rdxR)</text>
+<polygon points="1299.4,86.0 1314.5,86.0 1322.0,97.0 1314.5,108.0 1299.4,108.0" fill="#fb9a99" stroke="#888" stroke-width="0.8"><title>DPMHALPB_01924 | hcaC | Electron transfer/redox | 3-phenylpropionate/cinnamic acid dioxygenase ferredoxin subunit</title></polygon>
+<text x="1310.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1310.7 121.0)" fill="#555">hcaC</text>
+<polygon points="1324.8,86.0 1358.5,86.0 1375.1,97.0 1358.5,108.0 1324.8,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>DPMHALPB_01925 | focA | Transport/efflux | putative formate transporter 1</title></polygon>
+<text x="1350.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1350.0 121.0)" fill="#555">focA</text>
+<polygon points="1378.4,86.0 1468.3,86.0 1486.3,97.0 1468.3,108.0 1378.4,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>DPMHALPB_01926 | pknD | Accessory/other | Serine/threonine-protein kinase PknD</title></polygon>
+<text x="1432.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1432.3 121.0)" fill="#555">pknD</text>
+<polygon points="1494.6,86.0 1505.6,86.0 1512.6,97.0 1505.6,108.0 1494.6,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>DPMHALPB_01927 | vsr | Accessory/other | Very short patch repair protein</title></polygon>
+<text x="1503.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1503.6 121.0)" fill="#555">vsr</text>
+<polygon points="1553.4,86.0 1646.0,86.0 1664.0,97.0 1646.0,108.0 1553.4,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>DPMHALPB_01929 | dmdC_2 | Dehydrogenase/oxidoreductase | 3-methylmercaptopropionyl-CoA dehydrogenase | PANEL HIT: acdB (Beta-oxidation / Beta-oxidation) | pident=37.357000 qcovs=98.000000</title></polygon>
+<text x="1608.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1608.7 121.0)" fill="#111">dmdC_2 (acdB)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">21,744 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">41,300 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

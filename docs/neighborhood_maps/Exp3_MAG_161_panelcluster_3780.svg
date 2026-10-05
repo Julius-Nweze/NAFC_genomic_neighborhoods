@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_161_panelcluster_3780</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_161 | MAGs/Exp3_MAG_161_c_000000000028 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: CYP450; alkH_ald; echA1; paaG; pimC/aabA</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Beta-oxidation; Cyclohexanecarboxylate;</text>
+<text x="32.0" y="82.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Phenylacetate</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="564.9,86.0 470.0,86.0 452.0,97.0 470.0,108.0 564.9,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>BMINLJPN_00880 | crt_1 | Hydratase/dehydratase/isomerase | Short-chain-enoyl-CoA hydratase | PANEL HIT: paaG (Phenylacetate / Phenylacetate) | pident=34.532000 qcovs=100.000000</title></polygon>
+<text x="508.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">crt_1 (paaG)</text>
+<polygon points="666.7,86.0 583.5,86.0 565.5,97.0 583.5,108.0 666.7,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>BMINLJPN_00881 | BMINLJPN_00881 | Dehydrogenase/oxidoreductase | putative oxidoreductase</title></polygon>
+<text x="616.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">BMINLJPN_00881</text>
+<polygon points="824.2,86.0 690.8,86.0 672.8,97.0 690.8,108.0 824.2,108.0" fill="#a6cee3" stroke="#888" stroke-width="0.8"><title>BMINLJPN_00882 | fadA_2 | Thiolase/transferase | Putative acyltransferase</title></polygon>
+<text x="748.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">fadA_2</text>
+<polygon points="1037.9,86.0 871.9,86.0 853.9,97.0 871.9,108.0 1037.9,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>BMINLJPN_00883 | styD | Dehydrogenase/oxidoreductase | Phenylacetaldehyde dehydrogenase | PANEL HIT: alkH_ald (Alkanes / Auxillary alkane pathway) | pident=34.146000 qcovs=67.000000</title></polygon>
+<text x="945.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">styD (alkH_ald)</text>
+<polygon points="1204.4,86.0 1058.2,86.0 1040.2,97.0 1058.2,108.0 1204.4,108.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>BMINLJPN_00884 | BMINLJPN_00884 | Accessory/other | Cytochrome P450-terp | PANEL HIT: CYP450 (Alkanes / Terminal/biterminal oxidation) | pident=31.643000 qcovs=82.000000</title></polygon>
+<text x="1122.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">BMINLJPN_00884 (CYP450)</text>
+<polygon points="1403.7,86.0 1224.2,86.0 1206.2,97.0 1224.2,108.0 1403.7,108.0" fill="#1f78b4" stroke="#888" stroke-width="0.8"><title>BMINLJPN_00885 | BMINLJPN_00885 | CoA ligase/synthetase | Long-chain-fatty-acid--CoA ligase FadD13</title></polygon>
+<text x="1305.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">BMINLJPN_00885</text>
+<polygon points="1502.2,86.0 1422.0,86.0 1404.0,97.0 1422.0,108.0 1502.2,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>BMINLJPN_00886 | caiD_2 | Hydratase/dehydratase/isomerase | Carnitinyl-CoA dehydratase | PANEL HIT: echA1 (Beta-oxidation / Beta-oxidation) | pident=58.800000 qcovs=95.000000</title></polygon>
+<text x="1453.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">caiD_2 (echA1)</text>
+<polygon points="1664.0,86.0 1525.2,86.0 1507.2,97.0 1525.2,108.0 1664.0,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>BMINLJPN_00887 | BMINLJPN_00887 | Dehydrogenase/oxidoreductase | Putative acyl-CoA dehydrogenase FadE17 | PANEL HIT: pimC/aabA (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=34.358000 qcovs=89.000000</title></polygon>
+<text x="1585.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">BMINLJPN_00887 (pimC/...</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">17,405 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">26,773 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

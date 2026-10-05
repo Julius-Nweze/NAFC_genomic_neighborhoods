@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_136_panelcluster_2477</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_136 | MAGs/Exp3_MAG_136_c_000000000285 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: alkJ_adh; dszC; ladA</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Aromatics</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="592.6,86.0 470.0,86.0 452.0,97.0 470.0,108.0 592.6,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>DNGLCGCC_03127 | dmoA | Oxygenase/dioxygenase | Dimethyl-sulfide monooxygenase | PANEL HIT: ladA (Alkanes / Terminal/biterminal oxidation) | pident=48.552000 qcovs=98.000000</title></polygon>
+<text x="522.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">dmoA (ladA)</text>
+<polygon points="675.4,86.0 610.2,86.0 592.2,97.0 610.2,108.0 675.4,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>DNGLCGCC_03128 | metQ_2 | Accessory/other | D-methionine-binding lipoprotein MetQ</title></polygon>
+<text x="633.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">metQ_2</text>
+<polygon points="745.9,86.0 696.1,86.0 678.1,97.0 696.1,108.0 745.9,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>DNGLCGCC_03129 | metI | Transport/efflux | D-methionine transport system permease protein MetI</title></polygon>
+<text x="712.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">metI</text>
+<polygon points="828.9,86.0 763.1,86.0 745.1,97.0 763.1,108.0 828.9,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>DNGLCGCC_03130 | metN | Accessory/other | Methionine import ATP-binding protein MetN</title></polygon>
+<text x="787.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">metN</text>
+<polygon points="951.3,86.0 846.5,86.0 828.5,97.0 846.5,108.0 951.3,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>DNGLCGCC_03131 | sfnC | Oxygenase/dioxygenase | putative FMNH2-dependent monooxygenase SfnC | PANEL HIT: dszC (Aromatics / Dibenzofuran) | pident=45.220000 qcovs=93.000000</title></polygon>
+<text x="889.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">sfnC (dszC)</text>
+<polygon points="959.5,86.0 993.4,86.0 1010.2,97.0 993.4,108.0 959.5,108.0" fill="#b2df8a" stroke="#888" stroke-width="0.8"><title>DNGLCGCC_03132 | teaD | Mobile/stress/accessory | TRAP-T-associated universal stress protein TeaD</title></polygon>
+<text x="984.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">teaD</text>
+<polygon points="1040.7,86.0 1238.8,86.0 1256.8,97.0 1238.8,108.0 1040.7,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>DNGLCGCC_03133 | fhuE | Accessory/other | FhuE receptor</title></polygon>
+<text x="1148.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">fhuE</text>
+<polygon points="1492.5,86.0 1273.5,86.0 1255.5,97.0 1273.5,108.0 1492.5,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>DNGLCGCC_03134 | DNGLCGCC_03134 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1374.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">DNGLCGCC_03134</text>
+<polygon points="1664.0,86.0 1510.1,86.0 1492.1,97.0 1510.1,108.0 1664.0,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>DNGLCGCC_03135 | alkJ_2 | Dehydrogenase/oxidoreductase | Alcohol dehydrogenase [acceptor] | PANEL HIT: alkJ_adh (Alkanes / Auxillary alkane pathway) | pident=40.619000 qcovs=95.000000</title></polygon>
+<text x="1578.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">alkJ_2 (alkJ_adh)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">12,108 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">23,950 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

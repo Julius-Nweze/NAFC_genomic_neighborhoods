@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GROW_101_consensus_panelcluster_16647</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GROW_101_consensus | 1 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: catR; ladA; xecE1</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Alkenes; Catechol-ortho</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="552.7,86.0 470.0,86.0 452.0,97.0 470.0,108.0 552.7,108.0" fill="#fdbf6f" stroke="#111" stroke-width="2.2"><title>KBECFEFL_03971 | hcaR_4 | Regulator | Hca operon transcriptional activator HcaR | PANEL HIT: catR (Catechol-ortho / Catechol-ortho) | pident=35.391000 qcovs=83.000000</title></polygon>
+<text x="502.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">hcaR_4 (catR)</text>
+<polygon points="574.6,86.0 645.8,86.0 663.8,97.0 645.8,108.0 574.6,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>KBECFEFL_03972 | gno | Dehydrogenase/oxidoreductase | Gluconate 5-dehydrogenase | PANEL HIT: xecE1 (Alkenes / Propene) | pident=40.400000 qcovs=99.000000</title></polygon>
+<text x="619.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">gno (xecE1)</text>
+<polygon points="665.3,86.0 768.0,86.0 786.0,97.0 768.0,108.0 665.3,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>KBECFEFL_03973 | idnD | Dehydrogenase/oxidoreductase | L-idonate 5-dehydrogenase (NAD(P)(+))</title></polygon>
+<text x="725.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">idnD</text>
+<polygon points="976.9,86.0 903.3,86.0 885.3,97.0 903.3,108.0 976.9,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>KBECFEFL_03974 | fetB | Transport/efflux | putative iron export permease protein FetB</title></polygon>
+<text x="931.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">fetB</text>
+<polygon points="1054.7,86.0 994.5,86.0 976.5,97.0 994.5,108.0 1054.7,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KBECFEFL_03975 | fetA | Accessory/other | putative iron export ATP-binding protein FetA</title></polygon>
+<text x="1015.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">fetA</text>
+<polygon points="1115.8,86.0 1072.2,86.0 1054.2,97.0 1072.2,108.0 1115.8,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KBECFEFL_03976 | KBECFEFL_03976 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1085.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">KBECFEFL_03976</text>
+<polygon points="1137.9,86.0 1258.9,86.0 1276.9,97.0 1258.9,108.0 1137.9,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KBECFEFL_03977 | KBECFEFL_03977 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1207.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">KBECFEFL_03977</text>
+<polygon points="1312.9,86.0 1389.3,86.0 1407.3,97.0 1389.3,108.0 1312.9,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KBECFEFL_03978 | fliY_4 | Accessory/other | L-cystine-binding protein FliY</title></polygon>
+<text x="1360.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">fliY_4</text>
+<polygon points="1406.9,86.0 1484.7,86.0 1502.7,97.0 1484.7,108.0 1406.9,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KBECFEFL_03979 | KBECFEFL_03979 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1454.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">KBECFEFL_03979</text>
+<polygon points="1505.6,86.0 1646.0,86.0 1664.0,97.0 1646.0,108.0 1505.6,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>KBECFEFL_03980 | dmoA_2 | Oxygenase/dioxygenase | Dimethyl-sulfide monooxygenase | PANEL HIT: ladA (Alkanes / Terminal/biterminal oxidation) | pident=41.497000 qcovs=96.000000</title></polygon>
+<text x="1584.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">dmoA_2 (ladA)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">4,370,258 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">4,380,769 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GROW_105_consensus_panelcluster_16720</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GROW_105_consensus | 1 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: alkJ_adh; chnE; hapE; xylB</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Aromatics; Hydroquinone</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="452.0,86.0 494.8,86.0 512.8,97.0 494.8,108.0 452.0,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>NAEPHDBK_02530 | adhD | Dehydrogenase/oxidoreductase | Putative alcohol dehydrogenase D | PANEL HIT: xylB (Aromatics / Toluene) | pident=34.759000 qcovs=99.000000</title></polygon>
+<text x="482.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 482.4 121.0)" fill="#111">adhD (xylB)</text>
+<polygon points="513.4,86.0 575.3,86.0 593.3,97.0 575.3,108.0 513.4,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>NAEPHDBK_02531 | gabD_2 | Dehydrogenase/oxidoreductase | Succinate-semialdehyde dehydrogenase [NADP(+)] GabD | PANEL HIT: chnE (Alkanes / Terminal/biterminal oxidation) | pident=34.667000 qcovs=98.000000</title></polygon>
+<text x="553.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 553.3 121.0)" fill="#111">gabD_2 (chnE)</text>
+<polygon points="609.2,86.0 620.2,86.0 627.2,97.0 620.2,108.0 609.2,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>NAEPHDBK_02532 | NAEPHDBK_02532 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="618.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 618.2 121.0)" fill="#555">NAEPHDBK_02532</text>
+<polygon points="620.0,86.0 667.4,86.0 685.4,97.0 667.4,108.0 620.0,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>NAEPHDBK_02533 | bepF_1 | Transport/efflux | Efflux pump periplasmic linker BepF</title></polygon>
+<text x="652.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 652.7 121.0)" fill="#555">bepF_1</text>
+<polygon points="685.2,86.0 839.2,86.0 857.2,97.0 839.2,108.0 685.2,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>NAEPHDBK_02534 | bepE_1 | Transport/efflux | Efflux pump membrane transporter BepE</title></polygon>
+<text x="771.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 771.2 121.0)" fill="#555">bepE_1</text>
+<polygon points="856.7,86.0 913.5,86.0 931.5,97.0 913.5,108.0 856.7,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>NAEPHDBK_02535 | ttgI_1 | Transport/efflux | Toluene efflux pump outer membrane protein TtgI</title></polygon>
+<text x="894.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 894.1 121.0)" fill="#555">ttgI_1</text>
+<polygon points="1009.2,86.0 956.5,86.0 938.5,97.0 956.5,108.0 1009.2,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>NAEPHDBK_02536 | kgtP_4 | Transport/efflux | Alpha-ketoglutarate permease</title></polygon>
+<text x="973.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 973.8 121.0)" fill="#555">kgtP_4</text>
+<polygon points="1069.6,86.0 1034.1,86.0 1016.6,97.0 1034.1,108.0 1069.6,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>NAEPHDBK_02537 | aptB_2 | Accessory/other | Apulose-4-phosphate transketolase subunit B</title></polygon>
+<text x="1043.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1043.1 121.0)" fill="#555">aptB_2</text>
+<polygon points="1117.7,86.0 1085.6,86.0 1069.7,97.0 1085.6,108.0 1117.7,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>NAEPHDBK_02538 | aptA_2 | Accessory/other | Apulose-4-phosphate transketolase subunit A</title></polygon>
+<text x="1093.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1093.7 121.0)" fill="#555">aptA_2</text>
+<polygon points="1182.6,86.0 1141.5,86.0 1123.5,97.0 1141.5,108.0 1182.6,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>NAEPHDBK_02539 | gldA | Dehydrogenase/oxidoreductase | Glycerol dehydrogenase</title></polygon>
+<text x="1153.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1153.0 121.0)" fill="#555">gldA</text>
+<polygon points="1227.0,86.0 1201.9,86.0 1189.5,97.0 1201.9,108.0 1227.0,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>NAEPHDBK_02540 | bacC_2 | Dehydrogenase/oxidoreductase | Dihydroanticapsin 7-dehydrogenase</title></polygon>
+<text x="1208.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1208.2 121.0)" fill="#555">bacC_2</text>
+<polygon points="1271.9,86.0 1242.9,86.0 1228.6,97.0 1242.9,108.0 1271.9,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>NAEPHDBK_02541 | aroE_2 | Dehydrogenase/oxidoreductase | Shikimate dehydrogenase (NADP(+))</title></polygon>
+<text x="1250.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1250.2 121.0)" fill="#555">aroE_2</text>
+<polygon points="1359.4,86.0 1290.7,86.0 1272.7,97.0 1290.7,108.0 1359.4,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>NAEPHDBK_02542 | alkJ_2 | Dehydrogenase/oxidoreductase | Alcohol dehydrogenase [acceptor] | PANEL HIT: alkJ_adh (Alkanes / Auxillary alkane pathway) | pident=44.403000 qcovs=97.000000</title></polygon>
+<text x="1316.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1316.0 121.0)" fill="#111">alkJ_2 (alkJ_adh)</text>
+<polygon points="1371.5,86.0 1415.7,86.0 1433.7,97.0 1415.7,108.0 1371.5,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>NAEPHDBK_02543 | dhaD | Dehydrogenase/oxidoreductase | Glycerol dehydrogenase</title></polygon>
+<text x="1402.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1402.6 121.0)" fill="#555">dhaD</text>
+<polygon points="1435.9,86.0 1481.3,86.0 1499.3,97.0 1481.3,108.0 1435.9,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>NAEPHDBK_02544 | adh1_1 | Dehydrogenase/oxidoreductase | Long-chain-alcohol dehydrogenase 1</title></polygon>
+<text x="1467.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1467.6 121.0)" fill="#555">adh1_1</text>
+<polygon points="1506.1,86.0 1557.1,86.0 1575.1,97.0 1557.1,108.0 1506.1,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>NAEPHDBK_02545 | oprB_3 | Transport/efflux | Porin B</title></polygon>
+<text x="1540.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1540.6 121.0)" fill="#555">oprB_3</text>
+<polygon points="1582.6,86.0 1646.0,86.0 1664.0,97.0 1646.0,108.0 1582.6,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>NAEPHDBK_02546 | puuC_1 | Dehydrogenase/oxidoreductase | NADP/NAD-dependent aldehyde dehydrogenase PuuC | PANEL HIT: hapE (Hydroquinone / Hydroquinone) | pident=41.372000 qcovs=98.000000</title></polygon>
+<text x="1623.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1623.3 121.0)" fill="#111">puuC_1 (hapE)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">2,733,076 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">2,755,505 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

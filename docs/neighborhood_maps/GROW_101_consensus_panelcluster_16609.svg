@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GROW_101_consensus_panelcluster_16609</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GROW_101_consensus | 1 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: chnA; hpcB; hpcC; hpcD; hpcE; hpcG; hpcH; ladA; opdK</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Aromatics; Transportation</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="496.1,86.0 466.6,86.0 452.0,97.0 466.6,108.0 496.1,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>KBECFEFL_02233 | ucpA_1 | Dehydrogenase/oxidoreductase | Oxidoreductase UcpA | PANEL HIT: chnA (Alkanes / Terminal/biterminal oxidation) | pident=34.799000 qcovs=99.000000</title></polygon>
+<text x="474.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 474.1 121.0)" fill="#111">ucpA_1 (chnA)</text>
+<polygon points="542.0,86.0 511.0,86.0 495.7,97.0 511.0,108.0 542.0,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>KBECFEFL_02234 | ucpA_2 | Dehydrogenase/oxidoreductase | Oxidoreductase UcpA</title></polygon>
+<text x="518.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 518.8 121.0)" fill="#555">ucpA_2</text>
+<polygon points="589.2,86.0 557.3,86.0 541.6,97.0 557.3,108.0 589.2,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KBECFEFL_02235 | moaF | Accessory/other | Protein MoaF</title></polygon>
+<text x="565.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 565.4 121.0)" fill="#555">moaF</text>
+<polygon points="632.4,86.0 606.8,86.0 594.1,97.0 606.8,108.0 632.4,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>KBECFEFL_02236 | malT_2 | Regulator | HTH-type transcriptional regulator MalT</title></polygon>
+<text x="613.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 613.2 121.0)" fill="#555">malT_2</text>
+<polygon points="656.6,86.0 642.4,86.0 635.4,97.0 642.4,108.0 656.6,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KBECFEFL_02237 | KBECFEFL_02237 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="646.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 646.0 121.0)" fill="#555">KBECFEFL_02237</text>
+<polygon points="745.9,86.0 688.7,86.0 670.7,97.0 688.7,108.0 745.9,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>KBECFEFL_02238 | puuB_4 | Dehydrogenase/oxidoreductase | Gamma-glutamylputrescine oxidoreductase</title></polygon>
+<text x="708.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 708.3 121.0)" fill="#555">puuB_4</text>
+<polygon points="757.2,86.0 773.6,86.0 781.7,97.0 773.6,108.0 757.2,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>KBECFEFL_02239 | farR_1 | Regulator | HTH-type transcriptional regulator FarR</title></polygon>
+<text x="769.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 769.4 121.0)" fill="#555">farR_1</text>
+<polygon points="835.7,86.0 804.6,86.0 789.3,97.0 804.6,108.0 835.7,108.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>KBECFEFL_02240 | hpcH_1 | Hydrolase/decarboxylase/lyase | 4-hydroxy-2-oxo-heptane-1,7-dioate aldolase | PANEL HIT: hpcH (Aromatics / Homoprotocatechuate) | pident=66.284000 qcovs=99.000000</title></polygon>
+<text x="812.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 812.5 121.0)" fill="#111">hpcH_1 (hpcH)</text>
+<polygon points="883.3,86.0 852.1,86.0 836.7,97.0 852.1,108.0 883.3,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>KBECFEFL_02241 | hpcG | Hydratase/dehydratase/isomerase | 2-oxo-hept-4-ene-1,7-dioate hydratase | PANEL HIT: hpcG (Aromatics / Homoprotocatechuate) | pident=71.161000 qcovs=100.000000</title></polygon>
+<text x="860.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 860.0 121.0)" fill="#111">hpcG (hpcG)</text>
+<polygon points="961.2,86.0 901.9,86.0 883.9,97.0 901.9,108.0 961.2,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>KBECFEFL_02242 | nicT_2 | Transport/efflux | Putative metabolite transport protein NicT</title></polygon>
+<text x="922.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 922.5 121.0)" fill="#555">nicT_2</text>
+<polygon points="985.1,86.0 969.9,86.0 962.4,97.0 969.9,108.0 985.1,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>KBECFEFL_02243 | hpcD | Hydratase/dehydratase/isomerase | 5-carboxymethyl-2-hydroxymuconate Delta-isomerase | PANEL HIT: hpcD (Aromatics / Homoprotocatechuate) | pident=61.905000 qcovs=100.000000</title></polygon>
+<text x="973.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 973.8 121.0)" fill="#111">hpcD (hpcD)</text>
+<polygon points="1043.0,86.0 1009.7,86.0 993.4,97.0 1009.7,108.0 1043.0,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>KBECFEFL_02244 | hpcB | Oxygenase/dioxygenase | 3,4-dihydroxyphenylacetate 2,3-dioxygenase | PANEL HIT: hpcB (Aromatics / Homoprotocatechuate) | pident=62.452000 qcovs=93.000000</title></polygon>
+<text x="1018.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1018.2 121.0)" fill="#111">hpcB (hpcB)</text>
+<polygon points="1136.2,86.0 1069.6,86.0 1051.6,97.0 1069.6,108.0 1136.2,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>KBECFEFL_02245 | betB_1 | Dehydrogenase/oxidoreductase | NAD/NADP-dependent betaine aldehyde dehydrogenase | PANEL HIT: hpcC (Aromatics / Homoprotocatechuate) | pident=76.573000 qcovs=98.000000</title></polygon>
+<text x="1093.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1093.9 121.0)" fill="#111">betB_1 (hpcC)</text>
+<polygon points="1181.1,86.0 1151.2,86.0 1136.5,97.0 1151.2,108.0 1181.1,108.0" fill="#6a3d9a" stroke="#888" stroke-width="0.8"><title>KBECFEFL_02246 | hpcE_1 | Carboxylase | Homoprotocatechuate catabolism bifunctional isomerase/decarboxylase</title></polygon>
+<text x="1158.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1158.8 121.0)" fill="#555">hpcE_1</text>
+<polygon points="1219.5,86.0 1193.6,86.0 1180.9,97.0 1193.6,108.0 1219.5,108.0" fill="#6a3d9a" stroke="#111" stroke-width="2.2"><title>KBECFEFL_02247 | hpcE_2 | Carboxylase | Homoprotocatechuate catabolism bifunctional isomerase/decarboxylase | PANEL HIT: hpcE (Aromatics / Homoprotocatechuate) | pident=43.269000 qcovs=96.000000</title></polygon>
+<text x="1200.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1200.2 121.0)" fill="#111">hpcE_2 (hpcE)</text>
+<polygon points="1227.7,86.0 1262.8,86.0 1280.0,97.0 1262.8,108.0 1227.7,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KBECFEFL_02248 | KBECFEFL_02248 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1253.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1253.9 121.0)" fill="#555">KBECFEFL_02248</text>
+<polygon points="1353.4,86.0 1298.7,86.0 1280.7,97.0 1298.7,108.0 1353.4,108.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>KBECFEFL_02249 | nicP_4 | Transport/efflux | Porin-like protein NicP | PANEL HIT: opdK (Transportation / Transportation) | pident=39.120000 qcovs=95.000000</title></polygon>
+<text x="1317.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1317.0 121.0)" fill="#111">nicP_4 (opdK)</text>
+<polygon points="1365.7,86.0 1382.1,86.0 1390.2,97.0 1382.1,108.0 1365.7,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>KBECFEFL_02250 | farR_2 | Regulator | HTH-type transcriptional regulator FarR</title></polygon>
+<text x="1377.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1377.9 121.0)" fill="#555">farR_2</text>
+<polygon points="1395.2,86.0 1515.7,86.0 1533.7,97.0 1515.7,108.0 1395.2,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KBECFEFL_02251 | fcuA_1 | Accessory/other | Ferrichrome receptor FcuA</title></polygon>
+<text x="1464.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1464.5 121.0)" fill="#555">fcuA_1</text>
+<polygon points="1587.1,86.0 1549.9,86.0 1531.9,97.0 1549.9,108.0 1587.1,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KBECFEFL_02252 | ssuA_2 | Accessory/other | Putative aliphatic sulfonates-binding protein</title></polygon>
+<text x="1559.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1559.5 121.0)" fill="#555">ssuA_2</text>
+<polygon points="1664.0,86.0 1604.9,86.0 1586.9,97.0 1604.9,108.0 1664.0,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>KBECFEFL_02253 | ntaA_1 | Oxygenase/dioxygenase | Nitrilotriacetate monooxygenase component A | PANEL HIT: ladA (Alkanes / Terminal/biterminal oxidation) | pident=37.443000 qcovs=95.000000</title></polygon>
+<text x="1625.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1625.4 121.0)" fill="#111">ntaA_1 (ladA)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">2,441,405 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">2,462,337 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

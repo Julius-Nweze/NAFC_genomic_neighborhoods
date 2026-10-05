@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GCF_051450025.1_panelcluster_16521</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GCF_051450025.1 | c_000000000016 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: bphAd; catA; catR; chnE; galT; opdK; xylL; xylX; xylY;</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">xylZ</text>
+<text x="32.0" y="82.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Aromatics; Catechol-ortho; Gallate;</text>
+<text x="32.0" y="94.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Transportation</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="452.0,86.0 475.5,86.0 487.0,97.0 475.5,108.0 452.0,108.0" fill="#fdbf6f" stroke="#111" stroke-width="2.2"><title>PCHIFGEP_02433 | hcaR | Regulator | Hca operon transcriptional activator HcaR | PANEL HIT: catR (Catechol-ortho / Catechol-ortho) | pident=34.733000 qcovs=88.000000</title></polygon>
+<text x="469.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 469.5 121.0)" fill="#111">hcaR (catR)</text>
+<polygon points="532.1,86.0 502.4,86.0 487.8,97.0 502.4,108.0 532.1,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>PCHIFGEP_02434 | garK | Accessory/other | Glycerate 2-kinase</title></polygon>
+<text x="509.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 509.9 121.0)" fill="#555">garK</text>
+<polygon points="580.4,86.0 551.7,86.0 537.6,97.0 551.7,108.0 580.4,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>PCHIFGEP_02435 | cdaR | Regulator | Carbohydrate diacid regulator</title></polygon>
+<text x="559.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 559.0 121.0)" fill="#555">cdaR</text>
+<polygon points="586.7,86.0 621.4,86.0 638.4,97.0 621.4,108.0 586.7,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>PCHIFGEP_02436 | ttuB_2 | Transport/efflux | Putative tartrate transporter</title></polygon>
+<text x="612.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 612.6 121.0)" fill="#555">ttuB_2</text>
+<polygon points="645.2,86.0 686.4,86.0 704.4,97.0 686.4,108.0 645.2,108.0" fill="#fb9a99" stroke="#111" stroke-width="2.2"><title>PCHIFGEP_02437 | hcaD | Electron transfer/redox | 3-phenylpropionate/cinnamic acid dioxygenase ferredoxin--NAD(+) reductase component | PANEL HIT: bphAd (Aromatics / Biphenyl) | pident=33.811000 qcovs=84.000000</title></polygon>
+<text x="674.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 674.8 121.0)" fill="#111">hcaD (bphAd)</text>
+<polygon points="707.2,86.0 733.6,86.0 746.6,97.0 733.6,108.0 707.2,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>PCHIFGEP_02438 | yajO_1 | Dehydrogenase/oxidoreductase | 1-deoxyxylulose-5-phosphate synthase YajO</title></polygon>
+<text x="726.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 726.9 121.0)" fill="#555">yajO_1</text>
+<polygon points="750.3,86.0 778.9,86.0 793.0,97.0 778.9,108.0 750.3,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>PCHIFGEP_02439 | nemA_1 | Dehydrogenase/oxidoreductase | N-ethylmaleimide reductase</title></polygon>
+<text x="771.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 771.6 121.0)" fill="#555">nemA_1</text>
+<polygon points="832.8,86.0 807.2,86.0 794.6,97.0 807.2,108.0 832.8,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>PCHIFGEP_02440 | PCHIFGEP_02440 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="813.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 813.7 121.0)" fill="#555">PCHIFGEP_02440</text>
+<polygon points="872.2,86.0 848.4,86.0 836.7,97.0 848.4,108.0 872.2,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>PCHIFGEP_02441 | dmlR_7 | Regulator | HTH-type transcriptional regulator DmlR</title></polygon>
+<text x="854.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 854.5 121.0)" fill="#555">dmlR_7</text>
+<polygon points="916.9,86.0 888.7,86.0 874.8,97.0 888.7,108.0 916.9,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>PCHIFGEP_02442 | PCHIFGEP_02442 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="895.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 895.9 121.0)" fill="#555">PCHIFGEP_02442</text>
+<polygon points="968.4,86.0 935.8,86.0 919.8,97.0 935.8,108.0 968.4,108.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>PCHIFGEP_02443 | nicP_4 | Transport/efflux | Porin-like protein NicP | PANEL HIT: opdK (Transportation / Transportation) | pident=46.565000 qcovs=93.000000</title></polygon>
+<text x="944.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 944.1 121.0)" fill="#111">nicP_4 (opdK)</text>
+<polygon points="1020.1,86.0 986.9,86.0 970.6,97.0 986.9,108.0 1020.1,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>PCHIFGEP_02444 | ydcO_1 | Transport/efflux | Inner membrane protein YdcO</title></polygon>
+<text x="995.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 995.3 121.0)" fill="#555">ydcO_1</text>
+<polygon points="1058.5,86.0 1034.7,86.0 1022.9,97.0 1034.7,108.0 1058.5,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>PCHIFGEP_02445 | catA_1 | Oxygenase/dioxygenase | Catechol 1,2-dioxygenase | PANEL HIT: catA (Catechol-ortho / Catechol-ortho) | pident=72.050000 qcovs=99.000000</title></polygon>
+<text x="1040.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1040.7 121.0)" fill="#111">catA_1 (catA)</text>
+<polygon points="1111.4,86.0 1076.7,86.0 1059.7,97.0 1076.7,108.0 1111.4,108.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>PCHIFGEP_02446 | pcaK_3 | Transport/efflux | 4-hydroxybenzoate transporter PcaK | PANEL HIT: galT (Gallate / Gallate) | pident=33.409000 qcovs=97.000000</title></polygon>
+<text x="1085.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1085.5 121.0)" fill="#111">pcaK_3 (galT)</text>
+<polygon points="1143.3,86.0 1123.4,86.0 1113.6,97.0 1123.4,108.0 1143.3,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>PCHIFGEP_02447 | lvr | Dehydrogenase/oxidoreductase | Levodione reductase | PANEL HIT: xylL (Aromatics / Benzene) | pident=76.744000 qcovs=96.000000</title></polygon>
+<text x="1128.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1128.4 121.0)" fill="#111">lvr (xylL)</text>
+<polygon points="1190.2,86.0 1163.8,86.0 1150.8,97.0 1163.8,108.0 1190.2,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>PCHIFGEP_02448 | benC | Oxygenase/dioxygenase | Benzoate 1,2-dioxygenase electron transfer component | PANEL HIT: xylZ (Aromatics / Benzene) | pident=79.762000 qcovs=100.000000</title></polygon>
+<text x="1170.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1170.5 121.0)" fill="#111">benC (xylZ)</text>
+<polygon points="1211.9,86.0 1200.0,86.0 1193.0,97.0 1200.0,108.0 1211.9,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>PCHIFGEP_02449 | cbdB | Oxygenase/dioxygenase | 2-halobenzoate 1,2-dioxygenase small subunit | PANEL HIT: xylY (Aromatics / Benzene) | pident=76.582000 qcovs=98.000000</title></polygon>
+<text x="1202.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1202.4 121.0)" fill="#111">cbdB (xylY)</text>
+<polygon points="1264.6,86.0 1229.2,86.0 1211.7,97.0 1229.2,108.0 1264.6,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>PCHIFGEP_02450 | cbdA | Oxygenase/dioxygenase | 2-halobenzoate 1,2-dioxygenase large subunit | PANEL HIT: xylX (Aromatics / Benzene) | pident=74.336000 qcovs=99.000000</title></polygon>
+<text x="1238.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1238.2 121.0)" fill="#111">cbdA (xylX)</text>
+<polygon points="1308.1,86.0 1283.1,86.0 1270.8,97.0 1283.1,108.0 1308.1,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>PCHIFGEP_02451 | rhaS_5 | Regulator | HTH-type transcriptional activator RhaS</title></polygon>
+<text x="1289.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1289.4 121.0)" fill="#555">rhaS_5</text>
+<polygon points="1348.2,86.0 1329.1,86.0 1319.7,97.0 1329.1,108.0 1348.2,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>PCHIFGEP_02452 | PCHIFGEP_02452 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1333.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1333.9 121.0)" fill="#555">PCHIFGEP_02452</text>
+<polygon points="1386.3,86.0 1365.7,86.0 1355.5,97.0 1365.7,108.0 1386.3,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>PCHIFGEP_02453 | hisN | Accessory/other | Histidinol-phosphatase</title></polygon>
+<text x="1370.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1370.9 121.0)" fill="#555">hisN</text>
+<polygon points="1391.2,86.0 1414.4,86.0 1425.9,97.0 1414.4,108.0 1391.2,108.0" fill="#b2df8a" stroke="#888" stroke-width="0.8"><title>PCHIFGEP_02454 | uspE_1 | Mobile/stress/accessory | Universal stress protein E</title></polygon>
+<text x="1408.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1408.5 121.0)" fill="#555">uspE_1</text>
+<polygon points="1435.8,86.0 1500.6,86.0 1518.6,97.0 1500.6,108.0 1435.8,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>PCHIFGEP_02455 | cntO_2 | Accessory/other | Metal-pseudopaline receptor CntO</title></polygon>
+<text x="1477.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1477.2 121.0)" fill="#555">cntO_2</text>
+<polygon points="1540.1,86.0 1526.8,86.0 1519.8,97.0 1526.8,108.0 1540.1,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>PCHIFGEP_02456 | pagL_2 | Accessory/other | Lipid A deacylase PagL</title></polygon>
+<text x="1530.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1530.0 121.0)" fill="#555">pagL_2</text>
+<polygon points="1568.0,86.0 1557.0,86.0 1550.0,97.0 1557.0,108.0 1568.0,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>PCHIFGEP_02457 | PCHIFGEP_02457 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1559.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1559.0 121.0)" fill="#555">PCHIFGEP_02457</text>
+<polygon points="1605.9,86.0 1583.3,86.0 1572.2,97.0 1583.3,108.0 1605.9,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>PCHIFGEP_02458 | gltR_2 | Regulator | HTH-type transcriptional regulator GltR</title></polygon>
+<text x="1589.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1589.0 121.0)" fill="#555">gltR_2</text>
+<polygon points="1610.1,86.0 1646.2,86.0 1664.0,97.0 1646.2,108.0 1610.1,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>PCHIFGEP_02459 | sad | Dehydrogenase/oxidoreductase | Succinate semialdehyde dehydrogenase [NAD(P)+] Sad | PANEL HIT: chnE (Alkanes / Terminal/biterminal oxidation) | pident=43.750000 qcovs=97.000000</title></polygon>
+<text x="1637.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1637.0 121.0)" fill="#111">sad (chnE)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">42,380 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">73,521 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GROW_101_consensus_panelcluster_16648</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GROW_101_consensus | 1 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: bphB; dszC; ladA</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Aromatics</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="568.9,86.0 470.0,86.0 452.0,97.0 470.0,108.0 568.9,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>KBECFEFL_04020 | dmoA_3 | Oxygenase/dioxygenase | Dimethyl-sulfide monooxygenase | PANEL HIT: ladA (Alkanes / Terminal/biterminal oxidation) | pident=52.747000 qcovs=99.000000</title></polygon>
+<text x="510.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 510.5 121.0)" fill="#111">dmoA_3 (ladA)</text>
+<polygon points="597.6,86.0 578.3,86.0 568.9,97.0 578.3,108.0 597.6,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KBECFEFL_04021 | KBECFEFL_04021 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="583.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 583.2 121.0)" fill="#555">KBECFEFL_04021</text>
+<polygon points="699.2,86.0 616.6,86.0 598.6,97.0 616.6,108.0 699.2,108.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>KBECFEFL_04022 | soxC_3 | Accessory/other | Dibenzothiophene desulfurization enzyme C | PANEL HIT: dszC (Aromatics / Dibenzofuran) | pident=33.750000 qcovs=95.000000</title></polygon>
+<text x="648.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 648.9 121.0)" fill="#111">soxC_3 (dszC)</text>
+<polygon points="759.5,86.0 727.7,86.0 712.1,97.0 727.7,108.0 759.5,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KBECFEFL_04023 | KBECFEFL_04023 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="735.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 735.8 121.0)" fill="#555">KBECFEFL_04023</text>
+<polygon points="767.2,86.0 826.6,86.0 844.6,97.0 826.6,108.0 767.2,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KBECFEFL_04024 | KBECFEFL_04024 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="805.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 805.9 121.0)" fill="#555">KBECFEFL_04024</text>
+<polygon points="977.7,86.0 863.1,86.0 845.1,97.0 863.1,108.0 977.7,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>KBECFEFL_04025 | yheS_1 | Transport/efflux | putative ABC transporter ATP-binding protein YheS</title></polygon>
+<text x="911.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 911.4 121.0)" fill="#555">yheS_1</text>
+<polygon points="993.3,86.0 1220.8,86.0 1238.8,97.0 1220.8,108.0 993.3,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KBECFEFL_04026 | mrpA | Accessory/other | Na(+)/H(+) antiporter subunit A</title></polygon>
+<text x="1116.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1116.1 121.0)" fill="#555">mrpA</text>
+<polygon points="1238.7,86.0 1258.1,86.0 1267.7,97.0 1258.1,108.0 1238.7,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KBECFEFL_04027 | mnhC1 | Accessory/other | Na(+)/H(+) antiporter subunit C1</title></polygon>
+<text x="1253.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1253.2 121.0)" fill="#555">mnhC1</text>
+<polygon points="1267.4,86.0 1390.8,86.0 1408.8,97.0 1390.8,108.0 1267.4,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KBECFEFL_04028 | mrpD | Accessory/other | Na(+)/H(+) antiporter subunit D</title></polygon>
+<text x="1338.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1338.1 121.0)" fill="#555">mrpD</text>
+<polygon points="1408.4,86.0 1436.0,86.0 1449.5,97.0 1436.0,108.0 1408.4,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KBECFEFL_04029 | mrpE | Accessory/other | Na(+)/H(+) antiporter subunit E</title></polygon>
+<text x="1429.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1429.0 121.0)" fill="#555">mrpE</text>
+<polygon points="1449.2,86.0 1464.9,86.0 1472.6,97.0 1464.9,108.0 1449.2,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KBECFEFL_04030 | KBECFEFL_04030 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1460.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1460.9 121.0)" fill="#555">KBECFEFL_04030</text>
+<polygon points="1472.3,86.0 1493.0,86.0 1503.3,97.0 1493.0,108.0 1472.3,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KBECFEFL_04031 | mrpG | Accessory/other | Na(+)/H(+) antiporter subunit G</title></polygon>
+<text x="1487.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1487.8 121.0)" fill="#555">mrpG</text>
+<polygon points="1510.6,86.0 1575.0,86.0 1593.0,97.0 1575.0,108.0 1510.6,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KBECFEFL_04032 | KBECFEFL_04032 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1551.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1551.8 121.0)" fill="#555">KBECFEFL_04032</text>
+<polygon points="1600.7,86.0 1646.0,86.0 1664.0,97.0 1646.0,108.0 1600.7,108.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>KBECFEFL_04033 | bdcA_2 | Accessory/other | Cyclic-di-GMP-binding biofilm dispersal mediator protein | PANEL HIT: bphB (Aromatics / Biphenyl) | pident=32.692000 qcovs=91.000000</title></polygon>
+<text x="1632.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1632.4 121.0)" fill="#111">bdcA_2 (bphB)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">4,421,266 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">4,435,691 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

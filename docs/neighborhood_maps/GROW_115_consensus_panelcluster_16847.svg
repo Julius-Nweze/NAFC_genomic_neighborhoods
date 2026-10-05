@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GROW_115_consensus_panelcluster_16847</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GROW_115_consensus | 1 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: bedC2; bphAa; bphB; bphJ; bphX3; catR; cmtAa; mhpD;</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">todF</text>
+<text x="32.0" y="82.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Catechol-meta; Catechol-ortho</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="452.0,86.0 506.0,86.0 524.0,97.0 506.0,108.0 452.0,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>JOMJACIJ_00545 | mhpD | Hydratase/dehydratase/isomerase | 2-keto-4-pentenoate hydratase | PANEL HIT: mhpD (Catechol-meta / Catechol-meta) | pident=58.268000 qcovs=96.000000</title></polygon>
+<text x="488.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 488.0 121.0)" fill="#111">mhpD (mhpD)</text>
+<polygon points="527.2,86.0 590.0,86.0 608.0,97.0 590.0,108.0 527.2,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>JOMJACIJ_00546 | bphJ | Dehydrogenase/oxidoreductase | Acetaldehyde dehydrogenase 4 | PANEL HIT: bphJ (Aromatics / Biphenyl) | pident=81.395000 qcovs=99.000000</title></polygon>
+<text x="567.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 567.6 121.0)" fill="#111">bphJ (bphJ)</text>
+<polygon points="609.0,86.0 681.6,86.0 699.6,97.0 681.6,108.0 609.0,108.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>JOMJACIJ_00547 | bphI | Hydrolase/decarboxylase/lyase | 4-hydroxy-2-oxovalerate aldolase 4 | PANEL HIT: bphX3 (Aromatics / Biphenyl) | pident=72.619000 qcovs=97.000000</title></polygon>
+<text x="654.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 654.3 121.0)" fill="#111">bphI (bphX3)</text>
+<polygon points="744.8,86.0 836.9,86.0 854.9,97.0 836.9,108.0 744.8,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>JOMJACIJ_00548 | nicP_1 | Transport/efflux | Porin-like protein NicP</title></polygon>
+<text x="799.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 799.8 121.0)" fill="#555">nicP_1</text>
+<polygon points="880.0,86.0 938.2,86.0 956.2,97.0 938.2,108.0 880.0,108.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>JOMJACIJ_00549 | todF | Hydrolase/decarboxylase/lyase | 2-hydroxy-6-oxo-2,4-heptadienoate hydrolase | PANEL HIT: todF (Aromatics / Toluene) | pident=31.734000 qcovs=95.000000</title></polygon>
+<text x="918.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 918.1 121.0)" fill="#111">todF (todF)</text>
+<polygon points="1031.2,86.0 989.0,86.0 971.0,97.0 989.0,108.0 1031.2,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>JOMJACIJ_00550 | JOMJACIJ_00550 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1001.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1001.1 121.0)" fill="#555">JOMJACIJ_00550</text>
+<polygon points="1136.8,86.0 1074.0,86.0 1056.0,97.0 1074.0,108.0 1136.8,108.0" fill="#fdbf6f" stroke="#111" stroke-width="2.2"><title>JOMJACIJ_00551 | hcaR_2 | Regulator | Hca operon transcriptional activator HcaR | PANEL HIT: catR (Catechol-ortho / Catechol-ortho) | pident=35.366000 qcovs=84.000000</title></polygon>
+<text x="1096.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1096.4 121.0)" fill="#111">hcaR_2 (catR)</text>
+<polygon points="1161.9,86.0 1265.4,86.0 1283.4,97.0 1265.4,108.0 1161.9,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>JOMJACIJ_00552 | hcaE | Oxygenase/dioxygenase | 3-phenylpropionate/cinnamic acid dioxygenase subunit alpha | PANEL HIT: bphAa (Aromatics / Biphenyl) | pident=49.548000 qcovs=93.000000</title></polygon>
+<text x="1222.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1222.7 121.0)" fill="#111">hcaE (bphAa)</text>
+<polygon points="1283.1,86.0 1314.0,86.0 1329.2,97.0 1314.0,108.0 1283.1,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>JOMJACIJ_00553 | hcaF | Oxygenase/dioxygenase | 3-phenylpropionate/cinnamic acid dioxygenase subunit beta | PANEL HIT: bedC2 (Aromatics / Benzene) | pident=38.372000 qcovs=92.000000</title></polygon>
+<text x="1306.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1306.1 121.0)" fill="#111">hcaF (bedC2)</text>
+<polygon points="1329.1,86.0 1348.5,86.0 1358.1,97.0 1348.5,108.0 1329.1,108.0" fill="#fb9a99" stroke="#888" stroke-width="0.8"><title>JOMJACIJ_00554 | hcaC | Electron transfer/redox | 3-phenylpropionate/cinnamic acid dioxygenase ferredoxin subunit</title></polygon>
+<text x="1343.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1343.6 121.0)" fill="#555">hcaC</text>
+<polygon points="1358.3,86.0 1412.8,86.0 1430.8,97.0 1412.8,108.0 1358.3,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>JOMJACIJ_00555 | hcaB_1 | Dehydrogenase/oxidoreductase | 3-phenylpropionate-dihydrodiol/cinnamic acid-dihydrodiol dehydrogenase | PANEL HIT: bphB (Aromatics / Biphenyl) | pident=47.727000 qcovs=96.000000</title></polygon>
+<text x="1394.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1394.6 121.0)" fill="#111">hcaB_1 (bphB)</text>
+<polygon points="1467.0,86.0 1534.9,86.0 1552.9,97.0 1534.9,108.0 1467.0,108.0" fill="#d73027" stroke="#888" stroke-width="0.8"><title>JOMJACIJ_00556 | mhpB_1 | Oxygenase/dioxygenase | 2,3-dihydroxyphenylpropionate/2,3-dihydroxicinnamic acid 1,2-dioxygenase</title></polygon>
+<text x="1510.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1510.0 121.0)" fill="#555">mhpB_1</text>
+<polygon points="1553.9,86.0 1646.0,86.0 1664.0,97.0 1646.0,108.0 1553.9,108.0" fill="#fb9a99" stroke="#111" stroke-width="2.2"><title>JOMJACIJ_00557 | hcaD | Electron transfer/redox | 3-phenylpropionate/cinnamic acid dioxygenase ferredoxin--NAD(+) reductase component | PANEL HIT: cmtAa (Aromatics / p-Cumate) | pident=37.065000 qcovs=98.000000</title></polygon>
+<text x="1609.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1609.0 121.0)" fill="#111">hcaD (cmtAa)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">387,200 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">400,842 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

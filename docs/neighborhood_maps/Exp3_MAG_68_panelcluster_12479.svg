@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_68_panelcluster_12479</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_68 | MAGs/Exp3_MAG_68_c_000000000109 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: benA; benB; benD; catA; catB; catC</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Catechol-ortho</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="452.0,86.0 710.5,86.0 728.5,97.0 710.5,108.0 452.0,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>JGKCNJLO_00696 | catB | Hydratase/dehydratase/isomerase | Muconate cycloisomerase 1 | PANEL HIT: catB (Catechol-ortho / Catechol-ortho) | pident=55.946000 qcovs=98.000000</title></polygon>
+<text x="590.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">catB (catB)</text>
+<polygon points="731.4,86.0 783.4,86.0 801.4,97.0 783.4,108.0 731.4,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>JGKCNJLO_00697 | catC | Hydratase/dehydratase/isomerase | Muconolactone Delta-isomerase | PANEL HIT: catC (Catechol-ortho / Catechol-ortho) | pident=56.250000 qcovs=100.000000</title></polygon>
+<text x="766.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">catC (catC)</text>
+<polygon points="814.2,86.0 1011.4,86.0 1029.4,97.0 1011.4,108.0 814.2,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>JGKCNJLO_00698 | catA | Oxygenase/dioxygenase | Catechol 1,2-dioxygenase | PANEL HIT: catA (Catechol-ortho / Catechol-ortho) | pident=43.810000 qcovs=98.000000</title></polygon>
+<text x="921.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">catA (catA)</text>
+<polygon points="1035.1,86.0 1341.3,86.0 1359.3,97.0 1341.3,108.0 1035.1,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>JGKCNJLO_00699 | cbdA_2 | Oxygenase/dioxygenase | 2-halobenzoate 1,2-dioxygenase large subunit | PANEL HIT: benA (Aromatics / Benzene) | pident=64.368000 qcovs=96.000000</title></polygon>
+<text x="1197.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">cbdA_2 (benA)</text>
+<polygon points="1358.4,86.0 1457.3,86.0 1475.3,97.0 1457.3,108.0 1358.4,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>JGKCNJLO_00700 | cbdB_2 | Oxygenase/dioxygenase | 2-halobenzoate 1,2-dioxygenase small subunit | PANEL HIT: benB (Aromatics / Benzene) | pident=61.350000 qcovs=100.000000</title></polygon>
+<text x="1416.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">cbdB_2 (benB)</text>
+<polygon points="1473.4,86.0 1646.0,86.0 1664.0,97.0 1646.0,108.0 1473.4,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>JGKCNJLO_00701 | lvr_1 | Dehydrogenase/oxidoreductase | Levodione reductase | PANEL HIT: benD (Aromatics / Benzene) | pident=61.977000 qcovs=96.000000</title></polygon>
+<text x="1568.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">lvr_1 (benD)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">48 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">5,083 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

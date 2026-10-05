@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_162_panelcluster_3883</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_162 | MAGs/Exp3_MAG_162_c_000000000050 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: AAE3; fadA; fadJ; pimC/aabA; pimD; uctC</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Beta-oxidation; Cyclohexanecarboxylate; Oxalate</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="659.7,86.0 470.0,86.0 452.0,97.0 470.0,108.0 659.7,108.0" fill="#1f78b4" stroke="#111" stroke-width="2.2"><title>NEDFOGPE_03260 | menE_1 | CoA ligase/synthetase | 2-succinylbenzoate--CoA ligase | PANEL HIT: AAE3 (Oxalate / Oxalate) | pident=30.451000 qcovs=81.000000</title></polygon>
+<text x="555.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">menE_1 (AAE3)</text>
+<polygon points="783.6,86.0 690.3,86.0 672.3,97.0 690.3,108.0 783.6,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>NEDFOGPE_03261 | NEDFOGPE_03261 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="727.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">NEDFOGPE_03261</text>
+<polygon points="923.8,86.0 810.1,86.0 792.1,97.0 810.1,108.0 923.8,108.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>NEDFOGPE_03262 | uctC_2 | Thiolase/transferase | Acetyl-CoA:oxalate CoA-transferase | PANEL HIT: uctC (Oxalate / Oxalate) | pident=35.676000 qcovs=93.000000</title></polygon>
+<text x="857.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">uctC_2 (uctC)</text>
+<polygon points="1018.3,86.0 944.8,86.0 926.8,97.0 944.8,108.0 1018.3,108.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>NEDFOGPE_03263 | paaG_6 | Hydratase/dehydratase/isomerase | 1,2-epoxyphenylacetyl-CoA isomerase</title></polygon>
+<text x="972.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">paaG_6</text>
+<polygon points="1141.6,86.0 1035.8,86.0 1017.8,97.0 1035.8,108.0 1141.6,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>NEDFOGPE_03264 | NEDFOGPE_03264 | Dehydrogenase/oxidoreductase | Acyl-CoA dehydrogenase FadE27 | PANEL HIT: pimD (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=44.974000 qcovs=99.000000</title></polygon>
+<text x="1079.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">NEDFOGPE_03264 (pimD)</text>
+<polygon points="1273.7,86.0 1161.4,86.0 1143.4,97.0 1161.4,108.0 1273.7,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>NEDFOGPE_03265 | NEDFOGPE_03265 | Dehydrogenase/oxidoreductase | Putative acyl-CoA dehydrogenase FadE17 | PANEL HIT: pimC/aabA (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=54.478000 qcovs=100.000000</title></polygon>
+<text x="1208.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">NEDFOGPE_03265 (pimC/...</text>
+<polygon points="1420.4,86.0 1309.8,86.0 1291.8,97.0 1309.8,108.0 1420.4,108.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>NEDFOGPE_03266 | fadA_7 | Thiolase/transferase | 3-ketoacyl-CoA thiolase | PANEL HIT: fadA (Beta-oxidation / Beta-oxidation) | pident=46.429000 qcovs=99.000000</title></polygon>
+<text x="1356.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">fadA_7 (fadA)</text>
+<polygon points="1664.0,86.0 1450.1,86.0 1432.1,97.0 1450.1,108.0 1664.0,108.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>NEDFOGPE_03267 | fadJ_1 | Accessory/other | Fatty acid oxidation complex subunit alpha | PANEL HIT: fadJ (Beta-oxidation / Beta-oxidation) | pident=32.308000 qcovs=99.000000</title></polygon>
+<text x="1548.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">fadJ_1 (fadJ)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">1,226 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">12,357 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

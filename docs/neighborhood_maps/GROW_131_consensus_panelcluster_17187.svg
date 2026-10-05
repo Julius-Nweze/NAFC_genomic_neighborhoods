@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GROW_131_consensus_panelcluster_17187</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GROW_131_consensus | 1 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: hpcH; pcaB; pcaC; pcaG; pcaH; pcaK; pobA</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Protocatechuate; Transportation</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="452.0,86.0 484.1,86.0 500.0,97.0 484.1,108.0 452.0,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>COLLAGROW131CONS_02561 | pcaH | Oxygenase/dioxygenase | Protocatechuate 3,4-dioxygenase beta chain | PANEL HIT: pcaH (Protocatechuate / Protocatechuate) | pident=63.877000 qcovs=95.000000</title></polygon>
+<text x="476.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 476.0 121.0)" fill="#111">pcaH (pcaH)</text>
+<polygon points="499.7,86.0 527.4,86.0 541.0,97.0 527.4,108.0 499.7,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>COLLAGROW131CONS_02562 | pcaG | Oxygenase/dioxygenase | Protocatechuate 3,4-dioxygenase alpha chain | PANEL HIT: pcaG (Protocatechuate / Protocatechuate) | pident=53.623000 qcovs=100.000000</title></polygon>
+<text x="520.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 520.3 121.0)" fill="#111">pcaG (pcaG)</text>
+<polygon points="547.2,86.0 590.7,86.0 608.7,97.0 590.7,108.0 547.2,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>COLLAGROW131CONS_02563 | gbpR_2 | Regulator | HTH-type transcriptional regulator GbpR</title></polygon>
+<text x="578.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 578.0 121.0)" fill="#555">gbpR_2</text>
+<polygon points="634.1,86.0 617.0,86.0 608.5,97.0 617.0,108.0 634.1,108.0" fill="#d9d9d9" stroke="#111" stroke-width="2.2"><title>COLLAGROW131CONS_02564 | COLLAGROW131CONS_02564 | Hypothetical/accessory | hypothetical protein | PANEL HIT: pcaC (Protocatechuate / Protocatechuate) | pident=62.602000 qcovs=92.000000</title></polygon>
+<text x="621.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 621.3 121.0)" fill="#111">COLLAGROW131CONS_0256...</text>
+<polygon points="669.0,86.0 645.2,86.0 633.4,97.0 645.2,108.0 669.0,108.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>COLLAGROW131CONS_02565 | pcaB_1 | Hydratase/dehydratase/isomerase | 3-carboxy-cis,cis-muconate cycloisomerase</title></polygon>
+<text x="651.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 651.2 121.0)" fill="#555">pcaB_1</text>
+<polygon points="723.4,86.0 684.5,86.0 666.5,97.0 684.5,108.0 723.4,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>COLLAGROW131CONS_02566 | pcaB_2 | Hydratase/dehydratase/isomerase | 3-carboxy-cis,cis-muconate cycloisomerase | PANEL HIT: pcaB (Protocatechuate / Protocatechuate) | pident=51.673000 qcovs=64.000000</title></polygon>
+<text x="695.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 695.0 121.0)" fill="#111">pcaB_2 (pcaB)</text>
+<polygon points="798.0,86.0 755.0,86.0 737.0,97.0 755.0,108.0 798.0,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>COLLAGROW131CONS_02567 | mglB_2 | Accessory/other | D-galactose-binding periplasmic protein</title></polygon>
+<text x="767.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 767.5 121.0)" fill="#555">mglB_2</text>
+<polygon points="882.0,86.0 826.5,86.0 808.5,97.0 826.5,108.0 882.0,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>COLLAGROW131CONS_02568 | ntdC | Dehydrogenase/oxidoreductase | Glucose-6-phosphate 3-dehydrogenase</title></polygon>
+<text x="845.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 845.3 121.0)" fill="#555">ntdC</text>
+<polygon points="932.8,86.0 899.2,86.0 882.7,97.0 899.2,108.0 932.8,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>COLLAGROW131CONS_02569 | idhA | Dehydrogenase/oxidoreductase | Inositol 2-dehydrogenase</title></polygon>
+<text x="907.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 907.8 121.0)" fill="#555">idhA</text>
+<polygon points="956.1,86.0 945.1,86.0 938.1,97.0 945.1,108.0 956.1,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>COLLAGROW131CONS_02570 | COLLAGROW131CONS_02570 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="947.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 947.1 121.0)" fill="#555">COLLAGROW131CONS_02570</text>
+<polygon points="1014.2,86.0 967.6,86.0 949.6,97.0 967.6,108.0 1014.2,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>COLLAGROW131CONS_02571 | ghrB_2 | Dehydrogenase/oxidoreductase | Glyoxylate/hydroxypyruvate reductase B</title></polygon>
+<text x="981.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 981.9 121.0)" fill="#555">ghrB_2</text>
+<polygon points="1067.9,86.0 1032.0,86.0 1014.2,97.0 1032.0,108.0 1067.9,108.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>COLLAGROW131CONS_02572 | COLLAGROW131CONS_02572 | Hydrolase/decarboxylase/lyase | 2-dehydro-3,6-dideoxy-6-sulfogluconate aldolase | PANEL HIT: hpcH (Aromatics / Homoprotocatechuate) | pident=34.510000 qcovs=95.000000</title></polygon>
+<text x="1041.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1041.1 121.0)" fill="#111">COLLAGROW131CONS_0257...</text>
+<polygon points="1162.9,86.0 1086.5,86.0 1068.5,97.0 1086.5,108.0 1162.9,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>COLLAGROW131CONS_02573 | gabD_1 | Dehydrogenase/oxidoreductase | Succinate-semialdehyde dehydrogenase [NADP(+)] GabD</title></polygon>
+<text x="1115.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1115.7 121.0)" fill="#555">gabD_1</text>
+<polygon points="1186.3,86.0 1230.2,86.0 1248.2,97.0 1230.2,108.0 1186.3,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>COLLAGROW131CONS_02574 | murR_2 | Regulator | HTH-type transcriptional regulator MurR</title></polygon>
+<text x="1217.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1217.2 121.0)" fill="#555">murR_2</text>
+<polygon points="1257.2,86.0 1361.4,86.0 1379.4,97.0 1361.4,108.0 1257.2,108.0" fill="#b15928" stroke="#888" stroke-width="0.8"><title>COLLAGROW131CONS_02575 | iolD_1 | Hydrolase/decarboxylase/lyase | 3D-(3,5/4)-trihydroxycyclohexane-1,2-dione hydrolase</title></polygon>
+<text x="1318.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1318.3 121.0)" fill="#555">iolD_1</text>
+<polygon points="1380.3,86.0 1422.5,86.0 1440.5,97.0 1422.5,108.0 1380.3,108.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>COLLAGROW131CONS_02576 | iolE_2 | Hydratase/dehydratase/isomerase | Inosose dehydratase</title></polygon>
+<text x="1410.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1410.4 121.0)" fill="#555">iolE_2</text>
+<polygon points="1440.5,86.0 1476.2,86.0 1493.8,97.0 1476.2,108.0 1440.5,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>COLLAGROW131CONS_02577 | fabG_6 | Dehydrogenase/oxidoreductase | 3-oxoacyl-[acyl-carrier-protein] reductase FabG</title></polygon>
+<text x="1467.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1467.1 121.0)" fill="#555">fabG_6</text>
+<polygon points="1574.1,86.0 1514.5,86.0 1496.5,97.0 1514.5,108.0 1574.1,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>COLLAGROW131CONS_02578 | praI | Oxygenase/dioxygenase | 4-hydroxybenzoate 3-monooxygenase (NAD(P)H) | PANEL HIT: pobA (Aromatics / Toluene) | pident=50.895000 qcovs=99.000000</title></polygon>
+<text x="1535.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1535.3 121.0)" fill="#111">praI (pobA)</text>
+<polygon points="1664.0,86.0 1592.8,86.0 1574.8,97.0 1592.8,108.0 1664.0,108.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>COLLAGROW131CONS_02579 | pcaK_3 | Transport/efflux | 4-hydroxybenzoate transporter PcaK | PANEL HIT: pcaK (Transportation / Transportation) | pident=57.078000 qcovs=98.000000</title></polygon>
+<text x="1619.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1619.4 121.0)" fill="#111">pcaK_3 (pcaK)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">2,637,040 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">2,655,457 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

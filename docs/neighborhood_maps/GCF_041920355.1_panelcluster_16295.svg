@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GCF_041920355.1_panelcluster_16295</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GCF_041920355.1 | c_000000000032 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: hpaH; hpcC; hpcD; hpcE; pnbA</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Plastics</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="558.3,86.0 470.0,86.0 452.0,97.0 470.0,108.0 558.3,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>DOKEPLMN_01381 | xylG_1 | Dehydrogenase/oxidoreductase | 2-hydroxymuconic semialdehyde dehydrogenase | PANEL HIT: hpcC (Aromatics / Homoprotocatechuate) | pident=51.709000 qcovs=98.000000</title></polygon>
+<text x="505.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 505.1 121.0)" fill="#111">xylG_1 (hpcC)</text>
+<polygon points="586.9,86.0 568.4,86.0 559.3,97.0 568.4,108.0 586.9,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>DOKEPLMN_01382 | hpcD | Hydratase/dehydratase/isomerase | 5-carboxymethyl-2-hydroxymuconate Delta-isomerase | PANEL HIT: hpcD (Aromatics / Homoprotocatechuate) | pident=46.457000 qcovs=100.000000</title></polygon>
+<text x="573.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 573.1 121.0)" fill="#111">hpcD (hpcD)</text>
+<polygon points="644.0,86.0 609.3,86.0 592.1,97.0 609.3,108.0 644.0,108.0" fill="#6a3d9a" stroke="#111" stroke-width="2.2"><title>DOKEPLMN_01383 | hpcE | Carboxylase | Homoprotocatechuate catabolism bifunctional isomerase/decarboxylase | PANEL HIT: hpcE (Aromatics / Homoprotocatechuate) | pident=53.175000 qcovs=57.000000</title></polygon>
+<text x="618.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 618.1 121.0)" fill="#111">hpcE (hpcE)</text>
+<polygon points="701.3,86.0 661.7,86.0 643.7,97.0 661.7,108.0 701.3,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>DOKEPLMN_01384 | DOKEPLMN_01384 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="672.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 672.5 121.0)" fill="#555">DOKEPLMN_01384</text>
+<polygon points="771.4,86.0 724.0,86.0 706.0,97.0 724.0,108.0 771.4,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>DOKEPLMN_01385 | dapA_2 | Accessory/other | 4-hydroxy-tetrahydrodipicolinate synthase</title></polygon>
+<text x="738.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 738.7 121.0)" fill="#555">dapA_2</text>
+<polygon points="847.4,86.0 796.2,86.0 778.2,97.0 796.2,108.0 847.4,108.0" fill="#d73027" stroke="#888" stroke-width="0.8"><title>DOKEPLMN_01386 | bphC | Oxygenase/dioxygenase | Manganese-dependent 2,3-dihydroxybiphenyl 1,2-dioxygenase</title></polygon>
+<text x="812.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 812.8 121.0)" fill="#555">bphC</text>
+<polygon points="952.6,86.0 866.7,86.0 848.7,97.0 866.7,108.0 952.6,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>DOKEPLMN_01387 | DOKEPLMN_01387 | Oxygenase/dioxygenase | 4-hydroxyphenylacetate 3-monooxygenase oxygenase component | PANEL HIT: hpaH (Aromatics / Anthranilate) | pident=37.474000 qcovs=97.000000</title></polygon>
+<text x="900.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 900.7 121.0)" fill="#111">DOKEPLMN_01387 (hpaH)</text>
+<polygon points="964.0,86.0 1010.5,86.0 1028.5,97.0 1010.5,108.0 964.0,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>DOKEPLMN_01388 | benM | Regulator | HTH-type transcriptional regulator BenM</title></polygon>
+<text x="996.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 996.2 121.0)" fill="#555">benM</text>
+<polygon points="1104.8,86.0 1059.6,86.0 1041.6,97.0 1059.6,108.0 1104.8,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>DOKEPLMN_01389 | ydbD | Accessory/other | putative manganese catalase</title></polygon>
+<text x="1073.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1073.2 121.0)" fill="#555">ydbD</text>
+<polygon points="1122.0,86.0 1110.4,86.0 1103.4,97.0 1110.4,108.0 1122.0,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>DOKEPLMN_01390 | DOKEPLMN_01390 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1112.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1112.7 121.0)" fill="#555">DOKEPLMN_01390</text>
+<polygon points="1146.6,86.0 1173.1,86.0 1186.2,97.0 1173.1,108.0 1146.6,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>DOKEPLMN_01391 | bsaA_1 | Accessory/other | Glutathione peroxidase BsaA</title></polygon>
+<text x="1166.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1166.4 121.0)" fill="#555">bsaA_1</text>
+<polygon points="1261.8,86.0 1239.7,86.0 1228.9,97.0 1239.7,108.0 1261.8,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>DOKEPLMN_01393 | smpB | Accessory/other | SsrA-binding protein</title></polygon>
+<text x="1245.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1245.3 121.0)" fill="#555">smpB</text>
+<polygon points="1426.8,86.0 1285.4,86.0 1267.4,97.0 1285.4,108.0 1426.8,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>DOKEPLMN_01394 | rnr | Accessory/other | Ribonuclease R</title></polygon>
+<text x="1347.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1347.1 121.0)" fill="#555">rnr</text>
+<polygon points="1480.5,86.0 1445.6,86.0 1428.4,97.0 1445.6,108.0 1480.5,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>DOKEPLMN_01395 | est | Accessory/other | Carboxylesterase</title></polygon>
+<text x="1454.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1454.4 121.0)" fill="#555">est</text>
+<polygon points="1503.7,86.0 1492.7,86.0 1485.7,97.0 1492.7,108.0 1503.7,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>DOKEPLMN_01396 | secG | Accessory/other | putative protein-export membrane protein SecG</title></polygon>
+<text x="1494.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1494.7 121.0)" fill="#555">secG</text>
+<polygon points="1528.6,86.0 1539.6,86.0 1546.6,97.0 1539.6,108.0 1528.6,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>DOKEPLMN_01397 | DOKEPLMN_01397 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1537.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1537.6 121.0)" fill="#555">DOKEPLMN_01397</text>
+<polygon points="1664.0,86.0 1576.6,86.0 1558.6,97.0 1576.6,108.0 1664.0,108.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>DOKEPLMN_01398 | pnbA | Accessory/other | Para-nitrobenzyl esterase | PANEL HIT: pnbA (Plastics / PET) | pident=40.551000 qcovs=98.000000</title></polygon>
+<text x="1611.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1611.3 121.0)" fill="#111">pnbA (pnbA)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">5,878 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">23,121 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

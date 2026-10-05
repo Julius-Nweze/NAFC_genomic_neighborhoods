@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_56_panelcluster_12022</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_56 | MAGs/Exp3_MAG_56_c_000000000105 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: pcaB; pcaD; pcaH; pobA; ubiX</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Catechol-ortho; Protocatechuate; Tannin</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="545.0,86.0 470.0,86.0 452.0,97.0 470.0,108.0 545.0,108.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>GCDBCJIC_03736 | rutD_2 | Hydrolase/decarboxylase/lyase | Putative aminoacrylate hydrolase RutD | PANEL HIT: pcaD (Catechol-ortho; Protocatechuate / Protocatechuate) | pident=39.689000 qcovs=95.000000</title></polygon>
+<text x="498.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 498.5 121.0)" fill="#111">rutD_2 (pcaD)</text>
+<polygon points="649.7,86.0 566.9,86.0 548.9,97.0 566.9,108.0 649.7,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>GCDBCJIC_03737 | pcaB | Hydratase/dehydratase/isomerase | 3-carboxy-cis,cis-muconate cycloisomerase | PANEL HIT: pcaB (Protocatechuate / Protocatechuate) | pident=44.869000 qcovs=99.000000</title></polygon>
+<text x="599.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 599.3 121.0)" fill="#111">pcaB (pcaB)</text>
+<polygon points="694.8,86.0 669.5,86.0 657.0,97.0 669.5,108.0 694.8,108.0" fill="#d73027" stroke="#888" stroke-width="0.8"><title>GCDBCJIC_03738 | pcaG | Oxygenase/dioxygenase | Protocatechuate 3,4-dioxygenase alpha chain</title></polygon>
+<text x="675.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 675.9 121.0)" fill="#555">pcaG</text>
+<polygon points="747.3,86.0 713.1,86.0 696.2,97.0 713.1,108.0 747.3,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>GCDBCJIC_03739 | pcaH | Oxygenase/dioxygenase | Protocatechuate 3,4-dioxygenase beta chain | PANEL HIT: pcaH (Protocatechuate / Protocatechuate) | pident=46.789000 qcovs=91.000000</title></polygon>
+<text x="721.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 721.8 121.0)" fill="#111">pcaH (pcaH)</text>
+<polygon points="765.9,86.0 806.9,86.0 824.9,97.0 806.9,108.0 765.9,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>GCDBCJIC_03740 | pcaR_4 | Accessory/other | Pca regulon regulatory protein</title></polygon>
+<text x="795.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 795.4 121.0)" fill="#555">pcaR_4</text>
+<polygon points="897.6,86.0 848.4,86.0 830.4,97.0 848.4,108.0 897.6,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>GCDBCJIC_03741 | rhaR_3 | Regulator | HTH-type transcriptional activator RhaR</title></polygon>
+<text x="864.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 864.0 121.0)" fill="#555">rhaR_3</text>
+<polygon points="913.8,86.0 981.8,86.0 999.8,97.0 981.8,108.0 913.8,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>GCDBCJIC_03742 | praI | Oxygenase/dioxygenase | 4-hydroxybenzoate 3-monooxygenase (NAD(P)H) | PANEL HIT: pobA (Aromatics / Toluene) | pident=50.129000 qcovs=98.000000</title></polygon>
+<text x="956.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 956.8 121.0)" fill="#111">praI (pobA)</text>
+<polygon points="1004.8,86.0 1035.7,86.0 1051.0,97.0 1035.7,108.0 1004.8,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>GCDBCJIC_03743 | GCDBCJIC_03743 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1027.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1027.9 121.0)" fill="#555">GCDBCJIC_03743</text>
+<polygon points="1113.7,86.0 1069.8,86.0 1051.8,97.0 1069.8,108.0 1113.7,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>GCDBCJIC_03744 | GCDBCJIC_03744 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1082.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1082.8 121.0)" fill="#555">GCDBCJIC_03744</text>
+<polygon points="1126.3,86.0 1173.0,86.0 1191.0,97.0 1173.0,108.0 1126.3,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>GCDBCJIC_03745 | rob | Accessory/other | Right origin-binding protein</title></polygon>
+<text x="1158.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1158.6 121.0)" fill="#555">rob</text>
+<polygon points="1225.3,86.0 1204.0,86.0 1193.4,97.0 1204.0,108.0 1225.3,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>GCDBCJIC_03746 | GCDBCJIC_03746 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1209.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1209.4 121.0)" fill="#555">GCDBCJIC_03746</text>
+<polygon points="1242.4,86.0 1268.1,86.0 1280.8,97.0 1268.1,108.0 1242.4,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>GCDBCJIC_03747 | GCDBCJIC_03747 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1261.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1261.6 121.0)" fill="#555">GCDBCJIC_03747</text>
+<polygon points="1321.3,86.0 1297.6,86.0 1285.9,97.0 1297.6,108.0 1321.3,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>GCDBCJIC_03748 | lrp_8 | Accessory/other | Leucine-responsive regulatory protein</title></polygon>
+<text x="1303.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1303.6 121.0)" fill="#555">lrp_8</text>
+<polygon points="1338.1,86.0 1521.1,86.0 1539.1,97.0 1521.1,108.0 1338.1,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>GCDBCJIC_03749 | aceE_2 | Dehydrogenase/oxidoreductase | Pyruvate dehydrogenase E1 component</title></polygon>
+<text x="1438.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1438.6 121.0)" fill="#555">aceE_2</text>
+<polygon points="1551.2,86.0 1589.1,86.0 1607.1,97.0 1589.1,108.0 1551.2,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>GCDBCJIC_03750 | hcaB_2 | Dehydrogenase/oxidoreductase | 3-phenylpropionate-dihydrodiol/cinnamic acid-dihydrodiol dehydrogenase</title></polygon>
+<text x="1579.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1579.2 121.0)" fill="#555">hcaB_2</text>
+<polygon points="1664.0,86.0 1634.2,86.0 1619.6,97.0 1634.2,108.0 1664.0,108.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>GCDBCJIC_03751 | ubiX | Accessory/other | Flavin prenyltransferase UbiX | PANEL HIT: ubiX (Tannin / Tannin) | pident=55.080000 qcovs=99.000000</title></polygon>
+<text x="1641.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1641.8 121.0)" fill="#111">ubiX (ubiX)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">689 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">17,139 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

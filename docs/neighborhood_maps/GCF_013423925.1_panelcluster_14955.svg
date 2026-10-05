@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GCF_013423925.1_panelcluster_14955</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GCF_013423925.1 | c_000000000002 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: alkH_ald; alkN_mcp; pnbA</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Plastics</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="574.0,86.0 470.0,86.0 452.0,97.0 470.0,108.0 574.0,108.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>PKIMGCNO_03825 | mcpU | Accessory/other | Methyl-accepting chemotaxis protein McpU | PANEL HIT: alkN_mcp (Alkanes / Hydrocarbon uptake) | pident=31.818000 qcovs=62.000000</title></polygon>
+<text x="513.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 513.0 121.0)" fill="#111">mcpU (alkN_mcp)</text>
+<polygon points="649.7,86.0 597.1,86.0 579.1,97.0 597.1,108.0 649.7,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>PKIMGCNO_03826 | PKIMGCNO_03826 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="614.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 614.4 121.0)" fill="#555">PKIMGCNO_03826</text>
+<polygon points="707.8,86.0 668.2,86.0 650.2,97.0 668.2,108.0 707.8,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>PKIMGCNO_03827 | gap3 | Dehydrogenase/oxidoreductase | Glyceraldehyde-3-phosphate dehydrogenase 3</title></polygon>
+<text x="679.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 679.0 121.0)" fill="#555">gap3</text>
+<polygon points="728.8,86.0 715.5,86.0 708.5,97.0 715.5,108.0 728.8,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>PKIMGCNO_03828 | arsR1 | Regulator | Arsenic resistance transcriptional regulator ArsR1</title></polygon>
+<text x="718.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 718.7 121.0)" fill="#555">arsR1</text>
+<polygon points="791.7,86.0 751.7,86.0 733.7,97.0 751.7,108.0 791.7,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>PKIMGCNO_03829 | virS_3 | Regulator | HTH-type transcriptional regulator VirS</title></polygon>
+<text x="762.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 762.7 121.0)" fill="#555">virS_3</text>
+<polygon points="797.8,86.0 862.1,86.0 880.1,97.0 862.1,108.0 797.8,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>PKIMGCNO_03830 | calB_2 | Dehydrogenase/oxidoreductase | Coniferyl aldehyde dehydrogenase | PANEL HIT: alkH_ald (Alkanes / Auxillary alkane pathway) | pident=35.506000 qcovs=91.000000</title></polygon>
+<text x="839.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 839.0 121.0)" fill="#111">calB_2 (alkH_ald)</text>
+<polygon points="881.6,86.0 962.3,86.0 980.3,97.0 962.3,108.0 881.6,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>PKIMGCNO_03831 | choD | Accessory/other | Cholesterol oxidase</title></polygon>
+<text x="930.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 930.9 121.0)" fill="#555">choD</text>
+<polygon points="981.7,86.0 1076.9,86.0 1094.9,97.0 1076.9,108.0 981.7,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>PKIMGCNO_03832 | yjcS | Accessory/other | Putative alkyl/aryl-sulfatase YjcS</title></polygon>
+<text x="1038.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1038.3 121.0)" fill="#555">yjcS</text>
+<polygon points="1121.7,86.0 1105.2,86.0 1097.1,97.0 1105.2,108.0 1121.7,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>PKIMGCNO_03833 | ohrB | Accessory/other | Organic hydroperoxide resistance protein OhrB</title></polygon>
+<text x="1109.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1109.4 121.0)" fill="#555">ohrB</text>
+<polygon points="1128.7,86.0 1145.3,86.0 1153.5,97.0 1145.3,108.0 1128.7,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>PKIMGCNO_03834 | ohrR_1 | Regulator | Organic hydroperoxide resistance transcriptional regulator</title></polygon>
+<text x="1141.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1141.1 121.0)" fill="#555">ohrR_1</text>
+<polygon points="1158.8,86.0 1198.9,86.0 1216.9,97.0 1198.9,108.0 1158.8,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>PKIMGCNO_03835 | PKIMGCNO_03835 | Dehydrogenase/oxidoreductase | Zinc-type alcohol dehydrogenase-like protein</title></polygon>
+<text x="1187.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1187.8 121.0)" fill="#555">PKIMGCNO_03835</text>
+<polygon points="1249.9,86.0 1325.0,86.0 1343.0,97.0 1325.0,108.0 1249.9,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>PKIMGCNO_03836 | PKIMGCNO_03836 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1296.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1296.4 121.0)" fill="#555">PKIMGCNO_03836</text>
+<polygon points="1365.6,86.0 1376.6,86.0 1383.6,97.0 1376.6,108.0 1365.6,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>PKIMGCNO_03837 | PKIMGCNO_03837 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1374.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1374.6 121.0)" fill="#555">PKIMGCNO_03837</text>
+<polygon points="1381.7,86.0 1440.9,86.0 1458.9,97.0 1440.9,108.0 1381.7,108.0" fill="#b15928" stroke="#888" stroke-width="0.8"><title>PKIMGCNO_03838 | astB | Hydrolase/decarboxylase/lyase | N-succinylarginine dihydrolase</title></polygon>
+<text x="1420.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1420.3 121.0)" fill="#555">astB</text>
+<polygon points="1459.1,86.0 1479.0,86.0 1488.7,97.0 1479.0,108.0 1459.1,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>PKIMGCNO_03839 | ttr | Accessory/other | Acetyltransferase</title></polygon>
+<text x="1473.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1473.9 121.0)" fill="#555">ttr</text>
+<polygon points="1504.9,86.0 1544.1,86.0 1562.1,97.0 1544.1,108.0 1504.9,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>PKIMGCNO_03840 | PKIMGCNO_03840 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1533.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1533.5 121.0)" fill="#555">PKIMGCNO_03840</text>
+<polygon points="1572.4,86.0 1646.0,86.0 1664.0,97.0 1646.0,108.0 1572.4,108.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>PKIMGCNO_03841 | fumD | Accessory/other | Fumonisin B1 esterase | PANEL HIT: pnbA (Plastics / PET) | pident=32.857000 qcovs=93.000000</title></polygon>
+<text x="1618.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1618.2 121.0)" fill="#111">fumD (pnbA)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">605,517 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">626,623 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

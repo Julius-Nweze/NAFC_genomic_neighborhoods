@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GCF_002189495.1_panelcluster_14908</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GCF_002189495.1 | c_000000000751 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: chcAa; chcAb; chcAc; chcB1</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Cyclohexanecarboxylate</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="524.5,86.0 470.0,86.0 452.0,97.0 470.0,108.0 524.5,108.0" fill="#fb9a99" stroke="#111" stroke-width="2.2"><title>OHBDAJEA_04331 | ligXc | Electron transfer/redox | 5,5&#x27;-dehydrodivanillate O-demethylase ferredoxin subunit | PANEL HIT: chcAc (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=68.317000 qcovs=95.000000</title></polygon>
+<text x="488.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">ligXc (chcAc)</text>
+<polygon points="809.1,86.0 544.7,86.0 526.7,97.0 544.7,108.0 809.1,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>OHBDAJEA_04332 | camA_3 | Dehydrogenase/oxidoreductase | Putidaredoxin reductase CamA | PANEL HIT: chcAb (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=62.836000 qcovs=94.000000</title></polygon>
+<text x="667.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">camA_3 (chcAb)</text>
+<polygon points="1086.0,86.0 825.4,86.0 807.4,97.0 825.4,108.0 1086.0,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>OHBDAJEA_04333 | pikC | Oxygenase/dioxygenase | Cytochrome P450 monooxygenase PikC | PANEL HIT: chcAa (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=75.604000 qcovs=93.000000</title></polygon>
+<text x="946.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pikC (chcAa)</text>
+<polygon points="1267.9,86.0 1125.4,86.0 1107.4,97.0 1125.4,108.0 1267.9,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>OHBDAJEA_04334 | OHBDAJEA_04334 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1187.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">OHBDAJEA_04334</text>
+<polygon points="1307.5,86.0 1457.7,86.0 1475.7,97.0 1457.7,108.0 1307.5,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>OHBDAJEA_04335 | rhmR_2 | Regulator | putative HTH-type transcriptional regulator RhmR</title></polygon>
+<text x="1391.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">rhmR_2</text>
+<polygon points="1500.9,86.0 1646.0,86.0 1664.0,97.0 1646.0,108.0 1500.9,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>OHBDAJEA_04336 | cpnA | Dehydrogenase/oxidoreductase | Cyclopentanol dehydrogenase | PANEL HIT: chcB1 (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=38.113000 qcovs=97.000000</title></polygon>
+<text x="1582.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">cpnA (chcB1)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">1,196 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">6,859 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

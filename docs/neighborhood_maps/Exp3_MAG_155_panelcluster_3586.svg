@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_155_panelcluster_3586</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_155 | MAGs/Exp3_MAG_155_c_000000000002 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: atoB; catR; rdxR</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Beta-oxidation; Catechol-ortho</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="692.0,86.0 470.0,86.0 452.0,97.0 470.0,108.0 692.0,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>PBHAPDJI_00575 | nasD | Dehydrogenase/oxidoreductase | Nitrite reductase [NAD(P)H] | PANEL HIT: rdxR (Alkanes / Terminal/biterminal oxidation) | pident=30.952000 qcovs=74.000000</title></polygon>
+<text x="572.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">nasD (rdxR)</text>
+<polygon points="723.0,86.0 773.4,86.0 791.4,97.0 773.4,108.0 723.0,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>PBHAPDJI_00576 | PBHAPDJI_00576 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="757.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">PBHAPDJI_00576</text>
+<polygon points="928.1,86.0 823.5,86.0 805.5,97.0 823.5,108.0 928.1,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>PBHAPDJI_00577 | PBHAPDJI_00577 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="866.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">PBHAPDJI_00577</text>
+<polygon points="1042.2,86.0 975.4,86.0 957.4,97.0 975.4,108.0 1042.2,108.0" fill="#fdbf6f" stroke="#111" stroke-width="2.2"><title>PBHAPDJI_00578 | catM | Regulator | HTH-type transcriptional regulator CatM | PANEL HIT: catR (Catechol-ortho / Catechol-ortho) | pident=31.164000 qcovs=99.000000</title></polygon>
+<text x="999.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">catM (catR)</text>
+<polygon points="1062.9,86.0 1112.4,86.0 1130.4,97.0 1112.4,108.0 1062.9,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>PBHAPDJI_00579 | cmoA | Accessory/other | Carboxy-S-adenosyl-L-methionine synthase</title></polygon>
+<text x="1096.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">cmoA</text>
+<polygon points="1166.1,86.0 1148.3,86.0 1139.5,97.0 1148.3,108.0 1166.1,108.0" fill="#d73027" stroke="#888" stroke-width="0.8"><title>PBHAPDJI_00580 | ycnE | Oxygenase/dioxygenase | Putative monooxygenase YcnE</title></polygon>
+<text x="1152.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">ycnE</text>
+<polygon points="1224.9,86.0 1185.1,86.0 1167.1,97.0 1185.1,108.0 1224.9,108.0" fill="#fb9a99" stroke="#888" stroke-width="0.8"><title>PBHAPDJI_00581 | mdaB_1 | Electron transfer/redox | NADPH:quinone oxidoreductase MdaB</title></polygon>
+<text x="1196.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">mdaB_1</text>
+<polygon points="1362.8,86.0 1283.1,86.0 1265.1,97.0 1283.1,108.0 1362.8,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>PBHAPDJI_00582 | yhdN | Dehydrogenase/oxidoreductase | Aldo-keto reductase YhdN</title></polygon>
+<text x="1313.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">yhdN</text>
+<polygon points="1370.4,86.0 1433.2,86.0 1451.2,97.0 1433.2,108.0 1370.4,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>PBHAPDJI_00583 | rhaS_2 | Regulator | HTH-type transcriptional activator RhaS</title></polygon>
+<text x="1410.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">rhaS_2</text>
+<polygon points="1544.8,86.0 1490.1,86.0 1472.1,97.0 1490.1,108.0 1544.8,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>PBHAPDJI_00584 | ykfC | Accessory/other | Gamma-D-glutamyl-L-lysine dipeptidyl-peptidase</title></polygon>
+<text x="1508.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">ykfC</text>
+<polygon points="1664.0,86.0 1569.5,86.0 1551.5,97.0 1569.5,108.0 1664.0,108.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>PBHAPDJI_00585 | PBHAPDJI_00585 | Thiolase/transferase | putative acetyl-CoA acyltransferase | PANEL HIT: atoB (Beta-oxidation / Beta-oxidation) | pident=49.235000 qcovs=99.000000</title></polygon>
+<text x="1607.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">PBHAPDJI_00585 (atoB)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">327,992 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">340,689 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GROW_126_consensus_panelcluster_17057</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GROW_126_consensus | 1 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: benA; benB; benC; benD; catA; catB; catC; catR; nahG;</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">pcaD; pcaF; pcaI; pcaJ; pcaK; xylB; xylC</text>
+<text x="32.0" y="82.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Benzoate; Catechol-ortho; Naphthalene;</text>
+<text x="32.0" y="94.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Protocatechuate; Transportation</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="484.8,86.0 462.8,86.0 452.0,97.0 462.8,108.0 484.8,108.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>ABIEIOGP_02117 | catD_2 | Hydrolase/decarboxylase/lyase | 3-oxoadipate enol-lactonase 2 | PANEL HIT: pcaD (Catechol-ortho; Protocatechuate / Protocatechuate) | pident=46.185000 qcovs=95.000000</title></polygon>
+<text x="468.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 468.4 121.0)" fill="#111">catD_2 (pcaD)</text>
+<polygon points="534.3,86.0 501.3,86.0 485.1,97.0 501.3,108.0 534.3,108.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>ABIEIOGP_02118 | pcaF_2 | Thiolase/transferase | Beta-ketoadipyl-CoA thiolase | PANEL HIT: pcaF (Catechol-ortho; Protocatechuate / Protocatechuate) | pident=61.845000 qcovs=100.000000</title></polygon>
+<text x="509.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 509.7 121.0)" fill="#111">pcaF_2 (pcaF)</text>
+<polygon points="561.4,86.0 543.6,86.0 534.8,97.0 543.6,108.0 561.4,108.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>ABIEIOGP_02119 | pcaJ_3 | Thiolase/transferase | 3-oxoadipate CoA-transferase subunit B | PANEL HIT: pcaJ (Catechol-ortho / Catechol-ortho) | pident=67.308000 qcovs=97.000000</title></polygon>
+<text x="548.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 548.1 121.0)" fill="#111">pcaJ_3 (pcaJ)</text>
+<polygon points="589.8,86.0 571.1,86.0 561.8,97.0 571.1,108.0 589.8,108.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>ABIEIOGP_02120 | pcaI_3 | Thiolase/transferase | 3-oxoadipate CoA-transferase subunit A | PANEL HIT: pcaI (Catechol-ortho / Catechol-ortho) | pident=68.584000 qcovs=98.000000</title></polygon>
+<text x="575.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 575.8 121.0)" fill="#111">pcaI_3 (pcaI)</text>
+<polygon points="611.4,86.0 600.4,86.0 593.4,97.0 600.4,108.0 611.4,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>ABIEIOGP_02121 | catC | Hydratase/dehydratase/isomerase | Muconolactone Delta-isomerase | PANEL HIT: catC (Catechol-ortho / Catechol-ortho) | pident=55.789000 qcovs=99.000000</title></polygon>
+<text x="602.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 602.4 121.0)" fill="#111">catC (catC)</text>
+<polygon points="651.4,86.0 621.0,86.0 606.0,97.0 621.0,108.0 651.4,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>ABIEIOGP_02122 | catB | Hydratase/dehydratase/isomerase | Muconate cycloisomerase 1 | PANEL HIT: catB (Catechol-ortho / Catechol-ortho) | pident=54.178000 qcovs=99.000000</title></polygon>
+<text x="628.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 628.7 121.0)" fill="#111">catB (catB)</text>
+<polygon points="656.4,86.0 681.3,86.0 693.5,97.0 681.3,108.0 656.4,108.0" fill="#fdbf6f" stroke="#111" stroke-width="2.2"><title>ABIEIOGP_02123 | catM | Regulator | HTH-type transcriptional regulator CatM | PANEL HIT: catR (Catechol-ortho / Catechol-ortho) | pident=40.753000 qcovs=99.000000</title></polygon>
+<text x="674.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 674.9 121.0)" fill="#111">catM (catR)</text>
+<polygon points="756.9,86.0 712.5,86.0 694.5,97.0 712.5,108.0 756.9,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>ABIEIOGP_02124 | mnmE_1 | Accessory/other | tRNA modification GTPase MnmE</title></polygon>
+<text x="725.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 725.7 121.0)" fill="#555">mnmE_1</text>
+<polygon points="811.1,86.0 774.7,86.0 756.7,97.0 774.7,108.0 811.1,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>ABIEIOGP_02125 | era_2 | Accessory/other | GTPase Era</title></polygon>
+<text x="783.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 783.9 121.0)" fill="#555">era_2</text>
+<polygon points="849.6,86.0 824.1,86.0 811.5,97.0 824.1,108.0 849.6,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>ABIEIOGP_02126 | catA | Oxygenase/dioxygenase | Catechol 1,2-dioxygenase | PANEL HIT: catA (Catechol-ortho / Catechol-ortho) | pident=55.872000 qcovs=89.000000</title></polygon>
+<text x="830.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 830.6 121.0)" fill="#111">catA (catA)</text>
+<polygon points="922.9,86.0 890.6,86.0 874.6,97.0 890.6,108.0 922.9,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>ABIEIOGP_02127 | ydcO_2 | Transport/efflux | Inner membrane protein YdcO</title></polygon>
+<text x="898.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 898.8 121.0)" fill="#555">ydcO_2</text>
+<polygon points="956.6,86.0 935.2,86.0 924.6,97.0 935.2,108.0 956.6,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>ABIEIOGP_02128 | tsaC1_2 | Dehydrogenase/oxidoreductase | 4-formylbenzenesulfonate dehydrogenase TsaC1/TsaC2 | PANEL HIT: benD (Benzoate / Benzoate) | pident=96.169000 qcovs=100.000000</title></polygon>
+<text x="940.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 940.6 121.0)" fill="#111">tsaC1_2 (benD)</text>
+<polygon points="998.8,86.0 971.0,86.0 957.3,97.0 971.0,108.0 998.8,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>ABIEIOGP_02129 | benC | Oxygenase/dioxygenase | Benzoate 1,2-dioxygenase electron transfer component | PANEL HIT: benC (Aromatics; Benzoate / Benzene) | pident=98.521000 qcovs=97.000000</title></polygon>
+<text x="978.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 978.1 121.0)" fill="#111">benC (benC)</text>
+<polygon points="1022.5,86.0 1008.7,86.0 1001.7,97.0 1008.7,108.0 1022.5,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>ABIEIOGP_02130 | cbdB | Oxygenase/dioxygenase | 2-halobenzoate 1,2-dioxygenase small subunit | PANEL HIT: benB (Aromatics; Benzoate / Benzene) | pident=98.225000 qcovs=100.000000</title></polygon>
+<text x="1012.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1012.1 121.0)" fill="#111">cbdB (benB)</text>
+<polygon points="1078.8,86.0 1040.3,86.0 1022.3,97.0 1040.3,108.0 1078.8,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>ABIEIOGP_02131 | cbdA | Oxygenase/dioxygenase | 2-halobenzoate 1,2-dioxygenase large subunit | PANEL HIT: benA (Aromatics; Benzoate / Benzene) | pident=99.783000 qcovs=100.000000</title></polygon>
+<text x="1050.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1050.6 121.0)" fill="#111">cbdA (benA)</text>
+<polygon points="1090.8,86.0 1115.7,86.0 1128.1,97.0 1115.7,108.0 1090.8,108.0" fill="#fdbf6f" stroke="#111" stroke-width="2.2"><title>ABIEIOGP_02132 | benM_3 | Regulator | HTH-type transcriptional regulator BenM | PANEL HIT: catR (Catechol-ortho / Catechol-ortho) | pident=40.753000 qcovs=99.000000</title></polygon>
+<text x="1109.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1109.4 121.0)" fill="#111">benM_3 (catR)</text>
+<polygon points="1187.3,86.0 1148.2,86.0 1130.2,97.0 1148.2,108.0 1187.3,108.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>ABIEIOGP_02133 | genK | Transport/efflux | Gentisate transporter | PANEL HIT: pcaK (Transportation / Transportation) | pident=34.253000 qcovs=96.000000</title></polygon>
+<text x="1158.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1158.7 121.0)" fill="#111">genK (pcaK)</text>
+<polygon points="1239.6,86.0 1205.6,86.0 1188.8,97.0 1205.6,108.0 1239.6,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>ABIEIOGP_02134 | nicP_3 | Transport/efflux | Porin-like protein NicP</title></polygon>
+<text x="1214.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1214.2 121.0)" fill="#555">nicP_3</text>
+<polygon points="1251.2,86.0 1306.6,86.0 1324.6,97.0 1306.6,108.0 1251.2,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>ABIEIOGP_02135 | norR_2 | Regulator | Anaerobic nitric oxide reductase transcription regulator NorR</title></polygon>
+<text x="1287.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1287.9 121.0)" fill="#555">norR_2</text>
+<polygon points="1334.8,86.0 1376.1,86.0 1394.1,97.0 1376.1,108.0 1334.8,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>ABIEIOGP_02136 | xylC | Dehydrogenase/oxidoreductase | Benzaldehyde dehydrogenase [NAD(+)] | PANEL HIT: xylC (Aromatics / Toluene) | pident=45.303000 qcovs=98.000000</title></polygon>
+<text x="1364.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1364.4 121.0)" fill="#111">xylC (xylC)</text>
+<polygon points="1395.2,86.0 1425.6,86.0 1440.6,97.0 1425.6,108.0 1395.2,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>ABIEIOGP_02137 | xylB | Dehydrogenase/oxidoreductase | Aryl-alcohol dehydrogenase | PANEL HIT: xylB (Aromatics / Toluene) | pident=56.284000 qcovs=99.000000</title></polygon>
+<text x="1417.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1417.9 121.0)" fill="#111">xylB (xylB)</text>
+<polygon points="1444.0,86.0 1470.8,86.0 1484.0,97.0 1470.8,108.0 1444.0,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>ABIEIOGP_02138 | aes_1 | Accessory/other | Acetyl esterase</title></polygon>
+<text x="1464.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1464.0 121.0)" fill="#555">aes_1</text>
+<polygon points="1492.1,86.0 1523.8,86.0 1539.4,97.0 1523.8,108.0 1492.1,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>ABIEIOGP_02139 | ABIEIOGP_02139 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1515.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1515.7 121.0)" fill="#555">ABIEIOGP_02139</text>
+<polygon points="1540.6,86.0 1551.6,86.0 1558.6,97.0 1551.6,108.0 1540.6,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>ABIEIOGP_02140 | ABIEIOGP_02140 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1549.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1549.6 121.0)" fill="#555">ABIEIOGP_02140</text>
+<polygon points="1545.8,86.0 1561.7,86.0 1569.5,97.0 1561.7,108.0 1545.8,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>ABIEIOGP_02141 | ABIEIOGP_02141 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1557.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1557.7 121.0)" fill="#555">ABIEIOGP_02141</text>
+<polygon points="1607.1,86.0 1582.8,86.0 1570.8,97.0 1582.8,108.0 1607.1,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>ABIEIOGP_02142 | pcpR_1 | Accessory/other | PCP degradation transcriptional activation protein</title></polygon>
+<text x="1589.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1589.0 121.0)" fill="#555">pcpR_1</text>
+<polygon points="1664.0,86.0 1629.3,86.0 1612.2,97.0 1629.3,108.0 1664.0,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>ABIEIOGP_02143 | nahG | Oxygenase/dioxygenase | Salicylate hydroxylase | PANEL HIT: nahG (Aromatics; Naphthalene / Naphthalene) | pident=49.622000 qcovs=91.000000</title></polygon>
+<text x="1638.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1638.1 121.0)" fill="#111">nahG (nahG)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">2,249,318 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">2,279,059 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

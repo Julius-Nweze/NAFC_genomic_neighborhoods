@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GROW_61_consensus_panelcluster_17235</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GROW_61_consensus | 1 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: galA; galB; galC; galD; galR; galT</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Gallate</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="452.0,86.0 588.7,86.0 606.7,97.0 588.7,108.0 452.0,108.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>COLLAGROW61CONSE_03382 | pcaK | Transport/efflux | 4-hydroxybenzoate transporter PcaK | PANEL HIT: galT (Gallate / Gallate) | pident=54.348000 qcovs=92.000000</title></polygon>
+<text x="529.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pcaK (galT)</text>
+<polygon points="618.5,86.0 742.1,86.0 760.1,97.0 742.1,108.0 618.5,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>COLLAGROW61CONSE_03383 | galA | Oxygenase/dioxygenase | Gallate dioxygenase | PANEL HIT: galA (Gallate / Gallate) | pident=73.373000 qcovs=99.000000</title></polygon>
+<text x="689.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">galA (galA)</text>
+<polygon points="759.7,86.0 835.2,86.0 853.2,97.0 835.2,108.0 759.7,108.0" fill="#b15928" stroke="#888" stroke-width="0.8"><title>COLLAGROW61CONSE_03384 | COLLAGROW61CONSE_03384 | Hydrolase/decarboxylase/lyase | 4-sulfomuconolactone hydrolase</title></polygon>
+<text x="806.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">COLLAGROW61CONSE_03384</text>
+<polygon points="855.0,86.0 888.1,86.0 904.4,97.0 888.1,108.0 855.0,108.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>COLLAGROW61CONSE_03385 | aroQ_2 | Hydratase/dehydratase/isomerase | 3-dehydroquinate dehydratase</title></polygon>
+<text x="879.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">aroQ_2</text>
+<polygon points="1053.0,86.0 930.4,86.0 912.4,97.0 930.4,108.0 1053.0,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>COLLAGROW61CONSE_03386 | rfaL_1 | Accessory/other | O-antigen ligase</title></polygon>
+<text x="982.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">rfaL_1</text>
+<polygon points="1176.9,86.0 1070.1,86.0 1052.1,97.0 1070.1,108.0 1176.9,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>COLLAGROW61CONSE_03387 | rfaB | Accessory/other | Lipopolysaccharide 1,6-galactosyltransferase</title></polygon>
+<text x="1114.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">rfaB</text>
+<polygon points="1355.3,86.0 1235.4,86.0 1217.4,97.0 1235.4,108.0 1355.3,108.0" fill="#fdbf6f" stroke="#111" stroke-width="2.2"><title>COLLAGROW61CONSE_03388 | hdfR_9 | Regulator | HTH-type transcriptional regulator HdfR | PANEL HIT: galR (Gallate / Gallate) | pident=59.848000 qcovs=97.000000</title></polygon>
+<text x="1286.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">hdfR_9 (galR)</text>
+<polygon points="1372.1,86.0 1437.9,86.0 1455.9,97.0 1437.9,108.0 1372.1,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>COLLAGROW61CONSE_03389 | galB | Hydratase/dehydratase/isomerase | 4-oxalmesaconate hydratase | PANEL HIT: galB (Gallate / Gallate) | pident=85.774000 qcovs=93.000000</title></polygon>
+<text x="1414.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">galB (galB)</text>
+<polygon points="1455.4,86.0 1518.8,86.0 1536.8,97.0 1518.8,108.0 1455.4,108.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>COLLAGROW61CONSE_03390 | galC | Hydrolase/decarboxylase/lyase | 4-carboxy-4-hydroxy-2-oxoadipic acid aldolase | PANEL HIT: galC (Gallate / Gallate) | pident=70.513000 qcovs=98.000000</title></polygon>
+<text x="1496.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">galC (galC)</text>
+<polygon points="1537.9,86.0 1646.0,86.0 1664.0,97.0 1646.0,108.0 1537.9,108.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>COLLAGROW61CONSE_03391 | galD | Accessory/other | 4-oxalomesaconate tautomerase | PANEL HIT: galD (Gallate / Gallate) | pident=67.769000 qcovs=99.000000</title></polygon>
+<text x="1600.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">galD (galD)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">2,845,449 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">2,856,257 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

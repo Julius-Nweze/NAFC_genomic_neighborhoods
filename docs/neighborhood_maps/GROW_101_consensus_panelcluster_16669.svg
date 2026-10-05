@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GROW_101_consensus_panelcluster_16669</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GROW_101_consensus | 1 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: aliB; amdA; pcaC; pegC</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Beta-oxidation; Plastics; Protocatechuate</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="452.0,86.0 516.0,86.0 534.0,97.0 516.0,108.0 452.0,108.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>KBECFEFL_05225 | gatA_2 | Accessory/other | Glutamyl-tRNA(Gln) amidotransferase subunit A | PANEL HIT: amdA (Plastics / PU) | pident=31.323000 qcovs=83.000000</title></polygon>
+<text x="493.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 493.0 121.0)" fill="#111">gatA_2 (amdA)</text>
+<polygon points="534.6,86.0 598.3,86.0 616.3,97.0 598.3,108.0 534.6,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KBECFEFL_05226 | gatB | Accessory/other | Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B</title></polygon>
+<text x="575.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 575.5 121.0)" fill="#555">gatB</text>
+<polygon points="625.1,86.0 639.1,86.0 646.1,97.0 639.1,108.0 625.1,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KBECFEFL_05227 | rlpA_1 | Accessory/other | Endolytic peptidoglycan transglycosylase RlpA</title></polygon>
+<text x="635.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 635.6 121.0)" fill="#555">rlpA_1</text>
+<polygon points="649.0,86.0 690.6,86.0 708.6,97.0 690.6,108.0 649.0,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KBECFEFL_05228 | yrbG | Accessory/other | Inner membrane protein YrbG</title></polygon>
+<text x="678.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 678.8 121.0)" fill="#555">yrbG</text>
+<polygon points="708.4,86.0 722.8,86.0 729.9,97.0 722.8,108.0 708.4,108.0" fill="#d9d9d9" stroke="#111" stroke-width="2.2"><title>KBECFEFL_05229 | KBECFEFL_05229 | Hypothetical/accessory | hypothetical protein | PANEL HIT: pcaC (Protocatechuate / Protocatechuate) | pident=47.009000 qcovs=87.000000</title></polygon>
+<text x="719.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 719.2 121.0)" fill="#111">KBECFEFL_05229 (pcaC)</text>
+<polygon points="782.9,86.0 747.3,86.0 729.7,97.0 747.3,108.0 782.9,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KBECFEFL_05230 | KBECFEFL_05230 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="756.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 756.3 121.0)" fill="#555">KBECFEFL_05230</text>
+<polygon points="884.0,86.0 814.2,86.0 796.2,97.0 814.2,108.0 884.0,108.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>KBECFEFL_05231 | garD | Hydratase/dehydratase/isomerase | Galactarate dehydratase (L-threo-forming)</title></polygon>
+<text x="840.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 840.1 121.0)" fill="#555">garD</text>
+<polygon points="961.9,86.0 902.8,86.0 884.8,97.0 902.8,108.0 961.9,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>KBECFEFL_05232 | gudP | Transport/efflux | putative glucarate transporter</title></polygon>
+<text x="923.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 923.3 121.0)" fill="#555">gudP</text>
+<polygon points="1048.5,86.0 984.8,86.0 966.8,97.0 984.8,108.0 1048.5,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>KBECFEFL_05233 | aldHT | Dehydrogenase/oxidoreductase | Aldehyde dehydrogenase, thermostable | PANEL HIT: pegC (Plastics / PEG) | pident=38.655000 qcovs=98.000000</title></polygon>
+<text x="1007.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1007.7 121.0)" fill="#111">aldHT (pegC)</text>
+<polygon points="1103.1,86.0 1068.6,86.0 1051.6,97.0 1068.6,108.0 1103.1,108.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>KBECFEFL_05234 | KBECFEFL_05234 | Hydratase/dehydratase/isomerase | putative 5-dehydro-4-deoxyglucarate dehydratase</title></polygon>
+<text x="1077.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1077.3 121.0)" fill="#555">KBECFEFL_05234</text>
+<polygon points="1116.3,86.0 1163.7,86.0 1181.7,97.0 1163.7,108.0 1116.3,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KBECFEFL_05235 | KBECFEFL_05235 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1149.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1149.0 121.0)" fill="#555">KBECFEFL_05235</text>
+<polygon points="1232.1,86.0 1203.8,86.0 1189.8,97.0 1203.8,108.0 1232.1,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>KBECFEFL_05236 | lutR_7 | Regulator | HTH-type transcriptional regulator LutR</title></polygon>
+<text x="1211.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1211.0 121.0)" fill="#555">lutR_7</text>
+<polygon points="1265.5,86.0 1249.6,86.0 1241.7,97.0 1249.6,108.0 1265.5,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KBECFEFL_05237 | KBECFEFL_05237 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1253.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1253.6 121.0)" fill="#555">KBECFEFL_05237</text>
+<polygon points="1301.4,86.0 1278.0,86.0 1266.4,97.0 1278.0,108.0 1301.4,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KBECFEFL_05238 | sspA | Accessory/other | Stringent starvation protein A</title></polygon>
+<text x="1283.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1283.9 121.0)" fill="#555">sspA</text>
+<polygon points="1353.6,86.0 1324.1,86.0 1309.6,97.0 1324.1,108.0 1353.6,108.0" fill="#d73027" stroke="#888" stroke-width="0.8"><title>KBECFEFL_05239 | petC | Oxygenase/dioxygenase | Ammonia monooxygenase gamma subunit</title></polygon>
+<text x="1331.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1331.6 121.0)" fill="#555">petC</text>
+<polygon points="1422.1,86.0 1371.6,86.0 1353.6,97.0 1371.6,108.0 1422.1,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KBECFEFL_05240 | petB | Accessory/other | Cytochrome b</title></polygon>
+<text x="1387.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1387.8 121.0)" fill="#555">petB</text>
+<polygon points="1455.7,86.0 1433.1,86.0 1422.0,97.0 1433.1,108.0 1455.7,108.0" fill="#fb9a99" stroke="#888" stroke-width="0.8"><title>KBECFEFL_05241 | petA | Electron transfer/redox | Ubiquinol-cytochrome c reductase iron-sulfur subunit</title></polygon>
+<text x="1438.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1438.9 121.0)" fill="#555">petA</text>
+<polygon points="1493.0,86.0 1478.1,86.0 1470.8,97.0 1478.1,108.0 1493.0,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KBECFEFL_05242 | rpsI | Accessory/other | 30S ribosomal protein S9</title></polygon>
+<text x="1481.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1481.9 121.0)" fill="#555">rpsI</text>
+<polygon points="1518.0,86.0 1501.8,86.0 1493.8,97.0 1501.8,108.0 1518.0,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KBECFEFL_05243 | rplM | Accessory/other | 50S ribosomal protein L13</title></polygon>
+<text x="1505.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1505.9 121.0)" fill="#555">rplM</text>
+<polygon points="1532.0,86.0 1572.8,86.0 1590.8,97.0 1572.8,108.0 1532.0,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KBECFEFL_05244 | tas | Accessory/other | Protein tas</title></polygon>
+<text x="1561.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1561.4 121.0)" fill="#555">tas</text>
+<polygon points="1664.0,86.0 1617.8,86.0 1599.8,97.0 1617.8,108.0 1664.0,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>KBECFEFL_05245 | mmgC_6 | Dehydrogenase/oxidoreductase | Acyl-CoA dehydrogenase | PANEL HIT: aliB (Beta-oxidation / Beta-oxidation) | pident=33.148000 qcovs=93.000000</title></polygon>
+<text x="1631.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1631.9 121.0)" fill="#111">mmgC_6 (aliB)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">5,748,970 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">5,770,419 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

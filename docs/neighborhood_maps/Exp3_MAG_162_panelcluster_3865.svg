@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_162_panelcluster_3865</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_162 | MAGs/Exp3_MAG_162_c_000000000033 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: BVMO; GMET_RS16560; acdB; badH; benA; benD; catA; catB;</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">catC; catR; galT; ladA; nagF; pcaD; pcaF; pcaI; pcaJ; xylY; xylZ</text>
+<text x="32.0" y="82.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Aromatics; Benzoate; Beta-oxidation;</text>
+<text x="32.0" y="94.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Catechol-ortho; Gallate; Naphthalene; Protocatechuate</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="452.0,86.0 472.6,86.0 482.8,97.0 472.6,108.0 452.0,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>NEDFOGPE_02487 | vdh_2 | Dehydrogenase/oxidoreductase | Vanillin dehydrogenase | PANEL HIT: nagF (Naphthalene / Naphthalene) | pident=50.731000 qcovs=99.000000</title></polygon>
+<text x="467.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 467.4 121.0)" fill="#111">vdh_2 (nagF)</text>
+<polygon points="502.6,86.0 491.6,86.0 484.6,97.0 491.6,108.0 502.6,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>NEDFOGPE_02488 | fabG_6 | Dehydrogenase/oxidoreductase | 3-oxoacyl-[acyl-carrier-protein] reductase FabG</title></polygon>
+<text x="493.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 493.6 121.0)" fill="#555">fabG_6</text>
+<polygon points="521.9,86.0 510.9,86.0 503.9,97.0 510.9,108.0 521.9,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>NEDFOGPE_02489 | iclR_2 | Regulator | Transcriptional repressor IclR</title></polygon>
+<text x="512.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 512.9 121.0)" fill="#555">iclR_2</text>
+<polygon points="525.4,86.0 536.4,86.0 543.4,97.0 536.4,108.0 525.4,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>NEDFOGPE_02490 | LRA5_2 | Dehydrogenase/oxidoreductase | 2-dehydro-3-deoxy-L-rhamnonate dehydrogenase (NAD(+)) | PANEL HIT: badH (Beta-oxidation / Beta-oxidation) | pident=35.600000 qcovs=98.000000</title></polygon>
+<text x="534.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 534.4 121.0)" fill="#111">LRA5_2 (badH)</text>
+<polygon points="544.7,86.0 556.2,86.0 563.2,97.0 556.2,108.0 544.7,108.0" fill="#b15928" stroke="#888" stroke-width="0.8"><title>NEDFOGPE_02491 | rutD_3 | Hydrolase/decarboxylase/lyase | Putative aminoacrylate hydrolase RutD</title></polygon>
+<text x="554.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 554.0 121.0)" fill="#555">rutD_3</text>
+<polygon points="563.9,86.0 585.5,86.0 596.2,97.0 585.5,108.0 563.9,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>NEDFOGPE_02492 | NEDFOGPE_02492 | Oxygenase/dioxygenase | Baeyer-Villiger monooxygenase | PANEL HIT: BVMO (Alkanes / Subterminal oxidation) | pident=40.882000 qcovs=94.000000</title></polygon>
+<text x="580.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 580.1 121.0)" fill="#111">NEDFOGPE_02492 (BVMO)</text>
+<polygon points="597.4,86.0 611.9,86.0 619.0,97.0 611.9,108.0 597.4,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>NEDFOGPE_02493 | NEDFOGPE_02493 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="608.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 608.2 121.0)" fill="#555">NEDFOGPE_02493</text>
+<polygon points="622.1,86.0 636.0,86.0 643.0,97.0 636.0,108.0 622.1,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>NEDFOGPE_02494 | NEDFOGPE_02494 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="632.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 632.6 121.0)" fill="#555">NEDFOGPE_02494</text>
+<polygon points="664.3,86.0 651.5,86.0 644.5,97.0 651.5,108.0 664.3,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>NEDFOGPE_02495 | hdfR_5 | Regulator | HTH-type transcriptional regulator HdfR</title></polygon>
+<text x="654.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 654.4 121.0)" fill="#555">hdfR_5</text>
+<polygon points="666.9,86.0 680.8,86.0 687.8,97.0 680.8,108.0 666.9,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>NEDFOGPE_02496 | NEDFOGPE_02496 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="677.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 677.3 121.0)" fill="#555">NEDFOGPE_02496</text>
+<polygon points="688.3,86.0 699.3,86.0 706.3,97.0 699.3,108.0 688.3,108.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>NEDFOGPE_02497 | mtnB_1 | Hydratase/dehydratase/isomerase | Methylthioribulose-1-phosphate dehydratase</title></polygon>
+<text x="697.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 697.3 121.0)" fill="#555">mtnB_1</text>
+<polygon points="712.5,86.0 723.5,86.0 730.5,97.0 723.5,108.0 712.5,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>NEDFOGPE_02498 | NEDFOGPE_02498 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="721.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 721.5 121.0)" fill="#555">NEDFOGPE_02498</text>
+<polygon points="749.4,86.0 727.6,86.0 716.8,97.0 727.6,108.0 749.4,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>NEDFOGPE_02499 | NEDFOGPE_02499 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="733.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 733.1 121.0)" fill="#555">NEDFOGPE_02499</text>
+<polygon points="776.3,86.0 758.7,86.0 750.0,97.0 758.7,108.0 776.3,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>NEDFOGPE_02500 | NEDFOGPE_02500 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="763.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 763.1 121.0)" fill="#555">NEDFOGPE_02500</text>
+<polygon points="798.5,86.0 785.0,86.0 778.0,97.0 785.0,108.0 798.5,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>NEDFOGPE_02501 | NEDFOGPE_02501 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="788.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 788.2 121.0)" fill="#555">NEDFOGPE_02501</text>
+<polygon points="817.1,86.0 806.1,86.0 799.1,97.0 806.1,108.0 817.1,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>NEDFOGPE_02502 | catC_2 | Hydratase/dehydratase/isomerase | Muconolactone Delta-isomerase | PANEL HIT: catC (Catechol-ortho / Catechol-ortho) | pident=56.044000 qcovs=95.000000</title></polygon>
+<text x="808.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 808.1 121.0)" fill="#111">catC_2 (catC)</text>
+<polygon points="823.4,86.0 812.4,86.0 805.4,97.0 812.4,108.0 823.4,108.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>NEDFOGPE_02503 | catD_2 | Hydrolase/decarboxylase/lyase | 3-oxoadipate enol-lactonase 2 | PANEL HIT: pcaD (Catechol-ortho; Protocatechuate / Protocatechuate) | pident=47.860000 qcovs=98.000000</title></polygon>
+<text x="814.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 814.4 121.0)" fill="#111">catD_2 (pcaD)</text>
+<polygon points="849.3,86.0 831.9,86.0 823.4,97.0 831.9,108.0 849.3,108.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>NEDFOGPE_02504 | pcaF_2 | Thiolase/transferase | Beta-ketoadipyl-CoA thiolase | PANEL HIT: pcaF (Catechol-ortho; Protocatechuate / Protocatechuate) | pident=68.844000 qcovs=99.000000</title></polygon>
+<text x="836.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 836.3 121.0)" fill="#111">pcaF_2 (pcaF)</text>
+<polygon points="867.1,86.0 856.1,86.0 849.1,97.0 856.1,108.0 867.1,108.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>NEDFOGPE_02505 | pcaJ_2 | Thiolase/transferase | 3-oxoadipate CoA-transferase subunit B | PANEL HIT: pcaJ (Catechol-ortho / Catechol-ortho) | pident=66.341000 qcovs=96.000000</title></polygon>
+<text x="858.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 858.1 121.0)" fill="#111">pcaJ_2 (pcaJ)</text>
+<polygon points="881.8,86.0 870.8,86.0 863.8,97.0 870.8,108.0 881.8,108.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>NEDFOGPE_02506 | pcaI_2 | Thiolase/transferase | 3-oxoadipate CoA-transferase subunit A | PANEL HIT: pcaI (Catechol-ortho / Catechol-ortho) | pident=67.699000 qcovs=98.000000</title></polygon>
+<text x="872.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 872.8 121.0)" fill="#111">pcaI_2 (pcaI)</text>
+<polygon points="908.7,86.0 889.4,86.0 879.9,97.0 889.4,108.0 908.7,108.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>NEDFOGPE_02507 | pcaK_1 | Transport/efflux | 4-hydroxybenzoate transporter PcaK | PANEL HIT: galT (Gallate / Gallate) | pident=33.333000 qcovs=91.000000</title></polygon>
+<text x="894.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 894.3 121.0)" fill="#111">pcaK_1 (galT)</text>
+<polygon points="927.4,86.0 916.4,86.0 909.4,97.0 916.4,108.0 927.4,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>NEDFOGPE_02508 | NEDFOGPE_02508 | Dehydrogenase/oxidoreductase | 3-beta-hydroxycholanate 3-dehydrogenase (NADP(+)) | PANEL HIT: benD (Benzoate / Benzoate) | pident=63.258000 qcovs=100.000000</title></polygon>
+<text x="918.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 918.4 121.0)" fill="#111">NEDFOGPE_02508 (benD)</text>
+<polygon points="948.2,86.0 933.6,86.0 926.4,97.0 933.6,108.0 948.2,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>NEDFOGPE_02509 | benC | Oxygenase/dioxygenase | Benzoate 1,2-dioxygenase electron transfer component | PANEL HIT: xylZ (Aromatics / Benzene) | pident=54.655000 qcovs=99.000000</title></polygon>
+<text x="937.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 937.3 121.0)" fill="#111">benC (xylZ)</text>
+<polygon points="966.6,86.0 955.6,86.0 948.6,97.0 955.6,108.0 966.6,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>NEDFOGPE_02510 | cbdB | Oxygenase/dioxygenase | 2-halobenzoate 1,2-dioxygenase small subunit | PANEL HIT: xylY (Aromatics / Benzene) | pident=60.123000 qcovs=100.000000</title></polygon>
+<text x="957.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 957.6 121.0)" fill="#111">cbdB (xylY)</text>
+<polygon points="988.9,86.0 968.9,86.0 959.1,97.0 968.9,108.0 988.9,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>NEDFOGPE_02511 | cbdA | Oxygenase/dioxygenase | 2-halobenzoate 1,2-dioxygenase large subunit | PANEL HIT: benA (Aromatics / Benzene) | pident=67.269000 qcovs=97.000000</title></polygon>
+<text x="974.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 974.0 121.0)" fill="#111">cbdA (benA)</text>
+<polygon points="1010.8,86.0 997.8,86.0 990.8,97.0 997.8,108.0 1010.8,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>NEDFOGPE_02512 | catA | Oxygenase/dioxygenase | Catechol 1,2-dioxygenase | PANEL HIT: catA (Catechol-ortho / Catechol-ortho) | pident=52.303000 qcovs=96.000000</title></polygon>
+<text x="1000.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1000.8 121.0)" fill="#111">catA (catA)</text>
+<polygon points="1037.9,86.0 1020.9,86.0 1012.5,97.0 1020.9,108.0 1037.9,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>NEDFOGPE_02513 | catB_2 | Hydratase/dehydratase/isomerase | Muconate cycloisomerase 1 | PANEL HIT: catB (Catechol-ortho / Catechol-ortho) | pident=57.682000 qcovs=99.000000</title></polygon>
+<text x="1025.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1025.2 121.0)" fill="#111">catB_2 (catB)</text>
+<polygon points="1041.0,86.0 1055.0,86.0 1062.0,97.0 1055.0,108.0 1041.0,108.0" fill="#fdbf6f" stroke="#111" stroke-width="2.2"><title>NEDFOGPE_02514 | benM_1 | Regulator | HTH-type transcriptional regulator BenM | PANEL HIT: catR (Catechol-ortho / Catechol-ortho) | pident=46.048000 qcovs=99.000000</title></polygon>
+<text x="1051.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1051.5 121.0)" fill="#111">benM_1 (catR)</text>
+<polygon points="1079.2,86.0 1068.2,86.0 1061.2,97.0 1068.2,108.0 1079.2,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>NEDFOGPE_02515 | NEDFOGPE_02515 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1070.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1070.2 121.0)" fill="#555">NEDFOGPE_02515</text>
+<polygon points="1084.2,86.0 1073.2,86.0 1066.2,97.0 1073.2,108.0 1084.2,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>NEDFOGPE_02516 | NEDFOGPE_02516 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1075.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1075.2 121.0)" fill="#555">NEDFOGPE_02516</text>
+<polygon points="1088.0,86.0 1077.0,86.0 1070.0,97.0 1077.0,108.0 1088.0,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>NEDFOGPE_02517 | NEDFOGPE_02517 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1079.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1079.0 121.0)" fill="#555">NEDFOGPE_02517</text>
+<polygon points="1098.7,86.0 1087.7,86.0 1080.7,97.0 1087.7,108.0 1098.7,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>NEDFOGPE_02518 | NEDFOGPE_02518 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1089.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1089.7 121.0)" fill="#555">NEDFOGPE_02518</text>
+<polygon points="1084.6,86.0 1095.6,86.0 1102.6,97.0 1095.6,108.0 1084.6,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>NEDFOGPE_02519 | dmlR_12 | Regulator | HTH-type transcriptional regulator DmlR</title></polygon>
+<text x="1093.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1093.6 121.0)" fill="#555">dmlR_12</text>
+<polygon points="1117.5,86.0 1106.5,86.0 1099.5,97.0 1106.5,108.0 1117.5,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>NEDFOGPE_02520 | arcA_2 | Accessory/other | Aerobic respiration control protein ArcA</title></polygon>
+<text x="1108.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1108.5 121.0)" fill="#555">arcA_2</text>
+<polygon points="1157.2,86.0 1129.0,86.0 1115.2,97.0 1129.0,108.0 1157.2,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>NEDFOGPE_02521 | rcsC_12 | Regulator | Sensor histidine kinase RcsC</title></polygon>
+<text x="1136.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1136.2 121.0)" fill="#555">rcsC_12</text>
+<polygon points="1165.5,86.0 1191.1,86.0 1203.7,97.0 1191.1,108.0 1165.5,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>NEDFOGPE_02522 | dmdC_3 | Dehydrogenase/oxidoreductase | 3-methylmercaptopropionyl-CoA dehydrogenase | PANEL HIT: acdB (Beta-oxidation / Beta-oxidation) | pident=40.299000 qcovs=99.000000</title></polygon>
+<text x="1184.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1184.6 121.0)" fill="#111">dmdC_3 (acdB)</text>
+<polygon points="1204.2,86.0 1223.5,86.0 1233.0,97.0 1223.5,108.0 1204.2,108.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>NEDFOGPE_02523 | NEDFOGPE_02523 | Thiolase/transferase | Butyryl-CoA:acetate CoA-transferase | PANEL HIT: GMET_RS16560 (Beta-oxidation / Beta-oxidation) | pident=42.273000 qcovs=97.000000</title></polygon>
+<text x="1218.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1218.6 121.0)" fill="#111">NEDFOGPE_02523 (GMET_...</text>
+<polygon points="1240.7,86.0 1272.3,86.0 1287.8,97.0 1272.3,108.0 1240.7,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>NEDFOGPE_02524 | NEDFOGPE_02524 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1264.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1264.3 121.0)" fill="#555">NEDFOGPE_02524</text>
+<polygon points="1362.4,86.0 1307.4,86.0 1289.4,97.0 1307.4,108.0 1362.4,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>NEDFOGPE_02525 | NEDFOGPE_02525 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1325.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1325.9 121.0)" fill="#555">NEDFOGPE_02525</text>
+<polygon points="1419.1,86.0 1383.5,86.0 1366.0,97.0 1383.5,108.0 1419.1,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>NEDFOGPE_02526 | NEDFOGPE_02526 | Transport/efflux | Calcium-transporting ATPase</title></polygon>
+<text x="1392.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1392.5 121.0)" fill="#555">NEDFOGPE_02526</text>
+<polygon points="1461.9,86.0 1436.5,86.0 1424.0,97.0 1436.5,108.0 1461.9,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>NEDFOGPE_02527 | NEDFOGPE_02527 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1443.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1443.0 121.0)" fill="#555">NEDFOGPE_02527</text>
+<polygon points="1466.6,86.0 1477.6,86.0 1484.6,97.0 1477.6,108.0 1466.6,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>NEDFOGPE_02528 | nemR | Regulator | HTH-type transcriptional repressor NemR</title></polygon>
+<text x="1475.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1475.6 121.0)" fill="#555">nemR</text>
+<polygon points="1484.1,86.0 1499.9,86.0 1507.6,97.0 1499.9,108.0 1484.1,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>NEDFOGPE_02529 | nemA_2 | Dehydrogenase/oxidoreductase | N-ethylmaleimide reductase</title></polygon>
+<text x="1495.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1495.9 121.0)" fill="#555">nemA_2</text>
+<polygon points="1510.1,86.0 1527.4,86.0 1535.9,97.0 1527.4,108.0 1510.1,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>NEDFOGPE_02530 | NEDFOGPE_02530 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1523.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1523.0 121.0)" fill="#555">NEDFOGPE_02530</text>
+<polygon points="1556.5,86.0 1543.4,86.0 1536.4,97.0 1543.4,108.0 1556.5,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>NEDFOGPE_02531 | NEDFOGPE_02531 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1546.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1546.4 121.0)" fill="#555">NEDFOGPE_02531</text>
+<polygon points="1582.8,86.0 1566.5,86.0 1558.4,97.0 1566.5,108.0 1582.8,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>NEDFOGPE_02532 | ocd_1 | Accessory/other | Ornithine cyclodeaminase</title></polygon>
+<text x="1570.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1570.6 121.0)" fill="#555">ocd_1</text>
+<polygon points="1584.1,86.0 1595.1,86.0 1602.1,97.0 1595.1,108.0 1584.1,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>NEDFOGPE_02533 | decR_4 | Regulator | DNA-binding transcriptional activator DecR</title></polygon>
+<text x="1593.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1593.1 121.0)" fill="#555">decR_4</text>
+<polygon points="1596.0,86.0 1622.2,86.0 1635.2,97.0 1622.2,108.0 1596.0,108.0" fill="#1f78b4" stroke="#888" stroke-width="0.8"><title>NEDFOGPE_02534 | NEDFOGPE_02534 | CoA ligase/synthetase | Long-chain-fatty-acid--CoA ligase FadD15</title></polygon>
+<text x="1615.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1615.6 121.0)" fill="#555">NEDFOGPE_02534</text>
+<polygon points="1664.0,86.0 1645.0,86.0 1635.7,97.0 1645.0,108.0 1664.0,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>NEDFOGPE_02535 | ntaA_3 | Oxygenase/dioxygenase | Nitrilotriacetate monooxygenase component A | PANEL HIT: ladA (Alkanes / Terminal/biterminal oxidation) | pident=33.181000 qcovs=94.000000</title></polygon>
+<text x="1649.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1649.9 121.0)" fill="#111">ntaA_3 (ladA)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">27,263 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">83,824 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

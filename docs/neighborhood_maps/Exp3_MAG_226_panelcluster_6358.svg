@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_226_panelcluster_6358</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_226 | MAGs/Exp3_MAG_226_c_000000000134 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: CYP153; atdA1; chnE; hpcE; pobB; xylG</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Aromatics; Catechol-meta; Protocatechuate</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="573.6,86.0 470.0,86.0 452.0,97.0 470.0,108.0 573.6,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>BOLALHGE_00898 | gabD1 | Dehydrogenase/oxidoreductase | Succinate-semialdehyde dehydrogenase [NADP(+)] 1 | PANEL HIT: chnE (Alkanes / Terminal/biterminal oxidation) | pident=51.876000 qcovs=98.000000</title></polygon>
+<text x="512.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 512.8 121.0)" fill="#111">gabD1 (chnE)</text>
+<polygon points="657.7,86.0 598.3,86.0 580.3,97.0 598.3,108.0 657.7,108.0" fill="#d9d9d9" stroke="#111" stroke-width="2.2"><title>BOLALHGE_00899 | BOLALHGE_00899 | Hypothetical/accessory | hypothetical protein | PANEL HIT: hpcE (Aromatics / Homoprotocatechuate) | pident=36.653000 qcovs=58.000000</title></polygon>
+<text x="619.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 619.0 121.0)" fill="#111">BOLALHGE_00899 (hpcE)</text>
+<polygon points="742.0,86.0 681.2,86.0 663.2,97.0 681.2,108.0 742.0,108.0" fill="#d73027" stroke="#888" stroke-width="0.8"><title>BOLALHGE_00900 | hpcB | Oxygenase/dioxygenase | 3,4-dihydroxyphenylacetate 2,3-dioxygenase</title></polygon>
+<text x="702.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 702.6 121.0)" fill="#555">hpcB</text>
+<polygon points="871.9,86.0 760.2,86.0 742.2,97.0 760.2,108.0 871.9,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>BOLALHGE_00901 | xylG | Dehydrogenase/oxidoreductase | 2-hydroxymuconic semialdehyde dehydrogenase | PANEL HIT: xylG (Catechol-meta / Catechol-meta) | pident=41.529000 qcovs=99.000000</title></polygon>
+<text x="807.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 807.0 121.0)" fill="#111">xylG (xylG)</text>
+<polygon points="880.8,86.0 925.2,86.0 943.2,97.0 925.2,108.0 880.8,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>BOLALHGE_00902 | BOLALHGE_00902 | Accessory/other | Putative glutamine amidotransferase</title></polygon>
+<text x="912.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 912.0 121.0)" fill="#555">BOLALHGE_00902</text>
+<polygon points="1003.2,86.0 961.4,86.0 943.4,97.0 961.4,108.0 1003.2,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>BOLALHGE_00903 | BOLALHGE_00903 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="973.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 973.3 121.0)" fill="#555">BOLALHGE_00903</text>
+<polygon points="1069.9,86.0 1025.8,86.0 1007.8,97.0 1025.8,108.0 1069.9,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>BOLALHGE_00904 | BOLALHGE_00904 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1038.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1038.9 121.0)" fill="#555">BOLALHGE_00904</text>
+<polygon points="1084.4,86.0 1185.6,86.0 1203.6,97.0 1185.6,108.0 1084.4,108.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>BOLALHGE_00905 | ipuC_1 | Accessory/other | Glutamate--isopropylamine ligase | PANEL HIT: atdA1 (Aromatics / Aniline) | pident=31.933000 qcovs=95.000000</title></polygon>
+<text x="1144.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1144.0 121.0)" fill="#111">ipuC_1 (atdA1)</text>
+<polygon points="1293.9,86.0 1228.6,86.0 1210.6,97.0 1228.6,108.0 1293.9,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>BOLALHGE_00906 | BOLALHGE_00906 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1252.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1252.2 121.0)" fill="#555">BOLALHGE_00906</text>
+<polygon points="1366.4,86.0 1313.9,86.0 1295.9,97.0 1313.9,108.0 1366.4,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>BOLALHGE_00907 | BOLALHGE_00907 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1331.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1331.2 121.0)" fill="#555">BOLALHGE_00907</text>
+<polygon points="1465.8,86.0 1391.0,86.0 1373.0,97.0 1391.0,108.0 1465.8,108.0" fill="#fb9a99" stroke="#888" stroke-width="0.8"><title>BOLALHGE_00908 | tsaM1_1 | Electron transfer/redox | Toluene-4-sulfonate monooxygenase system iron-sulfur subunit TsaM1</title></polygon>
+<text x="1419.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1419.4 121.0)" fill="#555">tsaM1_1</text>
+<polygon points="1552.7,86.0 1484.8,86.0 1466.8,97.0 1484.8,108.0 1552.7,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>BOLALHGE_00909 | pobB | Oxygenase/dioxygenase | Phenoxybenzoate dioxygenase subunit beta | PANEL HIT: pobB (Protocatechuate / Protocatechuate) | pident=43.558000 qcovs=100.000000</title></polygon>
+<text x="1509.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1509.7 121.0)" fill="#111">pobB (pobB)</text>
+<polygon points="1664.0,86.0 1570.7,86.0 1552.7,97.0 1570.7,108.0 1664.0,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>BOLALHGE_00910 | BOLALHGE_00910 | Oxygenase/dioxygenase | Methyl-branched lipid omega-hydroxylase | PANEL HIT: CYP153 (Alkanes / Terminal/biterminal oxidation) | pident=35.377000 qcovs=93.000000</title></polygon>
+<text x="1608.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1608.4 121.0)" fill="#111">BOLALHGE_00910 (CYP153)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">6,072 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">19,830 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

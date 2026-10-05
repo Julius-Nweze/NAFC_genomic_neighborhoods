@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GCF_029269295.1_panelcluster_16099</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GCF_029269295.1 | c_000000000052 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: dszC; galP; ladA</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Aromatics; Gallate</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="574.2,86.0 470.0,86.0 452.0,97.0 470.0,108.0 574.2,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>POIEIANE_03390 | dmoA_3 | Oxygenase/dioxygenase | Dimethyl-sulfide monooxygenase | PANEL HIT: ladA (Alkanes / Terminal/biterminal oxidation) | pident=51.448000 qcovs=98.000000</title></polygon>
+<text x="513.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">dmoA_3 (ladA)</text>
+<polygon points="681.9,86.0 592.1,86.0 574.1,97.0 592.1,108.0 681.9,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>POIEIANE_03391 | sfnC_3 | Oxygenase/dioxygenase | putative FMNH2-dependent monooxygenase SfnC | PANEL HIT: dszC (Aromatics / Dibenzofuran) | pident=31.313000 qcovs=95.000000</title></polygon>
+<text x="628.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">sfnC_3 (dszC)</text>
+<polygon points="796.2,86.0 702.1,86.0 684.1,97.0 702.1,108.0 796.2,108.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>POIEIANE_03392 | soxC_3 | Accessory/other | Dibenzothiophene desulfurization enzyme C | PANEL HIT: dszC (Aromatics / Dibenzofuran) | pident=30.685000 qcovs=87.000000</title></polygon>
+<text x="740.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">soxC_3 (dszC)</text>
+<polygon points="882.2,86.0 831.1,86.0 813.1,97.0 831.1,108.0 882.2,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>POIEIANE_03393 | POIEIANE_03393 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="847.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">POIEIANE_03393</text>
+<polygon points="983.2,86.0 933.7,86.0 915.7,97.0 933.7,108.0 983.2,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>POIEIANE_03394 | tcyC | Accessory/other | L-cystine import ATP-binding protein TcyC</title></polygon>
+<text x="949.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">tcyC</text>
+<polygon points="1043.6,86.0 1001.5,86.0 983.5,97.0 1001.5,108.0 1043.6,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>POIEIANE_03395 | yecS_2 | Transport/efflux | L-cystine transport system permease protein YecS</title></polygon>
+<text x="1013.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">yecS_2</text>
+<polygon points="1115.3,86.0 1061.5,86.0 1043.5,97.0 1061.5,108.0 1115.3,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>POIEIANE_03396 | fliY_3 | Accessory/other | L-cystine-binding protein FliY</title></polygon>
+<text x="1079.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">fliY_3</text>
+<polygon points="1224.7,86.0 1152.4,86.0 1134.4,97.0 1152.4,108.0 1224.7,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>POIEIANE_03397 | dcyD_2 | Accessory/other | D-cysteine desulfhydrase</title></polygon>
+<text x="1179.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">dcyD_2</text>
+<polygon points="1239.7,86.0 1305.4,86.0 1323.4,97.0 1305.4,108.0 1239.7,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>POIEIANE_03398 | POIEIANE_03398 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1281.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">POIEIANE_03398</text>
+<polygon points="1347.2,86.0 1509.9,86.0 1527.9,97.0 1509.9,108.0 1347.2,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>POIEIANE_03399 | betT2 | Transport/efflux | Osmo-dependent choline transporter BetT2</title></polygon>
+<text x="1437.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">betT2</text>
+<polygon points="1542.1,86.0 1646.0,86.0 1664.0,97.0 1646.0,108.0 1542.1,108.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>POIEIANE_03400 | nicP_4 | Transport/efflux | Porin-like protein NicP | PANEL HIT: galP (Gallate / Gallate) | pident=33.113000 qcovs=99.000000</title></polygon>
+<text x="1603.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">nicP_4 (galP)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">17,584 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">31,004 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

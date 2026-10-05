@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GROW_101_consensus_panelcluster_16679</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GROW_101_consensus | 1 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: atdA1; opdK; ssuD</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Aromatics; Transportation</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="452.0,86.0 607.1,86.0 625.1,97.0 607.1,108.0 452.0,108.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>KBECFEFL_05885 | puuA_5 | Accessory/other | Gamma-glutamylputrescine synthetase PuuA | PANEL HIT: atdA1 (Aromatics / Aniline) | pident=30.317000 qcovs=87.000000</title></polygon>
+<text x="538.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">puuA_5 (atdA1)</text>
+<polygon points="652.8,86.0 714.7,86.0 732.7,97.0 714.7,108.0 652.8,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KBECFEFL_05886 | KBECFEFL_05886 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="692.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">KBECFEFL_05886</text>
+<polygon points="778.4,86.0 760.2,86.0 751.2,97.0 760.2,108.0 778.4,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KBECFEFL_05887 | KBECFEFL_05887 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="764.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">KBECFEFL_05887</text>
+<polygon points="883.4,86.0 800.0,86.0 782.0,97.0 800.0,108.0 883.4,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KBECFEFL_05888 | ssuB_3 | Accessory/other | Aliphatic sulfonates import ATP-binding protein SsuB</title></polygon>
+<text x="832.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">ssuB_3</text>
+<polygon points="982.1,86.0 900.9,86.0 882.9,97.0 900.9,108.0 982.1,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>KBECFEFL_05889 | ssuC_3 | Transport/efflux | Putative aliphatic sulfonates transport permease protein SsuC</title></polygon>
+<text x="932.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">ssuC_3</text>
+<polygon points="1127.7,86.0 1001.3,86.0 983.3,97.0 1001.3,108.0 1127.7,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>KBECFEFL_05890 | ssuD | Oxygenase/dioxygenase | Alkanesulfonate monooxygenase | PANEL HIT: ssuD (Alkanes / Auxillary alkane pathway) | pident=90.314000 qcovs=100.000000</title></polygon>
+<text x="1055.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">ssuD (ssuD)</text>
+<polygon points="1252.7,86.0 1148.9,86.0 1130.9,97.0 1148.9,108.0 1252.7,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KBECFEFL_05891 | ssuA_7 | Accessory/other | Putative aliphatic sulfonates-binding protein</title></polygon>
+<text x="1191.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">ssuA_7</text>
+<polygon points="1340.8,86.0 1284.1,86.0 1266.1,97.0 1284.1,108.0 1340.8,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>KBECFEFL_05892 | ssuE | Dehydrogenase/oxidoreductase | FMN reductase (NADPH)</title></polygon>
+<text x="1303.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">ssuE</text>
+<polygon points="1460.7,86.0 1398.4,86.0 1380.4,97.0 1398.4,108.0 1460.7,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KBECFEFL_05893 | KBECFEFL_05893 | Accessory/other | Peroxiredoxin</title></polygon>
+<text x="1420.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">KBECFEFL_05893</text>
+<polygon points="1664.0,86.0 1513.0,86.0 1495.0,97.0 1513.0,108.0 1664.0,108.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>KBECFEFL_05894 | nicP_10 | Transport/efflux | Porin-like protein NicP | PANEL HIT: opdK (Transportation / Transportation) | pident=36.941000 qcovs=93.000000</title></polygon>
+<text x="1579.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">nicP_10 (opdK)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">6,449,158 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">6,458,798 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

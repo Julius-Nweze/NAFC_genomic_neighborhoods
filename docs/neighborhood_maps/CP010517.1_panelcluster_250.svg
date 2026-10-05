@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">CP010517.1_panelcluster_250</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">CP010517.1 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: catR; fadK; galC; galR; nagR; nbaA; ssuD</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Aromatics; Beta-oxidation;</text>
+<text x="32.0" y="82.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Catechol-ortho; Gallate; Naphthalene</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="496.4,86.0 466.7,86.0 452.0,97.0 466.7,108.0 496.4,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>IBAGFFNI_01191 | msuD | Oxygenase/dioxygenase | Methanesulfonate monooxygenase | PANEL HIT: ssuD (Alkanes / Auxillary alkane pathway) | pident=62.564000 qcovs=99.000000</title></polygon>
+<text x="474.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 474.2 121.0)" fill="#111">msuD (ssuD)</text>
+<polygon points="534.0,86.0 508.7,86.0 496.3,97.0 508.7,108.0 534.0,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>IBAGFFNI_01192 | ssuA_2 | Accessory/other | Putative aliphatic sulfonates-binding protein</title></polygon>
+<text x="515.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 515.1 121.0)" fill="#555">ssuA_2</text>
+<polygon points="578.6,86.0 555.1,86.0 543.6,97.0 555.1,108.0 578.6,108.0" fill="#fdbf6f" stroke="#111" stroke-width="2.2"><title>IBAGFFNI_01193 | benM_3 | Regulator | HTH-type transcriptional regulator BenM | PANEL HIT: catR (Catechol-ortho / Catechol-ortho) | pident=35.789000 qcovs=96.000000</title></polygon>
+<text x="561.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 561.1 121.0)" fill="#111">benM_3 (catR)</text>
+<polygon points="581.7,86.0 592.7,86.0 599.7,97.0 592.7,108.0 581.7,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>IBAGFFNI_01194 | IBAGFFNI_01194 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="590.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 590.7 121.0)" fill="#555">IBAGFFNI_01194</text>
+<polygon points="593.1,86.0 604.1,86.0 611.1,97.0 604.1,108.0 593.1,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>IBAGFFNI_01195 | IBAGFFNI_01195 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="602.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 602.1 121.0)" fill="#555">IBAGFFNI_01195</text>
+<polygon points="610.8,86.0 636.1,86.0 648.6,97.0 636.1,108.0 610.8,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>IBAGFFNI_01196 | IBAGFFNI_01196 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="629.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 629.7 121.0)" fill="#555">IBAGFFNI_01196</text>
+<polygon points="650.4,86.0 666.4,86.0 674.3,97.0 666.4,108.0 650.4,108.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>IBAGFFNI_01197 | ligK_1 | Hydrolase/decarboxylase/lyase | 4-carboxy-4-hydroxy-2-oxoadipate aldolase | PANEL HIT: galC (Gallate / Gallate) | pident=41.951000 qcovs=86.000000</title></polygon>
+<text x="662.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 662.4 121.0)" fill="#111">ligK_1 (galC)</text>
+<polygon points="719.8,86.0 688.9,86.0 673.7,97.0 688.9,108.0 719.8,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>IBAGFFNI_01198 | nepI | Transport/efflux | Purine ribonucleoside efflux pump NepI</title></polygon>
+<text x="696.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 696.7 121.0)" fill="#555">nepI</text>
+<polygon points="724.3,86.0 747.0,86.0 758.2,97.0 747.0,108.0 724.3,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>IBAGFFNI_01199 | dmlR_9 | Regulator | HTH-type transcriptional regulator DmlR</title></polygon>
+<text x="741.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 741.2 121.0)" fill="#555">dmlR_9</text>
+<polygon points="780.2,86.0 769.2,86.0 762.2,97.0 769.2,108.0 780.2,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>IBAGFFNI_01200 | IBAGFFNI_01200 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="771.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 771.2 121.0)" fill="#555">IBAGFFNI_01200</text>
+<polygon points="785.0,86.0 816.9,86.0 832.7,97.0 816.9,108.0 785.0,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>IBAGFFNI_01201 | murA | Accessory/other | UDP-N-acetylglucosamine 1-carboxyvinyltransferase</title></polygon>
+<text x="808.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 808.8 121.0)" fill="#555">murA</text>
+<polygon points="870.7,86.0 847.8,86.0 836.5,97.0 847.8,108.0 870.7,108.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>IBAGFFNI_01202 | araD | Hydratase/dehydratase/isomerase | L-2-keto-3-deoxyarabonate dehydratase</title></polygon>
+<text x="853.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 853.6 121.0)" fill="#555">araD</text>
+<polygon points="921.6,86.0 887.9,86.0 871.3,97.0 887.9,108.0 921.6,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>IBAGFFNI_01203 | abaQ | Transport/efflux | Quinolone resistance transporter</title></polygon>
+<text x="896.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 896.4 121.0)" fill="#555">abaQ</text>
+<polygon points="981.7,86.0 941.5,86.0 923.5,97.0 941.5,108.0 981.7,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>IBAGFFNI_01204 | IBAGFFNI_01204 | Dehydrogenase/oxidoreductase | Alpha-ketoglutaric semialdehyde dehydrogenase 2</title></polygon>
+<text x="952.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 952.6 121.0)" fill="#555">IBAGFFNI_01204</text>
+<polygon points="1047.3,86.0 1001.4,86.0 983.4,97.0 1001.4,108.0 1047.3,108.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>IBAGFFNI_01205 | araC | Hydratase/dehydratase/isomerase | L-arabonate dehydratase</title></polygon>
+<text x="1015.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1015.3 121.0)" fill="#555">araC</text>
+<polygon points="1055.4,86.0 1079.4,86.0 1091.2,97.0 1079.4,108.0 1055.4,108.0" fill="#fdbf6f" stroke="#111" stroke-width="2.2"><title>IBAGFFNI_01206 | gbpR_3 | Regulator | HTH-type transcriptional regulator GbpR | PANEL HIT: galR (Gallate / Gallate) | pident=31.852000 qcovs=68.000000</title></polygon>
+<text x="1073.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1073.3 121.0)" fill="#111">gbpR_3 (galR)</text>
+<polygon points="1109.4,86.0 1137.0,86.0 1150.5,97.0 1137.0,108.0 1109.4,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>IBAGFFNI_01207 | gabR_2 | Regulator | HTH-type transcriptional regulatory protein GabR</title></polygon>
+<text x="1130.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1130.0 121.0)" fill="#555">gabR_2</text>
+<polygon points="1156.3,86.0 1172.3,86.0 1180.1,97.0 1172.3,108.0 1156.3,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>IBAGFFNI_01208 | paiB | Accessory/other | Protease synthase and sporulation protein PAI 2</title></polygon>
+<text x="1168.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1168.2 121.0)" fill="#555">paiB</text>
+<polygon points="1181.0,86.0 1204.2,86.0 1215.6,97.0 1204.2,108.0 1181.0,108.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>IBAGFFNI_01209 | pcpR | Accessory/other | PCP degradation transcriptional activation protein | PANEL HIT: nagR (Naphthalene / Naphthalene) | pident=31.023000 qcovs=98.000000</title></polygon>
+<text x="1198.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1198.3 121.0)" fill="#111">pcpR (nagR)</text>
+<polygon points="1221.1,86.0 1232.1,86.0 1239.1,97.0 1232.1,108.0 1221.1,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>IBAGFFNI_01210 | IBAGFFNI_01210 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1230.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1230.1 121.0)" fill="#555">IBAGFFNI_01210</text>
+<polygon points="1230.5,86.0 1259.7,86.0 1274.0,97.0 1259.7,108.0 1230.5,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>IBAGFFNI_01211 | emrA_1 | Accessory/other | Colistin resistance protein EmrA</title></polygon>
+<text x="1252.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1252.3 121.0)" fill="#555">emrA_1</text>
+<polygon points="1273.9,86.0 1313.5,86.0 1331.5,97.0 1313.5,108.0 1273.9,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>IBAGFFNI_01212 | emrB_1 | Accessory/other | Multidrug export protein EmrB</title></polygon>
+<text x="1302.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1302.7 121.0)" fill="#555">emrB_1</text>
+<polygon points="1367.8,86.0 1344.1,86.0 1332.4,97.0 1344.1,108.0 1367.8,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>IBAGFFNI_01213 | IBAGFFNI_01213 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1350.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1350.1 121.0)" fill="#555">IBAGFFNI_01213</text>
+<polygon points="1372.7,86.0 1397.4,86.0 1409.6,97.0 1397.4,108.0 1372.7,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>IBAGFFNI_01214 | dmlR_10 | Regulator | HTH-type transcriptional regulator DmlR</title></polygon>
+<text x="1391.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1391.1 121.0)" fill="#555">dmlR_10</text>
+<polygon points="1431.2,86.0 1416.3,86.0 1408.9,97.0 1416.3,108.0 1431.2,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>IBAGFFNI_01215 | IBAGFFNI_01215 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1420.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1420.1 121.0)" fill="#555">IBAGFFNI_01215</text>
+<polygon points="1490.3,86.0 1449.1,86.0 1431.1,97.0 1449.1,108.0 1490.3,108.0" fill="#1f78b4" stroke="#111" stroke-width="2.2"><title>IBAGFFNI_01216 | IBAGFFNI_01216 | CoA ligase/synthetase | Long-chain-fatty-acid--CoA ligase FadD13 | PANEL HIT: fadK (Beta-oxidation / Beta-oxidation) | pident=30.165000 qcovs=93.000000</title></polygon>
+<text x="1460.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1460.7 121.0)" fill="#111">IBAGFFNI_01216 (fadK)</text>
+<polygon points="1584.3,86.0 1517.5,86.0 1499.5,97.0 1517.5,108.0 1584.3,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>IBAGFFNI_01217 | IBAGFFNI_01217 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1541.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1541.9 121.0)" fill="#555">IBAGFFNI_01217</text>
+<polygon points="1615.1,86.0 1594.4,86.0 1584.3,97.0 1594.4,108.0 1615.1,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>IBAGFFNI_01218 | IBAGFFNI_01218 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1599.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1599.7 121.0)" fill="#555">IBAGFFNI_01218</text>
+<polygon points="1625.4,86.0 1638.3,86.0 1645.3,97.0 1638.3,108.0 1625.4,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>IBAGFFNI_01219 | IBAGFFNI_01219 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1635.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1635.4 121.0)" fill="#555">IBAGFFNI_01219</text>
+<polygon points="1664.0,86.0 1652.5,86.0 1645.5,97.0 1652.5,108.0 1664.0,108.0" fill="#d9d9d9" stroke="#111" stroke-width="2.2"><title>IBAGFFNI_01220 | IBAGFFNI_01220 | Hypothetical/accessory | hypothetical protein | PANEL HIT: nbaA (Aromatics / 2-Nitrobenzoate) | pident=38.095000 qcovs=78.000000</title></polygon>
+<text x="1654.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1654.8 121.0)" fill="#111">IBAGFFNI_01220 (nbaA)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">1,279,392 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">1,312,460 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

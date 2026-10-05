@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GROW_67_consensus_panelcluster_17261</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GROW_67_consensus | 1 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: dszC; galP; ladA</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Aromatics; Gallate</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="559.8,86.0 470.0,86.0 452.0,97.0 470.0,108.0 559.8,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>COLLAGROW67CONSE_00222 | dmoA_1 | Oxygenase/dioxygenase | Dimethyl-sulfide monooxygenase | PANEL HIT: ladA (Alkanes / Terminal/biterminal oxidation) | pident=50.446000 qcovs=98.000000</title></polygon>
+<text x="505.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 505.9 121.0)" fill="#111">dmoA_1 (ladA)</text>
+<polygon points="654.9,86.0 577.8,86.0 559.8,97.0 577.8,108.0 654.9,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>COLLAGROW67CONSE_00223 | sfnC_1 | Oxygenase/dioxygenase | putative FMNH2-dependent monooxygenase SfnC | PANEL HIT: dszC (Aromatics / Dibenzofuran) | pident=32.117000 qcovs=99.000000</title></polygon>
+<text x="607.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 607.4 121.0)" fill="#111">sfnC_1 (dszC)</text>
+<polygon points="757.2,86.0 676.2,86.0 658.2,97.0 676.2,108.0 757.2,108.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>COLLAGROW67CONSE_00224 | soxC | Accessory/other | Dibenzothiophene desulfurization enzyme C | PANEL HIT: dszC (Aromatics / Dibenzofuran) | pident=31.910000 qcovs=95.000000</title></polygon>
+<text x="707.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 707.7 121.0)" fill="#111">soxC (dszC)</text>
+<polygon points="833.9,86.0 790.9,86.0 772.9,97.0 790.9,108.0 833.9,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>COLLAGROW67CONSE_00225 | COLLAGROW67CONSE_00225 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="803.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 803.4 121.0)" fill="#555">COLLAGROW67CONSE_00225</text>
+<polygon points="917.8,86.0 876.3,86.0 858.3,97.0 876.3,108.0 917.8,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>COLLAGROW67CONSE_00226 | tcyC | Accessory/other | L-cystine import ATP-binding protein TcyC</title></polygon>
+<text x="888.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 888.0 121.0)" fill="#555">tcyC</text>
+<polygon points="971.1,86.0 935.5,86.0 918.0,97.0 935.5,108.0 971.1,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>COLLAGROW67CONSE_00227 | yecS_1 | Transport/efflux | L-cystine transport system permease protein YecS</title></polygon>
+<text x="944.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 944.5 121.0)" fill="#555">yecS_1</text>
+<polygon points="1034.3,86.0 989.0,86.0 971.0,97.0 989.0,108.0 1034.3,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>COLLAGROW67CONSE_00228 | fliY_1 | Accessory/other | L-cystine-binding protein FliY</title></polygon>
+<text x="1002.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1002.7 121.0)" fill="#555">fliY_1</text>
+<polygon points="1135.9,86.0 1074.6,86.0 1056.6,97.0 1074.6,108.0 1135.9,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>COLLAGROW67CONSE_00229 | dcyD | Accessory/other | D-cysteine desulfhydrase</title></polygon>
+<text x="1096.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1096.2 121.0)" fill="#555">dcyD</text>
+<polygon points="1149.1,86.0 1205.0,86.0 1223.0,97.0 1205.0,108.0 1149.1,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>COLLAGROW67CONSE_00230 | COLLAGROW67CONSE_00230 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1186.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1186.1 121.0)" fill="#555">COLLAGROW67CONSE_00230</text>
+<polygon points="1236.4,86.0 1267.8,86.0 1283.2,97.0 1267.8,108.0 1236.4,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>COLLAGROW67CONSE_00231 | COLLAGROW67CONSE_00231 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1259.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1259.8 121.0)" fill="#555">COLLAGROW67CONSE_00231</text>
+<polygon points="1290.4,86.0 1329.3,86.0 1347.3,97.0 1329.3,108.0 1290.4,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>COLLAGROW67CONSE_00232 | COLLAGROW67CONSE_00232 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1318.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1318.9 121.0)" fill="#555">COLLAGROW67CONSE_00232</text>
+<polygon points="1381.8,86.0 1523.2,86.0 1541.2,97.0 1523.2,108.0 1381.8,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>COLLAGROW67CONSE_00233 | betT2 | Transport/efflux | Osmo-dependent choline transporter BetT2</title></polygon>
+<text x="1461.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1461.5 121.0)" fill="#555">betT2</text>
+<polygon points="1556.4,86.0 1646.0,86.0 1664.0,97.0 1646.0,108.0 1556.4,108.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>COLLAGROW67CONSE_00234 | nicP_1 | Transport/efflux | Porin-like protein NicP | PANEL HIT: galP (Gallate / Gallate) | pident=33.259000 qcovs=98.000000</title></polygon>
+<text x="1610.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1610.2 121.0)" fill="#111">nicP_1 (galP)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">256,513 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">271,724 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

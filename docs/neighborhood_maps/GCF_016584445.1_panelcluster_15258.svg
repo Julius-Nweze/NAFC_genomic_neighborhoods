@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GCF_016584445.1_panelcluster_15258</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GCF_016584445.1 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: AAE3; PGRcl; benD-xylL; est; paaG</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Benzoate; Oxalate; Phenylacetate; Plastics;</text>
+<text x="32.0" y="82.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Pyrogallol</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="452.0,86.0 496.8,86.0 514.8,97.0 496.8,108.0 452.0,108.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>OBGEGAOL_03382 | OBGEGAOL_03382 | Accessory/other | putative protein | PANEL HIT: est (Plastics / PLA) | pident=40.048000 qcovs=99.000000</title></polygon>
+<text x="483.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 483.4 121.0)" fill="#111">OBGEGAOL_03382 (est)</text>
+<polygon points="560.5,86.0 534.1,86.0 521.1,97.0 534.1,108.0 560.5,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>OBGEGAOL_03383 | OBGEGAOL_03383 | Dehydrogenase/oxidoreductase | Glucose 1-dehydrogenase | PANEL HIT: PGRcl (Pyrogallol / Pyrogallol) | pident=30.075000 qcovs=96.000000</title></polygon>
+<text x="540.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 540.8 121.0)" fill="#111">OBGEGAOL_03383 (PGRcl)</text>
+<polygon points="608.6,86.0 582.6,86.0 569.8,97.0 582.6,108.0 608.6,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>OBGEGAOL_03384 | gpmA | Accessory/other | 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase</title></polygon>
+<text x="589.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 589.2 121.0)" fill="#555">gpmA</text>
+<polygon points="616.6,86.0 643.7,86.0 657.0,97.0 643.7,108.0 616.6,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>OBGEGAOL_03385 | lvr | Dehydrogenase/oxidoreductase | Levodione reductase | PANEL HIT: benD-xylL (Benzoate / Benzoate) | pident=31.907000 qcovs=94.000000</title></polygon>
+<text x="636.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 636.8 121.0)" fill="#111">lvr (benD-xylL)</text>
+<polygon points="729.1,86.0 692.7,86.0 674.7,97.0 692.7,108.0 729.1,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>OBGEGAOL_03386 | OBGEGAOL_03386 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="701.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 701.9 121.0)" fill="#555">OBGEGAOL_03386</text>
+<polygon points="800.1,86.0 754.8,86.0 736.8,97.0 754.8,108.0 800.1,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>OBGEGAOL_03387 | carC_3 | Dehydrogenase/oxidoreductase | Caffeyl-CoA reductase-Etf complex subunit CarC</title></polygon>
+<text x="768.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 768.5 121.0)" fill="#555">carC_3</text>
+<polygon points="812.6,86.0 835.4,86.0 846.7,97.0 835.4,108.0 812.6,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>OBGEGAOL_03388 | OBGEGAOL_03388 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="829.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 829.6 121.0)" fill="#555">OBGEGAOL_03388</text>
+<polygon points="933.4,86.0 866.1,86.0 848.1,97.0 866.1,108.0 933.4,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>OBGEGAOL_03389 | mntH_3 | Transport/efflux | Divalent metal cation transporter MntH</title></polygon>
+<text x="890.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 890.8 121.0)" fill="#555">mntH_3</text>
+<polygon points="962.2,86.0 951.2,86.0 944.2,97.0 951.2,108.0 962.2,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>OBGEGAOL_03390 | OBGEGAOL_03390 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="953.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 953.2 121.0)" fill="#555">OBGEGAOL_03390</text>
+<polygon points="1013.2,86.0 987.3,86.0 974.6,97.0 987.3,108.0 1013.2,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>OBGEGAOL_03391 | livF_10 | Transport/efflux | High-affinity branched-chain amino acid transport ATP-binding protein LivF</title></polygon>
+<text x="993.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 993.9 121.0)" fill="#555">livF_10</text>
+<polygon points="1052.6,86.0 1026.0,86.0 1013.0,97.0 1026.0,108.0 1052.6,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>OBGEGAOL_03392 | glnQ_2 | Transport/efflux | Glutamine transport ATP-binding protein GlnQ</title></polygon>
+<text x="1032.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1032.8 121.0)" fill="#555">glnQ_2</text>
+<polygon points="1115.2,86.0 1070.4,86.0 1052.4,97.0 1070.4,108.0 1115.2,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>OBGEGAOL_03393 | OBGEGAOL_03393 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1083.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1083.8 121.0)" fill="#555">OBGEGAOL_03393</text>
+<polygon points="1167.1,86.0 1132.4,86.0 1115.4,97.0 1132.4,108.0 1167.1,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>OBGEGAOL_03394 | livH_10 | Transport/efflux | High-affinity branched-chain amino acid transport system permease protein LivH</title></polygon>
+<text x="1141.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1141.2 121.0)" fill="#555">livH_10</text>
+<polygon points="1249.2,86.0 1197.7,86.0 1179.7,97.0 1197.7,108.0 1249.2,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>OBGEGAOL_03395 | OBGEGAOL_03395 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1214.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1214.5 121.0)" fill="#555">OBGEGAOL_03395</text>
+<polygon points="1343.1,86.0 1290.0,86.0 1272.0,97.0 1290.0,108.0 1343.1,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>OBGEGAOL_03396 | OBGEGAOL_03396 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1307.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1307.6 121.0)" fill="#555">OBGEGAOL_03396</text>
+<polygon points="1421.3,86.0 1369.5,86.0 1351.5,97.0 1369.5,108.0 1421.3,108.0" fill="#1f78b4" stroke="#111" stroke-width="2.2"><title>OBGEGAOL_03397 | fadD3_4 | CoA ligase/synthetase | 3-[(3aS,4S,7aS)-7a-methyl-1,5-dioxo-octahydro-1H-inden-4-yl]propanoyl:CoA ligase | PANEL HIT: AAE3 (Oxalate / Oxalate) | pident=33.807000 qcovs=56.000000</title></polygon>
+<text x="1386.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1386.4 121.0)" fill="#111">fadD3_4 (AAE3)</text>
+<polygon points="1467.3,86.0 1440.4,86.0 1427.2,97.0 1440.4,108.0 1467.3,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>OBGEGAOL_03398 | OBGEGAOL_03398 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1447.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1447.2 121.0)" fill="#555">OBGEGAOL_03398</text>
+<polygon points="1473.8,86.0 1516.6,86.0 1534.6,97.0 1516.6,108.0 1473.8,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>OBGEGAOL_03399 | OBGEGAOL_03399 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1504.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1504.2 121.0)" fill="#555">OBGEGAOL_03399</text>
+<polygon points="1535.1,86.0 1550.5,86.0 1558.1,97.0 1550.5,108.0 1535.1,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>OBGEGAOL_03400 | OBGEGAOL_03400 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1546.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1546.6 121.0)" fill="#555">OBGEGAOL_03400</text>
+<polygon points="1557.9,86.0 1572.5,86.0 1579.7,97.0 1572.5,108.0 1557.9,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>OBGEGAOL_03401 | OBGEGAOL_03401 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1568.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1568.8 121.0)" fill="#555">OBGEGAOL_03401</text>
+<polygon points="1580.9,86.0 1609.4,86.0 1623.4,97.0 1609.4,108.0 1580.9,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>OBGEGAOL_03402 | fabG_9 | Dehydrogenase/oxidoreductase | 3-oxoacyl-[acyl-carrier-protein] reductase</title></polygon>
+<text x="1602.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1602.2 121.0)" fill="#555">fabG_9</text>
+<polygon points="1626.1,86.0 1651.5,86.0 1664.0,97.0 1651.5,108.0 1626.1,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>OBGEGAOL_03403 | paaG_3 | Hydratase/dehydratase/isomerase | 1,2-epoxyphenylacetyl-CoA isomerase | PANEL HIT: paaG (Phenylacetate / Phenylacetate) | pident=46.154000 qcovs=94.000000</title></polygon>
+<text x="1645.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1645.1 121.0)" fill="#111">paaG_3 (paaG)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">3,692,224 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">3,715,839 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

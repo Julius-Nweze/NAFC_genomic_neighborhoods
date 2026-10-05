@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GCF_016584445.1_panelcluster_15213</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GCF_016584445.1 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: chnE; est; fadK</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Beta-oxidation; Plastics</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="611.4,86.0 470.0,86.0 452.0,97.0 470.0,108.0 611.4,108.0" fill="#1f78b4" stroke="#111" stroke-width="2.2"><title>OBGEGAOL_00478 | fadD3_1 | CoA ligase/synthetase | 3-[(3aS,4S,7aS)-7a-methyl-1,5-dioxo-octahydro-1H-inden-4-yl]propanoyl:CoA ligase | PANEL HIT: fadK (Beta-oxidation / Beta-oxidation) | pident=37.640000 qcovs=62.000000</title></polygon>
+<text x="531.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">fadD3_1 (fadK)</text>
+<polygon points="687.6,86.0 637.2,86.0 619.2,97.0 637.2,108.0 687.6,108.0" fill="#1f78b4" stroke="#888" stroke-width="0.8"><title>OBGEGAOL_00479 | menE_1 | CoA ligase/synthetase | 2-succinylbenzoate--CoA ligase</title></polygon>
+<text x="653.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">menE_1</text>
+<polygon points="870.7,86.0 723.5,86.0 705.5,97.0 723.5,108.0 870.7,108.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>OBGEGAOL_00480 | OBGEGAOL_00480 | Accessory/other | putative protein | PANEL HIT: est (Plastics / PBAT) | pident=53.562000 qcovs=98.000000</title></polygon>
+<text x="788.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">OBGEGAOL_00480 (est)</text>
+<polygon points="904.1,86.0 934.6,86.0 949.6,97.0 934.6,108.0 904.1,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>OBGEGAOL_00481 | OBGEGAOL_00481 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="926.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">OBGEGAOL_00481</text>
+<polygon points="971.8,86.0 1161.6,86.0 1179.6,97.0 1161.6,108.0 971.8,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>OBGEGAOL_00482 | davD_1 | Dehydrogenase/oxidoreductase | Glutarate-semialdehyde dehydrogenase | PANEL HIT: chnE (Alkanes / Terminal/biterminal oxidation) | pident=35.541000 qcovs=98.000000</title></polygon>
+<text x="1075.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">davD_1 (chnE)</text>
+<polygon points="1335.0,86.0 1227.0,86.0 1209.0,97.0 1227.0,108.0 1335.0,108.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>OBGEGAOL_00483 | menB_1 | Hydratase/dehydratase/isomerase | 1,4-dihydroxy-2-naphthoyl-CoA synthase</title></polygon>
+<text x="1272.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">menB_1</text>
+<polygon points="1346.9,86.0 1416.5,86.0 1434.5,97.0 1416.5,108.0 1346.9,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>OBGEGAOL_00484 | OBGEGAOL_00484 | Regulator | putative HTH-type transcriptional regulator</title></polygon>
+<text x="1390.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">OBGEGAOL_00484</text>
+<polygon points="1437.9,86.0 1646.0,86.0 1664.0,97.0 1646.0,108.0 1437.9,108.0" fill="#1f78b4" stroke="#111" stroke-width="2.2"><title>OBGEGAOL_00485 | fadD3_2 | CoA ligase/synthetase | 3-[(3aS,4S,7aS)-7a-methyl-1,5-dioxo-octahydro-1H-inden-4-yl]propanoyl:CoA ligase | PANEL HIT: fadK (Beta-oxidation / Beta-oxidation) | pident=31.622000 qcovs=85.000000</title></polygon>
+<text x="1550.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">fadD3_2 (fadK)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">503,644 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">512,358 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

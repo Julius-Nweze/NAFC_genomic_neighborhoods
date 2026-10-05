@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_129_panelcluster_2020</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_129 | MAGs/Exp3_MAG_129_c_000000000572 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: badH; bphD; bphF; catR; galC; mhpD; mhpF; nagR; pcaK</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Beta-oxidation; Catechol-meta;</text>
+<text x="32.0" y="82.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Catechol-ortho; Gallate; Naphthalene; Transportation</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="452.0,86.0 477.3,86.0 489.7,97.0 477.3,108.0 452.0,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>AIHDGFJB_05418 | mhpD_2 | Hydratase/dehydratase/isomerase | 2-keto-4-pentenoate hydratase | PANEL HIT: mhpD (Catechol-meta / Catechol-meta) | pident=55.039000 qcovs=96.000000</title></polygon>
+<text x="470.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 470.9 121.0)" fill="#111">mhpD_2 (mhpD)</text>
+<polygon points="490.8,86.0 520.1,86.0 534.5,97.0 520.1,108.0 490.8,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>AIHDGFJB_05419 | mhpF | Dehydrogenase/oxidoreductase | Acetaldehyde dehydrogenase | PANEL HIT: mhpF (Catechol-meta / Catechol-meta) | pident=80.195000 qcovs=97.000000</title></polygon>
+<text x="512.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 512.7 121.0)" fill="#111">mhpF (mhpF)</text>
+<polygon points="535.1,86.0 566.7,86.0 582.3,97.0 566.7,108.0 535.1,108.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>AIHDGFJB_05420 | mhpE | Hydrolase/decarboxylase/lyase | 4-hydroxy-2-oxovalerate aldolase | PANEL HIT: bphF (Aromatics / Biphenyl) | pident=85.285000 qcovs=95.000000</title></polygon>
+<text x="558.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 558.7 121.0)" fill="#111">mhpE (bphF)</text>
+<polygon points="586.8,86.0 626.5,86.0 644.5,97.0 626.5,108.0 586.8,108.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>AIHDGFJB_05421 | mhpT_1 | Transport/efflux | 3-(3-hydroxy-phenyl)propionate transporter | PANEL HIT: pcaK (Transportation / Transportation) | pident=32.995000 qcovs=88.000000</title></polygon>
+<text x="615.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 615.7 121.0)" fill="#111">mhpT_1 (pcaK)</text>
+<polygon points="648.9,86.0 675.9,86.0 689.2,97.0 675.9,108.0 648.9,108.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>AIHDGFJB_05422 | mhpC | Hydrolase/decarboxylase/lyase | 2-hydroxy-6-oxononadienedioate/2-hydroxy-6-oxononatrienedioate hydrolase | PANEL HIT: bphD (Aromatics / Biphenyl) | pident=56.294000 qcovs=99.000000</title></polygon>
+<text x="669.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 669.0 121.0)" fill="#111">mhpC (bphD)</text>
+<polygon points="724.7,86.0 702.9,86.0 692.2,97.0 702.9,108.0 724.7,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>AIHDGFJB_05423 | AIHDGFJB_05423 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="708.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 708.5 121.0)" fill="#555">AIHDGFJB_05423</text>
+<polygon points="776.9,86.0 745.7,86.0 730.3,97.0 745.7,108.0 776.9,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>AIHDGFJB_05424 | ssuA_5 | Accessory/other | Putative aliphatic sulfonates-binding protein</title></polygon>
+<text x="753.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 753.6 121.0)" fill="#555">ssuA_5</text>
+<polygon points="812.5,86.0 794.2,86.0 785.2,97.0 794.2,108.0 812.5,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>AIHDGFJB_05425 | AIHDGFJB_05425 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="798.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 798.9 121.0)" fill="#555">AIHDGFJB_05425</text>
+<polygon points="821.6,86.0 845.7,86.0 857.6,97.0 845.7,108.0 821.6,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>AIHDGFJB_05426 | baiA_1 | Dehydrogenase/oxidoreductase | 3-alpha-hydroxycholanate dehydrogenase (NADP(+))</title></polygon>
+<text x="839.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 839.6 121.0)" fill="#555">baiA_1</text>
+<polygon points="906.6,86.0 876.5,86.0 861.8,97.0 876.5,108.0 906.6,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>AIHDGFJB_05427 | hprA | Dehydrogenase/oxidoreductase | Glycerate dehydrogenase</title></polygon>
+<text x="884.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 884.2 121.0)" fill="#555">hprA</text>
+<polygon points="1003.0,86.0 925.4,86.0 907.4,97.0 925.4,108.0 1003.0,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>AIHDGFJB_05428 | tktB | Accessory/other | Transketolase 2</title></polygon>
+<text x="955.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 955.2 121.0)" fill="#555">tktB</text>
+<polygon points="1098.2,86.0 1029.9,86.0 1011.9,97.0 1029.9,108.0 1098.2,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>AIHDGFJB_05429 | siaT_3 | Transport/efflux | Sialic acid TRAP transporter permease protein SiaT</title></polygon>
+<text x="1055.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1055.1 121.0)" fill="#555">siaT_3</text>
+<polygon points="1146.8,86.0 1114.3,86.0 1098.4,97.0 1114.3,108.0 1146.8,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>AIHDGFJB_05430 | yiaO | Accessory/other | 2,3-diketo-L-gulonate-binding periplasmic protein YiaO</title></polygon>
+<text x="1122.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1122.6 121.0)" fill="#555">yiaO</text>
+<polygon points="1189.5,86.0 1165.7,86.0 1154.0,97.0 1165.7,108.0 1189.5,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>AIHDGFJB_05431 | fabG_12 | Dehydrogenase/oxidoreductase | 3-oxoacyl-[acyl-carrier-protein] reductase FabG | PANEL HIT: badH (Beta-oxidation / Beta-oxidation) | pident=39.453000 qcovs=99.000000</title></polygon>
+<text x="1171.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1171.8 121.0)" fill="#111">fabG_12 (badH)</text>
+<polygon points="1239.9,86.0 1208.9,86.0 1193.6,97.0 1208.9,108.0 1239.9,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>AIHDGFJB_05432 | aptB_2 | Accessory/other | Apulose-4-phosphate transketolase subunit B</title></polygon>
+<text x="1216.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1216.7 121.0)" fill="#555">aptB_2</text>
+<polygon points="1279.0,86.0 1252.7,86.0 1239.7,97.0 1252.7,108.0 1279.0,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>AIHDGFJB_05433 | aptA_2 | Accessory/other | Apulose-4-phosphate transketolase subunit A</title></polygon>
+<text x="1259.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1259.3 121.0)" fill="#555">aptA_2</text>
+<polygon points="1285.0,86.0 1312.7,86.0 1326.3,97.0 1312.7,108.0 1285.0,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>AIHDGFJB_05434 | gcvA_12 | Regulator | Glycine cleavage system transcriptional activator</title></polygon>
+<text x="1305.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1305.7 121.0)" fill="#555">gcvA_12</text>
+<polygon points="1326.9,86.0 1352.0,86.0 1364.3,97.0 1352.0,108.0 1326.9,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>AIHDGFJB_05435 | AIHDGFJB_05435 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1345.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1345.6 121.0)" fill="#555">AIHDGFJB_05435</text>
+<polygon points="1365.5,86.0 1392.1,86.0 1405.2,97.0 1392.1,108.0 1365.5,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>AIHDGFJB_05436 | araC_4 | Accessory/other | Arabinose operon regulatory protein</title></polygon>
+<text x="1385.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1385.4 121.0)" fill="#555">araC_4</text>
+<polygon points="1424.9,86.0 1413.4,86.0 1406.4,97.0 1413.4,108.0 1424.9,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>AIHDGFJB_05437 | AIHDGFJB_05437 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1415.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1415.7 121.0)" fill="#555">AIHDGFJB_05437</text>
+<polygon points="1456.5,86.0 1435.7,86.0 1425.4,97.0 1435.7,108.0 1456.5,108.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>AIHDGFJB_05438 | ligK | Hydrolase/decarboxylase/lyase | 4-carboxy-4-hydroxy-2-oxoadipate aldolase | PANEL HIT: galC (Gallate / Gallate) | pident=36.723000 qcovs=74.000000</title></polygon>
+<text x="1441.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1441.0 121.0)" fill="#111">ligK (galC)</text>
+<polygon points="1505.5,86.0 1472.5,86.0 1456.3,97.0 1472.5,108.0 1505.5,108.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>AIHDGFJB_05439 | ligJ_1 | Hydratase/dehydratase/isomerase | 2-keto-4-carboxy-3-hexenedioate hydratase</title></polygon>
+<text x="1480.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1480.9 121.0)" fill="#555">ligJ_1</text>
+<polygon points="1571.5,86.0 1528.1,86.0 1510.1,97.0 1528.1,108.0 1571.5,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>AIHDGFJB_05440 | ttuB_5 | Transport/efflux | Putative tartrate transporter</title></polygon>
+<text x="1540.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1540.8 121.0)" fill="#555">ttuB_5</text>
+<polygon points="1619.0,86.0 1591.0,86.0 1577.2,97.0 1591.0,108.0 1619.0,108.0" fill="#fdbf6f" stroke="#111" stroke-width="2.2"><title>AIHDGFJB_05441 | benM_4 | Regulator | HTH-type transcriptional regulator BenM | PANEL HIT: catR (Catechol-ortho / Catechol-ortho) | pident=40.214000 qcovs=95.000000</title></polygon>
+<text x="1598.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1598.1 121.0)" fill="#111">benM_4 (catR)</text>
+<polygon points="1664.0,86.0 1633.7,86.0 1618.8,97.0 1633.7,108.0 1664.0,108.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>AIHDGFJB_05442 | pcpR_3 | Accessory/other | PCP degradation transcriptional activation protein | PANEL HIT: nagR (Naphthalene / Naphthalene) | pident=37.075000 qcovs=98.000000</title></polygon>
+<text x="1641.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1641.4 121.0)" fill="#111">pcpR_3 (nagR)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">14,799 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">40,933 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

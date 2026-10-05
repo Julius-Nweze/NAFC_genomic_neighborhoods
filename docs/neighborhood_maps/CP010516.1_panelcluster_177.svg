@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">CP010516.1_panelcluster_177</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">CP010516.1 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: acdA; atoB; badI; hmgL</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Beta-oxidation; Cyclohexylacetate</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="452.0,86.0 492.8,86.0 510.8,97.0 492.8,108.0 452.0,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>FMAPAJKO_00098 | bcd_1 | Dehydrogenase/oxidoreductase | Acyl-CoA dehydrogenase, short-chain specific | PANEL HIT: acdA (Beta-oxidation / Beta-oxidation) | pident=43.194000 qcovs=99.000000</title></polygon>
+<text x="481.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 481.4 121.0)" fill="#111">bcd_1 (acdA)</text>
+<polygon points="521.3,86.0 593.5,86.0 611.5,97.0 593.5,108.0 521.3,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>FMAPAJKO_00099 | aceK | Dehydrogenase/oxidoreductase | Isocitrate dehydrogenase kinase/phosphatase</title></polygon>
+<text x="566.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 566.4 121.0)" fill="#555">aceK</text>
+<polygon points="611.3,86.0 633.6,86.0 644.6,97.0 633.6,108.0 611.3,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>FMAPAJKO_00100 | can_1 | Accessory/other | Carbonic anhydrase 2</title></polygon>
+<text x="627.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 627.9 121.0)" fill="#555">can_1</text>
+<polygon points="649.1,86.0 689.8,86.0 707.8,97.0 689.8,108.0 649.1,108.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>FMAPAJKO_00101 | thlA | Thiolase/transferase | Acetyl-CoA acetyltransferase | PANEL HIT: atoB (Beta-oxidation / Beta-oxidation) | pident=47.680000 qcovs=98.000000</title></polygon>
+<text x="678.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 678.5 121.0)" fill="#111">thlA (atoB)</text>
+<polygon points="709.2,86.0 733.3,86.0 745.2,97.0 733.3,108.0 709.2,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>FMAPAJKO_00102 | FMAPAJKO_00102 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="727.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 727.2 121.0)" fill="#555">FMAPAJKO_00102</text>
+<polygon points="745.5,86.0 783.7,86.0 801.7,97.0 783.7,108.0 745.5,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>FMAPAJKO_00103 | acdA | Dehydrogenase/oxidoreductase | Acyl-CoA dehydrogenase | PANEL HIT: acdA (Beta-oxidation / Beta-oxidation) | pident=49.067000 qcovs=99.000000</title></polygon>
+<text x="773.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 773.6 121.0)" fill="#111">acdA (acdA)</text>
+<polygon points="805.5,86.0 827.5,86.0 838.3,97.0 827.5,108.0 805.5,108.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>FMAPAJKO_00104 | nsaD_1 | Hydratase/dehydratase/isomerase | 2-hydroxychromene-2-carboxylate isomerase</title></polygon>
+<text x="821.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 821.9 121.0)" fill="#555">nsaD_1</text>
+<polygon points="838.1,86.0 861.2,86.0 872.6,97.0 861.2,108.0 838.1,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>FMAPAJKO_00105 | yieH | Accessory/other | 6-phosphogluconate phosphatase</title></polygon>
+<text x="855.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 855.4 121.0)" fill="#555">yieH</text>
+<polygon points="872.4,86.0 887.7,86.0 895.2,97.0 887.7,108.0 872.4,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>FMAPAJKO_00106 | FMAPAJKO_00106 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="883.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 883.8 121.0)" fill="#555">FMAPAJKO_00106</text>
+<polygon points="901.4,86.0 963.1,86.0 981.1,97.0 963.1,108.0 901.4,108.0" fill="#6a3d9a" stroke="#888" stroke-width="0.8"><title>FMAPAJKO_00107 | FMAPAJKO_00107 | Carboxylase | Methylmalonyl-CoA carboxyltransferase 12S subunit</title></polygon>
+<text x="941.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 941.2 121.0)" fill="#555">FMAPAJKO_00107</text>
+<polygon points="981.3,86.0 1014.5,86.0 1030.9,97.0 1014.5,108.0 981.3,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>FMAPAJKO_00108 | FMAPAJKO_00108 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1006.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1006.1 121.0)" fill="#555">FMAPAJKO_00108</text>
+<polygon points="1035.0,86.0 1061.7,86.0 1074.8,97.0 1061.7,108.0 1035.0,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>FMAPAJKO_00109 | menB_2 | Hydratase/dehydratase/isomerase | 1,4-dihydroxy-2-naphthoyl-CoA synthase | PANEL HIT: badI (Beta-oxidation / Beta-oxidation) | pident=34.082000 qcovs=98.000000</title></polygon>
+<text x="1054.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1054.9 121.0)" fill="#111">menB_2 (badI)</text>
+<polygon points="1088.8,86.0 1121.0,86.0 1136.8,97.0 1121.0,108.0 1088.8,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>FMAPAJKO_00110 | bioA_1 | Accessory/other | Adenosylmethionine-8-amino-7-oxononanoate aminotransferase</title></polygon>
+<text x="1112.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1112.8 121.0)" fill="#555">bioA_1</text>
+<polygon points="1136.5,86.0 1152.4,86.0 1160.2,97.0 1152.4,108.0 1136.5,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>FMAPAJKO_00111 | bioA_2 | Accessory/other | Adenosylmethionine-8-amino-7-oxononanoate aminotransferase</title></polygon>
+<text x="1148.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1148.3 121.0)" fill="#555">bioA_2</text>
+<polygon points="1159.6,86.0 1170.6,86.0 1177.6,97.0 1170.6,108.0 1159.6,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>FMAPAJKO_00112 | bioF_1 | Accessory/other | 8-amino-7-oxononanoate synthase</title></polygon>
+<text x="1168.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1168.6 121.0)" fill="#555">bioF_1</text>
+<polygon points="1177.7,86.0 1207.0,86.0 1221.3,97.0 1207.0,108.0 1177.7,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>FMAPAJKO_00113 | bioF_2 | Accessory/other | 8-amino-7-oxononanoate synthase</title></polygon>
+<text x="1199.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1199.5 121.0)" fill="#555">bioF_2</text>
+<polygon points="1221.1,86.0 1246.0,86.0 1258.2,97.0 1246.0,108.0 1221.1,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>FMAPAJKO_00114 | bioD1 | Accessory/other | ATP-dependent dethiobiotin synthetase BioD 1</title></polygon>
+<text x="1239.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1239.7 121.0)" fill="#555">bioD1</text>
+<polygon points="1259.2,86.0 1294.0,86.0 1311.1,97.0 1294.0,108.0 1259.2,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>FMAPAJKO_00115 | bioB | Accessory/other | Biotin synthase</title></polygon>
+<text x="1285.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1285.1 121.0)" fill="#555">bioB</text>
+<polygon points="1317.2,86.0 1399.6,86.0 1417.6,97.0 1399.6,108.0 1317.2,108.0" fill="#6a3d9a" stroke="#888" stroke-width="0.8"><title>FMAPAJKO_00116 | accA1 | Carboxylase | Acetyl-/propionyl-coenzyme A carboxylase alpha chain</title></polygon>
+<text x="1367.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1367.4 121.0)" fill="#555">accA1</text>
+<polygon points="1430.6,86.0 1468.0,86.0 1486.0,97.0 1468.0,108.0 1430.6,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>FMAPAJKO_00117 | FMAPAJKO_00117 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1458.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1458.3 121.0)" fill="#555">FMAPAJKO_00117</text>
+<polygon points="1485.2,86.0 1543.9,86.0 1561.9,97.0 1543.9,108.0 1485.2,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>FMAPAJKO_00118 | FMAPAJKO_00118 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1523.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1523.6 121.0)" fill="#555">FMAPAJKO_00118</text>
+<polygon points="1567.3,86.0 1598.6,86.0 1614.0,97.0 1598.6,108.0 1567.3,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>FMAPAJKO_00119 | ghrA | Dehydrogenase/oxidoreductase | Glyoxylate/hydroxypyruvate reductase A</title></polygon>
+<text x="1590.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1590.7 121.0)" fill="#555">ghrA</text>
+<polygon points="1617.3,86.0 1648.6,86.0 1664.0,97.0 1648.6,108.0 1617.3,108.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>FMAPAJKO_00120 | liuE | Hydrolase/decarboxylase/lyase | 3-hydroxy-3-isohexenylglutaryl-CoA/hydroxy-methylglutaryl-CoA lyase | PANEL HIT: hmgL (Cyclohexylacetate / Cyclohexylacetate) | pident=60.678000 qcovs=99.000000</title></polygon>
+<text x="1640.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1640.6 121.0)" fill="#111">liuE (hmgL)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">98,097 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">122,522 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GROW_105_consensus_panelcluster_16738</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GROW_105_consensus | 1 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: benC; bphD; carAa; mhpD; mhpF; pobB; xylB; xylK</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Catechol-meta; Protocatechuate</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="493.5,86.0 465.7,86.0 452.0,97.0 465.7,108.0 493.5,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>NAEPHDBK_03285 | frmA_2 | Dehydrogenase/oxidoreductase | S-(hydroxymethyl)glutathione dehydrogenase | PANEL HIT: xylB (Aromatics / Toluene) | pident=32.698000 qcovs=99.000000</title></polygon>
+<text x="472.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 472.8 121.0)" fill="#111">frmA_2 (xylB)</text>
+<polygon points="544.5,86.0 511.6,86.0 495.3,97.0 511.6,108.0 544.5,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>NAEPHDBK_03286 | NAEPHDBK_03286 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="519.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 519.9 121.0)" fill="#555">NAEPHDBK_03286</text>
+<polygon points="583.0,86.0 557.5,86.0 544.9,97.0 557.5,108.0 583.0,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>NAEPHDBK_03287 | benC_1 | Oxygenase/dioxygenase | Benzoate 1,2-dioxygenase electron transfer component | PANEL HIT: benC (Aromatics / Benzene) | pident=33.038000 qcovs=63.000000</title></polygon>
+<text x="564.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 564.0 121.0)" fill="#111">benC_1 (benC)</text>
+<polygon points="598.3,86.0 625.8,86.0 639.3,97.0 625.8,108.0 598.3,108.0" fill="#fb9a99" stroke="#888" stroke-width="0.8"><title>NAEPHDBK_03288 | tsaM1 | Electron transfer/redox | Toluene-4-sulfonate monooxygenase system iron-sulfur subunit TsaM1</title></polygon>
+<text x="618.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 618.8 121.0)" fill="#555">tsaM1</text>
+<polygon points="639.4,86.0 650.4,86.0 657.4,97.0 650.4,108.0 639.4,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>NAEPHDBK_03289 | NAEPHDBK_03289 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="648.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 648.4 121.0)" fill="#555">NAEPHDBK_03289</text>
+<polygon points="661.8,86.0 685.5,86.0 697.1,97.0 685.5,108.0 661.8,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>NAEPHDBK_03290 | ophA1 | Oxygenase/dioxygenase | Phthalate dioxygenase reductase | PANEL HIT: pobB (Protocatechuate / Protocatechuate) | pident=42.997000 qcovs=94.000000</title></polygon>
+<text x="679.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 679.5 121.0)" fill="#111">ophA1 (pobB)</text>
+<polygon points="700.2,86.0 711.2,86.0 718.2,97.0 711.2,108.0 700.2,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>NAEPHDBK_03291 | iorA_2 | Dehydrogenase/oxidoreductase | Isoquinoline 1-oxidoreductase subunit alpha</title></polygon>
+<text x="709.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 709.2 121.0)" fill="#555">iorA_2</text>
+<polygon points="717.5,86.0 780.3,86.0 798.3,97.0 780.3,108.0 717.5,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>NAEPHDBK_03292 | iorB_2 | Dehydrogenase/oxidoreductase | Isoquinoline 1-oxidoreductase subunit beta</title></polygon>
+<text x="757.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 757.9 121.0)" fill="#555">iorB_2</text>
+<polygon points="799.4,86.0 823.6,86.0 835.5,97.0 823.6,108.0 799.4,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>NAEPHDBK_03293 | pucA_1 | Dehydrogenase/oxidoreductase | putative xanthine dehydrogenase subunit A</title></polygon>
+<text x="817.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 817.5 121.0)" fill="#555">pucA_1</text>
+<polygon points="849.5,86.0 860.5,86.0 867.5,97.0 860.5,108.0 849.5,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>NAEPHDBK_03294 | NAEPHDBK_03294 | Accessory/other | Cytochrome c2</title></polygon>
+<text x="858.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 858.5 121.0)" fill="#555">NAEPHDBK_03294</text>
+<polygon points="863.4,86.0 896.0,86.0 912.1,97.0 896.0,108.0 863.4,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>NAEPHDBK_03295 | NAEPHDBK_03295 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="887.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 887.7 121.0)" fill="#555">NAEPHDBK_03295</text>
+<polygon points="970.0,86.0 935.1,86.0 917.8,97.0 935.1,108.0 970.0,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>NAEPHDBK_03296 | amiD_2 | Accessory/other | Putative amidase AmiD</title></polygon>
+<text x="943.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 943.9 121.0)" fill="#555">amiD_2</text>
+<polygon points="1001.9,86.0 980.5,86.0 969.9,97.0 980.5,108.0 1001.9,108.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>NAEPHDBK_03297 | hsaD | Hydrolase/decarboxylase/lyase | 4,5:9,10-diseco-3-hydroxy-5,9,17-trioxoandrosta-1(10),2-diene-4-oate hydrolase | PANEL HIT: bphD (Aromatics / Biphenyl) | pident=32.753000 qcovs=97.000000</title></polygon>
+<text x="985.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 985.9 121.0)" fill="#111">hsaD (bphD)</text>
+<polygon points="1053.6,86.0 1020.4,86.0 1004.0,97.0 1020.4,108.0 1053.6,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>NAEPHDBK_03298 | carAa | Oxygenase/dioxygenase | Carbazole 1,9a-dioxygenase, terminal oxygenase component CarAa | PANEL HIT: carAa (Aromatics / Carbazol) | pident=40.921000 qcovs=96.000000</title></polygon>
+<text x="1028.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1028.8 121.0)" fill="#111">carAa (carAa)</text>
+<polygon points="1096.2,86.0 1071.3,86.0 1059.1,97.0 1071.3,108.0 1096.2,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>NAEPHDBK_03299 | rhaS_7 | Regulator | HTH-type transcriptional activator RhaS</title></polygon>
+<text x="1077.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1077.6 121.0)" fill="#555">rhaS_7</text>
+<polygon points="1131.2,86.0 1117.3,86.0 1110.3,97.0 1117.3,108.0 1131.2,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>NAEPHDBK_03300 | NAEPHDBK_03300 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1120.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1120.7 121.0)" fill="#555">NAEPHDBK_03300</text>
+<polygon points="1174.9,86.0 1147.4,86.0 1133.8,97.0 1147.4,108.0 1174.9,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>NAEPHDBK_03301 | gutB | Dehydrogenase/oxidoreductase | Sorbitol dehydrogenase</title></polygon>
+<text x="1154.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1154.4 121.0)" fill="#555">gutB</text>
+<polygon points="1226.2,86.0 1194.6,86.0 1179.1,97.0 1194.6,108.0 1226.2,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>NAEPHDBK_03302 | NAEPHDBK_03302 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1202.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1202.6 121.0)" fill="#555">NAEPHDBK_03302</text>
+<polygon points="1286.5,86.0 1244.8,86.0 1226.8,97.0 1244.8,108.0 1286.5,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>NAEPHDBK_03303 | NAEPHDBK_03303 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1256.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1256.6 121.0)" fill="#555">NAEPHDBK_03303</text>
+<polygon points="1376.8,86.0 1306.7,86.0 1288.7,97.0 1306.7,108.0 1376.8,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>NAEPHDBK_03304 | NAEPHDBK_03304 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1332.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1332.7 121.0)" fill="#555">NAEPHDBK_03304</text>
+<polygon points="1416.8,86.0 1390.9,86.0 1378.1,97.0 1390.9,108.0 1416.8,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>NAEPHDBK_03305 | hcf136_3 | Accessory/other | Ycf48-like protein</title></polygon>
+<text x="1397.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1397.5 121.0)" fill="#555">hcf136_3</text>
+<polygon points="1496.8,86.0 1441.3,86.0 1423.3,97.0 1441.3,108.0 1496.8,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>NAEPHDBK_03306 | pctC_2 | Accessory/other | Methyl-accepting chemotaxis protein PctC</title></polygon>
+<text x="1460.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1460.1 121.0)" fill="#555">pctC_2</text>
+<polygon points="1523.4,86.0 1508.2,86.0 1500.8,97.0 1508.2,108.0 1523.4,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>NAEPHDBK_03307 | azoR_2 | Accessory/other | FMN-dependent NADH-azoreductase</title></polygon>
+<text x="1512.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1512.1 121.0)" fill="#555">azoR_2</text>
+<polygon points="1565.4,86.0 1539.6,86.0 1526.9,97.0 1539.6,108.0 1565.4,108.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>NAEPHDBK_03308 | dmpG | Hydrolase/decarboxylase/lyase | 4-hydroxy-2-oxovalerate aldolase | PANEL HIT: xylK (Catechol-meta / Catechol-meta) | pident=90.616000 qcovs=99.000000</title></polygon>
+<text x="1546.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1546.2 121.0)" fill="#111">dmpG (xylK)</text>
+<polygon points="1600.5,86.0 1577.3,86.0 1565.8,97.0 1577.3,108.0 1600.5,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>NAEPHDBK_03309 | mhpF | Dehydrogenase/oxidoreductase | Acetaldehyde dehydrogenase | PANEL HIT: mhpF (Catechol-meta / Catechol-meta) | pident=83.442000 qcovs=97.000000</title></polygon>
+<text x="1583.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1583.2 121.0)" fill="#111">mhpF (mhpF)</text>
+<polygon points="1631.2,86.0 1611.5,86.0 1601.7,97.0 1611.5,108.0 1631.2,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>NAEPHDBK_03310 | mhpD | Hydratase/dehydratase/isomerase | 2-keto-4-pentenoate hydratase | PANEL HIT: mhpD (Catechol-meta / Catechol-meta) | pident=54.902000 qcovs=97.000000</title></polygon>
+<text x="1616.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1616.5 121.0)" fill="#111">mhpD (mhpD)</text>
+<polygon points="1664.0,86.0 1642.4,86.0 1631.7,97.0 1642.4,108.0 1664.0,108.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>NAEPHDBK_03311 | mhpC_1 | Hydrolase/decarboxylase/lyase | 2-hydroxy-6-oxononadienedioate/2-hydroxy-6-oxononatrienedioate hydrolase | PANEL HIT: bphD (Aromatics / Biphenyl) | pident=57.092000 qcovs=98.000000</title></polygon>
+<text x="1647.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1647.9 121.0)" fill="#111">mhpC_1 (bphD)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">3,600,561 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">3,633,235 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

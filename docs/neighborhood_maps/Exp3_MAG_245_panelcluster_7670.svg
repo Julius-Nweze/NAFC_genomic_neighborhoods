@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_245_panelcluster_7670</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_245 | MAGs/Exp3_MAG_245_c_000000000754 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: abmA; fadK; yfdE</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Beta-oxidation; Oxalate</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="590.5,86.0 470.0,86.0 452.0,97.0 470.0,108.0 590.5,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>BKEGBCPJ_06932 | namA_2 | Dehydrogenase/oxidoreductase | NADPH dehydrogenase | PANEL HIT: abmA (Aromatics / Anthranilate) | pident=51.823000 qcovs=99.000000</title></polygon>
+<text x="521.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 521.3 121.0)" fill="#111">namA_2 (abmA)</text>
+<polygon points="645.6,86.0 612.6,86.0 596.3,97.0 612.6,108.0 645.6,108.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>BKEGBCPJ_06933 | BKEGBCPJ_06933 | Hydratase/dehydratase/isomerase | putative enoyl-CoA hydratase echA12</title></polygon>
+<text x="621.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 621.0 121.0)" fill="#555">BKEGBCPJ_06933</text>
+<polygon points="693.0,86.0 663.0,86.0 648.1,97.0 663.0,108.0 693.0,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>BKEGBCPJ_06934 | fabG_24 | Dehydrogenase/oxidoreductase | 3-oxoacyl-[acyl-carrier-protein] reductase FabG</title></polygon>
+<text x="670.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 670.6 121.0)" fill="#555">fabG_24</text>
+<polygon points="705.6,86.0 737.3,86.0 752.8,97.0 737.3,108.0 705.6,108.0" fill="#b15928" stroke="#888" stroke-width="0.8"><title>BKEGBCPJ_06935 | catD_5 | Hydrolase/decarboxylase/lyase | 3-oxoadipate enol-lactonase 2</title></polygon>
+<text x="729.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 729.2 121.0)" fill="#555">catD_5</text>
+<polygon points="753.2,86.0 811.2,86.0 829.2,97.0 811.2,108.0 753.2,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>BKEGBCPJ_06936 | ydbM_1 | Dehydrogenase/oxidoreductase | Putative acyl-CoA dehydrogenase YdbM</title></polygon>
+<text x="791.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 791.2 121.0)" fill="#555">ydbM_1</text>
+<polygon points="829.3,86.0 901.3,86.0 919.3,97.0 901.3,108.0 829.3,108.0" fill="#1f78b4" stroke="#111" stroke-width="2.2"><title>BKEGBCPJ_06937 | lcfB_5 | CoA ligase/synthetase | Long-chain-fatty-acid--CoA ligase | PANEL HIT: fadK (Beta-oxidation / Beta-oxidation) | pident=32.220000 qcovs=88.000000</title></polygon>
+<text x="874.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 874.3 121.0)" fill="#111">lcfB_5 (fadK)</text>
+<polygon points="919.0,86.0 965.2,86.0 983.2,97.0 965.2,108.0 919.0,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>BKEGBCPJ_06938 | odh | Dehydrogenase/oxidoreductase | Opine dehydrogenase</title></polygon>
+<text x="951.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 951.1 121.0)" fill="#555">odh</text>
+<polygon points="983.4,86.0 1023.9,86.0 1041.9,97.0 1023.9,108.0 983.4,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>BKEGBCPJ_06939 | hbd_2 | Dehydrogenase/oxidoreductase | 3-hydroxybutyryl-CoA dehydrogenase</title></polygon>
+<text x="1012.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1012.6 121.0)" fill="#555">hbd_2</text>
+<polygon points="1103.3,86.0 1059.6,86.0 1041.6,97.0 1059.6,108.0 1103.3,108.0" fill="#d73027" stroke="#888" stroke-width="0.8"><title>BKEGBCPJ_06940 | nicX | Oxygenase/dioxygenase | 2,5-dihydroxypyridine 5,6-dioxygenase</title></polygon>
+<text x="1072.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1072.5 121.0)" fill="#555">nicX</text>
+<polygon points="1150.5,86.0 1120.2,86.0 1105.2,97.0 1120.2,108.0 1150.5,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>BKEGBCPJ_06941 | ssuC_6 | Transport/efflux | Putative aliphatic sulfonates transport permease protein SsuC</title></polygon>
+<text x="1127.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1127.9 121.0)" fill="#555">ssuC_6</text>
+<polygon points="1196.5,86.0 1165.5,86.0 1150.2,97.0 1165.5,108.0 1196.5,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>BKEGBCPJ_06942 | ssuC_7 | Transport/efflux | Putative aliphatic sulfonates transport permease protein SsuC</title></polygon>
+<text x="1173.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1173.4 121.0)" fill="#555">ssuC_7</text>
+<polygon points="1246.1,86.0 1212.8,86.0 1196.3,97.0 1212.8,108.0 1246.1,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>BKEGBCPJ_06943 | cmpD | Transport/efflux | Bicarbonate transport ATP-binding protein CmpD</title></polygon>
+<text x="1221.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1221.2 121.0)" fill="#555">cmpD</text>
+<polygon points="1349.2,86.0 1271.1,86.0 1253.1,97.0 1271.1,108.0 1349.2,108.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>BKEGBCPJ_06944 | ilvD_2 | Hydratase/dehydratase/isomerase | Dihydroxy-acid dehydratase</title></polygon>
+<text x="1301.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1301.2 121.0)" fill="#555">ilvD_2</text>
+<polygon points="1415.4,86.0 1375.5,86.0 1357.5,97.0 1375.5,108.0 1415.4,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>BKEGBCPJ_06945 | BKEGBCPJ_06945 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1386.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1386.4 121.0)" fill="#555">BKEGBCPJ_06945</text>
+<polygon points="1425.9,86.0 1461.8,86.0 1479.5,97.0 1461.8,108.0 1425.9,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>BKEGBCPJ_06946 | glxR_2 | Dehydrogenase/oxidoreductase | 2-hydroxy-3-oxopropionate reductase</title></polygon>
+<text x="1452.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1452.7 121.0)" fill="#555">glxR_2</text>
+<polygon points="1512.9,86.0 1490.7,86.0 1479.8,97.0 1490.7,108.0 1512.9,108.0" fill="#d73027" stroke="#888" stroke-width="0.8"><title>BKEGBCPJ_06947 | C1-hpah | Oxygenase/dioxygenase | p-hydroxyphenylacetate 3-hydroxylase, reductase component</title></polygon>
+<text x="1496.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1496.3 121.0)" fill="#555">C1-hpah</text>
+<polygon points="1585.5,86.0 1531.4,86.0 1513.4,97.0 1531.4,108.0 1585.5,108.0" fill="#d73027" stroke="#888" stroke-width="0.8"><title>BKEGBCPJ_06948 | hsaA | Oxygenase/dioxygenase | Flavin-dependent monooxygenase, oxygenase subunit HsaA</title></polygon>
+<text x="1549.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1549.4 121.0)" fill="#555">hsaA</text>
+<polygon points="1664.0,86.0 1607.3,86.0 1589.3,97.0 1607.3,108.0 1664.0,108.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>BKEGBCPJ_06949 | frc_3 | Thiolase/transferase | Formyl-CoA:oxalate CoA-transferase | PANEL HIT: yfdE (Oxalate / Oxalate) | pident=35.777000 qcovs=88.000000</title></polygon>
+<text x="1626.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1626.6 121.0)" fill="#111">frc_3 (yfdE)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">557 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">21,132 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

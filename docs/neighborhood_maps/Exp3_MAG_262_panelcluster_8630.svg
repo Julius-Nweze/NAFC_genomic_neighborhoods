@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_262_panelcluster_8630</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_262 | MAGs/Exp3_MAG_262_c_000000000022 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: alkJ_adh; chcC2; nbaA; yfdE</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Aromatics; Cyclohexanecarboxylate;</text>
+<text x="32.0" y="82.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Oxalate</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="583.8,86.0 470.0,86.0 452.0,97.0 470.0,108.0 583.8,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>GAECNMGC_02210 | kstD | Dehydrogenase/oxidoreductase | 3-oxosteroid 1-dehydrogenase | PANEL HIT: chcC2 (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=37.138000 qcovs=92.000000</title></polygon>
+<text x="517.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 517.9 121.0)" fill="#111">kstD (chcC2)</text>
+<polygon points="704.8,86.0 601.5,86.0 583.5,97.0 601.5,108.0 704.8,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>GAECNMGC_02211 | alkJ_1 | Dehydrogenase/oxidoreductase | Alcohol dehydrogenase [acceptor] | PANEL HIT: alkJ_adh (Alkanes / Auxillary alkane pathway) | pident=36.891000 qcovs=96.000000</title></polygon>
+<text x="644.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 644.2 121.0)" fill="#111">alkJ_1 (alkJ_adh)</text>
+<polygon points="765.4,86.0 722.0,86.0 704.0,97.0 722.0,108.0 765.4,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>GAECNMGC_02212 | GAECNMGC_02212 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="734.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 734.7 121.0)" fill="#555">GAECNMGC_02212</text>
+<polygon points="817.8,86.0 783.2,86.0 766.1,97.0 783.2,108.0 817.8,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>GAECNMGC_02213 | GAECNMGC_02213 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="791.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 791.9 121.0)" fill="#555">GAECNMGC_02213</text>
+<polygon points="835.2,86.0 884.9,86.0 902.9,97.0 884.9,108.0 835.2,108.0" fill="#b15928" stroke="#888" stroke-width="0.8"><title>GAECNMGC_02214 | GAECNMGC_02214 | Hydrolase/decarboxylase/lyase | 6-deoxy-6-sulfogluconolactonase</title></polygon>
+<text x="869.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 869.0 121.0)" fill="#555">GAECNMGC_02214</text>
+<polygon points="979.8,86.0 923.5,86.0 905.5,97.0 923.5,108.0 979.8,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>GAECNMGC_02215 | GAECNMGC_02215 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="942.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 942.7 121.0)" fill="#555">GAECNMGC_02215</text>
+<polygon points="1035.9,86.0 1001.3,86.0 984.3,97.0 1001.3,108.0 1035.9,108.0" fill="#d9d9d9" stroke="#111" stroke-width="2.2"><title>GAECNMGC_02216 | GAECNMGC_02216 | Hypothetical/accessory | hypothetical protein | PANEL HIT: nbaA (Aromatics / 2-Nitrobenzoate) | pident=34.872000 qcovs=90.000000</title></polygon>
+<text x="1010.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1010.1 121.0)" fill="#111">GAECNMGC_02216 (nbaA)</text>
+<polygon points="1052.7,86.0 1111.2,86.0 1129.2,97.0 1111.2,108.0 1052.7,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>GAECNMGC_02217 | GAECNMGC_02217 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1091.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1091.0 121.0)" fill="#555">GAECNMGC_02217</text>
+<polygon points="1130.9,86.0 1186.3,86.0 1204.3,97.0 1186.3,108.0 1130.9,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>GAECNMGC_02218 | GAECNMGC_02218 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1167.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1167.6 121.0)" fill="#555">GAECNMGC_02218</text>
+<polygon points="1228.7,86.0 1284.1,86.0 1302.1,97.0 1284.1,108.0 1228.7,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>GAECNMGC_02219 | cynR_3 | Regulator | HTH-type transcriptional regulator CynR</title></polygon>
+<text x="1265.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1265.4 121.0)" fill="#555">cynR_3</text>
+<polygon points="1386.4,86.0 1330.8,86.0 1312.8,97.0 1330.8,108.0 1386.4,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>GAECNMGC_02220 | GAECNMGC_02220 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1349.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1349.6 121.0)" fill="#555">GAECNMGC_02220</text>
+<polygon points="1416.2,86.0 1445.2,86.0 1459.5,97.0 1445.2,108.0 1416.2,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>GAECNMGC_02221 | GAECNMGC_02221 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1437.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1437.8 121.0)" fill="#555">GAECNMGC_02221</text>
+<polygon points="1459.2,86.0 1502.7,86.0 1520.7,97.0 1502.7,108.0 1459.2,108.0" fill="#b15928" stroke="#888" stroke-width="0.8"><title>GAECNMGC_02222 | GAECNMGC_02222 | Hydrolase/decarboxylase/lyase | 4-sulfomuconolactone hydrolase</title></polygon>
+<text x="1490.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1490.0 121.0)" fill="#555">GAECNMGC_02222</text>
+<polygon points="1571.2,86.0 1540.1,86.0 1524.8,97.0 1540.1,108.0 1571.2,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>GAECNMGC_02223 | yibF_1 | Accessory/other | putative GST-like protein YibF</title></polygon>
+<text x="1548.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1548.0 121.0)" fill="#555">yibF_1</text>
+<polygon points="1664.0,86.0 1589.2,86.0 1571.2,97.0 1589.2,108.0 1664.0,108.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>GAECNMGC_02224 | yfdE_3 | Thiolase/transferase | Acetyl-CoA:oxalate CoA-transferase | PANEL HIT: yfdE (Oxalate / Oxalate) | pident=36.224000 qcovs=98.000000</title></polygon>
+<text x="1617.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1617.6 121.0)" fill="#111">yfdE_3 (yfdE)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">22,464 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">38,521 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

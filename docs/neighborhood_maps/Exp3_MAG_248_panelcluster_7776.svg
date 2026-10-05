@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_248_panelcluster_7776</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_248 | MAGs/Exp3_MAG_248_c_000000000110 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: chcB1; chcC1; fadK; paaG</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Beta-oxidation; Cyclohexanecarboxylate;</text>
+<text x="32.0" y="82.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Phenylacetate</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="452.0,86.0 555.3,86.0 573.3,97.0 555.3,108.0 452.0,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>MCOPMLJC_01443 | kstD_1 | Dehydrogenase/oxidoreductase | 3-oxosteroid 1-dehydrogenase | PANEL HIT: chcC1 (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=32.332000 qcovs=93.000000</title></polygon>
+<text x="512.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 512.7 121.0)" fill="#111">kstD_1 (chcC1)</text>
+<polygon points="631.9,86.0 591.6,86.0 573.6,97.0 591.6,108.0 631.9,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>MCOPMLJC_01444 | MCOPMLJC_01444 | Hydratase/dehydratase/isomerase | putative enoyl-CoA hydratase echA12 | PANEL HIT: paaG (Phenylacetate / Phenylacetate) | pident=36.466000 qcovs=99.000000</title></polygon>
+<text x="602.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 602.8 121.0)" fill="#111">MCOPMLJC_01444 (paaG)</text>
+<polygon points="686.0,86.0 649.4,86.0 631.4,97.0 649.4,108.0 686.0,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MCOPMLJC_01445 | MCOPMLJC_01445 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="658.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 658.7 121.0)" fill="#555">MCOPMLJC_01445</text>
+<polygon points="696.5,86.0 793.5,86.0 811.5,97.0 793.5,108.0 696.5,108.0" fill="#1f78b4" stroke="#888" stroke-width="0.8"><title>MCOPMLJC_01446 | lcfB_5 | CoA ligase/synthetase | Long-chain-fatty-acid--CoA ligase</title></polygon>
+<text x="754.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 754.0 121.0)" fill="#555">lcfB_5</text>
+<polygon points="924.0,86.0 828.5,86.0 810.5,97.0 828.5,108.0 924.0,108.0" fill="#1f78b4" stroke="#111" stroke-width="2.2"><title>MCOPMLJC_01447 | fadK | CoA ligase/synthetase | Medium-chain fatty-acid--CoA ligase | PANEL HIT: fadK (Beta-oxidation / Beta-oxidation) | pident=34.236000 qcovs=91.000000</title></polygon>
+<text x="867.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 867.3 121.0)" fill="#111">fadK (fadK)</text>
+<polygon points="935.5,86.0 993.3,86.0 1011.3,97.0 993.3,108.0 935.5,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>MCOPMLJC_01448 | caiA_3 | Dehydrogenase/oxidoreductase | Crotonobetainyl-CoA reductase</title></polygon>
+<text x="973.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 973.4 121.0)" fill="#555">caiA_3</text>
+<polygon points="1011.0,86.0 1078.9,86.0 1096.9,97.0 1078.9,108.0 1011.0,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>MCOPMLJC_01449 | MCOPMLJC_01449 | Dehydrogenase/oxidoreductase | Putative acyl-CoA dehydrogenase FadE17</title></polygon>
+<text x="1053.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1053.9 121.0)" fill="#555">MCOPMLJC_01449</text>
+<polygon points="1104.0,86.0 1172.2,86.0 1190.2,97.0 1172.2,108.0 1104.0,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MCOPMLJC_01450 | MCOPMLJC_01450 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1147.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1147.1 121.0)" fill="#555">MCOPMLJC_01450</text>
+<polygon points="1192.9,86.0 1239.3,86.0 1257.3,97.0 1239.3,108.0 1192.9,108.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>MCOPMLJC_01451 | MCOPMLJC_01451 | Hydratase/dehydratase/isomerase | Hydroxycinnamoyl-CoA hydratase-lyase</title></polygon>
+<text x="1225.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1225.1 121.0)" fill="#555">MCOPMLJC_01451</text>
+<polygon points="1285.4,86.0 1266.9,86.0 1257.8,97.0 1266.9,108.0 1285.4,108.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>MCOPMLJC_01452 | ksi | Hydratase/dehydratase/isomerase | Steroid Delta-isomerase</title></polygon>
+<text x="1271.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1271.6 121.0)" fill="#555">ksi</text>
+<polygon points="1294.7,86.0 1315.7,86.0 1326.0,97.0 1315.7,108.0 1294.7,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MCOPMLJC_01453 | MCOPMLJC_01453 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1310.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1310.3 121.0)" fill="#555">MCOPMLJC_01453</text>
+<polygon points="1394.3,86.0 1345.4,86.0 1327.4,97.0 1345.4,108.0 1394.3,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>MCOPMLJC_01454 | MCOPMLJC_01454 | Accessory/other | putative protein</title></polygon>
+<text x="1360.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1360.9 121.0)" fill="#555">MCOPMLJC_01454</text>
+<polygon points="1599.9,86.0 1572.7,86.0 1559.4,97.0 1572.7,108.0 1599.9,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MCOPMLJC_01456 | MCOPMLJC_01456 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1579.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1579.6 121.0)" fill="#555">MCOPMLJC_01456</text>
+<polygon points="1664.0,86.0 1625.4,86.0 1607.4,97.0 1625.4,108.0 1664.0,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>MCOPMLJC_01457 | linX_4 | Dehydrogenase/oxidoreductase | 2,5-dichloro-2,5-cyclohexadiene-1,4-diol dehydrogenase LinX | PANEL HIT: chcB1 (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=40.698000 qcovs=95.000000</title></polygon>
+<text x="1635.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1635.7 121.0)" fill="#111">linX_4 (chcB1)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">2,053 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">18,742 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

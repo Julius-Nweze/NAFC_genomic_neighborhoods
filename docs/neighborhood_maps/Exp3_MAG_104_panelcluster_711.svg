@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_104_panelcluster_711</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_104 | MAGs/Exp3_MAG_104_c_000000000076 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: ABO_2449; atdA1; hapE</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Hydroquinone; Plastics</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="452.0,86.0 539.9,86.0 557.9,97.0 539.9,108.0 452.0,108.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>BEOIJDHB_03361 | puuA | Accessory/other | Gamma-glutamylputrescine synthetase PuuA | PANEL HIT: atdA1 (Aromatics / Aniline) | pident=30.000000 qcovs=73.000000</title></polygon>
+<text x="504.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 504.9 121.0)" fill="#111">puuA (atdA1)</text>
+<polygon points="558.7,86.0 650.1,86.0 668.1,97.0 650.1,108.0 558.7,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>BEOIJDHB_03362 | spuC | Accessory/other | Putrescine--pyruvate aminotransferase</title></polygon>
+<text x="613.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 613.4 121.0)" fill="#555">spuC</text>
+<polygon points="677.1,86.0 745.9,86.0 763.9,97.0 745.9,108.0 677.1,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>BEOIJDHB_03363 | spuD_2 | Accessory/other | Putrescine-binding periplasmic protein SpuD</title></polygon>
+<text x="720.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 720.5 121.0)" fill="#555">spuD_2</text>
+<polygon points="763.9,86.0 831.5,86.0 849.5,97.0 831.5,108.0 763.9,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>BEOIJDHB_03364 | potA_6 | Accessory/other | Spermidine/putrescine import ATP-binding protein PotA</title></polygon>
+<text x="806.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 806.7 121.0)" fill="#555">potA_6</text>
+<polygon points="850.3,86.0 903.8,86.0 921.8,97.0 903.8,108.0 850.3,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>BEOIJDHB_03365 | potH | Transport/efflux | Putrescine transport system permease protein PotH</title></polygon>
+<text x="886.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 886.1 121.0)" fill="#555">potH</text>
+<polygon points="921.5,86.0 967.9,86.0 985.9,97.0 967.9,108.0 921.5,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>BEOIJDHB_03366 | ydcV_3 | Transport/efflux | Inner membrane ABC transporter permease protein YdcV</title></polygon>
+<text x="953.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 953.7 121.0)" fill="#555">ydcV_3</text>
+<polygon points="988.3,86.0 1078.1,86.0 1096.1,97.0 1078.1,108.0 988.3,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>BEOIJDHB_03367 | BEOIJDHB_03367 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1042.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1042.2 121.0)" fill="#555">BEOIJDHB_03367</text>
+<polygon points="1096.0,86.0 1193.4,86.0 1211.4,97.0 1193.4,108.0 1096.0,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>BEOIJDHB_03368 | puuC | Dehydrogenase/oxidoreductase | NADP/NAD-dependent aldehyde dehydrogenase PuuC | PANEL HIT: hapE (Hydroquinone / Hydroquinone) | pident=44.770000 qcovs=97.000000</title></polygon>
+<text x="1153.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1153.7 121.0)" fill="#111">puuC (hapE)</text>
+<polygon points="1210.8,86.0 1298.9,86.0 1316.9,97.0 1298.9,108.0 1210.8,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>BEOIJDHB_03369 | BEOIJDHB_03369 | Accessory/other | Glutamate--methylamine ligase</title></polygon>
+<text x="1263.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1263.9 121.0)" fill="#555">BEOIJDHB_03369</text>
+<polygon points="1317.8,86.0 1371.6,86.0 1389.6,97.0 1371.6,108.0 1317.8,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>BEOIJDHB_03370 | BEOIJDHB_03370 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1353.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1353.7 121.0)" fill="#555">BEOIJDHB_03370</text>
+<polygon points="1465.4,86.0 1406.1,86.0 1388.1,97.0 1406.1,108.0 1465.4,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>BEOIJDHB_03371 | dusA | Accessory/other | tRNA-dihydrouridine(20/20a) synthase</title></polygon>
+<text x="1426.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1426.7 121.0)" fill="#555">dusA</text>
+<polygon points="1586.4,86.0 1486.7,86.0 1468.7,97.0 1486.7,108.0 1586.4,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>BEOIJDHB_03372 | BEOIJDHB_03372 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1527.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1527.6 121.0)" fill="#555">BEOIJDHB_03372</text>
+<polygon points="1664.0,86.0 1613.5,86.0 1595.5,97.0 1613.5,108.0 1664.0,108.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>BEOIJDHB_03373 | dauP | Accessory/other | Rhodomycin D methylesterase DauP | PANEL HIT: ABO_2449 (Plastics / PBSA/PCL/PES/PHA/PHBV/PLA) | pident=41.781000 qcovs=95.000000</title></polygon>
+<text x="1629.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1629.7 121.0)" fill="#111">dauP (ABO_2449)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">10,224 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">25,881 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

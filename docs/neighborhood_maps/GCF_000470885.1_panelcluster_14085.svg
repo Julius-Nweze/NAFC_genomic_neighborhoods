@@ -1,0 +1,137 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GCF_000470885.1_panelcluster_14085</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GCF_000470885.1 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: bphC; bphD; chnD; fadK; ntnC; pimC/aabA; pimD; prmA;</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">prmB; prmC; prmD; uctC; xylB</text>
+<text x="32.0" y="82.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Aromatics; Beta-oxidation;</text>
+<text x="32.0" y="94.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Cyclohexanecarboxylate; Oxalate</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="474.4,86.0 459.4,86.0 452.0,97.0 459.4,108.0 474.4,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>CEICAEBL_04766 | acdA_3 | Dehydrogenase/oxidoreductase | Acyl-CoA dehydrogenase | PANEL HIT: pimD (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=44.947000 qcovs=99.000000</title></polygon>
+<text x="463.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 463.2 121.0)" fill="#111">acdA_3 (pimD)</text>
+<polygon points="497.6,86.0 482.2,86.0 474.6,97.0 482.2,108.0 497.6,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>CEICAEBL_04767 | CEICAEBL_04767 | Dehydrogenase/oxidoreductase | Putative acyl-CoA dehydrogenase FadE17 | PANEL HIT: pimC/aabA (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=59.950000 qcovs=100.000000</title></polygon>
+<text x="486.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 486.1 121.0)" fill="#111">CEICAEBL_04767 (pimC/...</text>
+<polygon points="501.6,86.0 512.6,86.0 519.6,97.0 512.6,108.0 501.6,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>CEICAEBL_04768 | tetR_5 | Regulator | Tetracycline repressor protein class E</title></polygon>
+<text x="510.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 510.6 121.0)" fill="#555">tetR_5</text>
+<polygon points="531.8,86.0 520.8,86.0 513.8,97.0 520.8,108.0 531.8,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>CEICAEBL_04769 | CEICAEBL_04769 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="522.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 522.8 121.0)" fill="#555">CEICAEBL_04769</text>
+<polygon points="525.5,86.0 536.5,86.0 543.5,97.0 536.5,108.0 525.5,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>CEICAEBL_04770 | fgd_7 | Dehydrogenase/oxidoreductase | F420-dependent glucose-6-phosphate dehydrogenase</title></polygon>
+<text x="534.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 534.5 121.0)" fill="#555">fgd_7</text>
+<polygon points="544.1,86.0 560.1,86.0 568.1,97.0 560.1,108.0 544.1,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>CEICAEBL_04771 | CEICAEBL_04771 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="556.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 556.1 121.0)" fill="#555">CEICAEBL_04771</text>
+<polygon points="568.3,86.0 588.3,86.0 598.1,97.0 588.3,108.0 568.3,108.0" fill="#d73027" stroke="#888" stroke-width="0.8"><title>CEICAEBL_04772 | CEICAEBL_04772 | Oxygenase/dioxygenase | Carotenoid cleavage oxygenase</title></polygon>
+<text x="583.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 583.2 121.0)" fill="#555">CEICAEBL_04772</text>
+<polygon points="598.3,86.0 609.9,86.0 616.9,97.0 609.9,108.0 598.3,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>CEICAEBL_04773 | CEICAEBL_04773 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="607.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 607.6 121.0)" fill="#555">CEICAEBL_04773</text>
+<polygon points="617.8,86.0 641.6,86.0 653.3,97.0 641.6,108.0 617.8,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>CEICAEBL_04774 | CEICAEBL_04774 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="635.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 635.6 121.0)" fill="#555">CEICAEBL_04774</text>
+<polygon points="653.4,86.0 664.4,86.0 671.4,97.0 664.4,108.0 653.4,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>CEICAEBL_04775 | tcyC_2 | Accessory/other | L-cystine import ATP-binding protein TcyC</title></polygon>
+<text x="662.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 662.4 121.0)" fill="#555">tcyC_2</text>
+<polygon points="687.4,86.0 676.4,86.0 669.4,97.0 676.4,108.0 687.4,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>CEICAEBL_04776 | CEICAEBL_04776 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="678.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 678.4 121.0)" fill="#555">CEICAEBL_04776</text>
+<polygon points="684.7,86.0 705.8,86.0 716.2,97.0 705.8,108.0 684.7,108.0" fill="#d73027" stroke="#888" stroke-width="0.8"><title>CEICAEBL_04777 | mhpA_5 | Oxygenase/dioxygenase | 3-(3-hydroxy-phenyl)propionate/3-hydroxycinnamic acid hydroxylase</title></polygon>
+<text x="700.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 700.5 121.0)" fill="#555">mhpA_5</text>
+<polygon points="716.1,86.0 727.1,86.0 734.1,97.0 727.1,108.0 716.1,108.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>CEICAEBL_04778 | hsaD_4 | Hydrolase/decarboxylase/lyase | 4,5:9,10-diseco-3-hydroxy-5,9,17-trioxoandrosta-1(10),2-diene-4-oate hydrolase | PANEL HIT: bphD (Aromatics / Biphenyl) | pident=35.274000 qcovs=99.000000</title></polygon>
+<text x="725.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 725.1 121.0)" fill="#111">hsaD_4 (bphD)</text>
+<polygon points="733.0,86.0 745.9,86.0 752.9,97.0 745.9,108.0 733.0,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>CEICAEBL_04779 | bphC_2 | Oxygenase/dioxygenase | Biphenyl-2,3-diol 1,2-dioxygenase | PANEL HIT: bphC (Aromatics / Biphenyl) | pident=32.558000 qcovs=95.000000</title></polygon>
+<text x="743.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 743.0 121.0)" fill="#111">bphC_2 (bphC)</text>
+<polygon points="756.6,86.0 784.0,86.0 797.5,97.0 784.0,108.0 756.6,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>CEICAEBL_04780 | CEICAEBL_04780 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="777.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 777.0 121.0)" fill="#555">CEICAEBL_04780</text>
+<polygon points="816.5,86.0 805.5,86.0 798.5,97.0 805.5,108.0 816.5,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>CEICAEBL_04781 | hdl IVa | Accessory/other | (S)-2-haloacid dehalogenase 4A</title></polygon>
+<text x="807.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 807.5 121.0)" fill="#555">hdl IVa</text>
+<polygon points="839.4,86.0 822.3,86.0 813.9,97.0 822.3,108.0 839.4,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>CEICAEBL_04782 | CEICAEBL_04782 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="826.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 826.6 121.0)" fill="#555">CEICAEBL_04782</text>
+<polygon points="867.3,86.0 848.5,86.0 839.2,97.0 848.5,108.0 867.3,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>CEICAEBL_04783 | CEICAEBL_04783 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="853.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 853.3 121.0)" fill="#555">CEICAEBL_04783</text>
+<polygon points="902.7,86.0 878.9,86.0 867.2,97.0 878.9,108.0 902.7,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>CEICAEBL_04784 | CEICAEBL_04784 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="884.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 884.9 121.0)" fill="#555">CEICAEBL_04784</text>
+<polygon points="933.1,86.0 913.9,86.0 904.4,97.0 913.9,108.0 933.1,108.0" fill="#1f78b4" stroke="#111" stroke-width="2.2"><title>CEICAEBL_04785 | lcfB_17 | CoA ligase/synthetase | Long-chain-fatty-acid--CoA ligase | PANEL HIT: fadK (Beta-oxidation / Beta-oxidation) | pident=30.595000 qcovs=85.000000</title></polygon>
+<text x="918.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 918.8 121.0)" fill="#111">lcfB_17 (fadK)</text>
+<polygon points="965.5,86.0 945.9,86.0 936.2,97.0 945.9,108.0 965.5,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>CEICAEBL_04786 | gabP_4 | Transport/efflux | GABA permease</title></polygon>
+<text x="950.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 950.8 121.0)" fill="#555">gabP_4</text>
+<polygon points="995.3,86.0 977.6,86.0 968.8,97.0 977.6,108.0 995.3,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>CEICAEBL_04787 | CEICAEBL_04787 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="982.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 982.1 121.0)" fill="#555">CEICAEBL_04787</text>
+<polygon points="1037.0,86.0 1011.1,86.0 998.4,97.0 1011.1,108.0 1037.0,108.0" fill="#6a3d9a" stroke="#888" stroke-width="0.8"><title>CEICAEBL_04788 | apc4_3 | Carboxylase | Acetophenone carboxylase delta subunit</title></polygon>
+<text x="1017.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1017.7 121.0)" fill="#555">apc4_3</text>
+<polygon points="1077.4,86.0 1050.3,86.0 1036.9,97.0 1050.3,108.0 1077.4,108.0" fill="#6a3d9a" stroke="#888" stroke-width="0.8"><title>CEICAEBL_04789 | apc3_3 | Carboxylase | Acetophenone carboxylase gamma subunit</title></polygon>
+<text x="1057.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1057.2 121.0)" fill="#555">apc3_3</text>
+<polygon points="1079.7,86.0 1100.3,86.0 1110.4,97.0 1100.3,108.0 1079.7,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>CEICAEBL_04790 | CEICAEBL_04790 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1095.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1095.1 121.0)" fill="#555">CEICAEBL_04790</text>
+<polygon points="1111.0,86.0 1131.4,86.0 1141.5,97.0 1131.4,108.0 1111.0,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>CEICAEBL_04791 | CEICAEBL_04791 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1126.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1126.2 121.0)" fill="#555">CEICAEBL_04791</text>
+<polygon points="1160.7,86.0 1149.7,86.0 1142.7,97.0 1149.7,108.0 1160.7,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>CEICAEBL_04792 | relE_1 | Accessory/other | Toxin RelE</title></polygon>
+<text x="1151.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1151.7 121.0)" fill="#555">relE_1</text>
+<polygon points="1166.2,86.0 1155.2,86.0 1148.2,97.0 1155.2,108.0 1166.2,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>CEICAEBL_04793 | CEICAEBL_04793 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1157.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1157.2 121.0)" fill="#555">CEICAEBL_04793</text>
+<polygon points="1161.8,86.0 1177.0,86.0 1184.5,97.0 1177.0,108.0 1161.8,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>CEICAEBL_04794 | CEICAEBL_04794 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1173.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1173.2 121.0)" fill="#555">CEICAEBL_04794</text>
+<polygon points="1208.7,86.0 1194.0,86.0 1186.7,97.0 1194.0,108.0 1208.7,108.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>CEICAEBL_04795 | uctC_5 | Thiolase/transferase | Acetyl-CoA:oxalate CoA-transferase | PANEL HIT: uctC (Oxalate / Oxalate) | pident=43.059000 qcovs=90.000000</title></polygon>
+<text x="1197.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1197.7 121.0)" fill="#111">uctC_5 (uctC)</text>
+<polygon points="1237.5,86.0 1218.2,86.0 1208.6,97.0 1218.2,108.0 1237.5,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>CEICAEBL_04796 | aldHT | Dehydrogenase/oxidoreductase | Aldehyde dehydrogenase, thermostable | PANEL HIT: ntnC (Aromatics / Toluene) | pident=35.697000 qcovs=85.000000</title></polygon>
+<text x="1223.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1223.1 121.0)" fill="#111">aldHT (ntnC)</text>
+<polygon points="1261.6,86.0 1245.9,86.0 1238.1,97.0 1245.9,108.0 1261.6,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>CEICAEBL_04797 | mmgC_20 | Dehydrogenase/oxidoreductase | Acyl-CoA dehydrogenase</title></polygon>
+<text x="1249.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1249.9 121.0)" fill="#555">mmgC_20</text>
+<polygon points="1289.0,86.0 1271.1,86.0 1262.3,97.0 1271.1,108.0 1289.0,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>CEICAEBL_04798 | gabT_2 | Accessory/other | 4-aminobutyrate aminotransferase</title></polygon>
+<text x="1275.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1275.7 121.0)" fill="#555">gabT_2</text>
+<polygon points="1292.5,86.0 1336.5,86.0 1354.5,97.0 1336.5,108.0 1292.5,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>CEICAEBL_04799 | gdh_4 | Dehydrogenase/oxidoreductase | NAD-specific glutamate dehydrogenase</title></polygon>
+<text x="1323.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1323.5 121.0)" fill="#555">gdh_4</text>
+<polygon points="1372.3,86.0 1361.3,86.0 1354.3,97.0 1361.3,108.0 1372.3,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>CEICAEBL_04800 | CEICAEBL_04800 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1363.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1363.3 121.0)" fill="#555">CEICAEBL_04800</text>
+<polygon points="1376.2,86.0 1365.2,86.0 1358.2,97.0 1365.2,108.0 1376.2,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>CEICAEBL_04801 | CEICAEBL_04801 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1367.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1367.2 121.0)" fill="#555">CEICAEBL_04801</text>
+<polygon points="1399.1,86.0 1377.4,86.0 1366.6,97.0 1377.4,108.0 1399.1,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>CEICAEBL_04802 | groL | Accessory/other | 60 kDa chaperonin</title></polygon>
+<text x="1382.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1382.9 121.0)" fill="#555">groL</text>
+<polygon points="1420.1,86.0 1406.9,86.0 1399.9,97.0 1406.9,108.0 1420.1,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>CEICAEBL_04803 | adhT_3 | Dehydrogenase/oxidoreductase | Alcohol dehydrogenase | PANEL HIT: chnD (Alkanes / Terminal/biterminal oxidation) | pident=34.844000 qcovs=99.000000</title></polygon>
+<text x="1410.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1410.0 121.0)" fill="#111">adhT_3 (chnD)</text>
+<polygon points="1438.0,86.0 1427.0,86.0 1420.0,97.0 1427.0,108.0 1438.0,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>CEICAEBL_04804 | CEICAEBL_04804 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1429.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1429.0 121.0)" fill="#555">CEICAEBL_04804</text>
+<polygon points="1455.4,86.0 1441.9,86.0 1434.9,97.0 1441.9,108.0 1455.4,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>CEICAEBL_04805 | CEICAEBL_04805 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1445.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1445.1 121.0)" fill="#555">CEICAEBL_04805</text>
+<polygon points="1474.9,86.0 1463.9,86.0 1456.9,97.0 1463.9,108.0 1474.9,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>CEICAEBL_04806 | prmD | Oxygenase/dioxygenase | Propane 2-monooxygenase, effector component | PANEL HIT: prmD (Alkanes / Subterminal oxidation) | pident=89.381000 qcovs=100.000000</title></polygon>
+<text x="1465.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1465.9 121.0)" fill="#111">prmD (prmD)</text>
+<polygon points="1485.4,86.0 1470.8,86.0 1463.6,97.0 1470.8,108.0 1485.4,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>CEICAEBL_04807 | prmC_5 | Oxygenase/dioxygenase | Propane 2-monooxygenase, hydroxylase component small subunit | PANEL HIT: prmC (Alkanes / Subterminal oxidation) | pident=89.402000 qcovs=100.000000</title></polygon>
+<text x="1474.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1474.5 121.0)" fill="#111">prmC_5 (prmC)</text>
+<polygon points="1506.9,86.0 1493.4,86.0 1486.4,97.0 1493.4,108.0 1506.9,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>CEICAEBL_04808 | prmB | Oxygenase/dioxygenase | Propane 2-monooxygenase, reductase component | PANEL HIT: prmB (Alkanes / Subterminal oxidation) | pident=87.608000 qcovs=94.000000</title></polygon>
+<text x="1496.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1496.6 121.0)" fill="#111">prmB (prmB)</text>
+<polygon points="1540.7,86.0 1519.2,86.0 1508.6,97.0 1519.2,108.0 1540.7,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>CEICAEBL_04809 | prmA | Oxygenase/dioxygenase | Propane 2-monooxygenase, hydroxylase component large subunit | PANEL HIT: prmA (Alkanes / Subterminal oxidation) | pident=98.162000 qcovs=100.000000</title></polygon>
+<text x="1524.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1524.6 121.0)" fill="#111">prmA (prmA)</text>
+<polygon points="1544.5,86.0 1568.1,86.0 1579.7,97.0 1568.1,108.0 1544.5,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>CEICAEBL_04810 | acoR_3 | Regulator | Acetoin dehydrogenase operon transcriptional activator AcoR</title></polygon>
+<text x="1562.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1562.1 121.0)" fill="#555">acoR_3</text>
+<polygon points="1582.0,86.0 1601.2,86.0 1610.7,97.0 1601.2,108.0 1582.0,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>CEICAEBL_04811 | katA_1 | Accessory/other | Catalase</title></polygon>
+<text x="1596.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1596.4 121.0)" fill="#555">katA_1</text>
+<polygon points="1637.9,86.0 1620.3,86.0 1611.6,97.0 1620.3,108.0 1637.9,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>CEICAEBL_04812 | CEICAEBL_04812 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1624.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1624.8 121.0)" fill="#555">CEICAEBL_04812</text>
+<polygon points="1642.2,86.0 1656.8,86.0 1664.0,97.0 1656.8,108.0 1642.2,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>CEICAEBL_04813 | adhB_4 | Dehydrogenase/oxidoreductase | Alcohol dehydrogenase B | PANEL HIT: xylB (Aromatics / Toluene) | pident=32.123000 qcovs=96.000000</title></polygon>
+<text x="1653.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1653.1 121.0)" fill="#111">adhB_4 (xylB)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">5,125,532 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">5,187,115 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

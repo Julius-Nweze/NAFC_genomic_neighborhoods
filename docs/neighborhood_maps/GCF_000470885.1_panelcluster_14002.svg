@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GCF_000470885.1_panelcluster_14002</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GCF_000470885.1 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: BVMO; CYP153; CYP450; aliA; badI; bphC; bphD; chcC1;</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">echA1; fadA; pimC/aabA; pimD</text>
+<text x="32.0" y="82.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Aromatics; Beta-oxidation;</text>
+<text x="32.0" y="94.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Catechol-ortho; Cyclohexanecarboxylate</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="452.0,86.0 465.6,86.0 472.6,97.0 465.6,108.0 452.0,108.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>CEICAEBL_00128 | hsaD_1 | Hydrolase/decarboxylase/lyase | 4,5:9,10-diseco-3-hydroxy-5,9,17-trioxoandrosta-1(10),2-diene-4-oate hydrolase | PANEL HIT: bphD (Aromatics / Biphenyl) | pident=45.819000 qcovs=99.000000</title></polygon>
+<text x="462.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 462.3 121.0)" fill="#111">hsaD_1 (bphD)</text>
+<polygon points="472.6,86.0 485.9,86.0 492.9,97.0 485.9,108.0 472.6,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>CEICAEBL_00129 | hsaC_1 | Oxygenase/dioxygenase | Iron-dependent extradiol dioxygenase | PANEL HIT: bphC (Aromatics / Biphenyl) | pident=39.865000 qcovs=96.000000</title></polygon>
+<text x="482.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 482.8 121.0)" fill="#111">hsaC_1 (bphC)</text>
+<polygon points="492.8,86.0 503.8,86.0 510.8,97.0 503.8,108.0 492.8,108.0" fill="#d73027" stroke="#888" stroke-width="0.8"><title>CEICAEBL_00130 | hsaB_1 | Oxygenase/dioxygenase | Flavin-dependent monooxygenase, reductase subunit HsaB</title></polygon>
+<text x="501.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 501.8 121.0)" fill="#555">hsaB_1</text>
+<polygon points="524.4,86.0 513.4,86.0 506.4,97.0 513.4,108.0 524.4,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>CEICAEBL_00131 | CEICAEBL_00131 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="515.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 515.4 121.0)" fill="#555">CEICAEBL_00131</text>
+<polygon points="535.8,86.0 524.8,86.0 517.8,97.0 524.8,108.0 535.8,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>CEICAEBL_00132 | CEICAEBL_00132 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="526.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 526.8 121.0)" fill="#555">CEICAEBL_00132</text>
+<polygon points="552.4,86.0 541.4,86.0 534.4,97.0 541.4,108.0 552.4,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>CEICAEBL_00133 | CEICAEBL_00133 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="543.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 543.4 121.0)" fill="#555">CEICAEBL_00133</text>
+<polygon points="574.4,86.0 561.7,86.0 554.7,97.0 561.7,108.0 574.4,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>CEICAEBL_00134 | CEICAEBL_00134 | Dehydrogenase/oxidoreductase | putative oxidoreductase/MSMEI_2347</title></polygon>
+<text x="564.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 564.6 121.0)" fill="#555">CEICAEBL_00134</text>
+<polygon points="600.4,86.0 584.5,86.0 576.7,97.0 584.5,108.0 600.4,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>CEICAEBL_00135 | CEICAEBL_00135 | Dehydrogenase/oxidoreductase | putative acyl-CoA dehydrogenase fadE25 | PANEL HIT: pimD (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=36.148000 qcovs=98.000000</title></polygon>
+<text x="588.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 588.6 121.0)" fill="#111">CEICAEBL_00135 (pimD)</text>
+<polygon points="622.1,86.0 607.5,86.0 600.3,97.0 607.5,108.0 622.1,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>CEICAEBL_00136 | caiA_1 | Dehydrogenase/oxidoreductase | Crotonobetainyl-CoA reductase</title></polygon>
+<text x="611.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 611.2 121.0)" fill="#555">caiA_1</text>
+<polygon points="648.2,86.0 630.6,86.0 622.0,97.0 630.6,108.0 648.2,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>CEICAEBL_00137 | CEICAEBL_00137 | Dehydrogenase/oxidoreductase | Putative acyl-CoA dehydrogenase FadE17 | PANEL HIT: pimC/aabA (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=34.321000 qcovs=100.000000</title></polygon>
+<text x="635.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 635.1 121.0)" fill="#111">CEICAEBL_00137 (pimC/...</text>
+<polygon points="668.4,86.0 655.1,86.0 648.1,97.0 655.1,108.0 668.4,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>CEICAEBL_00138 | CEICAEBL_00138 | Hydratase/dehydratase/isomerase | Putative enoyl-CoA hydratase EchA13 | PANEL HIT: badI (Beta-oxidation / Beta-oxidation) | pident=33.913000 qcovs=80.000000</title></polygon>
+<text x="658.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 658.3 121.0)" fill="#111">CEICAEBL_00138 (badI)</text>
+<polygon points="703.2,86.0 679.9,86.0 668.3,97.0 679.9,108.0 703.2,108.0" fill="#1f78b4" stroke="#111" stroke-width="2.2"><title>CEICAEBL_00139 | fadD3_1 | CoA ligase/synthetase | 3-[(3aS,4S,7aS)-7a-methyl-1,5-dioxo-octahydro-1H-inden-4-yl]propanoyl:CoA ligase | PANEL HIT: aliA (Beta-oxidation / Beta-oxidation) | pident=30.246000 qcovs=93.000000</title></polygon>
+<text x="685.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 685.8 121.0)" fill="#111">fadD3_1 (aliA)</text>
+<polygon points="704.2,86.0 722.7,86.0 731.8,97.0 722.7,108.0 704.2,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>CEICAEBL_00140 | CEICAEBL_00140 | Dehydrogenase/oxidoreductase | Putative acyl-CoA dehydrogenase FadE17 | PANEL HIT: pimC/aabA (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=39.000000 qcovs=97.000000</title></polygon>
+<text x="718.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 718.0 121.0)" fill="#111">CEICAEBL_00140 (pimC/...</text>
+<polygon points="731.7,86.0 742.8,86.0 749.8,97.0 742.8,108.0 731.7,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>CEICAEBL_00141 | fabG2_1 | Dehydrogenase/oxidoreductase | putative oxidoreductase</title></polygon>
+<text x="740.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 740.8 121.0)" fill="#555">fabG2_1</text>
+<polygon points="751.2,86.0 762.2,86.0 769.2,97.0 762.2,108.0 751.2,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>CEICAEBL_00142 | kstR2_1 | Regulator | HTH-type transcriptional repressor KstR2</title></polygon>
+<text x="760.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 760.2 121.0)" fill="#555">kstR2_1</text>
+<polygon points="765.6,86.0 783.0,86.0 791.5,97.0 783.0,108.0 765.6,108.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>CEICAEBL_00143 | fadA5_1 | Thiolase/transferase | Steroid 3-ketoacyl-CoA thiolase | PANEL HIT: fadA (Catechol-ortho / Catechol-ortho) | pident=40.852000 qcovs=100.000000</title></polygon>
+<text x="778.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 778.6 121.0)" fill="#111">fadA5_1 (fadA)</text>
+<polygon points="811.0,86.0 800.0,86.0 793.0,97.0 800.0,108.0 811.0,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>CEICAEBL_00144 | CEICAEBL_00144 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="802.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 802.0 121.0)" fill="#555">CEICAEBL_00144</text>
+<polygon points="835.2,86.0 814.1,86.0 803.7,97.0 814.1,108.0 835.2,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>CEICAEBL_00145 | CEICAEBL_00145 | Dehydrogenase/oxidoreductase | Bifunctional cytochrome P450/NADPH--P450 reductase</title></polygon>
+<text x="819.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 819.4 121.0)" fill="#555">CEICAEBL_00145</text>
+<polygon points="837.2,86.0 848.2,86.0 855.2,97.0 848.2,108.0 837.2,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>CEICAEBL_00146 | CEICAEBL_00146 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="846.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 846.2 121.0)" fill="#555">CEICAEBL_00146</text>
+<polygon points="849.5,86.0 860.5,86.0 867.5,97.0 860.5,108.0 849.5,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>CEICAEBL_00147 | CEICAEBL_00147 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="858.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 858.5 121.0)" fill="#555">CEICAEBL_00147</text>
+<polygon points="910.3,86.0 875.0,86.0 857.6,97.0 875.0,108.0 910.3,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>CEICAEBL_00148 | malT_1 | Regulator | HTH-type transcriptional regulator MalT</title></polygon>
+<text x="884.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 884.0 121.0)" fill="#555">malT_1</text>
+<polygon points="914.3,86.0 939.2,86.0 951.5,97.0 939.2,108.0 914.3,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>CEICAEBL_00149 | pamO_1 | Oxygenase/dioxygenase | Phenylacetone monooxygenase | PANEL HIT: BVMO (Alkanes / Subterminal oxidation) | pident=45.489000 qcovs=95.000000</title></polygon>
+<text x="932.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 932.9 121.0)" fill="#111">pamO_1 (BVMO)</text>
+<polygon points="952.2,86.0 966.5,86.0 973.5,97.0 966.5,108.0 952.2,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>CEICAEBL_00150 | nlhH_1 | Accessory/other | Carboxylesterase NlhH</title></polygon>
+<text x="962.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 962.9 121.0)" fill="#555">nlhH_1</text>
+<polygon points="975.9,86.0 987.3,86.0 994.3,97.0 987.3,108.0 975.9,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>CEICAEBL_00151 | azoB | Accessory/other | NAD(P)H azoreductase</title></polygon>
+<text x="985.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 985.1 121.0)" fill="#555">azoB</text>
+<polygon points="1018.2,86.0 1001.6,86.0 993.4,97.0 1001.6,108.0 1018.2,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>CEICAEBL_00152 | CEICAEBL_00152 | Dehydrogenase/oxidoreductase | NADH:quinone reductase</title></polygon>
+<text x="1005.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1005.8 121.0)" fill="#555">CEICAEBL_00152</text>
+<polygon points="1036.1,86.0 1025.1,86.0 1018.1,97.0 1025.1,108.0 1036.1,108.0" fill="#a6cee3" stroke="#888" stroke-width="0.8"><title>CEICAEBL_00153 | CEICAEBL_00153 | Thiolase/transferase | Putative CoA-transferase subunit beta</title></polygon>
+<text x="1027.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1027.1 121.0)" fill="#555">CEICAEBL_00153</text>
+<polygon points="1055.4,86.0 1042.5,86.0 1035.5,97.0 1042.5,108.0 1055.4,108.0" fill="#a6cee3" stroke="#888" stroke-width="0.8"><title>CEICAEBL_00154 | CEICAEBL_00154 | Thiolase/transferase | Putative CoA-transferase subunit alpha</title></polygon>
+<text x="1045.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1045.5 121.0)" fill="#555">CEICAEBL_00154</text>
+<polygon points="1073.9,86.0 1062.9,86.0 1055.9,97.0 1062.9,108.0 1073.9,108.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>CEICAEBL_00155 | caiD_1 | Hydratase/dehydratase/isomerase | Carnitinyl-CoA dehydratase</title></polygon>
+<text x="1064.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1064.9 121.0)" fill="#555">caiD_1</text>
+<polygon points="1075.3,86.0 1089.9,86.0 1097.0,97.0 1089.9,108.0 1075.3,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>CEICAEBL_00156 | CEICAEBL_00156 | Dehydrogenase/oxidoreductase | Putative short-chain type dehydrogenase/reductase</title></polygon>
+<text x="1086.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1086.2 121.0)" fill="#555">CEICAEBL_00156</text>
+<polygon points="1116.6,86.0 1105.6,86.0 1098.6,97.0 1105.6,108.0 1116.6,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>CEICAEBL_00157 | CEICAEBL_00157 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1107.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1107.6 121.0)" fill="#555">CEICAEBL_00157</text>
+<polygon points="1133.3,86.0 1122.3,86.0 1115.3,97.0 1122.3,108.0 1133.3,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>CEICAEBL_00158 | ddn | Accessory/other | Deazaflavin-dependent nitroreductase</title></polygon>
+<text x="1124.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1124.3 121.0)" fill="#555">ddn</text>
+<polygon points="1152.2,86.0 1134.6,86.0 1126.0,97.0 1134.6,108.0 1152.2,108.0" fill="#a6cee3" stroke="#888" stroke-width="0.8"><title>CEICAEBL_00159 | fadA5_2 | Thiolase/transferase | Steroid 3-ketoacyl-CoA thiolase</title></polygon>
+<text x="1139.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1139.1 121.0)" fill="#555">fadA5_2</text>
+<polygon points="1156.3,86.0 1175.2,86.0 1184.6,97.0 1175.2,108.0 1156.3,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>CEICAEBL_00160 | CEICAEBL_00160 | Oxygenase/dioxygenase | Steroid C26-monooxygenase | PANEL HIT: CYP153 (Alkanes / Terminal/biterminal oxidation) | pident=32.227000 qcovs=91.000000</title></polygon>
+<text x="1170.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1170.4 121.0)" fill="#111">CEICAEBL_00160 (CYP153)</text>
+<polygon points="1193.1,86.0 1216.3,86.0 1227.8,97.0 1216.3,108.0 1193.1,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>CEICAEBL_00161 | ksdD_1 | Dehydrogenase/oxidoreductase | 3-oxosteroid 1-dehydrogenase | PANEL HIT: chcC1 (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=33.333000 qcovs=93.000000</title></polygon>
+<text x="1210.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1210.5 121.0)" fill="#111">ksdD_1 (chcC1)</text>
+<polygon points="1230.0,86.0 1251.7,86.0 1262.3,97.0 1251.7,108.0 1230.0,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>CEICAEBL_00162 | emrB | Accessory/other | Multidrug export protein EmrB</title></polygon>
+<text x="1246.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1246.1 121.0)" fill="#555">emrB</text>
+<polygon points="1279.9,86.0 1268.9,86.0 1261.9,97.0 1268.9,108.0 1279.9,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>CEICAEBL_00163 | nboR | Dehydrogenase/oxidoreductase | Nicotine blue oxidoreductase</title></polygon>
+<text x="1270.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1270.9 121.0)" fill="#555">nboR</text>
+<polygon points="1293.6,86.0 1282.6,86.0 1275.6,97.0 1282.6,108.0 1293.6,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>CEICAEBL_00164 | CEICAEBL_00164 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1284.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1284.6 121.0)" fill="#555">CEICAEBL_00164</text>
+<polygon points="1305.1,86.0 1292.2,86.0 1285.2,97.0 1292.2,108.0 1305.1,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>CEICAEBL_00165 | CEICAEBL_00165 | Accessory/other | putative protein</title></polygon>
+<text x="1295.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1295.1 121.0)" fill="#555">CEICAEBL_00165</text>
+<polygon points="1331.8,86.0 1314.0,86.0 1305.3,97.0 1314.0,108.0 1331.8,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>CEICAEBL_00166 | CEICAEBL_00166 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1318.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1318.5 121.0)" fill="#555">CEICAEBL_00166</text>
+<polygon points="1355.8,86.0 1339.7,86.0 1331.8,97.0 1339.7,108.0 1355.8,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>CEICAEBL_00167 | CEICAEBL_00167 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1343.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1343.8 121.0)" fill="#555">CEICAEBL_00167</text>
+<polygon points="1378.2,86.0 1363.4,86.0 1356.1,97.0 1363.4,108.0 1378.2,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>CEICAEBL_00168 | CEICAEBL_00168 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1367.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1367.1 121.0)" fill="#555">CEICAEBL_00168</text>
+<polygon points="1380.2,86.0 1395.9,86.0 1403.6,97.0 1395.9,108.0 1380.2,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>CEICAEBL_00169 | CEICAEBL_00169 | Dehydrogenase/oxidoreductase | Putative coenzyme F420-dependent oxidoreductase</title></polygon>
+<text x="1391.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1391.9 121.0)" fill="#555">CEICAEBL_00169</text>
+<polygon points="1407.3,86.0 1421.8,86.0 1429.0,97.0 1421.8,108.0 1407.3,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>CEICAEBL_00170 | CEICAEBL_00170 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1418.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1418.1 121.0)" fill="#555">CEICAEBL_00170</text>
+<polygon points="1449.8,86.0 1437.5,86.0 1430.5,97.0 1437.5,108.0 1449.8,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>CEICAEBL_00171 | caiD_2 | Hydratase/dehydratase/isomerase | Carnitinyl-CoA dehydratase | PANEL HIT: echA1 (Beta-oxidation / Beta-oxidation) | pident=42.909000 qcovs=95.000000</title></polygon>
+<text x="1440.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1440.1 121.0)" fill="#111">caiD_2 (echA1)</text>
+<polygon points="1451.5,86.0 1476.5,86.0 1488.8,97.0 1476.5,108.0 1451.5,108.0" fill="#1f78b4" stroke="#888" stroke-width="0.8"><title>CEICAEBL_00172 | CEICAEBL_00172 | CoA ligase/synthetase | 3-oxocholest-4-en-26-oate--CoA ligase</title></polygon>
+<text x="1470.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1470.2 121.0)" fill="#555">CEICAEBL_00172</text>
+<polygon points="1489.1,86.0 1505.9,86.0 1514.2,97.0 1505.9,108.0 1489.1,108.0" fill="#d73027" stroke="#888" stroke-width="0.8"><title>CEICAEBL_00173 | CEICAEBL_00173 | Oxygenase/dioxygenase | Putative monooxygenase</title></polygon>
+<text x="1501.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1501.6 121.0)" fill="#555">CEICAEBL_00173</text>
+<polygon points="1514.4,86.0 1532.8,86.0 1541.8,97.0 1532.8,108.0 1514.4,108.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>CEICAEBL_00174 | CEICAEBL_00174 | Accessory/other | Cytochrome P450 130 | PANEL HIT: CYP450 (Alkanes / Terminal/biterminal oxidation) | pident=31.061000 qcovs=93.000000</title></polygon>
+<text x="1528.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1528.1 121.0)" fill="#111">CEICAEBL_00174 (CYP450)</text>
+<polygon points="1561.4,86.0 1550.4,86.0 1543.4,97.0 1550.4,108.0 1561.4,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>CEICAEBL_00175 | tipA_1 | Regulator | HTH-type transcriptional activator TipA</title></polygon>
+<text x="1552.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1552.4 121.0)" fill="#555">tipA_1</text>
+<polygon points="1579.2,86.0 1568.2,86.0 1561.2,97.0 1568.2,108.0 1579.2,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>CEICAEBL_00176 | CEICAEBL_00176 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1570.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1570.2 121.0)" fill="#555">CEICAEBL_00176</text>
+<polygon points="1611.8,86.0 1586.2,86.0 1573.6,97.0 1586.2,108.0 1611.8,108.0" fill="#1f78b4" stroke="#888" stroke-width="0.8"><title>CEICAEBL_00177 | CEICAEBL_00177 | CoA ligase/synthetase | Long-chain-fatty-acid--CoA ligase FadD17</title></polygon>
+<text x="1592.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1592.7 121.0)" fill="#555">CEICAEBL_00177</text>
+<polygon points="1636.9,86.0 1620.0,86.0 1611.7,97.0 1620.0,108.0 1636.9,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>CEICAEBL_00178 | CEICAEBL_00178 | Dehydrogenase/oxidoreductase | Acyl-CoA dehydrogenase FadE27</title></polygon>
+<text x="1624.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1624.3 121.0)" fill="#555">CEICAEBL_00178</text>
+<polygon points="1664.0,86.0 1646.2,86.0 1637.4,97.0 1646.2,108.0 1664.0,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>CEICAEBL_00179 | CEICAEBL_00179 | Dehydrogenase/oxidoreductase | Acyl-CoA dehydrogenase FadE26 | PANEL HIT: pimC/aabA (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=32.668000 qcovs=99.000000</title></polygon>
+<text x="1650.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1650.7 121.0)" fill="#111">CEICAEBL_00179 (pimC/...</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">142,659 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">196,424 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

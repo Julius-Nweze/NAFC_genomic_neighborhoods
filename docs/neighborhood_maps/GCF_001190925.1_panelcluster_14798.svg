@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GCF_001190925.1_panelcluster_14798</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GCF_001190925.1 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: GI:23664434; badH; bcrD; boxA; boxB; boxC; hbd; paaG;</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">paaZ; pcaF</text>
+<text x="32.0" y="82.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Benzoyl-CoA; Beta-oxidation;</text>
+<text x="32.0" y="94.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Catechol-ortho; Phenylacetate; Plastics; Protocatechuate</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="481.8,86.0 461.8,86.0 452.0,97.0 461.8,108.0 481.8,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>GPINMBEK_04669 | paaG_4 | Hydratase/dehydratase/isomerase | 1,2-epoxyphenylacetyl-CoA isomerase | PANEL HIT: paaG (Phenylacetate / Phenylacetate) | pident=33.465000 qcovs=95.000000</title></polygon>
+<text x="466.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 466.9 121.0)" fill="#111">paaG_4 (paaG)</text>
+<polygon points="510.8,86.0 492.6,86.0 483.7,97.0 492.6,108.0 510.8,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>GPINMBEK_04670 | bacC_3 | Dehydrogenase/oxidoreductase | Dihydroanticapsin 7-dehydrogenase | PANEL HIT: badH (Beta-oxidation / Beta-oxidation) | pident=49.206000 qcovs=99.000000</title></polygon>
+<text x="497.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 497.2 121.0)" fill="#111">bacC_3 (badH)</text>
+<polygon points="583.5,86.0 544.4,86.0 526.4,97.0 544.4,108.0 583.5,108.0" fill="#1f78b4" stroke="#111" stroke-width="2.2"><title>GPINMBEK_04671 | hcl_2 | CoA ligase/synthetase | 3-hydroxybenzoate--CoA/4-hydroxybenzoate--CoA ligase | PANEL HIT: GI:23664434 (Aromatics / Benzene) | pident=34.980000 qcovs=95.000000</title></polygon>
+<text x="554.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 554.9 121.0)" fill="#111">hcl_2 (GI:23664434)</text>
+<polygon points="623.5,86.0 598.4,86.0 586.0,97.0 598.4,108.0 623.5,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>GPINMBEK_04672 | GPINMBEK_04672 | Transport/efflux | Solute-binding protein</title></polygon>
+<text x="604.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 604.7 121.0)" fill="#555">GPINMBEK_04672</text>
+<polygon points="673.3,86.0 640.9,86.0 624.9,97.0 640.9,108.0 673.3,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>GPINMBEK_04673 | dctM_3 | Transport/efflux | C4-dicarboxylate TRAP transporter large permease protein DctM</title></polygon>
+<text x="649.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 649.1 121.0)" fill="#555">dctM_3</text>
+<polygon points="697.3,86.0 681.1,86.0 673.2,97.0 681.1,108.0 697.3,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>GPINMBEK_04674 | GPINMBEK_04674 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="685.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 685.2 121.0)" fill="#555">GPINMBEK_04674</text>
+<polygon points="744.3,86.0 715.6,86.0 701.4,97.0 715.6,108.0 744.3,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>GPINMBEK_04675 | caiA_2 | Dehydrogenase/oxidoreductase | Crotonobetainyl-CoA reductase</title></polygon>
+<text x="722.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 722.9 121.0)" fill="#555">caiA_2</text>
+<polygon points="781.7,86.0 762.2,86.0 752.6,97.0 762.2,108.0 781.7,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>GPINMBEK_04676 | actIII | Dehydrogenase/oxidoreductase | Putative ketoacyl reductase | PANEL HIT: hbd (Plastics / P3HV/PHA/PHBV) | pident=36.293000 qcovs=97.000000</title></polygon>
+<text x="767.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 767.1 121.0)" fill="#111">actIII (hbd)</text>
+<polygon points="809.6,86.0 798.6,86.0 791.6,97.0 798.6,108.0 809.6,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>GPINMBEK_04677 | GPINMBEK_04677 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="800.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 800.6 121.0)" fill="#555">GPINMBEK_04677</text>
+<polygon points="843.1,86.0 820.8,86.0 809.8,97.0 820.8,108.0 843.1,108.0" fill="#fdbf6f" stroke="#111" stroke-width="2.2"><title>GPINMBEK_04678 | fldI_3 | Regulator | (R)-phenyllactate dehydratase activator | PANEL HIT: bcrD (Benzoyl-CoA / Benzoyl-CoA) | pident=31.868000 qcovs=95.000000</title></polygon>
+<text x="826.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 826.4 121.0)" fill="#111">fldI_3 (bcrD)</text>
+<polygon points="873.4,86.0 853.9,86.0 844.2,97.0 853.9,108.0 873.4,108.0" fill="#fdbf6f" stroke="#111" stroke-width="2.2"><title>GPINMBEK_04679 | hadI_3 | Regulator | 2-hydroxyisocaproyl-CoA dehydratase activator | PANEL HIT: bcrD (Benzoyl-CoA / Benzoyl-CoA) | pident=33.704000 qcovs=94.000000</title></polygon>
+<text x="858.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 858.8 121.0)" fill="#111">hadI_3 (bcrD)</text>
+<polygon points="929.7,86.0 897.8,86.0 882.1,97.0 897.8,108.0 929.7,108.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>GPINMBEK_04680 | fldB_2 | Hydratase/dehydratase/isomerase | (R)-phenyllactyl-CoA dehydratase alpha subunit</title></polygon>
+<text x="905.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 905.9 121.0)" fill="#555">fldB_2</text>
+<polygon points="971.8,86.0 944.0,86.0 930.4,97.0 944.0,108.0 971.8,108.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>GPINMBEK_04681 | fldC_2 | Hydratase/dehydratase/isomerase | (R)-phenyllactyl-CoA dehydratase beta subunit</title></polygon>
+<text x="951.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 951.1 121.0)" fill="#555">fldC_2</text>
+<polygon points="1003.1,86.0 992.1,86.0 985.1,97.0 992.1,108.0 1003.1,108.0" fill="#fb9a99" stroke="#888" stroke-width="0.8"><title>GPINMBEK_04682 | rubA | Electron transfer/redox | Rubredoxin</title></polygon>
+<text x="994.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 994.1 121.0)" fill="#555">rubA</text>
+<polygon points="1027.3,86.0 1007.7,86.0 998.1,97.0 1007.7,108.0 1027.3,108.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>GPINMBEK_04683 | GPINMBEK_04683 | Hydratase/dehydratase/isomerase | Crotonyl-CoA hydratase</title></polygon>
+<text x="1012.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1012.7 121.0)" fill="#555">GPINMBEK_04683</text>
+<polygon points="1047.5,86.0 1036.5,86.0 1029.5,97.0 1036.5,108.0 1047.5,108.0" fill="#b15928" stroke="#888" stroke-width="0.8"><title>GPINMBEK_04684 | GPINMBEK_04684 | Hydrolase/decarboxylase/lyase | 1,4-dihydroxy-2-naphthoyl-CoA hydrolase</title></polygon>
+<text x="1038.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1038.5 121.0)" fill="#555">GPINMBEK_04684</text>
+<polygon points="1072.7,86.0 1054.0,86.0 1044.7,97.0 1054.0,108.0 1072.7,108.0" fill="#b15928" stroke="#888" stroke-width="0.8"><title>GPINMBEK_04685 | menH_5 | Hydrolase/decarboxylase/lyase | 2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase</title></polygon>
+<text x="1058.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1058.7 121.0)" fill="#555">menH_5</text>
+<polygon points="1104.4,86.0 1085.3,86.0 1076.0,97.0 1085.3,108.0 1104.4,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>GPINMBEK_04686 | livF_13 | Transport/efflux | High-affinity branched-chain amino acid transport ATP-binding protein LivF</title></polygon>
+<text x="1090.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1090.2 121.0)" fill="#555">livF_13</text>
+<polygon points="1131.7,86.0 1113.2,86.0 1104.1,97.0 1113.2,108.0 1131.7,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>GPINMBEK_04687 | lptB_8 | Accessory/other | Lipopolysaccharide export system ATP-binding protein LptB</title></polygon>
+<text x="1117.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1117.9 121.0)" fill="#555">lptB_8</text>
+<polygon points="1166.6,86.0 1143.0,86.0 1131.4,97.0 1143.0,108.0 1166.6,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>GPINMBEK_04688 | GPINMBEK_04688 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1149.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1149.0 121.0)" fill="#555">GPINMBEK_04688</text>
+<polygon points="1198.7,86.0 1177.6,86.0 1167.2,97.0 1177.6,108.0 1198.7,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>GPINMBEK_04689 | livH_14 | Transport/efflux | High-affinity branched-chain amino acid transport system permease protein LivH</title></polygon>
+<text x="1182.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1182.9 121.0)" fill="#555">livH_14</text>
+<polygon points="1250.6,86.0 1221.7,86.0 1207.5,97.0 1221.7,108.0 1250.6,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>GPINMBEK_04690 | GPINMBEK_04690 | Accessory/other | Leu/Ile/Val-binding protein </title></polygon>
+<text x="1229.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1229.1 121.0)" fill="#555">GPINMBEK_04690</text>
+<polygon points="1313.9,86.0 1274.1,86.0 1256.1,97.0 1274.1,108.0 1313.9,108.0" fill="#1f78b4" stroke="#111" stroke-width="2.2"><title>GPINMBEK_04691 | bclA_3 | CoA ligase/synthetase | Benzoate--CoA ligase | PANEL HIT: GI:23664434 (Aromatics / Benzene) | pident=95.463000 qcovs=100.000000</title></polygon>
+<text x="1285.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1285.0 121.0)" fill="#111">bclA_3 (GI:23664434)</text>
+<polygon points="1339.3,86.0 1328.3,86.0 1321.3,97.0 1328.3,108.0 1339.3,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>GPINMBEK_04692 | GPINMBEK_04692 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1330.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1330.3 121.0)" fill="#555">GPINMBEK_04692</text>
+<polygon points="1398.0,86.0 1358.7,86.0 1340.7,97.0 1358.7,108.0 1398.0,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>GPINMBEK_04693 | boxD | Dehydrogenase/oxidoreductase | 3,4-dehydroadipyl-CoA semialdehyde dehydrogenase | PANEL HIT: paaZ (Phenylacetate / Phenylacetate) | pident=43.103000 qcovs=76.000000</title></polygon>
+<text x="1369.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1369.3 121.0)" fill="#111">boxD (paaZ)</text>
+<polygon points="1409.9,86.0 1431.9,86.0 1442.7,97.0 1431.9,108.0 1409.9,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>GPINMBEK_04694 | aroK_3 | Accessory/other | Shikimate kinase</title></polygon>
+<text x="1426.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1426.3 121.0)" fill="#555">aroK_3</text>
+<polygon points="1443.8,86.0 1486.4,86.0 1504.4,97.0 1486.4,108.0 1443.8,108.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>GPINMBEK_04695 | boxC | Hydrolase/decarboxylase/lyase | Benzoyl-CoA-dihydrodiol lyase | PANEL HIT: boxC (Aromatics / Benzene) | pident=93.694000 qcovs=100.000000</title></polygon>
+<text x="1474.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1474.1 121.0)" fill="#111">boxC (boxC)</text>
+<polygon points="1506.5,86.0 1541.1,86.0 1558.1,97.0 1541.1,108.0 1506.5,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>GPINMBEK_04696 | boxB | Oxygenase/dioxygenase | Benzoyl-CoA oxygenase component B | PANEL HIT: boxB (Aromatics / Benzene) | pident=95.772000 qcovs=100.000000</title></polygon>
+<text x="1532.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1532.3 121.0)" fill="#111">boxB (boxB)</text>
+<polygon points="1567.2,86.0 1597.5,86.0 1612.5,97.0 1597.5,108.0 1567.2,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>GPINMBEK_04697 | boxA | Oxygenase/dioxygenase | Benzoyl-CoA oxygenase component A | PANEL HIT: boxA (Aromatics / Benzene) | pident=95.894000 qcovs=100.000000</title></polygon>
+<text x="1589.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1589.8 121.0)" fill="#111">boxA (boxA)</text>
+<polygon points="1620.1,86.0 1649.5,86.0 1664.0,97.0 1649.5,108.0 1620.1,108.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>GPINMBEK_04698 | pcaF_2 | Thiolase/transferase | Beta-ketoadipyl-CoA thiolase | PANEL HIT: pcaF (Catechol-ortho; Protocatechuate / Protocatechuate) | pident=70.250000 qcovs=99.000000</title></polygon>
+<text x="1642.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1642.0 121.0)" fill="#111">pcaF_2 (pcaF)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">5,111,182 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">5,144,546 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GCF_051450025.1_panelcluster_16508</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GCF_051450025.1 | c_000000000010 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: galA; galB; galC; galD; galP; galR; galT; mlaF; mpdC;</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">pht2</text>
+<text x="32.0" y="82.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkenes; Aromatics; Gallate; Transportation</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="452.0,86.0 491.3,86.0 509.3,97.0 491.3,108.0 452.0,108.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>PCHIFGEP_01601 | pcaK_1 | Transport/efflux | 4-hydroxybenzoate transporter PcaK | PANEL HIT: galT (Gallate / Gallate) | pident=98.218000 qcovs=100.000000</title></polygon>
+<text x="480.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 480.6 121.0)" fill="#111">pcaK_1 (galT)</text>
+<polygon points="510.2,86.0 546.1,86.0 563.8,97.0 546.1,108.0 510.2,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>PCHIFGEP_01602 | galA | Oxygenase/dioxygenase | Gallate dioxygenase | PANEL HIT: galA (Gallate / Gallate) | pident=98.824000 qcovs=100.000000</title></polygon>
+<text x="537.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 537.0 121.0)" fill="#111">galA (galA)</text>
+<polygon points="569.3,86.0 604.8,86.0 622.3,97.0 604.8,108.0 569.3,108.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>PCHIFGEP_01603 | nicP_2 | Transport/efflux | Porin-like protein NicP | PANEL HIT: galP (Gallate / Gallate) | pident=97.590000 qcovs=100.000000</title></polygon>
+<text x="595.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 595.8 121.0)" fill="#111">nicP_2 (galP)</text>
+<polygon points="673.6,86.0 639.6,86.0 622.9,97.0 639.6,108.0 673.6,108.0" fill="#fdbf6f" stroke="#111" stroke-width="2.2"><title>PCHIFGEP_01604 | hdfR_6 | Regulator | HTH-type transcriptional regulator HdfR | PANEL HIT: galR (Gallate / Gallate) | pident=99.748000 qcovs=100.000000</title></polygon>
+<text x="648.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 648.3 121.0)" fill="#111">hdfR_6 (galR)</text>
+<polygon points="680.4,86.0 701.3,86.0 711.6,97.0 701.3,108.0 680.4,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>PCHIFGEP_01605 | galB | Hydratase/dehydratase/isomerase | 4-oxalmesaconate hydratase | PANEL HIT: galB (Gallate / Gallate) | pident=98.770000 qcovs=95.000000</title></polygon>
+<text x="696.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 696.0 121.0)" fill="#111">galB (galB)</text>
+<polygon points="711.4,86.0 731.8,86.0 741.8,97.0 731.8,108.0 711.4,108.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>PCHIFGEP_01606 | galC | Hydrolase/decarboxylase/lyase | 4-carboxy-4-hydroxy-2-oxoadipic acid aldolase | PANEL HIT: galC (Gallate / Gallate) | pident=96.639000 qcovs=100.000000</title></polygon>
+<text x="726.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 726.6 121.0)" fill="#111">galC (galC)</text>
+<polygon points="741.9,86.0 772.7,86.0 787.9,97.0 772.7,108.0 741.9,108.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>PCHIFGEP_01607 | galD | Accessory/other | 4-oxalomesaconate tautomerase | PANEL HIT: galD (Gallate / Gallate) | pident=96.648000 qcovs=99.000000</title></polygon>
+<text x="764.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 764.9 121.0)" fill="#111">galD (galD)</text>
+<polygon points="808.5,86.0 834.2,86.0 846.8,97.0 834.2,108.0 808.5,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>PCHIFGEP_01608 | PCHIFGEP_01608 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="827.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 827.7 121.0)" fill="#555">PCHIFGEP_01608</text>
+<polygon points="853.0,86.0 894.7,86.0 912.7,97.0 894.7,108.0 853.0,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>PCHIFGEP_01609 | bauD_2 | Transport/efflux | putative GABA permease</title></polygon>
+<text x="882.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 882.8 121.0)" fill="#555">bauD_2</text>
+<polygon points="958.7,86.0 929.1,86.0 914.5,97.0 929.1,108.0 958.7,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>PCHIFGEP_01610 | cdhR_4 | Regulator | HTH-type transcriptional regulator CdhR</title></polygon>
+<text x="936.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 936.6 121.0)" fill="#555">cdhR_4</text>
+<polygon points="997.7,86.0 973.5,86.0 961.5,97.0 973.5,108.0 997.7,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>PCHIFGEP_01611 | opuAB_2 | Transport/efflux | Glycine betaine transport system permease protein OpuAB</title></polygon>
+<text x="979.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 979.6 121.0)" fill="#555">opuAB_2</text>
+<polygon points="1033.5,86.0 1009.1,86.0 997.1,97.0 1009.1,108.0 1033.5,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>PCHIFGEP_01612 | opuAB_3 | Transport/efflux | Glycine betaine transport system permease protein OpuAB</title></polygon>
+<text x="1015.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1015.3 121.0)" fill="#555">opuAB_3</text>
+<polygon points="1080.6,86.0 1048.9,86.0 1033.3,97.0 1048.9,108.0 1080.6,108.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>PCHIFGEP_01613 | btuD_5 | Accessory/other | Vitamin B12 import ATP-binding protein BtuD | PANEL HIT: mlaF (Transportation / Transportation) | pident=40.889000 qcovs=83.000000</title></polygon>
+<text x="1056.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1056.9 121.0)" fill="#111">btuD_5 (mlaF)</text>
+<polygon points="1119.8,86.0 1095.6,86.0 1083.7,97.0 1095.6,108.0 1119.8,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>PCHIFGEP_01614 | PCHIFGEP_01614 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1101.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1101.8 121.0)" fill="#555">PCHIFGEP_01614</text>
+<polygon points="1154.6,86.0 1134.9,86.0 1125.2,97.0 1134.9,108.0 1154.6,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>PCHIFGEP_01615 | PCHIFGEP_01615 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1139.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1139.9 121.0)" fill="#555">PCHIFGEP_01615</text>
+<polygon points="1168.1,86.0 1189.2,86.0 1199.7,97.0 1189.2,108.0 1168.1,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>PCHIFGEP_01616 | PCHIFGEP_01616 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1183.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1183.9 121.0)" fill="#555">PCHIFGEP_01616</text>
+<polygon points="1203.6,86.0 1241.7,86.0 1259.7,97.0 1241.7,108.0 1203.6,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>PCHIFGEP_01617 | puuB_6 | Dehydrogenase/oxidoreductase | Gamma-glutamylputrescine oxidoreductase</title></polygon>
+<text x="1231.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1231.7 121.0)" fill="#555">puuB_6</text>
+<polygon points="1267.5,86.0 1305.9,86.0 1323.9,97.0 1305.9,108.0 1267.5,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>PCHIFGEP_01618 | ygcS_1 | Transport/efflux | Inner membrane metabolite transport protein YgcS</title></polygon>
+<text x="1295.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1295.7 121.0)" fill="#555">ygcS_1</text>
+<polygon points="1326.9,86.0 1352.3,86.0 1364.8,97.0 1352.3,108.0 1326.9,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>PCHIFGEP_01619 | dapA_4 | Accessory/other | 4-hydroxy-tetrahydrodipicolinate synthase</title></polygon>
+<text x="1345.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1345.8 121.0)" fill="#555">dapA_4</text>
+<polygon points="1365.3,86.0 1410.6,86.0 1428.6,97.0 1410.6,108.0 1365.3,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>PCHIFGEP_01620 | puuC_2 | Dehydrogenase/oxidoreductase | NADP/NAD-dependent aldehyde dehydrogenase PuuC | PANEL HIT: mpdC (Alkenes / 2-methylpropene) | pident=36.660000 qcovs=96.000000</title></polygon>
+<text x="1397.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1397.0 121.0)" fill="#111">puuC_2 (mpdC)</text>
+<polygon points="1488.1,86.0 1467.1,86.0 1456.7,97.0 1467.1,108.0 1488.1,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>PCHIFGEP_01621 | PCHIFGEP_01621 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1472.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1472.4 121.0)" fill="#555">PCHIFGEP_01621</text>
+<polygon points="1521.7,86.0 1500.4,86.0 1489.9,97.0 1500.4,108.0 1521.7,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>PCHIFGEP_01622 | lldR | Dehydrogenase/oxidoreductase | Putative L-lactate dehydrogenase operon regulatory protein</title></polygon>
+<text x="1505.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1505.8 121.0)" fill="#555">lldR</text>
+<polygon points="1530.8,86.0 1573.3,86.0 1591.3,97.0 1573.3,108.0 1530.8,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>PCHIFGEP_01623 | prr_1 | Dehydrogenase/oxidoreductase | Gamma-aminobutyraldehyde dehydrogenase</title></polygon>
+<text x="1561.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1561.1 121.0)" fill="#555">prr_1</text>
+<polygon points="1597.3,86.0 1614.6,86.0 1623.1,97.0 1614.6,108.0 1597.3,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>PCHIFGEP_01624 | PCHIFGEP_01624 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1610.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1610.2 121.0)" fill="#555">PCHIFGEP_01624</text>
+<polygon points="1622.9,86.0 1650.4,86.0 1664.0,97.0 1650.4,108.0 1622.9,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>PCHIFGEP_01625 | yeaX | Oxygenase/dioxygenase | Carnitine monooxygenase reductase subunit | PANEL HIT: pht2 (Aromatics / Phthalate) | pident=38.532000 qcovs=98.000000</title></polygon>
+<text x="1643.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1643.4 121.0)" fill="#111">yeaX (pht2)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">19,578 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">48,140 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

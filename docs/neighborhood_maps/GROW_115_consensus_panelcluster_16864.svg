@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GROW_115_consensus_panelcluster_16864</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GROW_115_consensus | 1 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: pcaB; pcaC; pcaD; pcaF; pcaG; pcaH; pcaI; pcaJ; pcaK;</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">pobA</text>
+<text x="32.0" y="82.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Catechol-ortho; Protocatechuate;</text>
+<text x="32.0" y="94.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Transportation</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="539.8,86.0 470.0,86.0 452.0,97.0 470.0,108.0 539.8,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>JOMJACIJ_01935 | pobA | Oxygenase/dioxygenase | p-hydroxybenzoate hydroxylase | PANEL HIT: pobA (Aromatics / Toluene) | pident=63.683000 qcovs=99.000000</title></polygon>
+<text x="495.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 495.9 121.0)" fill="#111">pobA (pobA)</text>
+<polygon points="550.3,86.0 590.7,86.0 608.7,97.0 590.7,108.0 550.3,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>JOMJACIJ_01936 | pobR | Regulator | p-hydroxybenzoate hydroxylase transcriptional activator</title></polygon>
+<text x="579.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 579.5 121.0)" fill="#555">pobR</text>
+<polygon points="790.2,86.0 633.0,86.0 615.0,97.0 633.0,108.0 790.2,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>JOMJACIJ_01937 | quiA | Dehydrogenase/oxidoreductase | Quinate/shikimate dehydrogenase (quinone)</title></polygon>
+<text x="702.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 702.6 121.0)" fill="#555">quiA</text>
+<polygon points="897.9,86.0 820.7,86.0 802.7,97.0 820.7,108.0 897.9,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>JOMJACIJ_01938 | oprB_1 | Transport/efflux | Porin B</title></polygon>
+<text x="850.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 850.3 121.0)" fill="#555">oprB_1</text>
+<polygon points="1007.8,86.0 920.5,86.0 902.5,97.0 920.5,108.0 1007.8,108.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>JOMJACIJ_01939 | quiC | Hydratase/dehydratase/isomerase | 3-dehydroshikimate dehydratase</title></polygon>
+<text x="955.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 955.1 121.0)" fill="#555">quiC</text>
+<polygon points="1071.5,86.0 1027.3,86.0 1009.3,97.0 1027.3,108.0 1071.5,108.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>JOMJACIJ_01940 | quiB | Hydratase/dehydratase/isomerase | Catabolic 3-dehydroquinate dehydratase</title></polygon>
+<text x="1040.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1040.4 121.0)" fill="#555">quiB</text>
+<polygon points="1121.9,86.0 1091.5,86.0 1076.5,97.0 1091.5,108.0 1121.9,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>JOMJACIJ_01941 | pcaG | Oxygenase/dioxygenase | Protocatechuate 3,4-dioxygenase alpha chain | PANEL HIT: pcaG (Protocatechuate / Protocatechuate) | pident=50.490000 qcovs=99.000000</title></polygon>
+<text x="1099.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1099.2 121.0)" fill="#111">pcaG (pcaG)</text>
+<polygon points="1175.5,86.0 1140.4,86.0 1123.2,97.0 1140.4,108.0 1175.5,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>JOMJACIJ_01942 | pcaH | Oxygenase/dioxygenase | Protocatechuate 3,4-dioxygenase beta chain | PANEL HIT: pcaH (Protocatechuate / Protocatechuate) | pident=56.957000 qcovs=96.000000</title></polygon>
+<text x="1149.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1149.3 121.0)" fill="#111">pcaH (pcaH)</text>
+<polygon points="1206.4,86.0 1186.7,86.0 1177.0,97.0 1186.7,108.0 1206.4,108.0" fill="#d9d9d9" stroke="#111" stroke-width="2.2"><title>JOMJACIJ_01943 | JOMJACIJ_01943 | Hypothetical/accessory | hypothetical protein | PANEL HIT: pcaC (Protocatechuate / Protocatechuate) | pident=84.328000 qcovs=100.000000</title></polygon>
+<text x="1191.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1191.7 121.0)" fill="#111">JOMJACIJ_01943 (pcaC)</text>
+<polygon points="1305.0,86.0 1225.3,86.0 1207.3,97.0 1225.3,108.0 1305.0,108.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>JOMJACIJ_01944 | pcaK_3 | Transport/efflux | 4-hydroxybenzoate transporter PcaK | PANEL HIT: pcaK (Transportation / Transportation) | pident=63.699000 qcovs=97.000000</title></polygon>
+<text x="1256.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1256.1 121.0)" fill="#111">pcaK_3 (pcaK)</text>
+<polygon points="1364.7,86.0 1325.8,86.0 1307.8,97.0 1325.8,108.0 1364.7,108.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>JOMJACIJ_01945 | catD_3 | Hydrolase/decarboxylase/lyase | 3-oxoadipate enol-lactonase 2 | PANEL HIT: pcaD (Catechol-ortho; Protocatechuate / Protocatechuate) | pident=41.833000 qcovs=95.000000</title></polygon>
+<text x="1336.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1336.2 121.0)" fill="#111">catD_3 (pcaD)</text>
+<polygon points="1462.3,86.0 1382.4,86.0 1364.4,97.0 1382.4,108.0 1462.3,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>JOMJACIJ_01946 | pcaB | Hydratase/dehydratase/isomerase | 3-carboxy-cis,cis-muconate cycloisomerase | PANEL HIT: pcaB (Protocatechuate / Protocatechuate) | pident=46.919000 qcovs=99.000000</title></polygon>
+<text x="1413.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1413.4 121.0)" fill="#111">pcaB (pcaB)</text>
+<polygon points="1550.4,86.0 1481.7,86.0 1463.7,97.0 1481.7,108.0 1550.4,108.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>JOMJACIJ_01947 | pcaF_4 | Thiolase/transferase | Beta-ketoadipyl-CoA thiolase | PANEL HIT: pcaF (Catechol-ortho; Protocatechuate / Protocatechuate) | pident=62.095000 qcovs=100.000000</title></polygon>
+<text x="1507.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1507.1 121.0)" fill="#111">pcaF_4 (pcaF)</text>
+<polygon points="1613.2,86.0 1581.6,86.0 1566.1,97.0 1581.6,108.0 1613.2,108.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>JOMJACIJ_01948 | pcaJ_2 | Thiolase/transferase | 3-oxoadipate CoA-transferase subunit B | PANEL HIT: pcaJ (Catechol-ortho / Catechol-ortho) | pident=67.788000 qcovs=97.000000</title></polygon>
+<text x="1589.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1589.6 121.0)" fill="#111">pcaJ_2 (pcaJ)</text>
+<polygon points="1664.0,86.0 1630.8,86.0 1614.5,97.0 1630.8,108.0 1664.0,108.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>JOMJACIJ_01949 | pcaI_2 | Thiolase/transferase | 3-oxoadipate CoA-transferase subunit A | PANEL HIT: pcaI (Catechol-ortho / Catechol-ortho) | pident=71.233000 qcovs=95.000000</title></polygon>
+<text x="1639.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1639.2 121.0)" fill="#111">pcaI_2 (pcaI)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">1,818,562 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">1,835,377 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

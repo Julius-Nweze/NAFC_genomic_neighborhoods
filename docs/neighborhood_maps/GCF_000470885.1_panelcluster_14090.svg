@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GCF_000470885.1_panelcluster_14090</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GCF_000470885.1 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: PGRcl; echA1; fadA; paaG</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Beta-oxidation; Catechol-ortho; Phenylacetate;</text>
+<text x="32.0" y="82.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Pyrogallol</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="512.5,86.0 470.0,86.0 452.0,97.0 470.0,108.0 512.5,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>CEICAEBL_05104 | paaG_2 | Hydratase/dehydratase/isomerase | 1,2-epoxyphenylacetyl-CoA isomerase | PANEL HIT: paaG (Phenylacetate / Phenylacetate) | pident=39.442000 qcovs=96.000000</title></polygon>
+<text x="482.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 482.2 121.0)" fill="#111">paaG_2 (paaG)</text>
+<polygon points="591.4,86.0 534.3,86.0 516.3,97.0 534.3,108.0 591.4,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>CEICAEBL_05105 | pikAII_2 | Accessory/other | Narbonolide/10-deoxymethynolide synthase PikA2, modules 3 and 4</title></polygon>
+<text x="553.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 553.9 121.0)" fill="#555">pikAII_2</text>
+<polygon points="608.4,86.0 652.2,86.0 670.2,97.0 652.2,108.0 608.4,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>CEICAEBL_05106 | caiD_9 | Hydratase/dehydratase/isomerase | Carnitinyl-CoA dehydratase | PANEL HIT: echA1 (Beta-oxidation / Beta-oxidation) | pident=47.388000 qcovs=99.000000</title></polygon>
+<text x="639.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 639.3 121.0)" fill="#111">caiD_9 (echA1)</text>
+<polygon points="676.3,86.0 750.5,86.0 768.5,97.0 750.5,108.0 676.3,108.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>CEICAEBL_05107 | fadA_4 | Thiolase/transferase | 3-ketoacyl-CoA thiolase | PANEL HIT: fadA (Catechol-ortho / Catechol-ortho) | pident=43.392000 qcovs=100.000000</title></polygon>
+<text x="722.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 722.4 121.0)" fill="#111">fadA_4 (fadA)</text>
+<polygon points="770.6,86.0 811.4,86.0 829.4,97.0 811.4,108.0 770.6,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>CEICAEBL_05108 | CEICAEBL_05108 | Dehydrogenase/oxidoreductase | putative oxidoreductase</title></polygon>
+<text x="800.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 800.0 121.0)" fill="#555">CEICAEBL_05108</text>
+<polygon points="832.5,86.0 866.8,86.0 883.7,97.0 866.8,108.0 832.5,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>CEICAEBL_05109 | kstR2_8 | Regulator | HTH-type transcriptional repressor KstR2</title></polygon>
+<text x="858.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 858.1 121.0)" fill="#555">kstR2_8</text>
+<polygon points="887.7,86.0 959.1,86.0 977.1,97.0 959.1,108.0 887.7,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>CEICAEBL_05110 | acrC_4 | Dehydrogenase/oxidoreductase | Acryloyl-CoA reductase (NADH)</title></polygon>
+<text x="932.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 932.4 121.0)" fill="#555">acrC_4</text>
+<polygon points="979.3,86.0 1019.9,86.0 1037.9,97.0 1019.9,108.0 979.3,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>CEICAEBL_05111 | gno_2 | Dehydrogenase/oxidoreductase | Gluconate 5-dehydrogenase | PANEL HIT: PGRcl (Pyrogallol / Pyrogallol) | pident=30.769000 qcovs=95.000000</title></polygon>
+<text x="1008.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1008.6 121.0)" fill="#111">gno_2 (PGRcl)</text>
+<polygon points="1041.5,86.0 1056.4,86.0 1063.7,97.0 1056.4,108.0 1041.5,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>CEICAEBL_05112 | CEICAEBL_05112 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1052.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1052.6 121.0)" fill="#555">CEICAEBL_05112</text>
+<polygon points="1074.1,86.0 1085.1,86.0 1092.1,97.0 1085.1,108.0 1074.1,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>CEICAEBL_05113 | CEICAEBL_05113 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1083.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1083.1 121.0)" fill="#555">CEICAEBL_05113</text>
+<polygon points="1092.8,86.0 1156.8,86.0 1174.8,97.0 1156.8,108.0 1092.8,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>CEICAEBL_05114 | CEICAEBL_05114 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1133.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1133.8 121.0)" fill="#555">CEICAEBL_05114</text>
+<polygon points="1174.5,86.0 1239.5,86.0 1257.5,97.0 1239.5,108.0 1174.5,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>CEICAEBL_05115 | CEICAEBL_05115 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1216.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1216.0 121.0)" fill="#555">CEICAEBL_05115</text>
+<polygon points="1282.6,86.0 1271.6,86.0 1264.6,97.0 1271.6,108.0 1282.6,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>CEICAEBL_05116 | CEICAEBL_05116 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1273.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1273.6 121.0)" fill="#555">CEICAEBL_05116</text>
+<polygon points="1348.6,86.0 1337.6,86.0 1330.6,97.0 1337.6,108.0 1348.6,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>CEICAEBL_05117 | CEICAEBL_05117 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1339.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1339.6 121.0)" fill="#555">CEICAEBL_05117</text>
+<polygon points="1425.7,86.0 1368.1,86.0 1350.1,97.0 1368.1,108.0 1425.7,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>CEICAEBL_05118 | CEICAEBL_05118 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1387.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1387.9 121.0)" fill="#555">CEICAEBL_05118</text>
+<polygon points="1458.4,86.0 1437.8,86.0 1427.6,97.0 1437.8,108.0 1458.4,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>CEICAEBL_05119 | CEICAEBL_05119 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1443.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1443.0 121.0)" fill="#555">CEICAEBL_05119</text>
+<polygon points="1535.6,86.0 1481.6,86.0 1463.6,97.0 1481.6,108.0 1535.6,108.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>CEICAEBL_05120 | CEICAEBL_05120 | Hydratase/dehydratase/isomerase | putative enoyl-CoA hydratase echA12</title></polygon>
+<text x="1499.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1499.6 121.0)" fill="#555">CEICAEBL_05120</text>
+<polygon points="1562.8,86.0 1550.5,86.0 1543.5,97.0 1550.5,108.0 1562.8,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>CEICAEBL_05121 | whiB_5 | Regulator | Transcriptional regulator WhiB</title></polygon>
+<text x="1553.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1553.1 121.0)" fill="#555">whiB_5</text>
+<polygon points="1605.2,86.0 1646.0,86.0 1664.0,97.0 1646.0,108.0 1605.2,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>CEICAEBL_05122 | caiD_10 | Hydratase/dehydratase/isomerase | Carnitinyl-CoA dehydratase | PANEL HIT: echA1 (Beta-oxidation / Beta-oxidation) | pident=60.729000 qcovs=94.000000</title></polygon>
+<text x="1634.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1634.6 121.0)" fill="#111">caiD_10 (echA1)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">5,496,703 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">5,512,396 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

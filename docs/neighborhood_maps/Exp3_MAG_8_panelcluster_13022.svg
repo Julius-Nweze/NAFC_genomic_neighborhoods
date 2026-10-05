@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_8_panelcluster_13022</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_8 | MAGs/Exp3_MAG_8_c_000000000222 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: bphJ; bphX3; pchA; ssuD; todF; tomA1; tomA2; tomA3;</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">tomA4; tomA5; xylE; xylG; xylI; xylJ</text>
+<text x="32.0" y="82.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Aromatics; Catechol-meta</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="452.0,86.0 507.3,86.0 525.3,97.0 507.3,108.0 452.0,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>BDABLHND_02796 | aldHT | Dehydrogenase/oxidoreductase | Aldehyde dehydrogenase, thermostable | PANEL HIT: pchA (Aromatics / Toluene) | pident=39.294000 qcovs=85.000000</title></polygon>
+<text x="488.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 488.6 121.0)" fill="#111">aldHT (pchA)</text>
+<polygon points="547.9,86.0 535.5,86.0 528.5,97.0 535.5,108.0 547.9,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>BDABLHND_02797 | BDABLHND_02797 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="538.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 538.2 121.0)" fill="#555">BDABLHND_02797</text>
+<polygon points="603.3,86.0 566.4,86.0 548.4,97.0 566.4,108.0 603.3,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>BDABLHND_02798 | BDABLHND_02798 | Transport/efflux | Outer membrane porin protein 32</title></polygon>
+<text x="575.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 575.9 121.0)" fill="#555">BDABLHND_02798</text>
+<polygon points="650.1,86.0 622.1,86.0 608.4,97.0 622.1,108.0 650.1,108.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>BDABLHND_02799 | todF | Hydrolase/decarboxylase/lyase | 2-hydroxy-6-oxo-2,4-heptadienoate hydrolase | PANEL HIT: todF (Aromatics / Toluene) | pident=63.534000 qcovs=96.000000</title></polygon>
+<text x="629.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 629.2 121.0)" fill="#111">todF (todF)</text>
+<polygon points="669.8,86.0 658.8,86.0 651.8,97.0 658.8,108.0 669.8,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>BDABLHND_02800 | dmpI | Accessory/other | 2-hydroxymuconate tautomerase</title></polygon>
+<text x="660.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 660.8 121.0)" fill="#555">dmpI</text>
+<polygon points="702.3,86.0 675.5,86.0 662.3,97.0 675.5,108.0 702.3,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>BDABLHND_02801 | tesE | Hydratase/dehydratase/isomerase | 2-hydroxyhexa-2,4-dienoate hydratase | PANEL HIT: xylI (Catechol-meta / Catechol-meta) | pident=60.385000 qcovs=98.000000</title></polygon>
+<text x="682.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 682.3 121.0)" fill="#111">tesE (xylI)</text>
+<polygon points="755.7,86.0 719.8,86.0 702.1,97.0 719.8,108.0 755.7,108.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>BDABLHND_02802 | bphI | Hydrolase/decarboxylase/lyase | 4-hydroxy-2-oxovalerate aldolase 4 | PANEL HIT: bphX3 (Aromatics / Biphenyl) | pident=82.370000 qcovs=100.000000</title></polygon>
+<text x="728.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 728.9 121.0)" fill="#111">bphI (bphX3)</text>
+<polygon points="805.3,86.0 773.8,86.0 758.3,97.0 773.8,108.0 805.3,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>BDABLHND_02803 | bphJ | Dehydrogenase/oxidoreductase | Acetaldehyde dehydrogenase 4 | PANEL HIT: bphJ (Aromatics / Biphenyl) | pident=80.592000 qcovs=100.000000</title></polygon>
+<text x="781.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 781.8 121.0)" fill="#111">bphJ (bphJ)</text>
+<polygon points="847.9,86.0 821.2,86.0 808.1,97.0 821.2,108.0 847.9,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>BDABLHND_02804 | xylJ | Hydratase/dehydratase/isomerase | 2-hydroxypent-2,4-dienoate hydratase | PANEL HIT: xylJ (Catechol-meta / Catechol-meta) | pident=70.721000 qcovs=100.000000</title></polygon>
+<text x="828.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 828.0 121.0)" fill="#111">xylJ (xylJ)</text>
+<polygon points="926.1,86.0 867.3,86.0 849.3,97.0 867.3,108.0 926.1,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>BDABLHND_02805 | xylG_1 | Dehydrogenase/oxidoreductase | 2-hydroxymuconic semialdehyde dehydrogenase | PANEL HIT: xylG (Catechol-meta / Catechol-meta) | pident=67.821000 qcovs=99.000000</title></polygon>
+<text x="887.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 887.7 121.0)" fill="#111">xylG_1 (xylG)</text>
+<polygon points="952.3,86.0 936.6,86.0 928.9,97.0 936.6,108.0 952.3,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>BDABLHND_02806 | BDABLHND_02806 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="940.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 940.6 121.0)" fill="#555">BDABLHND_02806</text>
+<polygon points="1001.0,86.0 968.8,86.0 953.0,97.0 968.8,108.0 1001.0,108.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>BDABLHND_02807 | xylE | Accessory/other | Metapyrocatechase | PANEL HIT: xylE (Catechol-meta / Catechol-meta) | pident=45.079000 qcovs=99.000000</title></polygon>
+<text x="977.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 977.0 121.0)" fill="#111">xylE (xylE)</text>
+<polygon points="1020.0,86.0 1007.5,86.0 1000.5,97.0 1007.5,108.0 1020.0,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>BDABLHND_02808 | BDABLHND_02808 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1010.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1010.2 121.0)" fill="#555">BDABLHND_02808</text>
+<polygon points="1074.9,86.0 1038.6,86.0 1020.8,97.0 1038.6,108.0 1074.9,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>BDABLHND_02809 | dmpP | Oxygenase/dioxygenase | Phenol hydroxylase P5 protein | PANEL HIT: tomA5 (Aromatics / Toluene) | pident=74.859000 qcovs=100.000000</title></polygon>
+<text x="1047.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1047.8 121.0)" fill="#111">dmpP (tomA5)</text>
+<polygon points="1096.2,86.0 1085.0,86.0 1078.0,97.0 1085.0,108.0 1096.2,108.0" fill="#d9d9d9" stroke="#111" stroke-width="2.2"><title>BDABLHND_02810 | BDABLHND_02810 | Hypothetical/accessory | hypothetical protein | PANEL HIT: tomA4 (Aromatics / Toluene) | pident=74.576000 qcovs=100.000000</title></polygon>
+<text x="1087.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1087.1 121.0)" fill="#111">BDABLHND_02810 (tomA4)</text>
+<polygon points="1175.7,86.0 1114.9,86.0 1096.9,97.0 1114.9,108.0 1175.7,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>BDABLHND_02811 | tmoA | Oxygenase/dioxygenase | Toluene-4-monooxygenase system, hydroxylase component subunit alpha | PANEL HIT: tomA3 (Aromatics / Toluene) | pident=80.312000 qcovs=99.000000</title></polygon>
+<text x="1136.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1136.3 121.0)" fill="#111">tmoA (tomA3)</text>
+<polygon points="1195.6,86.0 1184.6,86.0 1177.6,97.0 1184.6,108.0 1195.6,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>BDABLHND_02812 | dmpM | Oxygenase/dioxygenase | Phenol hydroxylase P2 protein | PANEL HIT: tomA2 (Aromatics / Toluene) | pident=84.270000 qcovs=100.000000</title></polygon>
+<text x="1186.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1186.6 121.0)" fill="#111">dmpM (tomA2)</text>
+<polygon points="1243.9,86.0 1209.9,86.0 1193.2,97.0 1209.9,108.0 1243.9,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>BDABLHND_02813 | mphL | Oxygenase/dioxygenase | Phenol hydroxylase P1 protein | PANEL HIT: tomA1 (Aromatics / Toluene) | pident=75.684000 qcovs=99.000000</title></polygon>
+<text x="1218.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1218.5 121.0)" fill="#111">mphL (tomA1)</text>
+<polygon points="1261.7,86.0 1250.7,86.0 1243.7,97.0 1250.7,108.0 1261.7,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>BDABLHND_02814 | BDABLHND_02814 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1252.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1252.7 121.0)" fill="#555">BDABLHND_02814</text>
+<polygon points="1270.1,86.0 1338.1,86.0 1356.1,97.0 1338.1,108.0 1270.1,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>BDABLHND_02815 | mopR | Regulator | Phenol regulator MopR</title></polygon>
+<text x="1313.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1313.1 121.0)" fill="#555">mopR</text>
+<polygon points="1355.9,86.0 1381.0,86.0 1393.4,97.0 1381.0,108.0 1355.9,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>BDABLHND_02816 | glaR | Regulator | HTH-type transcriptional repressor GlaR</title></polygon>
+<text x="1374.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1374.7 121.0)" fill="#555">glaR</text>
+<polygon points="1468.7,86.0 1412.7,86.0 1394.7,97.0 1412.7,108.0 1468.7,108.0" fill="#b15928" stroke="#888" stroke-width="0.8"><title>BDABLHND_02817 | menH_8 | Hydrolase/decarboxylase/lyase | 2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase</title></polygon>
+<text x="1431.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1431.7 121.0)" fill="#555">menH_8</text>
+<polygon points="1484.5,86.0 1498.4,86.0 1505.4,97.0 1498.4,108.0 1484.5,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>BDABLHND_02818 | BDABLHND_02818 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1495.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1495.0 121.0)" fill="#555">BDABLHND_02818</text>
+<polygon points="1508.8,86.0 1519.8,86.0 1526.8,97.0 1519.8,108.0 1508.8,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>BDABLHND_02819 | BDABLHND_02819 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1517.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1517.8 121.0)" fill="#555">BDABLHND_02819</text>
+<polygon points="1550.4,86.0 1561.4,86.0 1568.4,97.0 1561.4,108.0 1550.4,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>BDABLHND_02820 | BDABLHND_02820 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1559.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1559.4 121.0)" fill="#555">BDABLHND_02820</text>
+<polygon points="1581.5,86.0 1596.1,86.0 1603.3,97.0 1596.1,108.0 1581.5,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>BDABLHND_02821 | BDABLHND_02821 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1592.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1592.4 121.0)" fill="#555">BDABLHND_02821</text>
+<polygon points="1664.0,86.0 1624.7,86.0 1606.7,97.0 1624.7,108.0 1664.0,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>BDABLHND_02822 | msuD_2 | Oxygenase/dioxygenase | Methanesulfonate monooxygenase | PANEL HIT: ssuD (Alkanes / Auxillary alkane pathway) | pident=63.610000 qcovs=91.000000</title></polygon>
+<text x="1635.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1635.4 121.0)" fill="#111">msuD_2 (ssuD)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">21,611 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">45,475 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

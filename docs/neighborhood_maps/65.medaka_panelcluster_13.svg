@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">65.medaka_panelcluster_13</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">65.medaka | contig_18 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: amnC; paaA; paaB; paaC; paaD; paaE; paaF; paaG; paaH;</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">paaI; paaJ; paaK; paaX; paaY; paaZ; pchA; pnbA; xylB</text>
+<text x="32.0" y="82.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Phenylacetate; Plastics</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="452.0,86.0 479.5,86.0 493.1,97.0 479.5,108.0 452.0,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>COLLA65MEDAKA_02964 | feaB | Dehydrogenase/oxidoreductase | Phenylacetaldehyde dehydrogenase | PANEL HIT: amnC (Aromatics / 2-Aminophenol) | pident=35.141000 qcovs=98.000000</title></polygon>
+<text x="472.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 472.5 121.0)" fill="#111">feaB (amnC)</text>
+<polygon points="562.9,86.0 518.6,86.0 500.6,97.0 518.6,108.0 562.9,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>COLLA65MEDAKA_02965 | maoA | Accessory/other | Primary amine oxidase</title></polygon>
+<text x="531.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 531.7 121.0)" fill="#555">maoA</text>
+<polygon points="623.0,86.0 584.9,86.0 566.9,97.0 584.9,108.0 623.0,108.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>COLLA65MEDAKA_02966 | paaZ | Hydrolase/decarboxylase/lyase | Bifunctional protein PaaZ | PANEL HIT: paaZ (Phenylacetate / Phenylacetate) | pident=89.280000 qcovs=100.000000</title></polygon>
+<text x="595.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 595.0 121.0)" fill="#111">paaZ (paaZ)</text>
+<polygon points="629.8,86.0 647.6,86.0 656.3,97.0 647.6,108.0 629.8,108.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>COLLA65MEDAKA_02967 | paaA | Accessory/other | 1,2-phenylacetyl-CoA epoxidase, subunit A | PANEL HIT: paaA (Phenylacetate / Phenylacetate) | pident=37.234000 qcovs=89.000000</title></polygon>
+<text x="643.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 643.1 121.0)" fill="#111">paaA (paaA)</text>
+<polygon points="656.6,86.0 667.6,86.0 674.6,97.0 667.6,108.0 656.6,108.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>COLLA65MEDAKA_02968 | paaB | Accessory/other | 1,2-phenylacetyl-CoA epoxidase, subunit B | PANEL HIT: paaB (Phenylacetate / Phenylacetate) | pident=61.111000 qcovs=96.000000</title></polygon>
+<text x="665.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 665.6 121.0)" fill="#111">paaB (paaB)</text>
+<polygon points="664.7,86.0 678.2,86.0 685.2,97.0 678.2,108.0 664.7,108.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>COLLA65MEDAKA_02969 | paaC | Accessory/other | 1,2-phenylacetyl-CoA epoxidase, subunit C | PANEL HIT: paaC (Phenylacetate / Phenylacetate) | pident=55.918000 qcovs=98.000000</title></polygon>
+<text x="675.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 675.0 121.0)" fill="#111">paaC (paaC)</text>
+<polygon points="685.5,86.0 696.5,86.0 703.5,97.0 696.5,108.0 685.5,108.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>COLLA65MEDAKA_02970 | paaD | Accessory/other | Putative 1,2-phenylacetyl-CoA epoxidase, subunit D | PANEL HIT: paaD (Phenylacetate / Phenylacetate) | pident=45.342000 qcovs=90.000000</title></polygon>
+<text x="694.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 694.5 121.0)" fill="#111">paaD (paaD)</text>
+<polygon points="699.4,86.0 719.0,86.0 728.7,97.0 719.0,108.0 699.4,108.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>COLLA65MEDAKA_02971 | paaE | Accessory/other | 1,2-phenylacetyl-CoA epoxidase, subunit E | PANEL HIT: paaE (Phenylacetate / Phenylacetate) | pident=86.236000 qcovs=100.000000</title></polygon>
+<text x="714.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 714.0 121.0)" fill="#111">paaE (paaE)</text>
+<polygon points="728.6,86.0 742.6,86.0 749.6,97.0 742.6,108.0 728.6,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>COLLA65MEDAKA_02972 | paaF | Hydratase/dehydratase/isomerase | 2,3-dehydroadipyl-CoA hydratase | PANEL HIT: paaF (Phenylacetate / Phenylacetate) | pident=87.451000 qcovs=100.000000</title></polygon>
+<text x="739.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 739.1 121.0)" fill="#111">paaF (paaF)</text>
+<polygon points="749.7,86.0 764.1,86.0 771.2,97.0 764.1,108.0 749.7,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>COLLA65MEDAKA_02973 | paaG | Hydratase/dehydratase/isomerase | 1,2-epoxyphenylacetyl-CoA isomerase | PANEL HIT: paaG (Phenylacetate / Phenylacetate) | pident=86.973000 qcovs=99.000000</title></polygon>
+<text x="760.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 760.5 121.0)" fill="#111">paaG (paaG)</text>
+<polygon points="771.3,86.0 797.5,86.0 810.4,97.0 797.5,108.0 771.3,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>COLLA65MEDAKA_02974 | paaH | Dehydrogenase/oxidoreductase | 3-hydroxyadipyl-CoA dehydrogenase | PANEL HIT: paaH (Phenylacetate / Phenylacetate) | pident=82.452000 qcovs=99.000000</title></polygon>
+<text x="790.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 790.8 121.0)" fill="#111">paaH (paaH)</text>
+<polygon points="810.1,86.0 821.1,86.0 828.1,97.0 821.1,108.0 810.1,108.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>COLLA65MEDAKA_02975 | paaI | Hydrolase/decarboxylase/lyase | Acyl-coenzyme A thioesterase PaaI | PANEL HIT: paaI (Phenylacetate / Phenylacetate) | pident=86.429000 qcovs=100.000000</title></polygon>
+<text x="819.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 819.1 121.0)" fill="#111">paaI (paaI)</text>
+<polygon points="821.6,86.0 843.8,86.0 854.7,97.0 843.8,108.0 821.6,108.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>COLLA65MEDAKA_02976 | paaJ | Thiolase/transferase | 3-oxoadipyl-CoA/3-oxo-5,6-dehydrosuberyl-CoA thiolase | PANEL HIT: paaJ (Phenylacetate / Phenylacetate) | pident=84.788000 qcovs=100.000000</title></polygon>
+<text x="838.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 838.2 121.0)" fill="#111">paaJ (paaJ)</text>
+<polygon points="855.5,86.0 879.7,86.0 891.6,97.0 879.7,108.0 855.5,108.0" fill="#1f78b4" stroke="#111" stroke-width="2.2"><title>COLLA65MEDAKA_02977 | paaK | CoA ligase/synthetase | Phenylacetate-coenzyme A ligase | PANEL HIT: paaK (Phenylacetate / Phenylacetate) | pident=94.009000 qcovs=99.000000</title></polygon>
+<text x="873.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 873.5 121.0)" fill="#111">paaK (paaK)</text>
+<polygon points="894.5,86.0 911.6,86.0 919.9,97.0 911.6,108.0 894.5,108.0" fill="#fdbf6f" stroke="#111" stroke-width="2.2"><title>COLLA65MEDAKA_02978 | paaX | Regulator | Transcriptional repressor PaaX | PANEL HIT: paaX (Phenylacetate / Phenylacetate) | pident=91.205000 qcovs=97.000000</title></polygon>
+<text x="907.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 907.2 121.0)" fill="#111">paaX (paaX)</text>
+<polygon points="920.2,86.0 931.2,86.0 938.2,97.0 931.2,108.0 920.2,108.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>COLLA65MEDAKA_02979 | caiE | Accessory/other | Carnitine operon protein CaiE | PANEL HIT: paaY (Phenylacetate / Phenylacetate) | pident=90.769000 qcovs=99.000000</title></polygon>
+<text x="929.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 929.2 121.0)" fill="#111">caiE (paaY)</text>
+<polygon points="941.4,86.0 952.4,86.0 959.4,97.0 952.4,108.0 941.4,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>COLLA65MEDAKA_02980 | cspB | Accessory/other | Cold shock-like protein CspB</title></polygon>
+<text x="950.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 950.4 121.0)" fill="#555">cspB</text>
+<polygon points="967.4,86.0 956.4,86.0 949.4,97.0 956.4,108.0 967.4,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>COLLA65MEDAKA_02981 | ynfU | Accessory/other | Putative zinc-binding protein YnfU</title></polygon>
+<text x="958.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 958.4 121.0)" fill="#555">ynfU</text>
+<polygon points="978.2,86.0 967.2,86.0 960.2,97.0 967.2,108.0 978.2,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>COLLA65MEDAKA_02982 | azoR_1 | Accessory/other | FMN-dependent NADH-azoreductase</title></polygon>
+<text x="969.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 969.2 121.0)" fill="#555">azoR_1</text>
+<polygon points="982.3,86.0 1071.3,86.0 1089.3,97.0 1071.3,108.0 982.3,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>COLLA65MEDAKA_02983 | COLLA65MEDAKA_02983 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1035.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1035.8 121.0)" fill="#555">COLLA65MEDAKA_02983</text>
+<polygon points="1110.1,86.0 1099.0,86.0 1092.0,97.0 1099.0,108.0 1110.1,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>COLLA65MEDAKA_02984 | COLLA65MEDAKA_02984 | Accessory/other | Catechol O-methyltransferase</title></polygon>
+<text x="1101.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1101.0 121.0)" fill="#555">COLLA65MEDAKA_02984</text>
+<polygon points="1148.3,86.0 1122.9,86.0 1110.4,97.0 1122.9,108.0 1148.3,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>COLLA65MEDAKA_02985 | oprM_1 | Transport/efflux | Outer membrane protein OprM</title></polygon>
+<text x="1129.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1129.3 121.0)" fill="#555">oprM_1</text>
+<polygon points="1177.8,86.0 1157.9,86.0 1148.1,97.0 1157.9,108.0 1177.8,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>COLLA65MEDAKA_02986 | emrA_2 | Accessory/other | Colistin resistance protein EmrA</title></polygon>
+<text x="1163.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1163.0 121.0)" fill="#555">emrA_2</text>
+<polygon points="1224.3,86.0 1194.0,86.0 1179.1,97.0 1194.0,108.0 1224.3,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>COLLA65MEDAKA_02987 | COLLA65MEDAKA_02987 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1201.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1201.7 121.0)" fill="#555">COLLA65MEDAKA_02987</text>
+<polygon points="1230.2,86.0 1244.7,86.0 1251.9,97.0 1244.7,108.0 1230.2,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>COLLA65MEDAKA_02988 | ydcF | Accessory/other | Protein YdcF</title></polygon>
+<text x="1241.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1241.0 121.0)" fill="#555">ydcF</text>
+<polygon points="1257.3,86.0 1283.8,86.0 1296.8,97.0 1283.8,108.0 1257.3,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>COLLA65MEDAKA_02989 | aldA | Dehydrogenase/oxidoreductase | Lactaldehyde dehydrogenase | PANEL HIT: pchA (Aromatics / Toluene) | pident=36.304000 qcovs=93.000000</title></polygon>
+<text x="1277.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1277.1 121.0)" fill="#111">aldA (pchA)</text>
+<polygon points="1325.3,86.0 1306.9,86.0 1297.8,97.0 1306.9,108.0 1325.3,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>COLLA65MEDAKA_02990 | gap_2 | Dehydrogenase/oxidoreductase | Glyceraldehyde-3-phosphate dehydrogenase</title></polygon>
+<text x="1311.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1311.6 121.0)" fill="#555">gap_2</text>
+<polygon points="1330.6,86.0 1341.6,86.0 1348.6,97.0 1341.6,108.0 1330.6,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>COLLA65MEDAKA_02991 | cybB | Accessory/other | Cytochrome b561</title></polygon>
+<text x="1339.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1339.6 121.0)" fill="#555">cybB</text>
+<polygon points="1372.9,86.0 1361.9,86.0 1354.9,97.0 1361.9,108.0 1372.9,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>COLLA65MEDAKA_02992 | COLLA65MEDAKA_02992 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1363.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1363.9 121.0)" fill="#555">COLLA65MEDAKA_02992</text>
+<polygon points="1384.7,86.0 1373.7,86.0 1366.7,97.0 1373.7,108.0 1384.7,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>COLLA65MEDAKA_02993 | COLLA65MEDAKA_02993 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1375.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1375.7 121.0)" fill="#555">COLLA65MEDAKA_02993</text>
+<polygon points="1385.4,86.0 1396.4,86.0 1403.4,97.0 1396.4,108.0 1385.4,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>COLLA65MEDAKA_02994 | frmR | Regulator | Transcriptional repressor FrmR</title></polygon>
+<text x="1394.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1394.4 121.0)" fill="#555">frmR</text>
+<polygon points="1393.8,86.0 1414.3,86.0 1424.4,97.0 1414.3,108.0 1393.8,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>COLLA65MEDAKA_02995 | frmA | Dehydrogenase/oxidoreductase | S-(hydroxymethyl)glutathione dehydrogenase | PANEL HIT: xylB (Aromatics / Toluene) | pident=31.720000 qcovs=100.000000</title></polygon>
+<text x="1409.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1409.1 121.0)" fill="#111">frmA (xylB)</text>
+<polygon points="1428.8,86.0 1459.9,86.0 1475.2,97.0 1459.9,108.0 1428.8,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>COLLA65MEDAKA_02996 | trg_1 | Accessory/other | Methyl-accepting chemotaxis protein III</title></polygon>
+<text x="1452.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1452.0 121.0)" fill="#555">trg_1</text>
+<polygon points="1543.9,86.0 1496.5,86.0 1478.5,97.0 1496.5,108.0 1543.9,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>COLLA65MEDAKA_02997 | quiA | Dehydrogenase/oxidoreductase | Quinate/shikimate dehydrogenase (quinone)</title></polygon>
+<text x="1511.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1511.2 121.0)" fill="#555">quiA</text>
+<polygon points="1577.1,86.0 1560.1,86.0 1551.7,97.0 1560.1,108.0 1577.1,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>COLLA65MEDAKA_02998 | gbpR | Regulator | HTH-type transcriptional regulator GbpR</title></polygon>
+<text x="1564.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1564.4 121.0)" fill="#555">gbpR</text>
+<polygon points="1584.7,86.0 1609.4,86.0 1621.5,97.0 1609.4,108.0 1584.7,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>COLLA65MEDAKA_02999 | COLLA65MEDAKA_02999 | Accessory/other | putative protein</title></polygon>
+<text x="1603.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1603.1 121.0)" fill="#555">COLLA65MEDAKA_02999</text>
+<polygon points="1622.7,86.0 1650.4,86.0 1664.0,97.0 1650.4,108.0 1622.7,108.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>COLLA65MEDAKA_03000 | pnbA | Accessory/other | Para-nitrobenzyl esterase | PANEL HIT: pnbA (Plastics / PET) | pident=35.270000 qcovs=95.000000</title></polygon>
+<text x="1643.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1643.3 121.0)" fill="#111">pnbA (pnbA)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">1,275,747 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">1,319,980 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

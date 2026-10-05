@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_13_panelcluster_2073</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_13 | MAGs/Exp3_MAG_13_c_000000000019 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: aliA; atoB; badH; chcB1; fadK; pnbA</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Beta-oxidation; Cyclohexanecarboxylate; Plastics</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="452.0,86.0 495.5,86.0 513.5,97.0 495.5,108.0 452.0,108.0" fill="#1f78b4" stroke="#111" stroke-width="2.2"><title>LIKGOLKH_01071 | lcfB_1 | CoA ligase/synthetase | Long-chain-fatty-acid--CoA ligase | PANEL HIT: fadK (Beta-oxidation / Beta-oxidation) | pident=30.843000 qcovs=89.000000</title></polygon>
+<text x="482.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 482.8 121.0)" fill="#111">lcfB_1 (fadK)</text>
+<polygon points="513.6,86.0 557.4,86.0 575.4,97.0 557.4,108.0 513.6,108.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>LIKGOLKH_01072 | pnbA_4 | Accessory/other | Para-nitrobenzyl esterase | PANEL HIT: pnbA (Plastics / PET) | pident=34.086000 qcovs=97.000000</title></polygon>
+<text x="544.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 544.5 121.0)" fill="#111">pnbA_4 (pnbA)</text>
+<polygon points="678.1,86.0 599.8,86.0 581.8,97.0 599.8,108.0 678.1,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>LIKGOLKH_01073 | btuB_18 | Transport/efflux | Vitamin B12 transporter BtuB</title></polygon>
+<text x="629.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 629.9 121.0)" fill="#555">btuB_18</text>
+<polygon points="745.5,86.0 708.0,86.0 690.0,97.0 708.0,108.0 745.5,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LIKGOLKH_01074 | LIKGOLKH_01074 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="717.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 717.7 121.0)" fill="#555">LIKGOLKH_01074</text>
+<polygon points="797.8,86.0 765.7,86.0 749.8,97.0 765.7,108.0 797.8,108.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>LIKGOLKH_01075 | bktB | Thiolase/transferase | Beta-ketothiolase BktB | PANEL HIT: atoB (Beta-oxidation / Beta-oxidation) | pident=51.538000 qcovs=99.000000</title></polygon>
+<text x="773.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 773.8 121.0)" fill="#111">bktB (atoB)</text>
+<polygon points="816.7,86.0 805.7,86.0 798.7,97.0 805.7,108.0 816.7,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LIKGOLKH_01076 | LIKGOLKH_01076 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="807.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 807.7 121.0)" fill="#555">LIKGOLKH_01076</text>
+<polygon points="820.9,86.0 848.8,86.0 862.6,97.0 848.8,108.0 820.9,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>LIKGOLKH_01077 | yfmJ | Dehydrogenase/oxidoreductase | Putative NADP-dependent oxidoreductase YfmJ</title></polygon>
+<text x="841.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 841.7 121.0)" fill="#555">yfmJ</text>
+<polygon points="863.0,86.0 874.0,86.0 881.0,97.0 874.0,108.0 863.0,108.0" fill="#fb9a99" stroke="#888" stroke-width="0.8"><title>LIKGOLKH_01078 | hcaC_1 | Electron transfer/redox | 3-phenylpropionate/cinnamic acid dioxygenase ferredoxin subunit</title></polygon>
+<text x="872.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 872.0 121.0)" fill="#555">hcaC_1</text>
+<polygon points="925.8,86.0 898.9,86.0 885.7,97.0 898.9,108.0 925.8,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LIKGOLKH_01079 | LIKGOLKH_01079 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="905.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 905.8 121.0)" fill="#555">LIKGOLKH_01079</text>
+<polygon points="985.1,86.0 944.0,86.0 926.0,97.0 944.0,108.0 985.1,108.0" fill="#b15928" stroke="#888" stroke-width="0.8"><title>LIKGOLKH_01080 | gghA | Hydrolase/decarboxylase/lyase | 1,4-beta-D-glucan glucohydrolase</title></polygon>
+<text x="955.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 955.5 121.0)" fill="#555">gghA</text>
+<polygon points="998.1,86.0 1009.1,86.0 1016.1,97.0 1009.1,108.0 998.1,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LIKGOLKH_01081 | LIKGOLKH_01081 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1007.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1007.1 121.0)" fill="#555">LIKGOLKH_01081</text>
+<polygon points="1015.4,86.0 1036.7,86.0 1047.3,97.0 1036.7,108.0 1015.4,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LIKGOLKH_01082 | LIKGOLKH_01082 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1031.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1031.3 121.0)" fill="#555">LIKGOLKH_01082</text>
+<polygon points="1079.7,86.0 1058.7,86.0 1048.3,97.0 1058.7,108.0 1079.7,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>LIKGOLKH_01083 | cpnA_1 | Dehydrogenase/oxidoreductase | Cyclopentanol dehydrogenase | PANEL HIT: badH (Beta-oxidation / Beta-oxidation) | pident=40.613000 qcovs=99.000000</title></polygon>
+<text x="1064.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1064.0 121.0)" fill="#111">cpnA_1 (badH)</text>
+<polygon points="1174.1,86.0 1099.1,86.0 1081.1,97.0 1099.1,108.0 1174.1,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>LIKGOLKH_01084 | fyuA_7 | Accessory/other | Pesticin receptor</title></polygon>
+<text x="1127.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1127.6 121.0)" fill="#555">fyuA_7</text>
+<polygon points="1182.1,86.0 1209.9,86.0 1223.7,97.0 1209.9,108.0 1182.1,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>LIKGOLKH_01085 | curA_1 | Dehydrogenase/oxidoreductase | NADPH-dependent curcumin reductase</title></polygon>
+<text x="1202.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1202.9 121.0)" fill="#555">curA_1</text>
+<polygon points="1256.6,86.0 1236.0,86.0 1225.9,97.0 1236.0,108.0 1256.6,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>LIKGOLKH_01086 | bacC_2 | Dehydrogenase/oxidoreductase | Dihydroanticapsin 7-dehydrogenase</title></polygon>
+<text x="1241.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1241.2 121.0)" fill="#555">bacC_2</text>
+<polygon points="1262.7,86.0 1284.2,86.0 1294.8,97.0 1284.2,108.0 1262.7,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>LIKGOLKH_01087 | LIKGOLKH_01087 | Dehydrogenase/oxidoreductase | Glucose 1-dehydrogenase</title></polygon>
+<text x="1278.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1278.8 121.0)" fill="#555">LIKGOLKH_01087</text>
+<polygon points="1301.1,86.0 1331.6,86.0 1346.7,97.0 1331.6,108.0 1301.1,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>LIKGOLKH_01088 | ydiK | Transport/efflux | Putative transport protein YdiK</title></polygon>
+<text x="1323.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1323.9 121.0)" fill="#555">ydiK</text>
+<polygon points="1412.9,86.0 1363.2,86.0 1345.2,97.0 1363.2,108.0 1412.9,108.0" fill="#1f78b4" stroke="#111" stroke-width="2.2"><title>LIKGOLKH_01089 | fadK | CoA ligase/synthetase | Medium-chain fatty-acid--CoA ligase | PANEL HIT: aliA (Beta-oxidation / Beta-oxidation) | pident=39.065000 qcovs=95.000000</title></polygon>
+<text x="1379.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1379.1 121.0)" fill="#111">fadK (aliA)</text>
+<polygon points="1419.6,86.0 1451.8,86.0 1467.7,97.0 1451.8,108.0 1419.6,108.0" fill="#d73027" stroke="#888" stroke-width="0.8"><title>LIKGOLKH_01090 | cntA | Oxygenase/dioxygenase | Carnitine monooxygenase oxygenase subunit</title></polygon>
+<text x="1443.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1443.6 121.0)" fill="#555">cntA</text>
+<polygon points="1468.2,86.0 1504.4,86.0 1522.2,97.0 1504.4,108.0 1468.2,108.0" fill="#d73027" stroke="#888" stroke-width="0.8"><title>LIKGOLKH_01091 | LIKGOLKH_01091 | Oxygenase/dioxygenase | Carnitine monooxygenase oxygenase subunit</title></polygon>
+<text x="1495.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1495.2 121.0)" fill="#555">LIKGOLKH_01091</text>
+<polygon points="1522.0,86.0 1533.0,86.0 1540.0,97.0 1533.0,108.0 1522.0,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LIKGOLKH_01092 | LIKGOLKH_01092 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1531.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1531.0 121.0)" fill="#555">LIKGOLKH_01092</text>
+<polygon points="1560.6,86.0 1585.8,86.0 1598.3,97.0 1585.8,108.0 1560.6,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LIKGOLKH_01093 | LIKGOLKH_01093 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1579.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1579.4 121.0)" fill="#555">LIKGOLKH_01093</text>
+<polygon points="1631.3,86.0 1610.3,86.0 1600.0,97.0 1610.3,108.0 1631.3,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>LIKGOLKH_01094 | cpnA_2 | Dehydrogenase/oxidoreductase | Cyclopentanol dehydrogenase</title></polygon>
+<text x="1615.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1615.6 121.0)" fill="#555">cpnA_2</text>
+<polygon points="1664.0,86.0 1642.4,86.0 1631.7,97.0 1642.4,108.0 1664.0,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>LIKGOLKH_01095 | linX_1 | Dehydrogenase/oxidoreductase | 2,5-dichloro-2,5-cyclohexadiene-1,4-diol dehydrogenase LinX | PANEL HIT: chcB1 (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=39.483000 qcovs=95.000000</title></polygon>
+<text x="1647.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1647.9 121.0)" fill="#111">linX_1 (chcB1)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">5,941 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">36,016 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

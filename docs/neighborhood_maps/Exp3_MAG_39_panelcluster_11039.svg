@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_39_panelcluster_11039</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_39 | MAGs/Exp3_MAG_39_c_000000000256 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: bphJ; mhpD; mhpE; xylE; xylG; xylJ</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Catechol-meta</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="539.9,86.0 470.0,86.0 452.0,97.0 470.0,108.0 539.9,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>FPNPPEKH_02222 | amnF | Dehydrogenase/oxidoreductase | 2-oxopent-4-enoate hydratase | PANEL HIT: mhpD (Catechol-meta / Catechol-meta) | pident=42.920000 qcovs=86.000000</title></polygon>
+<text x="496.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">amnF (mhpD)</text>
+<polygon points="632.6,86.0 557.5,86.0 539.5,97.0 557.5,108.0 632.6,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>FPNPPEKH_02223 | tesE | Hydratase/dehydratase/isomerase | 2-hydroxyhexa-2,4-dienoate hydratase | PANEL HIT: xylJ (Catechol-meta / Catechol-meta) | pident=44.286000 qcovs=95.000000</title></polygon>
+<text x="586.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">tesE (xylJ)</text>
+<polygon points="731.4,86.0 650.7,86.0 632.7,97.0 650.7,108.0 731.4,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>FPNPPEKH_02224 | xynR_1 | Regulator | HTH-type transcriptional regulator XynR</title></polygon>
+<text x="682.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">xynR_1</text>
+<polygon points="813.0,86.0 748.9,86.0 730.9,97.0 748.9,108.0 813.0,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>FPNPPEKH_02225 | FPNPPEKH_02225 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="772.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">FPNPPEKH_02225</text>
+<polygon points="835.5,86.0 922.7,86.0 940.7,97.0 922.7,108.0 835.5,108.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>FPNPPEKH_02226 | xylE_1 | Accessory/other | Metapyrocatechase | PANEL HIT: xylE (Catechol-meta / Catechol-meta) | pident=42.951000 qcovs=99.000000</title></polygon>
+<text x="888.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">xylE_1 (xylE)</text>
+<polygon points="941.8,86.0 1029.7,86.0 1047.7,97.0 1029.7,108.0 941.8,108.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>FPNPPEKH_02227 | xylE_2 | Accessory/other | Metapyrocatechase | PANEL HIT: xylE (Catechol-meta / Catechol-meta) | pident=41.830000 qcovs=99.000000</title></polygon>
+<text x="994.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">xylE_2 (xylE)</text>
+<polygon points="1047.3,86.0 1151.1,86.0 1169.1,97.0 1151.1,108.0 1047.3,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>FPNPPEKH_02228 | FPNPPEKH_02228 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1108.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">FPNPPEKH_02228</text>
+<polygon points="1168.7,86.0 1243.8,86.0 1261.8,97.0 1243.8,108.0 1168.7,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>FPNPPEKH_02229 | kipR_1 | Regulator | HTH-type transcriptional regulator KipR</title></polygon>
+<text x="1215.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">kipR_1</text>
+<polygon points="1266.8,86.0 1352.6,86.0 1370.6,97.0 1352.6,108.0 1266.8,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>FPNPPEKH_02230 | mhpF_1 | Dehydrogenase/oxidoreductase | Acetaldehyde dehydrogenase | PANEL HIT: bphJ (Aromatics / Biphenyl) | pident=55.482000 qcovs=96.000000</title></polygon>
+<text x="1318.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">mhpF_1 (bphJ)</text>
+<polygon points="1370.2,86.0 1476.8,86.0 1494.8,97.0 1476.8,108.0 1370.2,108.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>FPNPPEKH_02231 | FPNPPEKH_02231 | Hydrolase/decarboxylase/lyase | 4-hydroxy-2-oxovalerate aldolase | PANEL HIT: mhpE (Catechol-meta / Catechol-meta) | pident=63.363000 qcovs=96.000000</title></polygon>
+<text x="1432.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">FPNPPEKH_02231 (mhpE)</text>
+<polygon points="1496.8,86.0 1646.0,86.0 1664.0,97.0 1646.0,108.0 1496.8,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>FPNPPEKH_02232 | xylG_2 | Dehydrogenase/oxidoreductase | 2-hydroxymuconic semialdehyde dehydrogenase | PANEL HIT: xylG (Catechol-meta / Catechol-meta) | pident=44.376000 qcovs=100.000000</title></polygon>
+<text x="1580.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">xylG_2 (xylG)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">6,548 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">17,049 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

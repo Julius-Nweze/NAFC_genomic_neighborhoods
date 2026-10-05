@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GCF_031600295.1_panelcluster_16212</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GCF_031600295.1 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: atoA; nbaA; pcaI</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Catechol-ortho; Cyclohexylacetate</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="520.6,86.0 470.0,86.0 452.0,97.0 470.0,108.0 520.6,108.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>DHENGNBN_04292 | scoB | Thiolase/transferase | putative succinyl-CoA:3-ketoacid coenzyme A transferase subunit B | PANEL HIT: atoA (Cyclohexylacetate / Cyclohexylacetate) | pident=54.067000 qcovs=94.000000</title></polygon>
+<text x="486.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">scoB (atoA)</text>
+<polygon points="597.3,86.0 539.8,86.0 521.8,97.0 539.8,108.0 597.3,108.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>DHENGNBN_04293 | scoA | Thiolase/transferase | putative succinyl-CoA:3-ketoacid coenzyme A transferase subunit A | PANEL HIT: pcaI (Catechol-ortho / Catechol-ortho) | pident=52.252000 qcovs=96.000000</title></polygon>
+<text x="559.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">scoA (pcaI)</text>
+<polygon points="619.2,86.0 806.3,86.0 824.3,97.0 806.3,108.0 619.2,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>DHENGNBN_04294 | DHENGNBN_04294 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="721.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">DHENGNBN_04294</text>
+<polygon points="925.3,86.0 858.9,86.0 840.9,97.0 858.9,108.0 925.3,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>DHENGNBN_04295 | ydcV | Transport/efflux | Inner membrane ABC transporter permease protein YdcV</title></polygon>
+<text x="883.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">ydcV</text>
+<polygon points="1054.1,86.0 975.7,86.0 957.7,97.0 975.7,108.0 1054.1,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>DHENGNBN_04296 | potH | Transport/efflux | Putrescine transport system permease protein PotH</title></polygon>
+<text x="1005.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">potH</text>
+<polygon points="1174.1,86.0 1071.7,86.0 1053.7,97.0 1071.7,108.0 1174.1,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>DHENGNBN_04297 | potA_2 | Accessory/other | Spermidine/putrescine import ATP-binding protein PotA</title></polygon>
+<text x="1113.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">potA_2</text>
+<polygon points="1269.7,86.0 1202.7,86.0 1184.7,97.0 1202.7,108.0 1269.7,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>DHENGNBN_04298 | DHENGNBN_04298 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1227.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">DHENGNBN_04298</text>
+<polygon points="1294.0,86.0 1363.9,86.0 1381.9,97.0 1363.9,108.0 1294.0,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>DHENGNBN_04299 | ssuC_8 | Transport/efflux | Putative aliphatic sulfonates transport permease protein SsuC</title></polygon>
+<text x="1337.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">ssuC_8</text>
+<polygon points="1383.0,86.0 1455.1,86.0 1473.1,97.0 1455.1,108.0 1383.0,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>DHENGNBN_04300 | cmpD_2 | Transport/efflux | Bicarbonate transport ATP-binding protein CmpD</title></polygon>
+<text x="1428.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">cmpD_2</text>
+<polygon points="1473.5,86.0 1566.7,86.0 1584.7,97.0 1566.7,108.0 1473.5,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>DHENGNBN_04301 | DHENGNBN_04301 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1529.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">DHENGNBN_04301</text>
+<polygon points="1590.6,86.0 1646.0,86.0 1664.0,97.0 1646.0,108.0 1590.6,108.0" fill="#d9d9d9" stroke="#111" stroke-width="2.2"><title>DHENGNBN_04302 | DHENGNBN_04302 | Hypothetical/accessory | hypothetical protein | PANEL HIT: nbaA (Aromatics / 2-Nitrobenzoate) | pident=31.250000 qcovs=95.000000</title></polygon>
+<text x="1627.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">DHENGNBN_04302 (nbaA)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">4,691,330 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">4,702,829 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

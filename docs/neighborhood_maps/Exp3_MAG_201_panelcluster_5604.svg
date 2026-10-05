@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_201_panelcluster_5604</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_201 | MAGs/Exp3_MAG_201_c_000000000128 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: catR; tomA1; tomA2; tomA3; tomA4; tomA5</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Catechol-ortho</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="452.0,86.0 638.5,86.0 656.5,97.0 638.5,108.0 452.0,108.0" fill="#fdbf6f" stroke="#111" stroke-width="2.2"><title>BHEEFCKF_00663 | tfdR | Regulator | HTH-type transcriptional regulator TdfR | PANEL HIT: catR (Catechol-ortho / Catechol-ortho) | pident=34.276000 qcovs=96.000000</title></polygon>
+<text x="554.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">tfdR (catR)</text>
+<polygon points="901.4,86.0 678.8,86.0 660.8,97.0 678.8,108.0 901.4,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>BHEEFCKF_00664 | dmpP_1 | Oxygenase/dioxygenase | Phenol hydroxylase P5 protein | PANEL HIT: tomA5 (Aromatics / Toluene) | pident=57.303000 qcovs=100.000000</title></polygon>
+<text x="781.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">dmpP_1 (tomA5)</text>
+<polygon points="987.1,86.0 922.6,86.0 904.6,97.0 922.6,108.0 987.1,108.0" fill="#d9d9d9" stroke="#111" stroke-width="2.2"><title>BHEEFCKF_00665 | BHEEFCKF_00665 | Hypothetical/accessory | hypothetical protein | PANEL HIT: tomA4 (Aromatics / Toluene) | pident=57.627000 qcovs=98.000000</title></polygon>
+<text x="945.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">BHEEFCKF_00665 (tomA4)</text>
+<polygon points="1349.8,86.0 1009.2,86.0 991.2,97.0 1009.2,108.0 1349.8,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>BHEEFCKF_00666 | tmoA | Oxygenase/dioxygenase | Toluene-4-monooxygenase system, hydroxylase component subunit alpha | PANEL HIT: tomA3 (Aromatics / Toluene) | pident=67.578000 qcovs=98.000000</title></polygon>
+<text x="1170.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">tmoA (tomA3)</text>
+<polygon points="1429.7,86.0 1378.2,86.0 1360.2,97.0 1378.2,108.0 1429.7,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>BHEEFCKF_00667 | dmpM_1 | Oxygenase/dioxygenase | Phenol hydroxylase P2 protein | PANEL HIT: tomA2 (Aromatics / Toluene) | pident=59.524000 qcovs=94.000000</title></polygon>
+<text x="1395.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">dmpM_1 (tomA2)</text>
+<polygon points="1664.0,86.0 1455.0,86.0 1437.0,97.0 1455.0,108.0 1664.0,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>BHEEFCKF_00668 | mphL_1 | Oxygenase/dioxygenase | Phenol hydroxylase P1 protein | PANEL HIT: tomA1 (Aromatics / Toluene) | pident=50.000000 qcovs=98.000000</title></polygon>
+<text x="1550.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">mphL_1 (tomA1)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">1,423 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">6,756 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

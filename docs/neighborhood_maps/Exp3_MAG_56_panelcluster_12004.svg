@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_56_panelcluster_12004</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_56 | MAGs/Exp3_MAG_56_c_000000000079 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: chnE; hmgA; mhbl; nagR; pcaK</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Aromatics; Gentisate; Naphthalene;</text>
+<text x="32.0" y="82.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Transportation</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="532.4,86.0 470.0,86.0 452.0,97.0 470.0,108.0 532.4,108.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>GCDBCJIC_02891 | pcpR_2 | Accessory/other | PCP degradation transcriptional activation protein | PANEL HIT: nagR (Naphthalene / Naphthalene) | pident=47.315000 qcovs=99.000000</title></polygon>
+<text x="492.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pcpR_2 (nagR)</text>
+<polygon points="554.2,86.0 654.3,86.0 672.3,97.0 654.3,108.0 554.2,108.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>GCDBCJIC_02892 | pcaK_5 | Transport/efflux | 4-hydroxybenzoate transporter PcaK | PANEL HIT: pcaK (Transportation / Transportation) | pident=39.675000 qcovs=96.000000</title></polygon>
+<text x="613.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pcaK_5 (pcaK)</text>
+<polygon points="672.0,86.0 771.5,86.0 789.5,97.0 771.5,108.0 672.0,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>GCDBCJIC_02893 | hmgA | Oxygenase/dioxygenase | Homogentisate 1,2-dioxygenase | PANEL HIT: hmgA (Aromatics / Homogentisate) | pident=79.263000 qcovs=96.000000</title></polygon>
+<text x="730.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">hmgA (hmgA)</text>
+<polygon points="789.2,86.0 889.6,86.0 907.6,97.0 889.6,108.0 789.2,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>GCDBCJIC_02894 | GCDBCJIC_02894 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="848.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">GCDBCJIC_02894</text>
+<polygon points="910.3,86.0 949.2,86.0 967.2,97.0 949.2,108.0 910.3,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>GCDBCJIC_02895 | nagL | Hydratase/dehydratase/isomerase | Maleylpyruvate isomerase | PANEL HIT: mhbl (Gentisate / Gentisate) | pident=52.358000 qcovs=99.000000</title></polygon>
+<text x="938.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">nagL (mhbl)</text>
+<polygon points="1007.6,86.0 980.8,86.0 967.6,97.0 980.8,108.0 1007.6,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>GCDBCJIC_02896 | GCDBCJIC_02896 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="987.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">GCDBCJIC_02896</text>
+<polygon points="1229.7,86.0 1070.0,86.0 1052.0,97.0 1070.0,108.0 1229.7,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>GCDBCJIC_02897 | GCDBCJIC_02897 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1140.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">GCDBCJIC_02897</text>
+<polygon points="1300.0,86.0 1271.0,86.0 1256.8,97.0 1271.0,108.0 1300.0,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>GCDBCJIC_02898 | lrp_4 | Accessory/other | Leucine-responsive regulatory protein</title></polygon>
+<text x="1278.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">lrp_4</text>
+<polygon points="1433.9,86.0 1330.8,86.0 1312.8,97.0 1330.8,108.0 1433.9,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>GCDBCJIC_02899 | spuC | Accessory/other | Putrescine--pyruvate aminotransferase</title></polygon>
+<text x="1373.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">spuC</text>
+<polygon points="1528.9,86.0 1467.6,86.0 1449.6,97.0 1467.6,108.0 1528.9,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>GCDBCJIC_02900 | GCDBCJIC_02900 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1489.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">GCDBCJIC_02900</text>
+<polygon points="1664.0,86.0 1551.2,86.0 1533.2,97.0 1551.2,108.0 1664.0,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>GCDBCJIC_02901 | gabD_2 | Dehydrogenase/oxidoreductase | Succinate-semialdehyde dehydrogenase [NADP(+)] GabD | PANEL HIT: chnE (Alkanes / Terminal/biterminal oxidation) | pident=36.009000 qcovs=98.000000</title></polygon>
+<text x="1598.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">gabD_2 (chnE)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">7,323 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">21,114 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

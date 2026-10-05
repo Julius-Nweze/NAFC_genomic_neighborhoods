@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GROW_68_consensus_panelcluster_17425</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GROW_68_consensus | 1 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: GI:23664434; acdA; atoB; badK</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Beta-oxidation; Cyclohexanecarboxylate</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="452.0,86.0 640.1,86.0 658.1,97.0 640.1,108.0 452.0,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>COLLAGROW68CONSE_03058 | mmgC_2 | Dehydrogenase/oxidoreductase | Acyl-CoA dehydrogenase | PANEL HIT: acdA (Beta-oxidation / Beta-oxidation) | pident=48.677000 qcovs=99.000000</title></polygon>
+<text x="555.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">mmgC_2 (acdA)</text>
+<polygon points="807.8,86.0 687.4,86.0 669.4,97.0 687.4,108.0 807.8,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>COLLAGROW68CONSE_03059 | echA8_1 | Hydratase/dehydratase/isomerase | putative enoyl-CoA hydratase echA8 | PANEL HIT: badK (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=53.101000 qcovs=100.000000</title></polygon>
+<text x="738.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">echA8_1 (badK)</text>
+<polygon points="1011.6,86.0 827.8,86.0 809.8,97.0 827.8,108.0 1011.6,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>COLLAGROW68CONSE_03060 | mmgC_3 | Dehydrogenase/oxidoreductase | Acyl-CoA dehydrogenase | PANEL HIT: acdA (Beta-oxidation / Beta-oxidation) | pident=49.194000 qcovs=98.000000</title></polygon>
+<text x="910.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">mmgC_3 (acdA)</text>
+<polygon points="1225.2,86.0 1031.2,86.0 1013.2,97.0 1031.2,108.0 1225.2,108.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>COLLAGROW68CONSE_03061 | thlA | Thiolase/transferase | Acetyl-CoA acetyltransferase | PANEL HIT: atoB (Beta-oxidation / Beta-oxidation) | pident=50.000000 qcovs=99.000000</title></polygon>
+<text x="1119.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">thlA (atoB)</text>
+<polygon points="1364.9,86.0 1245.5,86.0 1227.5,97.0 1245.5,108.0 1364.9,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>COLLAGROW68CONSE_03062 | COLLAGROW68CONSE_03062 | Dehydrogenase/oxidoreductase | putative oxidoreductase</title></polygon>
+<text x="1296.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">COLLAGROW68CONSE_03062</text>
+<polygon points="1664.0,86.0 1386.8,86.0 1368.8,97.0 1386.8,108.0 1664.0,108.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>COLLAGROW68CONSE_03063 | acsA_1 | Accessory/other | Acetyl-coenzyme A synthetase | PANEL HIT: GI:23664434 (Aromatics / Benzene) | pident=32.099000 qcovs=90.000000</title></polygon>
+<text x="1516.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">acsA_1 (GI:23664434)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">3,451,043 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">3,457,817 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

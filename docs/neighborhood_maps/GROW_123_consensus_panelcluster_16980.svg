@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GROW_123_consensus_panelcluster_16980</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GROW_123_consensus | 1 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: bphG; catR; galT; opdK; xylC; xylL; xylX; xylY; xylZ</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Catechol-ortho; Gallate; Transportation</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="452.0,86.0 485.1,86.0 501.5,97.0 485.1,108.0 452.0,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>LJCCGNMH_02406 | cbdA | Oxygenase/dioxygenase | 2-halobenzoate 1,2-dioxygenase large subunit | PANEL HIT: xylX (Aromatics / Benzene) | pident=73.673000 qcovs=99.000000</title></polygon>
+<text x="476.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 476.7 121.0)" fill="#111">cbdA (xylX)</text>
+<polygon points="501.3,86.0 512.3,86.0 519.3,97.0 512.3,108.0 501.3,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>LJCCGNMH_02407 | cbdB | Oxygenase/dioxygenase | 2-halobenzoate 1,2-dioxygenase small subunit | PANEL HIT: xylY (Aromatics / Benzene) | pident=76.582000 qcovs=98.000000</title></polygon>
+<text x="510.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 510.3 121.0)" fill="#111">cbdB (xylY)</text>
+<polygon points="521.6,86.0 546.3,86.0 558.5,97.0 546.3,108.0 521.6,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>LJCCGNMH_02408 | benC | Oxygenase/dioxygenase | Benzoate 1,2-dioxygenase electron transfer component | PANEL HIT: xylZ (Aromatics / Benzene) | pident=78.274000 qcovs=100.000000</title></polygon>
+<text x="540.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 540.0 121.0)" fill="#111">benC (xylZ)</text>
+<polygon points="560.5,86.0 579.1,86.0 588.2,97.0 579.1,108.0 560.5,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>LJCCGNMH_02409 | lvr | Dehydrogenase/oxidoreductase | Levodione reductase | PANEL HIT: xylL (Aromatics / Benzene) | pident=76.744000 qcovs=96.000000</title></polygon>
+<text x="574.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 574.4 121.0)" fill="#111">lvr (xylL)</text>
+<polygon points="590.3,86.0 622.7,86.0 638.6,97.0 622.7,108.0 590.3,108.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>LJCCGNMH_02410 | pcaK_2 | Transport/efflux | 4-hydroxybenzoate transporter PcaK | PANEL HIT: galT (Gallate / Gallate) | pident=34.118000 qcovs=94.000000</title></polygon>
+<text x="614.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 614.4 121.0)" fill="#111">pcaK_2 (galT)</text>
+<polygon points="641.0,86.0 670.2,86.0 684.7,97.0 670.2,108.0 641.0,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>LJCCGNMH_02411 | ydcO_2 | Transport/efflux | Inner membrane protein YdcO</title></polygon>
+<text x="662.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 662.8 121.0)" fill="#555">ydcO_2</text>
+<polygon points="686.6,86.0 717.1,86.0 732.1,97.0 717.1,108.0 686.6,108.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>LJCCGNMH_02412 | nicP_3 | Transport/efflux | Porin-like protein NicP | PANEL HIT: opdK (Transportation / Transportation) | pident=45.750000 qcovs=94.000000</title></polygon>
+<text x="709.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 709.4 121.0)" fill="#111">nicP_3 (opdK)</text>
+<polygon points="735.9,86.0 762.2,86.0 775.1,97.0 762.2,108.0 735.9,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LJCCGNMH_02413 | LJCCGNMH_02413 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="755.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 755.5 121.0)" fill="#555">LJCCGNMH_02413</text>
+<polygon points="775.2,86.0 792.1,86.0 800.4,97.0 792.1,108.0 775.2,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LJCCGNMH_02414 | LJCCGNMH_02414 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="787.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 787.8 121.0)" fill="#555">LJCCGNMH_02414</text>
+<polygon points="807.4,86.0 818.4,86.0 825.4,97.0 818.4,108.0 807.4,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>LJCCGNMH_02415 | capB_2 | Accessory/other | Cold shock protein CapB</title></polygon>
+<text x="816.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 816.4 121.0)" fill="#555">capB_2</text>
+<polygon points="826.4,86.0 837.4,86.0 844.4,97.0 837.4,108.0 826.4,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LJCCGNMH_02416 | LJCCGNMH_02416 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="835.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 835.4 121.0)" fill="#555">LJCCGNMH_02416</text>
+<polygon points="873.3,86.0 848.7,86.0 836.5,97.0 848.7,108.0 873.3,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>LJCCGNMH_02417 | yajO_2 | Dehydrogenase/oxidoreductase | 1-deoxyxylulose-5-phosphate synthase YajO</title></polygon>
+<text x="854.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 854.9 121.0)" fill="#555">yajO_2</text>
+<polygon points="883.4,86.0 944.8,86.0 962.8,97.0 944.8,108.0 883.4,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>LJCCGNMH_02418 | qgdA | Dehydrogenase/oxidoreductase | Quinohemoprotein alcohol dehydrogenase ADH-IIG</title></polygon>
+<text x="923.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 923.1 121.0)" fill="#555">qgdA</text>
+<polygon points="963.0,86.0 998.0,86.0 1015.2,97.0 998.0,108.0 963.0,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>LJCCGNMH_02419 | aldA_2 | Dehydrogenase/oxidoreductase | Lactaldehyde dehydrogenase | PANEL HIT: xylC (Aromatics / Toluene) | pident=36.105000 qcovs=92.000000</title></polygon>
+<text x="989.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 989.1 121.0)" fill="#111">aldA_2 (xylC)</text>
+<polygon points="1035.9,86.0 1046.9,86.0 1053.9,97.0 1046.9,108.0 1035.9,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LJCCGNMH_02420 | LJCCGNMH_02420 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1044.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1044.9 121.0)" fill="#555">LJCCGNMH_02420</text>
+<polygon points="1045.8,86.0 1056.8,86.0 1063.8,97.0 1056.8,108.0 1045.8,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LJCCGNMH_02421 | LJCCGNMH_02421 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1054.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1054.8 121.0)" fill="#555">LJCCGNMH_02421</text>
+<polygon points="1126.7,86.0 1075.5,86.0 1057.5,97.0 1075.5,108.0 1126.7,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>LJCCGNMH_02422 | acoR_4 | Regulator | Acetoin catabolism regulatory protein</title></polygon>
+<text x="1092.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1092.1 121.0)" fill="#555">acoR_4</text>
+<polygon points="1187.1,86.0 1149.8,86.0 1131.8,97.0 1149.8,108.0 1187.1,108.0" fill="#fb9a99" stroke="#111" stroke-width="2.2"><title>LJCCGNMH_02423 | hcaD | Electron transfer/redox | 3-phenylpropionate/cinnamic acid dioxygenase ferredoxin--NAD(+) reductase component | PANEL HIT: bphG (Aromatics / Biphenyl) | pident=36.607000 qcovs=82.000000</title></polygon>
+<text x="1159.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1159.4 121.0)" fill="#111">hcaD (bphG)</text>
+<polygon points="1241.0,86.0 1208.6,86.0 1192.6,97.0 1208.6,108.0 1241.0,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>LJCCGNMH_02424 | nicT_2 | Transport/efflux | Putative metabolite transport protein NicT</title></polygon>
+<text x="1216.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1216.8 121.0)" fill="#555">nicT_2</text>
+<polygon points="1246.9,86.0 1273.7,86.0 1286.9,97.0 1273.7,108.0 1246.9,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>LJCCGNMH_02425 | cdaR | Regulator | Carbohydrate diacid regulator</title></polygon>
+<text x="1266.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1266.9 121.0)" fill="#555">cdaR</text>
+<polygon points="1291.1,86.0 1319.4,86.0 1333.3,97.0 1319.4,108.0 1291.1,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>LJCCGNMH_02426 | garK | Accessory/other | Glycerate 2-kinase</title></polygon>
+<text x="1312.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1312.2 121.0)" fill="#555">garK</text>
+<polygon points="1340.7,86.0 1372.8,86.0 1388.6,97.0 1372.8,108.0 1340.7,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LJCCGNMH_02427 | LJCCGNMH_02427 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1364.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1364.7 121.0)" fill="#555">LJCCGNMH_02427</text>
+<polygon points="1388.5,86.0 1433.0,86.0 1451.0,97.0 1433.0,108.0 1388.5,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LJCCGNMH_02428 | LJCCGNMH_02428 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1419.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1419.7 121.0)" fill="#555">LJCCGNMH_02428</text>
+<polygon points="1451.3,86.0 1462.3,86.0 1469.3,97.0 1462.3,108.0 1451.3,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LJCCGNMH_02429 | LJCCGNMH_02429 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1460.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1460.3 121.0)" fill="#555">LJCCGNMH_02429</text>
+<polygon points="1466.0,86.0 1477.0,86.0 1484.0,97.0 1477.0,108.0 1466.0,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LJCCGNMH_02430 | LJCCGNMH_02430 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1475.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1475.0 121.0)" fill="#555">LJCCGNMH_02430</text>
+<polygon points="1476.2,86.0 1500.5,86.0 1512.5,97.0 1500.5,108.0 1476.2,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LJCCGNMH_02431 | LJCCGNMH_02431 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1494.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1494.4 121.0)" fill="#555">LJCCGNMH_02431</text>
+<polygon points="1512.0,86.0 1545.8,86.0 1562.4,97.0 1545.8,108.0 1512.0,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>LJCCGNMH_02432 | cnbH | Accessory/other | 2-amino-5-chloromuconic acid deaminase</title></polygon>
+<text x="1537.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1537.2 121.0)" fill="#555">cnbH</text>
+<polygon points="1562.8,86.0 1611.6,86.0 1629.6,97.0 1611.6,108.0 1562.8,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>LJCCGNMH_02433 | asnO | Accessory/other | Asparagine synthetase [glutamine-hydrolyzing] 3</title></polygon>
+<text x="1596.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1596.2 121.0)" fill="#555">asnO</text>
+<polygon points="1664.0,86.0 1641.0,86.0 1629.7,97.0 1641.0,108.0 1664.0,108.0" fill="#fdbf6f" stroke="#111" stroke-width="2.2"><title>LJCCGNMH_02434 | hdfR_3 | Regulator | HTH-type transcriptional regulator HdfR | PANEL HIT: catR (Catechol-ortho / Catechol-ortho) | pident=34.572000 qcovs=91.000000</title></polygon>
+<text x="1646.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1646.9 121.0)" fill="#111">hdfR_3 (catR)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">2,725,010 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">2,758,303 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GROW_123_consensus_panelcluster_17019</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GROW_123_consensus | 1 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: alkJ_adh; catR; mpdC</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Alkenes; Catechol-ortho</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="452.0,86.0 571.4,86.0 589.4,97.0 571.4,108.0 452.0,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>LJCCGNMH_04879 | betB_2 | Dehydrogenase/oxidoreductase | NAD/NADP-dependent betaine aldehyde dehydrogenase | PANEL HIT: mpdC (Alkenes / 2-methylpropene) | pident=39.832000 qcovs=93.000000</title></polygon>
+<text x="520.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">betB_2 (mpdC)</text>
+<polygon points="596.5,86.0 736.8,86.0 754.8,97.0 736.8,108.0 596.5,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>LJCCGNMH_04880 | betA_3 | Dehydrogenase/oxidoreductase | Oxygen-dependent choline dehydrogenase | PANEL HIT: alkJ_adh (Alkanes / Auxillary alkane pathway) | pident=40.149000 qcovs=97.000000</title></polygon>
+<text x="675.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">betA_3 (alkJ_adh)</text>
+<polygon points="771.3,86.0 915.9,86.0 933.9,97.0 915.9,108.0 771.3,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>LJCCGNMH_04881 | nhaP2_2 | Accessory/other | K(+)/H(+) antiporter NhaP2</title></polygon>
+<text x="852.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">nhaP2_2</text>
+<polygon points="937.4,86.0 1228.8,86.0 1246.8,97.0 1228.8,108.0 937.4,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>LJCCGNMH_04882 | mscK | Accessory/other | Mechanosensitive channel MscK</title></polygon>
+<text x="1092.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">mscK</text>
+<polygon points="1251.0,86.0 1369.3,86.0 1387.3,97.0 1369.3,108.0 1251.0,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>LJCCGNMH_04883 | selO | Accessory/other | Protein adenylyltransferase SelO</title></polygon>
+<text x="1319.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">selO</text>
+<polygon points="1391.5,86.0 1418.7,86.0 1432.0,97.0 1418.7,108.0 1391.5,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>LJCCGNMH_04884 | trxC | Accessory/other | Thioredoxin 2</title></polygon>
+<text x="1411.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">trxC</text>
+<polygon points="1493.2,86.0 1473.9,86.0 1464.4,97.0 1473.9,108.0 1493.2,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LJCCGNMH_04885 | LJCCGNMH_04885 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1478.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">LJCCGNMH_04885</text>
+<polygon points="1571.9,86.0 1517.8,86.0 1499.8,97.0 1517.8,108.0 1571.9,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>LJCCGNMH_04886 | soj_3 | Accessory/other | Sporulation initiation inhibitor protein Soj</title></polygon>
+<text x="1535.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">soj_3</text>
+<polygon points="1664.0,86.0 1598.9,86.0 1580.9,97.0 1598.9,108.0 1664.0,108.0" fill="#fdbf6f" stroke="#111" stroke-width="2.2"><title>LJCCGNMH_04887 | benM_2 | Regulator | HTH-type transcriptional regulator BenM | PANEL HIT: catR (Catechol-ortho / Catechol-ortho) | pident=37.415000 qcovs=99.000000</title></polygon>
+<text x="1622.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">benM_2 (catR)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">5,462,850 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">5,475,844 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

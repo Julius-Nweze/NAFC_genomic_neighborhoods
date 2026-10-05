@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GCF_000475335.1_panelcluster_14306</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GCF_000475335.1 | c_000000000080 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: nahW; pcaB; pcaC; pcaD; pcaF; pcaG; pcaH; pcaJ; pcaK</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Catechol-ortho; Protocatechuate;</text>
+<text x="32.0" y="82.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Transportation</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="452.0,86.0 480.3,86.0 494.3,97.0 480.3,108.0 452.0,108.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>BJINODBA_03194 | pcaJ_2 | Thiolase/transferase | 3-oxoadipate CoA-transferase subunit B | PANEL HIT: pcaJ (Catechol-ortho / Catechol-ortho) | pident=66.986000 qcovs=98.000000</title></polygon>
+<text x="473.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 473.1 121.0)" fill="#111">pcaJ_2 (pcaJ)</text>
+<polygon points="501.1,86.0 561.2,86.0 579.2,97.0 561.2,108.0 501.1,108.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>BJINODBA_03195 | pcaF_2 | Thiolase/transferase | Beta-ketoadipyl-CoA thiolase | PANEL HIT: pcaF (Catechol-ortho; Protocatechuate / Protocatechuate) | pident=62.095000 qcovs=100.000000</title></polygon>
+<text x="540.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 540.2 121.0)" fill="#111">pcaF_2 (pcaF)</text>
+<polygon points="579.7,86.0 649.3,86.0 667.3,97.0 649.3,108.0 579.7,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>BJINODBA_03196 | pcaB | Hydratase/dehydratase/isomerase | 3-carboxy-cis,cis-muconate cycloisomerase | PANEL HIT: pcaB (Protocatechuate / Protocatechuate) | pident=45.498000 qcovs=99.000000</title></polygon>
+<text x="623.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 623.5 121.0)" fill="#111">pcaB (pcaB)</text>
+<polygon points="667.1,86.0 701.1,86.0 717.9,97.0 701.1,108.0 667.1,108.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>BJINODBA_03197 | catD_2 | Hydrolase/decarboxylase/lyase | 3-oxoadipate enol-lactonase 2 | PANEL HIT: pcaD (Catechol-ortho; Protocatechuate / Protocatechuate) | pident=43.200000 qcovs=95.000000</title></polygon>
+<text x="692.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 692.5 121.0)" fill="#111">catD_2 (pcaD)</text>
+<polygon points="720.5,86.0 775.8,86.0 793.8,97.0 775.8,108.0 720.5,108.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>BJINODBA_03198 | pcaK_2 | Transport/efflux | 4-hydroxybenzoate transporter PcaK | PANEL HIT: pcaK (Transportation / Transportation) | pident=63.450000 qcovs=76.000000</title></polygon>
+<text x="757.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 757.1 121.0)" fill="#111">pcaK_2 (pcaK)</text>
+<polygon points="790.4,86.0 801.4,86.0 808.4,97.0 801.4,108.0 790.4,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>BJINODBA_03199 | pcaK_3 | Transport/efflux | 4-hydroxybenzoate transporter PcaK</title></polygon>
+<text x="799.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 799.4 121.0)" fill="#555">pcaK_3</text>
+<polygon points="809.9,86.0 827.8,86.0 836.6,97.0 827.8,108.0 809.9,108.0" fill="#d9d9d9" stroke="#111" stroke-width="2.2"><title>BJINODBA_03200 | BJINODBA_03200 | Hypothetical/accessory | hypothetical protein | PANEL HIT: pcaC (Protocatechuate / Protocatechuate) | pident=90.152000 qcovs=99.000000</title></polygon>
+<text x="823.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 823.2 121.0)" fill="#111">BJINODBA_03200 (pcaC)</text>
+<polygon points="837.3,86.0 868.7,86.0 884.2,97.0 868.7,108.0 837.3,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>BJINODBA_03201 | pcaH | Oxygenase/dioxygenase | Protocatechuate 3,4-dioxygenase beta chain | PANEL HIT: pcaH (Protocatechuate / Protocatechuate) | pident=58.150000 qcovs=95.000000</title></polygon>
+<text x="860.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 860.7 121.0)" fill="#111">pcaH (pcaH)</text>
+<polygon points="884.9,86.0 912.2,86.0 925.6,97.0 912.2,108.0 884.9,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>BJINODBA_03202 | pcaG | Oxygenase/dioxygenase | Protocatechuate 3,4-dioxygenase alpha chain | PANEL HIT: pcaG (Protocatechuate / Protocatechuate) | pident=55.000000 qcovs=97.000000</title></polygon>
+<text x="905.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 905.3 121.0)" fill="#111">pcaG (pcaG)</text>
+<polygon points="929.7,86.0 966.0,86.0 983.9,97.0 966.0,108.0 929.7,108.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>BJINODBA_03203 | quiB | Hydratase/dehydratase/isomerase | Catabolic 3-dehydroquinate dehydratase</title></polygon>
+<text x="956.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 956.8 121.0)" fill="#555">quiB</text>
+<polygon points="985.2,86.0 1061.6,86.0 1079.6,97.0 1061.6,108.0 985.2,108.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>BJINODBA_03204 | quiC | Hydratase/dehydratase/isomerase | 3-dehydroshikimate dehydratase</title></polygon>
+<text x="1032.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1032.4 121.0)" fill="#555">quiC</text>
+<polygon points="1080.8,86.0 1148.7,86.0 1166.7,97.0 1148.7,108.0 1080.8,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>BJINODBA_03205 | oprB_2 | Transport/efflux | Porin B</title></polygon>
+<text x="1123.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1123.8 121.0)" fill="#555">oprB_2</text>
+<polygon points="1167.7,86.0 1306.4,86.0 1324.4,97.0 1306.4,108.0 1167.7,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>BJINODBA_03206 | quiA | Dehydrogenase/oxidoreductase | Quinate/shikimate dehydrogenase (quinone)</title></polygon>
+<text x="1246.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1246.0 121.0)" fill="#555">quiA</text>
+<polygon points="1337.4,86.0 1359.1,86.0 1369.8,97.0 1359.1,108.0 1337.4,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>BJINODBA_03207 | uao | Accessory/other | Uric acid degradation bifunctional protein</title></polygon>
+<text x="1353.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1353.6 121.0)" fill="#555">uao</text>
+<polygon points="1369.7,86.0 1384.3,86.0 1391.4,97.0 1384.3,108.0 1369.7,108.0" fill="#b15928" stroke="#888" stroke-width="0.8"><title>BJINODBA_03208 | hiuH_2 | Hydrolase/decarboxylase/lyase | 5-hydroxyisourate hydrolase</title></polygon>
+<text x="1380.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1380.6 121.0)" fill="#555">hiuH_2</text>
+<polygon points="1394.8,86.0 1465.5,86.0 1483.5,97.0 1465.5,108.0 1394.8,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>BJINODBA_03209 | uacT | Transport/efflux | Uric acid transporter UacT</title></polygon>
+<text x="1439.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1439.2 121.0)" fill="#555">uacT</text>
+<polygon points="1495.9,86.0 1561.6,86.0 1579.6,97.0 1561.6,108.0 1495.9,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>BJINODBA_03210 | BJINODBA_03210 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1537.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1537.8 121.0)" fill="#555">BJINODBA_03210</text>
+<polygon points="1664.0,86.0 1607.2,86.0 1589.2,97.0 1607.2,108.0 1664.0,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>BJINODBA_03211 | hpxO | Oxygenase/dioxygenase | FAD-dependent urate hydroxylase | PANEL HIT: nahW (Aromatics / Salicylate) | pident=30.523000 qcovs=88.000000</title></polygon>
+<text x="1626.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1626.6 121.0)" fill="#111">hpxO (nahW)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">128 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">18,886 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

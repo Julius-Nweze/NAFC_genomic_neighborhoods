@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GCF_040170545.1_panelcluster_16256</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GCF_040170545.1 | c_000000000071 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: CYP450; alkJ_adh; galR; galT; hapE; pht3; pobB; uctC;</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">xylB</text>
+<text x="32.0" y="82.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Aromatics; Gallate; Hydroquinone;</text>
+<text x="32.0" y="94.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Oxalate; Protocatechuate</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="452.0,86.0 492.8,86.0 510.8,97.0 492.8,108.0 452.0,108.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>HEIANHBM_02769 | uctC_4 | Thiolase/transferase | Acetyl-CoA:oxalate CoA-transferase | PANEL HIT: uctC (Oxalate / Oxalate) | pident=37.666000 qcovs=95.000000</title></polygon>
+<text x="481.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 481.4 121.0)" fill="#111">uctC_4 (uctC)</text>
+<polygon points="570.4,86.0 585.7,86.0 593.3,97.0 585.7,108.0 570.4,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HEIANHBM_02770 | HEIANHBM_02770 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="581.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 581.8 121.0)" fill="#555">HEIANHBM_02770</text>
+<polygon points="656.8,86.0 618.4,86.0 600.4,97.0 618.4,108.0 656.8,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>HEIANHBM_02771 | mmgC | Dehydrogenase/oxidoreductase | Acyl-CoA dehydrogenase</title></polygon>
+<text x="628.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 628.6 121.0)" fill="#555">mmgC</text>
+<polygon points="666.9,86.0 709.9,86.0 727.9,97.0 709.9,108.0 666.9,108.0" fill="#d9d9d9" stroke="#111" stroke-width="2.2"><title>HEIANHBM_02772 | HEIANHBM_02772 | Hypothetical/accessory | hypothetical protein | PANEL HIT: galR (Gallate / Gallate) | pident=30.518000 qcovs=92.000000</title></polygon>
+<text x="697.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 697.4 121.0)" fill="#111">HEIANHBM_02772 (galR)</text>
+<polygon points="801.7,86.0 746.1,86.0 728.1,97.0 746.1,108.0 801.7,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>HEIANHBM_02773 | betB | Dehydrogenase/oxidoreductase | NAD/NADP-dependent betaine aldehyde dehydrogenase | PANEL HIT: hapE (Hydroquinone / Hydroquinone) | pident=48.441000 qcovs=98.000000</title></polygon>
+<text x="764.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 764.9 121.0)" fill="#111">betB (hapE)</text>
+<polygon points="882.8,86.0 820.2,86.0 802.2,97.0 820.2,108.0 882.8,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>HEIANHBM_02774 | alkJ_1 | Dehydrogenase/oxidoreductase | Alcohol dehydrogenase [acceptor] | PANEL HIT: alkJ_adh (Alkanes / Auxillary alkane pathway) | pident=43.094000 qcovs=97.000000</title></polygon>
+<text x="842.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 842.5 121.0)" fill="#111">alkJ_1 (alkJ_adh)</text>
+<polygon points="950.5,86.0 900.6,86.0 882.6,97.0 900.6,108.0 950.5,108.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>HEIANHBM_02775 | pcaK_2 | Transport/efflux | 4-hydroxybenzoate transporter PcaK | PANEL HIT: galT (Gallate / Gallate) | pident=33.499000 qcovs=88.000000</title></polygon>
+<text x="916.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 916.5 121.0)" fill="#111">pcaK_2 (galT)</text>
+<polygon points="1000.6,86.0 969.7,86.0 954.4,97.0 969.7,108.0 1000.6,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>HEIANHBM_02776 | pobB | Oxygenase/dioxygenase | Phenoxybenzoate dioxygenase subunit beta | PANEL HIT: pobB (Protocatechuate / Protocatechuate) | pident=48.220000 qcovs=96.000000</title></polygon>
+<text x="977.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 977.5 121.0)" fill="#111">pobB (pobB)</text>
+<polygon points="1076.0,86.0 1025.9,86.0 1007.9,97.0 1025.9,108.0 1076.0,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>HEIANHBM_02777 | pht3 | Oxygenase/dioxygenase | Phthalate 4,5-dioxygenase oxygenase subunit | PANEL HIT: pht3 (Aromatics / Phthalate) | pident=36.228000 qcovs=88.000000</title></polygon>
+<text x="1041.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1041.9 121.0)" fill="#111">pht3 (pht3)</text>
+<polygon points="1083.8,86.0 1177.2,86.0 1195.2,97.0 1177.2,108.0 1083.8,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>HEIANHBM_02778 | btuB_36 | Transport/efflux | Vitamin B12 transporter BtuB</title></polygon>
+<text x="1139.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1139.5 121.0)" fill="#555">btuB_36</text>
+<polygon points="1198.1,86.0 1224.0,86.0 1236.7,97.0 1224.0,108.0 1198.1,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>HEIANHBM_02779 | fabG_4 | Dehydrogenase/oxidoreductase | 3-oxoacyl-[acyl-carrier-protein] reductase FabG</title></polygon>
+<text x="1217.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1217.4 121.0)" fill="#555">fabG_4</text>
+<polygon points="1243.9,86.0 1278.5,86.0 1295.6,97.0 1278.5,108.0 1243.9,108.0" fill="#fb9a99" stroke="#888" stroke-width="0.8"><title>HEIANHBM_02780 | tsaM1_5 | Electron transfer/redox | Toluene-4-sulfonate monooxygenase system iron-sulfur subunit TsaM1</title></polygon>
+<text x="1269.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1269.7 121.0)" fill="#555">tsaM1_5</text>
+<polygon points="1299.1,86.0 1323.7,86.0 1335.9,97.0 1323.7,108.0 1299.1,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HEIANHBM_02781 | HEIANHBM_02781 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1317.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1317.5 121.0)" fill="#555">HEIANHBM_02781</text>
+<polygon points="1389.2,86.0 1352.6,86.0 1334.6,97.0 1352.6,108.0 1389.2,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>HEIANHBM_02782 | xylB_4 | Dehydrogenase/oxidoreductase | Aryl-alcohol dehydrogenase | PANEL HIT: xylB (Aromatics / Toluene) | pident=45.777000 qcovs=99.000000</title></polygon>
+<text x="1361.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1361.9 121.0)" fill="#111">xylB_4 (xylB)</text>
+<polygon points="1400.1,86.0 1446.6,86.0 1464.6,97.0 1446.6,108.0 1400.1,108.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>HEIANHBM_02783 | HEIANHBM_02783 | Accessory/other | Cytochrome P450-terp | PANEL HIT: CYP450 (Alkanes / Terminal/biterminal oxidation) | pident=31.068000 qcovs=92.000000</title></polygon>
+<text x="1432.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1432.4 121.0)" fill="#111">HEIANHBM_02783 (CYP450)</text>
+<polygon points="1469.0,86.0 1568.0,86.0 1586.0,97.0 1568.0,108.0 1469.0,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>HEIANHBM_02784 | fyuA_3 | Accessory/other | Pesticin receptor</title></polygon>
+<text x="1527.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1527.5 121.0)" fill="#555">fyuA_3</text>
+<polygon points="1589.5,86.0 1646.0,86.0 1664.0,97.0 1646.0,108.0 1589.5,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>HEIANHBM_02785 | styD_2 | Dehydrogenase/oxidoreductase | Phenylacetaldehyde dehydrogenase | PANEL HIT: hapE (Hydroquinone / Hydroquinone) | pident=43.802000 qcovs=98.000000</title></polygon>
+<text x="1626.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1626.7 121.0)" fill="#111">styD_2 (hapE)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">2,242 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">26,738 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GROW_123_consensus_panelcluster_16972</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GROW_123_consensus | 1 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: galD; hapE; opdK; pcaC</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Gallate; Hydroquinone; Protocatechuate;</text>
+<text x="32.0" y="82.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Transportation</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="538.0,86.0 470.0,86.0 452.0,97.0 470.0,108.0 538.0,108.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>LJCCGNMH_02103 | nicP_2 | Transport/efflux | Porin-like protein NicP | PANEL HIT: opdK (Transportation / Transportation) | pident=40.759000 qcovs=93.000000</title></polygon>
+<text x="495.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 495.0 121.0)" fill="#111">nicP_2 (opdK)</text>
+<polygon points="630.1,86.0 558.5,86.0 540.5,97.0 558.5,108.0 630.1,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>LJCCGNMH_02104 | citN_2 | Transport/efflux | Citrate transporter</title></polygon>
+<text x="585.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 585.3 121.0)" fill="#555">citN_2</text>
+<polygon points="728.1,86.0 655.7,86.0 637.7,97.0 655.7,108.0 728.1,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>LJCCGNMH_02105 | dctA2_1 | Transport/efflux | C4-dicarboxylate transport protein 2</title></polygon>
+<text x="682.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 682.9 121.0)" fill="#555">dctA2_1</text>
+<polygon points="805.8,86.0 750.4,86.0 732.4,97.0 750.4,108.0 805.8,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>LJCCGNMH_02106 | ybhH | Hydratase/dehydratase/isomerase | Putative isomerase YbhH | PANEL HIT: galD (Gallate / Gallate) | pident=49.275000 qcovs=96.000000</title></polygon>
+<text x="769.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 769.1 121.0)" fill="#111">ybhH (galD)</text>
+<polygon points="815.9,86.0 859.3,86.0 877.3,97.0 859.3,108.0 815.9,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>LJCCGNMH_02107 | cynR_2 | Regulator | HTH-type transcriptional regulator CynR</title></polygon>
+<text x="846.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 846.6 121.0)" fill="#555">cynR_2</text>
+<polygon points="979.9,86.0 901.0,86.0 883.0,97.0 901.0,108.0 979.9,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LJCCGNMH_02108 | LJCCGNMH_02108 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="931.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 931.4 121.0)" fill="#555">LJCCGNMH_02108</text>
+<polygon points="1032.6,86.0 1011.8,86.0 1001.5,97.0 1011.8,108.0 1032.6,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>LJCCGNMH_02109 | lrp_1 | Accessory/other | Leucine-responsive regulatory protein</title></polygon>
+<text x="1017.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1017.1 121.0)" fill="#555">lrp_1</text>
+<polygon points="1040.2,86.0 1068.8,86.0 1082.8,97.0 1068.8,108.0 1040.2,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LJCCGNMH_02110 | LJCCGNMH_02110 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1061.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1061.5 121.0)" fill="#555">LJCCGNMH_02110</text>
+<polygon points="1091.8,86.0 1222.9,86.0 1240.9,97.0 1222.9,108.0 1091.8,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>LJCCGNMH_02111 | rcsC_5 | Regulator | Sensor histidine kinase RcsC</title></polygon>
+<text x="1166.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1166.3 121.0)" fill="#555">rcsC_5</text>
+<polygon points="1391.2,86.0 1259.3,86.0 1241.3,97.0 1259.3,108.0 1391.2,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>LJCCGNMH_02112 | rcsC_6 | Regulator | Sensor histidine kinase RcsC</title></polygon>
+<text x="1316.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1316.3 121.0)" fill="#555">rcsC_6</text>
+<polygon points="1436.9,86.0 1411.0,86.0 1398.2,97.0 1411.0,108.0 1436.9,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>LJCCGNMH_02113 | nudC_3 | Accessory/other | NADH pyrophosphatase</title></polygon>
+<text x="1417.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1417.5 121.0)" fill="#555">nudC_3</text>
+<polygon points="1489.5,86.0 1454.3,86.0 1437.0,97.0 1454.3,108.0 1489.5,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>LJCCGNMH_02114 | pdhR_1 | Regulator | Pyruvate dehydrogenase complex repressor</title></polygon>
+<text x="1463.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1463.3 121.0)" fill="#555">pdhR_1</text>
+<polygon points="1522.3,86.0 1504.4,86.0 1495.6,97.0 1504.4,108.0 1522.3,108.0" fill="#d9d9d9" stroke="#111" stroke-width="2.2"><title>LJCCGNMH_02115 | LJCCGNMH_02115 | Hypothetical/accessory | hypothetical protein | PANEL HIT: pcaC (Protocatechuate / Protocatechuate) | pident=36.975000 qcovs=89.000000</title></polygon>
+<text x="1508.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1508.9 121.0)" fill="#111">LJCCGNMH_02115 (pcaC)</text>
+<polygon points="1561.4,86.0 1539.1,86.0 1528.1,97.0 1539.1,108.0 1561.4,108.0" fill="#d73027" stroke="#888" stroke-width="0.8"><title>LJCCGNMH_02116 | hsaB_1 | Oxygenase/dioxygenase | Flavin-dependent monooxygenase, reductase subunit HsaB</title></polygon>
+<text x="1544.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1544.7 121.0)" fill="#555">hsaB_1</text>
+<polygon points="1664.0,86.0 1580.3,86.0 1562.3,97.0 1580.3,108.0 1664.0,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>LJCCGNMH_02117 | tgnC | Dehydrogenase/oxidoreductase | (Z)-2-((N-methylformamido)methylene)-5-hydroxybutyrolactone dehydrogenase | PANEL HIT: hapE (Hydroquinone / Hydroquinone) | pident=46.488000 qcovs=99.000000</title></polygon>
+<text x="1613.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1613.2 121.0)" fill="#111">tgnC (hapE)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">2,321,599 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">2,339,262 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

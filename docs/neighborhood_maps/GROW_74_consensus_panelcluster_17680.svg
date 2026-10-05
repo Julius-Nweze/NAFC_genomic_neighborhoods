@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GROW_74_consensus_panelcluster_17680</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GROW_74_consensus | 1 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: alkN_mcp; chcC2; pcaK; xecE1</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Alkenes; Cyclohexanecarboxylate;</text>
+<text x="32.0" y="82.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Transportation</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="452.0,86.0 582.1,86.0 600.1,97.0 582.1,108.0 452.0,108.0" fill="#d9d9d9" stroke="#111" stroke-width="2.2"><title>COLLAGROW74CONSE_03872 | COLLAGROW74CONSE_03872 | Hypothetical/accessory | hypothetical protein | PANEL HIT: alkN_mcp (Alkanes / Hydrocarbon uptake) | pident=34.824000 qcovs=60.000000</title></polygon>
+<text x="526.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">COLLAGROW74CONSE_0387...</text>
+<polygon points="730.4,86.0 617.7,86.0 599.7,97.0 617.7,108.0 730.4,108.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>COLLAGROW74CONSE_03873 | pcaK_3 | Transport/efflux | 4-hydroxybenzoate transporter PcaK | PANEL HIT: pcaK (Transportation / Transportation) | pident=50.467000 qcovs=95.000000</title></polygon>
+<text x="665.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pcaK_3 (pcaK)</text>
+<polygon points="770.0,86.0 748.8,86.0 738.3,97.0 748.8,108.0 770.0,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>COLLAGROW74CONSE_03874 | COLLAGROW74CONSE_03874 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="754.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">COLLAGROW74CONSE_03874</text>
+<polygon points="936.2,86.0 787.9,86.0 769.9,97.0 787.9,108.0 936.2,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>COLLAGROW74CONSE_03875 | kstD_3 | Dehydrogenase/oxidoreductase | 3-oxosteroid 1-dehydrogenase | PANEL HIT: chcC2 (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=43.838000 qcovs=95.000000</title></polygon>
+<text x="853.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">kstD_3 (chcC2)</text>
+<polygon points="1026.5,86.0 964.6,86.0 946.6,97.0 964.6,108.0 1026.5,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>COLLAGROW74CONSE_03876 | bacC | Dehydrogenase/oxidoreductase | Dihydroanticapsin 7-dehydrogenase | PANEL HIT: xecE1 (Alkenes / Propene) | pident=35.827000 qcovs=99.000000</title></polygon>
+<text x="986.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">bacC (xecE1)</text>
+<polygon points="1046.0,86.0 1112.5,86.0 1130.5,97.0 1112.5,108.0 1046.0,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>COLLAGROW74CONSE_03877 | rhaS_8 | Regulator | HTH-type transcriptional activator RhaS</title></polygon>
+<text x="1088.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">rhaS_8</text>
+<polygon points="1204.4,86.0 1148.8,86.0 1130.8,97.0 1148.8,108.0 1204.4,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>COLLAGROW74CONSE_03878 | pcaR_3 | Accessory/other | Pca regulon regulatory protein</title></polygon>
+<text x="1167.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">pcaR_3</text>
+<polygon points="1218.3,86.0 1278.2,86.0 1296.2,97.0 1278.2,108.0 1218.3,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>COLLAGROW74CONSE_03879 | aroE_2 | Dehydrogenase/oxidoreductase | Shikimate dehydrogenase (NADP(+))</title></polygon>
+<text x="1257.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">aroE_2</text>
+<polygon points="1299.3,86.0 1450.5,86.0 1468.5,97.0 1450.5,108.0 1299.3,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>COLLAGROW74CONSE_03880 | ksdD_1 | Dehydrogenase/oxidoreductase | 3-oxosteroid 1-dehydrogenase | PANEL HIT: chcC2 (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=37.030000 qcovs=94.000000</title></polygon>
+<text x="1383.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">ksdD_1 (chcC2)</text>
+<polygon points="1465.5,86.0 1485.9,86.0 1496.0,97.0 1485.9,108.0 1465.5,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>COLLAGROW74CONSE_03881 | COLLAGROW74CONSE_03881 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1480.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">COLLAGROW74CONSE_03881</text>
+<polygon points="1502.5,86.0 1646.0,86.0 1664.0,97.0 1646.0,108.0 1502.5,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>COLLAGROW74CONSE_03882 | ksdD_2 | Dehydrogenase/oxidoreductase | 3-oxosteroid 1-dehydrogenase | PANEL HIT: chcC2 (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=38.078000 qcovs=94.000000</title></polygon>
+<text x="1583.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">ksdD_2 (chcC2)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">4,364,239 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">4,376,980 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

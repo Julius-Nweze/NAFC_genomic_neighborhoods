@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_252_panelcluster_7987</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_252 | MAGs/Exp3_MAG_252_c_000000000142 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: PGRcl; aliA; pcaI; pcaJ; xecE1</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkenes; Beta-oxidation; Catechol-ortho;</text>
+<text x="32.0" y="82.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Protocatechuate; Pyrogallol</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="516.6,86.0 470.0,86.0 452.0,97.0 470.0,108.0 516.6,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>BFAAMIIG_04067 | fabG_8 | Dehydrogenase/oxidoreductase | 3-oxoacyl-[acyl-carrier-protein] reductase FabG | PANEL HIT: xecE1 (Alkenes / Propene) | pident=39.370000 qcovs=99.000000</title></polygon>
+<text x="484.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 484.3 121.0)" fill="#111">fabG_8 (xecE1)</text>
+<polygon points="529.7,86.0 596.8,86.0 614.8,97.0 596.8,108.0 529.7,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>BFAAMIIG_04068 | siaP_2 | Accessory/other | Sialic acid-binding periplasmic protein SiaP</title></polygon>
+<text x="572.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 572.3 121.0)" fill="#555">siaP_2</text>
+<polygon points="615.1,86.0 755.3,86.0 773.3,97.0 755.3,108.0 615.1,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>BFAAMIIG_04069 | siaT_1 | Transport/efflux | Sialic acid TRAP transporter permease protein SiaT</title></polygon>
+<text x="694.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 694.2 121.0)" fill="#555">siaT_1</text>
+<polygon points="781.5,86.0 899.9,86.0 917.9,97.0 899.9,108.0 781.5,108.0" fill="#1f78b4" stroke="#111" stroke-width="2.2"><title>BFAAMIIG_04070 | BFAAMIIG_04070 | CoA ligase/synthetase | Long-chain-fatty-acid--CoA ligase | PANEL HIT: aliA (Beta-oxidation / Beta-oxidation) | pident=33.586000 qcovs=89.000000</title></polygon>
+<text x="849.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 849.7 121.0)" fill="#111">BFAAMIIG_04070 (aliA)</text>
+<polygon points="917.6,86.0 964.4,86.0 982.4,97.0 964.4,108.0 917.6,108.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>BFAAMIIG_04071 | BFAAMIIG_04071 | Hydratase/dehydratase/isomerase | Crotonyl-CoA hydratase</title></polygon>
+<text x="950.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 950.0 121.0)" fill="#555">BFAAMIIG_04071</text>
+<polygon points="1130.2,86.0 1007.6,86.0 989.6,97.0 1007.6,108.0 1130.2,108.0" fill="#fb9a99" stroke="#888" stroke-width="0.8"><title>BFAAMIIG_04072 | BFAAMIIG_04072 | Electron transfer/redox | Electron transfer flavoprotein-ubiquinone oxidoreductase</title></polygon>
+<text x="1059.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1059.9 121.0)" fill="#555">BFAAMIIG_04072</text>
+<polygon points="1143.8,86.0 1191.1,86.0 1209.1,97.0 1191.1,108.0 1143.8,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>BFAAMIIG_04073 | gno_2 | Dehydrogenase/oxidoreductase | Gluconate 5-dehydrogenase | PANEL HIT: PGRcl (Pyrogallol / Pyrogallol) | pident=30.739000 qcovs=94.000000</title></polygon>
+<text x="1176.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1176.5 121.0)" fill="#111">gno_2 (PGRcl)</text>
+<polygon points="1209.3,86.0 1290.4,86.0 1308.4,97.0 1290.4,108.0 1209.3,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>BFAAMIIG_04074 | BFAAMIIG_04074 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1258.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1258.8 121.0)" fill="#555">BFAAMIIG_04074</text>
+<polygon points="1309.7,86.0 1348.5,86.0 1366.5,97.0 1348.5,108.0 1309.7,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>BFAAMIIG_04075 | BFAAMIIG_04075 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1338.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1338.1 121.0)" fill="#555">BFAAMIIG_04075</text>
+<polygon points="1367.6,86.0 1391.7,86.0 1403.6,97.0 1391.7,108.0 1367.6,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>BFAAMIIG_04076 | BFAAMIIG_04076 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1385.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1385.6 121.0)" fill="#555">BFAAMIIG_04076</text>
+<polygon points="1457.3,86.0 1421.1,86.0 1403.3,97.0 1421.1,108.0 1457.3,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>BFAAMIIG_04077 | BFAAMIIG_04077 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1430.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1430.3 121.0)" fill="#555">BFAAMIIG_04077</text>
+<polygon points="1504.8,86.0 1472.9,86.0 1457.2,97.0 1472.9,108.0 1504.8,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>BFAAMIIG_04078 | BFAAMIIG_04078 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1481.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1481.0 121.0)" fill="#555">BFAAMIIG_04078</text>
+<polygon points="1540.2,86.0 1516.4,86.0 1504.7,97.0 1516.4,108.0 1540.2,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>BFAAMIIG_04079 | BFAAMIIG_04079 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1522.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1522.5 121.0)" fill="#555">BFAAMIIG_04079</text>
+<polygon points="1550.5,86.0 1592.5,86.0 1610.5,97.0 1592.5,108.0 1550.5,108.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>BFAAMIIG_04080 | scoA_2 | Thiolase/transferase | putative succinyl-CoA:3-ketoacid coenzyme A transferase subunit A | PANEL HIT: pcaI (Catechol-ortho; Protocatechuate / Catechol-ortho; Protocatechuate) | pident=50.990000 qcovs=89.000000</title></polygon>
+<text x="1580.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1580.5 121.0)" fill="#111">scoA_2 (pcaI)</text>
+<polygon points="1610.7,86.0 1646.4,86.0 1664.0,97.0 1646.4,108.0 1610.7,108.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>BFAAMIIG_04081 | scoB_2 | Thiolase/transferase | putative succinyl-CoA:3-ketoacid coenzyme A transferase subunit B | PANEL HIT: pcaJ (Catechol-ortho / Catechol-ortho) | pident=52.427000 qcovs=94.000000</title></polygon>
+<text x="1637.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1637.4 121.0)" fill="#111">scoB_2 (pcaJ)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">1,270 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">15,801 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

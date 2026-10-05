@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GCF_000475395.1_panelcluster_14449</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GCF_000475395.1 | c_000000000004 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: crt; hpcC; pegA</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Beta-oxidation; Plastics</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="452.0,86.0 513.6,86.0 531.6,97.0 513.6,108.0 452.0,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>CMKBNJLK_01447 | crt_1 | Hydratase/dehydratase/isomerase | Short-chain-enoyl-CoA hydratase | PANEL HIT: crt (Beta-oxidation / Beta-oxidation) | pident=34.783000 qcovs=97.000000</title></polygon>
+<text x="491.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">crt_1 (crt)</text>
+<polygon points="531.2,86.0 669.6,86.0 687.6,97.0 669.6,108.0 531.2,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>CMKBNJLK_01448 | gbsA_1 | Dehydrogenase/oxidoreductase | Betaine aldehyde dehydrogenase | PANEL HIT: hpcC (Aromatics / Homoprotocatechuate) | pident=41.505000 qcovs=97.000000</title></polygon>
+<text x="609.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">gbsA_1 (hpcC)</text>
+<polygon points="796.4,86.0 706.4,86.0 688.4,97.0 706.4,108.0 796.4,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>CMKBNJLK_01449 | rafR_2 | Regulator | HTH-type transcriptional regulator RafR</title></polygon>
+<text x="742.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">rafR_2</text>
+<polygon points="824.6,86.0 934.6,86.0 952.6,97.0 934.6,108.0 824.6,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>CMKBNJLK_01450 | CMKBNJLK_01450 | Accessory/other | putative sugar-binding periplasmic protein</title></polygon>
+<text x="888.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">CMKBNJLK_01450</text>
+<polygon points="969.5,86.0 1044.7,86.0 1062.7,97.0 1044.7,108.0 969.5,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>CMKBNJLK_01451 | melD_3 | Transport/efflux | Melibiose/raffinose/stachyose import permease protein MelD</title></polygon>
+<text x="1016.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">melD_3</text>
+<polygon points="1062.6,86.0 1134.4,86.0 1152.4,97.0 1134.4,108.0 1062.6,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>CMKBNJLK_01452 | ngcG_2 | Transport/efflux | Diacetylchitobiose uptake system permease protein NgcG</title></polygon>
+<text x="1107.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">ngcG_2</text>
+<polygon points="1152.8,86.0 1248.9,86.0 1266.9,97.0 1248.9,108.0 1152.8,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>CMKBNJLK_01453 | msmX_3 | Accessory/other | Oligosaccharides import ATP-binding protein MsmX</title></polygon>
+<text x="1209.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">msmX_3</text>
+<polygon points="1267.2,86.0 1402.0,86.0 1420.0,97.0 1402.0,108.0 1267.2,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>CMKBNJLK_01454 | livQ | Accessory/other | 6&#x27;&#x27;&#x27;-hydroxyparomomycin C oxidase</title></polygon>
+<text x="1343.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">livQ</text>
+<polygon points="1419.5,86.0 1479.6,86.0 1497.6,97.0 1479.6,108.0 1419.5,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>CMKBNJLK_01455 | fabG1 | Dehydrogenase/oxidoreductase | 3-oxoacyl-[acyl-carrier-protein] reductase FabG1</title></polygon>
+<text x="1458.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">fabG1</text>
+<polygon points="1500.2,86.0 1646.0,86.0 1664.0,97.0 1646.0,108.0 1500.2,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>CMKBNJLK_01456 | alkJ_1 | Dehydrogenase/oxidoreductase | Alcohol dehydrogenase [acceptor] | PANEL HIT: pegA (Plastics / PEG) | pident=41.905000 qcovs=95.000000</title></polygon>
+<text x="1582.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">alkJ_1 (pegA)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">665,732 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">677,516 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

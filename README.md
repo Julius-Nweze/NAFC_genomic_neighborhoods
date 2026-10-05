@@ -1,6 +1,6 @@
 # NAFC genomic-neighborhood analysis scripts
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23165100.svg)](https://doi.org/10.5281/zenodo.23165100)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23165099.svg)](https://doi.org/10.5281/zenodo.23165099)
 
 Analysis code for the article "Wetland-root microbial genomes contain recurrent multi-gene neighborhoods
 with potential relevance to naphthenic acid fractional compound transformation" (Nweze et al.).
@@ -8,10 +8,16 @@ with potential relevance to naphthenic acid fractional compound transformation" 
 - **Author:** Julius Eyiuche Nweze
 - **Contact:** julipeale2001@gmail.com
 - **Repository:** https://github.com/Julius-Nweze/NAFC_genomic_neighborhoods
-- **DOI:** [10.5281/zenodo.23165100](https://doi.org/10.5281/zenodo.23165100)
+- **DOI:** [10.5281/zenodo.23165099](https://doi.org/10.5281/zenodo.23165099)
 
-This repository contains the analysis scripts and a browsable gene-map atlas. Raw genomes, annotations, and
-sequencing reads are deposited separately (see the Data Availability section of the article).
+This repository contains the analysis scripts, the data files they produced, and a browsable gene-map atlas.
+Raw sequencing reads and MAG assemblies are deposited at NCBI under BioProject PRJNA1358281.
+
+## Data files
+
+See [`data/README.md`](data/README.md): the curated 667-protein reference panel, BLASTP best-hit tables,
+candidate-neighborhood tables, the unified phylogenomic tree with iTOL annotation files, and Prokka annotations
+(GFF, feature table and proteins) for all 365 genomes.
 
 ## Gene-map atlas
 
@@ -19,6 +25,8 @@ sequencing reads are deposited separately (see the Data Availability section of 
 
 - `docs/Architecture_gene_maps/`: one gene-map atlas (SVG) and neighborhood table (TSV) per recurring
   gene-set signature, pooling every qualifying genome.
+- `docs/neighborhood_maps/`: one gene map per candidate neighborhood with at least three independent panel hits
+  (2,095 maps).
 - `docs/svgs_by_genome/`: one combined gene map per genome, showing every candidate neighborhood with at
   least three independent panel hits (288 genomes, 2,095 neighborhoods).
 
@@ -66,6 +74,6 @@ lines. Script-to-script references resolve relative to this folder.
 
 ## How to cite
 
-Nweze JE. 2026. NAFC genomic-neighborhood analysis scripts (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.23165100
+Nweze JE. 2026. NAFC genomic-neighborhood analysis scripts, data and gene-map atlas. Zenodo. https://doi.org/10.5281/zenodo.23165099
 
 © 2026 Julius Eyiuche Nweze

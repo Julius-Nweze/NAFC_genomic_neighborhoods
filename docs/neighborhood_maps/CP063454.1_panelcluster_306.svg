@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">CP063454.1_panelcluster_306</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">CP063454.1 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: acdB; aliA; alkN_mcp; hmgL; ladA; pobA</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Aromatics; Beta-oxidation;</text>
+<text x="32.0" y="82.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Cyclohexylacetate</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="525.6,86.0 470.0,86.0 452.0,97.0 470.0,108.0 525.6,108.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>LAPBNCJP_02328 | mcpU_1 | Accessory/other | Methyl-accepting chemotaxis protein McpU | PANEL HIT: alkN_mcp (Alkanes / Hydrocarbon uptake) | pident=31.683000 qcovs=61.000000</title></polygon>
+<text x="488.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 488.8 121.0)" fill="#111">mcpU_1 (alkN_mcp)</text>
+<polygon points="534.1,86.0 564.4,86.0 579.3,97.0 564.4,108.0 534.1,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LAPBNCJP_02329 | LAPBNCJP_02329 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="556.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 556.7 121.0)" fill="#555">LAPBNCJP_02329</text>
+<polygon points="614.4,86.0 591.2,86.0 579.8,97.0 591.2,108.0 614.4,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LAPBNCJP_02330 | LAPBNCJP_02330 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="597.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 597.1 121.0)" fill="#555">LAPBNCJP_02330</text>
+<polygon points="684.0,86.0 641.3,86.0 623.3,97.0 641.3,108.0 684.0,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>LAPBNCJP_02331 | dmdC_3 | Dehydrogenase/oxidoreductase | 3-methylmercaptopropionyl-CoA dehydrogenase | PANEL HIT: acdB (Beta-oxidation / Beta-oxidation) | pident=45.576000 qcovs=99.000000</title></polygon>
+<text x="653.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 653.7 121.0)" fill="#111">dmdC_3 (acdB)</text>
+<polygon points="742.8,86.0 705.2,86.0 687.2,97.0 705.2,108.0 742.8,108.0" fill="#1f78b4" stroke="#111" stroke-width="2.2"><title>LAPBNCJP_02332 | LAPBNCJP_02332 | CoA ligase/synthetase | Long-chain-fatty-acid--CoA ligase | PANEL HIT: aliA (Beta-oxidation / Beta-oxidation) | pident=34.257000 qcovs=86.000000</title></polygon>
+<text x="715.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 715.0 121.0)" fill="#111">LAPBNCJP_02332 (aliA)</text>
+<polygon points="749.5,86.0 781.8,86.0 797.7,97.0 781.8,108.0 749.5,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>LAPBNCJP_02333 | sasA_6 | Accessory/other | Adaptive-response sensory-kinase SasA</title></polygon>
+<text x="773.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 773.6 121.0)" fill="#555">sasA_6</text>
+<polygon points="825.9,86.0 836.9,86.0 843.9,97.0 836.9,108.0 825.9,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>LAPBNCJP_02335 | marR | Regulator | Multiple antibiotic resistance protein MarR</title></polygon>
+<text x="834.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 834.9 121.0)" fill="#555">marR</text>
+<polygon points="843.1,86.0 870.6,86.0 884.1,97.0 870.6,108.0 843.1,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>LAPBNCJP_02336 | emrA_4 | Accessory/other | Multidrug export protein EmrA</title></polygon>
+<text x="863.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 863.6 121.0)" fill="#555">emrA_4</text>
+<polygon points="884.0,86.0 919.3,86.0 936.7,97.0 919.3,108.0 884.0,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>LAPBNCJP_02337 | emrB_3 | Accessory/other | Multidrug export protein EmrB</title></polygon>
+<text x="910.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 910.3 121.0)" fill="#555">emrB_3</text>
+<polygon points="962.2,86.0 981.1,86.0 990.5,97.0 981.1,108.0 962.2,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>LAPBNCJP_02338 | ygfF | Dehydrogenase/oxidoreductase | putative oxidoreductase YgfF</title></polygon>
+<text x="976.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 976.3 121.0)" fill="#555">ygfF</text>
+<polygon points="1061.6,86.0 1008.7,86.0 990.7,97.0 1008.7,108.0 1061.6,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>LAPBNCJP_02339 | rcsC_9 | Regulator | Sensor histidine kinase RcsC</title></polygon>
+<text x="1026.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1026.2 121.0)" fill="#555">rcsC_9</text>
+<polygon points="1120.7,86.0 1081.7,86.0 1063.7,97.0 1081.7,108.0 1120.7,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>LAPBNCJP_02340 | rcsC_10 | Regulator | Sensor histidine kinase RcsC</title></polygon>
+<text x="1092.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1092.2 121.0)" fill="#555">rcsC_10</text>
+<polygon points="1171.0,86.0 1138.6,86.0 1122.7,97.0 1138.6,108.0 1171.0,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>LAPBNCJP_02341 | norG_2 | Regulator | HTH-type transcriptional regulator NorG</title></polygon>
+<text x="1146.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1146.9 121.0)" fill="#555">norG_2</text>
+<polygon points="1220.9,86.0 1188.7,86.0 1172.8,97.0 1188.7,108.0 1220.9,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LAPBNCJP_02342 | LAPBNCJP_02342 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1196.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1196.8 121.0)" fill="#555">LAPBNCJP_02342</text>
+<polygon points="1243.1,86.0 1232.1,86.0 1225.1,97.0 1232.1,108.0 1243.1,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LAPBNCJP_02343 | LAPBNCJP_02343 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1234.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1234.1 121.0)" fill="#555">LAPBNCJP_02343</text>
+<polygon points="1239.1,86.0 1250.1,86.0 1257.1,97.0 1250.1,108.0 1239.1,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LAPBNCJP_02344 | LAPBNCJP_02344 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1248.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1248.1 121.0)" fill="#555">LAPBNCJP_02344</text>
+<polygon points="1306.1,86.0 1285.4,86.0 1275.2,97.0 1285.4,108.0 1306.1,108.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>LAPBNCJP_02345 | liuE | Hydrolase/decarboxylase/lyase | 3-hydroxy-3-isohexenylglutaryl-CoA/hydroxy-methylglutaryl-CoA lyase | PANEL HIT: hmgL (Cyclohexylacetate / Cyclohexylacetate) | pident=79.195000 qcovs=99.000000</title></polygon>
+<text x="1290.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1290.6 121.0)" fill="#111">liuE (hmgL)</text>
+<polygon points="1324.7,86.0 1313.7,86.0 1306.7,97.0 1313.7,108.0 1324.7,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>LAPBNCJP_02346 | cueR_1 | Regulator | HTH-type transcriptional regulator CueR</title></polygon>
+<text x="1315.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1315.7 121.0)" fill="#555">cueR_1</text>
+<polygon points="1353.1,86.0 1332.9,86.0 1323.0,97.0 1332.9,108.0 1353.1,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>LAPBNCJP_02347 | rhaR_5 | Regulator | HTH-type transcriptional activator RhaR</title></polygon>
+<text x="1338.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1338.0 121.0)" fill="#555">rhaR_5</text>
+<polygon points="1359.0,86.0 1386.3,86.0 1399.8,97.0 1386.3,108.0 1359.0,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>LAPBNCJP_02348 | pobA | Oxygenase/dioxygenase | p-hydroxybenzoate hydroxylase | PANEL HIT: pobA (Aromatics / Toluene) | pident=92.658000 qcovs=100.000000</title></polygon>
+<text x="1379.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1379.4 121.0)" fill="#111">pobA (pobA)</text>
+<polygon points="1404.9,86.0 1448.4,86.0 1466.4,97.0 1448.4,108.0 1404.9,108.0" fill="#b15928" stroke="#888" stroke-width="0.8"><title>LAPBNCJP_02349 | ggt_2 | Hydrolase/decarboxylase/lyase | Glutathione hydrolase proenzyme</title></polygon>
+<text x="1435.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1435.6 121.0)" fill="#555">ggt_2</text>
+<polygon points="1467.9,86.0 1488.1,86.0 1498.1,97.0 1488.1,108.0 1467.9,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>LAPBNCJP_02350 | argP_1 | Regulator | HTH-type transcriptional regulator ArgP</title></polygon>
+<text x="1483.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1483.0 121.0)" fill="#555">argP_1</text>
+<polygon points="1536.5,86.0 1512.3,86.0 1500.4,97.0 1512.3,108.0 1536.5,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>LAPBNCJP_02351 | ocd | Accessory/other | Ornithine cyclodeaminase</title></polygon>
+<text x="1518.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1518.5 121.0)" fill="#555">ocd</text>
+<polygon points="1542.9,86.0 1553.9,86.0 1560.9,97.0 1553.9,108.0 1542.9,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>LAPBNCJP_02352 | asnC | Accessory/other | Regulatory protein AsnC</title></polygon>
+<text x="1551.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1551.9 121.0)" fill="#555">asnC</text>
+<polygon points="1580.9,86.0 1567.3,86.0 1560.3,97.0 1567.3,108.0 1580.9,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LAPBNCJP_02353 | LAPBNCJP_02353 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1570.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1570.6 121.0)" fill="#555">LAPBNCJP_02353</text>
+<polygon points="1612.6,86.0 1593.4,86.0 1583.9,97.0 1593.4,108.0 1612.6,108.0" fill="#b15928" stroke="#888" stroke-width="0.8"><title>LAPBNCJP_02354 | allE | Hydrolase/decarboxylase/lyase | (S)-ureidoglycine aminohydrolase</title></polygon>
+<text x="1598.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1598.3 121.0)" fill="#555">allE</text>
+<polygon points="1664.0,86.0 1632.6,86.0 1617.2,97.0 1632.6,108.0 1664.0,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>LAPBNCJP_02355 | dmoA_1 | Oxygenase/dioxygenase | Dimethyl-sulfide monooxygenase | PANEL HIT: ladA (Alkanes / Terminal/biterminal oxidation) | pident=47.778000 qcovs=98.000000</title></polygon>
+<text x="1640.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1640.6 121.0)" fill="#111">dmoA_1 (ladA)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">2,559,197 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">2,594,529 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

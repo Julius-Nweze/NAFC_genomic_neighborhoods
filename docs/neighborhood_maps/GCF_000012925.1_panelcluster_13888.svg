@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GCF_000012925.1_panelcluster_13888</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GCF_000012925.1 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: GI:23664434; GMET_RS16560; benD; dch; had; pchA; pchF</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Benzoate; Benzoyl-CoA; Beta-oxidation</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="452.0,86.0 497.5,86.0 515.5,97.0 497.5,108.0 452.0,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>HEBOPMAE_02179 | pchF_1 | Dehydrogenase/oxidoreductase | 4-cresol dehydrogenase [hydroxylating] flavoprotein subunit | PANEL HIT: pchF (Aromatics / Toluene) | pident=53.346000 qcovs=98.000000</title></polygon>
+<text x="483.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 483.7 121.0)" fill="#111">pchF_1 (pchF)</text>
+<polygon points="516.5,86.0 560.7,86.0 578.7,97.0 560.7,108.0 516.5,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>HEBOPMAE_02180 | pchF_2 | Dehydrogenase/oxidoreductase | 4-cresol dehydrogenase [hydroxylating] flavoprotein subunit | PANEL HIT: pchF (Aromatics / Toluene) | pident=45.614000 qcovs=98.000000</title></polygon>
+<text x="547.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 547.6 121.0)" fill="#111">pchF_2 (pchF)</text>
+<polygon points="579.9,86.0 604.5,86.0 616.6,97.0 604.5,108.0 579.9,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HEBOPMAE_02181 | HEBOPMAE_02181 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="598.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 598.2 121.0)" fill="#555">HEBOPMAE_02181</text>
+<polygon points="618.2,86.0 647.2,86.0 661.5,97.0 647.2,108.0 618.2,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>HEBOPMAE_02182 | buk2_2 | Accessory/other | Butyrate kinase 2</title></polygon>
+<text x="639.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 639.9 121.0)" fill="#555">buk2_2</text>
+<polygon points="663.8,86.0 684.3,86.0 694.3,97.0 684.3,108.0 663.8,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>HEBOPMAE_02183 | ped | Dehydrogenase/oxidoreductase | (S)-1-Phenylethanol dehydrogenase | PANEL HIT: benD (Benzoate / Benzoate) | pident=30.859000 qcovs=97.000000</title></polygon>
+<text x="679.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 679.1 121.0)" fill="#111">ped (benD)</text>
+<polygon points="694.9,86.0 705.9,86.0 712.9,97.0 705.9,108.0 694.9,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HEBOPMAE_02184 | HEBOPMAE_02184 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="703.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 703.9 121.0)" fill="#555">HEBOPMAE_02184</text>
+<polygon points="711.5,86.0 750.9,86.0 768.9,97.0 750.9,108.0 711.5,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>HEBOPMAE_02185 | yfmT | Dehydrogenase/oxidoreductase | Benzaldehyde dehydrogenase YfmT | PANEL HIT: pchA (Aromatics / Toluene) | pident=43.816000 qcovs=97.000000</title></polygon>
+<text x="740.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 740.2 121.0)" fill="#111">yfmT (pchA)</text>
+<polygon points="772.2,86.0 783.2,86.0 790.2,97.0 783.2,108.0 772.2,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>HEBOPMAE_02186 | tatA_1 | Accessory/other | Sec-independent protein translocase protein TatA</title></polygon>
+<text x="781.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 781.2 121.0)" fill="#555">tatA_1</text>
+<polygon points="783.4,86.0 794.4,86.0 801.4,97.0 794.4,108.0 783.4,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HEBOPMAE_02187 | HEBOPMAE_02187 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="792.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 792.4 121.0)" fill="#555">HEBOPMAE_02187</text>
+<polygon points="803.2,86.0 826.4,86.0 837.8,97.0 826.4,108.0 803.2,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>HEBOPMAE_02188 | cutM | Dehydrogenase/oxidoreductase | Carbon monoxide dehydrogenase medium chain</title></polygon>
+<text x="820.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 820.5 121.0)" fill="#555">cutM</text>
+<polygon points="838.2,86.0 851.8,86.0 858.8,97.0 851.8,108.0 838.2,108.0" fill="#fb9a99" stroke="#888" stroke-width="0.8"><title>HEBOPMAE_02189 | ndhS | Electron transfer/redox | Nicotinate dehydrogenase small FeS subunit</title></polygon>
+<text x="848.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 848.5 121.0)" fill="#555">ndhS</text>
+<polygon points="859.2,86.0 933.0,86.0 951.0,97.0 933.0,108.0 859.2,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>HEBOPMAE_02190 | hcrA | Dehydrogenase/oxidoreductase | 4-hydroxybenzoyl-CoA reductase subunit alpha</title></polygon>
+<text x="905.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 905.1 121.0)" fill="#555">hcrA</text>
+<polygon points="951.8,86.0 972.1,86.0 982.2,97.0 972.1,108.0 951.8,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HEBOPMAE_02191 | HEBOPMAE_02191 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="967.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 967.0 121.0)" fill="#555">HEBOPMAE_02191</text>
+<polygon points="982.4,86.0 1003.9,86.0 1014.5,97.0 1003.9,108.0 982.4,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HEBOPMAE_02192 | HEBOPMAE_02192 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="998.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 998.4 121.0)" fill="#555">HEBOPMAE_02192</text>
+<polygon points="1014.9,86.0 1035.8,86.0 1046.0,97.0 1035.8,108.0 1014.9,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HEBOPMAE_02193 | HEBOPMAE_02193 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1030.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1030.5 121.0)" fill="#555">HEBOPMAE_02193</text>
+<polygon points="1046.0,86.0 1062.2,86.0 1070.2,97.0 1062.2,108.0 1046.0,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>HEBOPMAE_02194 | nboR | Dehydrogenase/oxidoreductase | Nicotine blue oxidoreductase</title></polygon>
+<text x="1058.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1058.1 121.0)" fill="#555">nboR</text>
+<polygon points="1114.8,86.0 1086.4,86.0 1072.4,97.0 1086.4,108.0 1114.8,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HEBOPMAE_02195 | HEBOPMAE_02195 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1093.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1093.6 121.0)" fill="#555">HEBOPMAE_02195</text>
+<polygon points="1188.3,86.0 1132.6,86.0 1114.6,97.0 1132.6,108.0 1188.3,108.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>HEBOPMAE_02196 | HEBOPMAE_02196 | Accessory/other | butyrate:acetyl-CoA coenzyme A-transferase | PANEL HIT: GMET_RS16560 (Beta-oxidation / Beta-oxidation) | pident=44.153000 qcovs=95.000000</title></polygon>
+<text x="1151.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1151.5 121.0)" fill="#111">HEBOPMAE_02196 (GMET_...</text>
+<polygon points="1201.4,86.0 1245.9,86.0 1263.9,97.0 1245.9,108.0 1201.4,108.0" fill="#1f78b4" stroke="#111" stroke-width="2.2"><title>HEBOPMAE_02197 | bclA | CoA ligase/synthetase | Benzoate--CoA ligase | PANEL HIT: GI:23664434 (Aromatics / Benzene) | pident=50.962000 qcovs=98.000000</title></polygon>
+<text x="1232.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1232.6 121.0)" fill="#111">bclA (GI:23664434)</text>
+<polygon points="1266.2,86.0 1300.5,86.0 1317.4,97.0 1300.5,108.0 1266.2,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HEBOPMAE_02198 | HEBOPMAE_02198 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1291.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1291.8 121.0)" fill="#555">HEBOPMAE_02198</text>
+<polygon points="1373.8,86.0 1338.1,86.0 1320.5,97.0 1338.1,108.0 1373.8,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>HEBOPMAE_02199 | zraR_2 | Regulator | Transcriptional regulatory protein ZraR</title></polygon>
+<text x="1347.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1347.1 121.0)" fill="#555">zraR_2</text>
+<polygon points="1445.7,86.0 1391.6,86.0 1373.6,97.0 1391.6,108.0 1445.7,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>HEBOPMAE_02200 | sasA_30 | Accessory/other | Adaptive-response sensory-kinase SasA</title></polygon>
+<text x="1409.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1409.7 121.0)" fill="#555">sasA_30</text>
+<polygon points="1480.6,86.0 1457.7,86.0 1446.4,97.0 1457.7,108.0 1480.6,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HEBOPMAE_02201 | HEBOPMAE_02201 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1463.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1463.5 121.0)" fill="#555">HEBOPMAE_02201</text>
+<polygon points="1539.2,86.0 1503.4,86.0 1485.7,97.0 1503.4,108.0 1539.2,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HEBOPMAE_02202 | HEBOPMAE_02202 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1512.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1512.5 121.0)" fill="#555">HEBOPMAE_02202</text>
+<polygon points="1578.8,86.0 1554.8,86.0 1543.0,97.0 1554.8,108.0 1578.8,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HEBOPMAE_02203 | HEBOPMAE_02203 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1560.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1560.9 121.0)" fill="#555">HEBOPMAE_02203</text>
+<polygon points="1618.1,86.0 1597.6,86.0 1587.5,97.0 1597.6,108.0 1618.1,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>HEBOPMAE_02204 | dch | Hydratase/dehydratase/isomerase | Cyclohexa-1,5-dienecarbonyl-CoA hydratase | PANEL HIT: dch (Benzoyl-CoA / Benzoyl-CoA) | pident=73.256000 qcovs=100.000000</title></polygon>
+<text x="1602.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1602.8 121.0)" fill="#111">dch (dch)</text>
+<polygon points="1664.0,86.0 1635.4,86.0 1621.3,97.0 1635.4,108.0 1664.0,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>HEBOPMAE_02205 | had | Dehydrogenase/oxidoreductase | 6-hydroxycyclohex-1-ene-1-carbonyl-CoA dehydrogenase | PANEL HIT: had (Benzoyl-CoA / Benzoyl-CoA) | pident=72.394000 qcovs=96.000000</title></polygon>
+<text x="1642.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1642.6 121.0)" fill="#111">had (had)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">2,391,878 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">2,422,349 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

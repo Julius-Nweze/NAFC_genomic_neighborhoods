@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_237_panelcluster_6976</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_237 | MAGs/Exp3_MAG_237_c_000000000017 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: acdB; galA; galC; galD; galR; pobA</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Beta-oxidation; Gallate</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="639.3,86.0 470.0,86.0 452.0,97.0 470.0,108.0 639.3,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>JJEJDKMP_01501 | dmdC_1 | Dehydrogenase/oxidoreductase | 3-methylmercaptopropionyl-CoA dehydrogenase | PANEL HIT: acdB (Beta-oxidation / Beta-oxidation) | pident=30.582000 qcovs=88.000000</title></polygon>
+<text x="545.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">dmdC_1 (acdB)</text>
+<polygon points="735.8,86.0 657.2,86.0 639.2,97.0 657.2,108.0 735.8,108.0" fill="#b15928" stroke="#888" stroke-width="0.8"><title>JJEJDKMP_01502 | ligI_1 | Hydrolase/decarboxylase/lyase | 2-pyrone-4,6-dicarboxylate hydrolase</title></polygon>
+<text x="687.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">ligI_1</text>
+<polygon points="851.0,86.0 753.4,86.0 735.4,97.0 753.4,108.0 851.0,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>JJEJDKMP_01503 | ligU_2 | Hydratase/dehydratase/isomerase | (4E)-oxalomesaconate Delta-isomerase | PANEL HIT: galD (Gallate / Gallate) | pident=61.383000 qcovs=96.000000</title></polygon>
+<text x="793.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">ligU_2 (galD)</text>
+<polygon points="924.1,86.0 868.2,86.0 850.2,97.0 868.2,108.0 924.1,108.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>JJEJDKMP_01504 | ligK | Hydrolase/decarboxylase/lyase | 4-carboxy-4-hydroxy-2-oxoadipate aldolase | PANEL HIT: galC (Gallate / Gallate) | pident=64.706000 qcovs=93.000000</title></polygon>
+<text x="887.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">ligK (galC)</text>
+<polygon points="934.7,86.0 1049.5,86.0 1067.5,97.0 1049.5,108.0 934.7,108.0" fill="#fdbf6f" stroke="#111" stroke-width="2.2"><title>JJEJDKMP_01505 | argP | Regulator | HTH-type transcriptional regulator ArgP | PANEL HIT: galR (Gallate / Gallate) | pident=31.472000 qcovs=98.000000</title></polygon>
+<text x="1001.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">argP (galR)</text>
+<polygon points="1073.5,86.0 1153.1,86.0 1171.1,97.0 1153.1,108.0 1073.5,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>JJEJDKMP_01506 | JJEJDKMP_01506 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1122.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">JJEJDKMP_01506</text>
+<polygon points="1170.7,86.0 1264.4,86.0 1282.4,97.0 1264.4,108.0 1170.7,108.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>JJEJDKMP_01507 | ligJ | Hydratase/dehydratase/isomerase | 2-keto-4-carboxy-3-hexenedioate hydratase</title></polygon>
+<text x="1226.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">ligJ</text>
+<polygon points="1281.9,86.0 1312.1,86.0 1327.0,97.0 1312.1,108.0 1281.9,108.0" fill="#d73027" stroke="#888" stroke-width="0.8"><title>JJEJDKMP_01508 | ligA_2 | Oxygenase/dioxygenase | Protocatechuate 4,5-dioxygenase alpha chain</title></polygon>
+<text x="1304.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">ligA_2</text>
+<polygon points="1327.2,86.0 1407.4,86.0 1425.4,97.0 1407.4,108.0 1327.2,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>JJEJDKMP_01509 | ligB | Oxygenase/dioxygenase | Protocatechuate 4,5-dioxygenase beta chain | PANEL HIT: galA (Gallate / Gallate) | pident=42.051000 qcovs=57.000000</title></polygon>
+<text x="1376.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">ligB (galA)</text>
+<polygon points="1433.1,86.0 1518.9,86.0 1536.9,97.0 1518.9,108.0 1433.1,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>JJEJDKMP_01510 | ligC | Dehydrogenase/oxidoreductase | 4-carboxy-2-hydroxymuconate-6-semialdehyde dehydrogenase</title></polygon>
+<text x="1485.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">ligC</text>
+<polygon points="1536.5,86.0 1646.0,86.0 1664.0,97.0 1646.0,108.0 1536.5,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>JJEJDKMP_01511 | pobA | Oxygenase/dioxygenase | p-hydroxybenzoate hydroxylase | PANEL HIT: pobA (Aromatics / Toluene) | pident=56.667000 qcovs=99.000000</title></polygon>
+<text x="1600.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pobA (pobA)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">10,097 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">21,161 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

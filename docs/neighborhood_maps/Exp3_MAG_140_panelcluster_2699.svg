@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_140_panelcluster_2699</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_140 | MAGs/Exp3_MAG_140_c_000000000015 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: chcAa; fadJ; nylB; paaA; paaB; paaC; paaD; paaE; paaG;</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">paaI; paaJ; paaK; paaX; paaZ</text>
+<text x="32.0" y="82.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Beta-oxidation; Cyclohexanecarboxylate;</text>
+<text x="32.0" y="94.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Phenylacetate; Plastics</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="522.4,86.0 470.0,86.0 452.0,97.0 470.0,108.0 522.4,108.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>AILGIIDJ_00827 | nylB_1 | Hydrolase/decarboxylase/lyase | 6-aminohexanoate-dimer hydrolase | PANEL HIT: nylB (Plastics / Nylon) | pident=37.640000 qcovs=88.000000</title></polygon>
+<text x="487.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 487.2 121.0)" fill="#111">nylB_1 (nylB)</text>
+<polygon points="577.4,86.0 543.6,86.0 527.0,97.0 543.6,108.0 577.4,108.0" fill="#fdbf6f" stroke="#111" stroke-width="2.2"><title>AILGIIDJ_00828 | paaX | Regulator | Transcriptional repressor PaaX | PANEL HIT: paaX (Phenylacetate / Phenylacetate) | pident=38.276000 qcovs=92.000000</title></polygon>
+<text x="552.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 552.2 121.0)" fill="#111">paaX (paaX)</text>
+<polygon points="583.3,86.0 619.9,86.0 637.9,97.0 619.9,108.0 583.3,108.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>AILGIIDJ_00829 | paaA | Accessory/other | 1,2-phenylacetyl-CoA epoxidase, subunit A | PANEL HIT: paaA (Phenylacetate / Phenylacetate) | pident=40.625000 qcovs=82.000000</title></polygon>
+<text x="610.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 610.6 121.0)" fill="#111">paaA (paaA)</text>
+<polygon points="638.6,86.0 649.6,86.0 656.6,97.0 649.6,108.0 638.6,108.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>AILGIIDJ_00830 | paaB | Accessory/other | 1,2-phenylacetyl-CoA epoxidase, subunit B | PANEL HIT: paaB (Phenylacetate / Phenylacetate) | pident=60.215000 qcovs=99.000000</title></polygon>
+<text x="647.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 647.6 121.0)" fill="#111">paaB (paaB)</text>
+<polygon points="654.4,86.0 683.0,86.0 697.1,97.0 683.0,108.0 654.4,108.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>AILGIIDJ_00831 | paaC | Accessory/other | 1,2-phenylacetyl-CoA epoxidase, subunit C | PANEL HIT: paaC (Phenylacetate / Phenylacetate) | pident=45.902000 qcovs=97.000000</title></polygon>
+<text x="675.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 675.7 121.0)" fill="#111">paaC (paaC)</text>
+<polygon points="696.9,86.0 716.1,86.0 725.6,97.0 716.1,108.0 696.9,108.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>AILGIIDJ_00832 | paaD | Accessory/other | Putative 1,2-phenylacetyl-CoA epoxidase, subunit D | PANEL HIT: paaD (Phenylacetate / Phenylacetate) | pident=46.591000 qcovs=98.000000</title></polygon>
+<text x="711.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 711.2 121.0)" fill="#111">paaD (paaD)</text>
+<polygon points="726.1,86.0 766.7,86.0 784.7,97.0 766.7,108.0 726.1,108.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>AILGIIDJ_00833 | paaE | Accessory/other | 1,2-phenylacetyl-CoA epoxidase, subunit E | PANEL HIT: paaE (Phenylacetate / Phenylacetate) | pident=40.947000 qcovs=99.000000</title></polygon>
+<text x="755.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 755.4 121.0)" fill="#111">paaE (paaE)</text>
+<polygon points="784.9,86.0 814.0,86.0 828.3,97.0 814.0,108.0 784.9,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>AILGIIDJ_00834 | paaG_1 | Hydratase/dehydratase/isomerase | 1,2-epoxyphenylacetyl-CoA isomerase | PANEL HIT: paaG (Phenylacetate / Phenylacetate) | pident=59.690000 qcovs=98.000000</title></polygon>
+<text x="806.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 806.6 121.0)" fill="#111">paaG_1 (paaG)</text>
+<polygon points="828.9,86.0 845.2,86.0 853.2,97.0 845.2,108.0 828.9,108.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>AILGIIDJ_00835 | paaI | Hydrolase/decarboxylase/lyase | Acyl-coenzyme A thioesterase PaaI | PANEL HIT: paaI (Phenylacetate / Phenylacetate) | pident=48.837000 qcovs=92.000000</title></polygon>
+<text x="841.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 841.1 121.0)" fill="#111">paaI (paaI)</text>
+<polygon points="853.0,86.0 901.3,86.0 919.3,97.0 901.3,108.0 853.0,108.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>AILGIIDJ_00836 | paaJ | Thiolase/transferase | 3-oxoadipyl-CoA/3-oxo-5,6-dehydrosuberyl-CoA thiolase | PANEL HIT: paaJ (Phenylacetate / Phenylacetate) | pident=68.828000 qcovs=100.000000</title></polygon>
+<text x="886.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 886.1 121.0)" fill="#111">paaJ (paaJ)</text>
+<polygon points="919.1,86.0 1016.9,86.0 1034.9,97.0 1016.9,108.0 919.1,108.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>AILGIIDJ_00837 | fadJ_1 | Accessory/other | Fatty acid oxidation complex subunit alpha | PANEL HIT: fadJ (Beta-oxidation / Beta-oxidation) | pident=33.944000 qcovs=98.000000</title></polygon>
+<text x="977.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 977.0 121.0)" fill="#111">fadJ_1 (fadJ)</text>
+<polygon points="1034.7,86.0 1130.0,86.0 1148.0,97.0 1130.0,108.0 1034.7,108.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>AILGIIDJ_00838 | paaZ | Hydrolase/decarboxylase/lyase | Bifunctional protein PaaZ | PANEL HIT: paaZ (Phenylacetate / Phenylacetate) | pident=53.471000 qcovs=99.000000</title></polygon>
+<text x="1091.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1091.3 121.0)" fill="#111">paaZ (paaZ)</text>
+<polygon points="1147.6,86.0 1177.8,86.0 1192.8,97.0 1177.8,108.0 1147.6,108.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>AILGIIDJ_00839 | crt | Hydratase/dehydratase/isomerase | Short-chain-enoyl-CoA hydratase</title></polygon>
+<text x="1170.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1170.2 121.0)" fill="#555">crt</text>
+<polygon points="1194.9,86.0 1249.3,86.0 1267.3,97.0 1249.3,108.0 1194.9,108.0" fill="#1f78b4" stroke="#111" stroke-width="2.2"><title>AILGIIDJ_00840 | paaK | CoA ligase/synthetase | Phenylacetate-coenzyme A ligase | PANEL HIT: paaK (Phenylacetate / Phenylacetate) | pident=67.840000 qcovs=97.000000</title></polygon>
+<text x="1231.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1231.1 121.0)" fill="#111">paaK (paaK)</text>
+<polygon points="1272.1,86.0 1388.5,86.0 1406.5,97.0 1388.5,108.0 1272.1,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>AILGIIDJ_00841 | btuB_8 | Transport/efflux | Vitamin B12 transporter BtuB</title></polygon>
+<text x="1339.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1339.3 121.0)" fill="#555">btuB_8</text>
+<polygon points="1529.9,86.0 1427.0,86.0 1409.0,97.0 1427.0,108.0 1529.9,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>AILGIIDJ_00842 | qgdA_2 | Dehydrogenase/oxidoreductase | Quinohemoprotein alcohol dehydrogenase ADH-IIG</title></polygon>
+<text x="1469.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1469.5 121.0)" fill="#555">qgdA_2</text>
+<polygon points="1595.5,86.0 1547.9,86.0 1529.9,97.0 1547.9,108.0 1595.5,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>AILGIIDJ_00843 | bcr | Accessory/other | Bicyclomycin resistance protein</title></polygon>
+<text x="1562.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1562.7 121.0)" fill="#555">bcr</text>
+<polygon points="1664.0,86.0 1613.7,86.0 1595.7,97.0 1613.7,108.0 1664.0,108.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>AILGIIDJ_00844 | bioI | Accessory/other | Biotin biosynthesis cytochrome P450 | PANEL HIT: chcAa (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=33.243000 qcovs=78.000000</title></polygon>
+<text x="1629.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1629.8 121.0)" fill="#111">bioI (chcAa)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">85,185 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">107,223 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

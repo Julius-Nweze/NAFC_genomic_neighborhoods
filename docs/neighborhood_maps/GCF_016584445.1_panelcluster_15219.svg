@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GCF_016584445.1_panelcluster_15219</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GCF_016584445.1 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: GI:23664434; aliA; aliB; badH; badI; badK; bcrA; bcrB;</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">bcrC; bcrD; boxB; boxC; xylB</text>
+<text x="32.0" y="82.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Benzoyl-CoA; Beta-oxidation;</text>
+<text x="32.0" y="94.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Cyclohexanecarboxylate</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="495.9,86.0 466.5,86.0 452.0,97.0 466.5,108.0 495.9,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>OBGEGAOL_00674 | echA8_1 | Hydratase/dehydratase/isomerase | putative enoyl-CoA hydratase echA8 | PANEL HIT: badK (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=100.000000 qcovs=100.000000</title></polygon>
+<text x="474.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 474.0 121.0)" fill="#111">echA8_1 (badK)</text>
+<polygon points="590.5,86.0 515.5,86.0 497.5,97.0 515.5,108.0 590.5,108.0" fill="#1f78b4" stroke="#111" stroke-width="2.2"><title>OBGEGAOL_00675 | fadK | CoA ligase/synthetase | Medium-chain fatty-acid--CoA ligase | PANEL HIT: aliA (Beta-oxidation / Beta-oxidation) | pident=68.670000 qcovs=98.000000</title></polygon>
+<text x="544.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 544.0 121.0)" fill="#111">fadK (aliA)</text>
+<polygon points="658.8,86.0 611.6,86.0 593.6,97.0 611.6,108.0 658.8,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>OBGEGAOL_00676 | acdA_1 | Dehydrogenase/oxidoreductase | Acyl-CoA dehydrogenase | PANEL HIT: aliB (Beta-oxidation / Beta-oxidation) | pident=100.000000 qcovs=100.000000</title></polygon>
+<text x="626.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 626.2 121.0)" fill="#111">acdA_1 (aliB)</text>
+<polygon points="706.7,86.0 677.0,86.0 662.4,97.0 677.0,108.0 706.7,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>OBGEGAOL_00677 | menB_2 | Hydratase/dehydratase/isomerase | 1,4-dihydroxy-2-naphthoyl-CoA synthase | PANEL HIT: badI (Beta-oxidation / Beta-oxidation) | pident=100.000000 qcovs=100.000000</title></polygon>
+<text x="684.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 684.6 121.0)" fill="#111">menB_2 (badI)</text>
+<polygon points="751.8,86.0 722.7,86.0 708.4,97.0 722.7,108.0 751.8,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>OBGEGAOL_00678 | fabG_2 | Dehydrogenase/oxidoreductase | 3-oxoacyl-[acyl-carrier-protein] reductase FabG | PANEL HIT: badH (Beta-oxidation / Beta-oxidation) | pident=100.000000 qcovs=100.000000</title></polygon>
+<text x="730.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 730.1 121.0)" fill="#111">fabG_2 (badH)</text>
+<polygon points="758.7,86.0 778.7,86.0 788.6,97.0 778.7,108.0 758.7,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>OBGEGAOL_00679 | badR | Accessory/other | Transcriptional activatory protein BadR</title></polygon>
+<text x="773.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 773.7 121.0)" fill="#555">badR</text>
+<polygon points="792.7,86.0 832.4,86.0 850.4,97.0 832.4,108.0 792.7,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>OBGEGAOL_00680 | adh_1 | Dehydrogenase/oxidoreductase | Alcohol dehydrogenase</title></polygon>
+<text x="821.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 821.6 121.0)" fill="#555">adh_1</text>
+<polygon points="860.0,86.0 909.1,86.0 927.1,97.0 909.1,108.0 860.0,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>OBGEGAOL_00681 | bcrC | Dehydrogenase/oxidoreductase | Benzoyl-CoA reductase subunit C | PANEL HIT: bcrC (Benzoyl-CoA / Benzoyl-CoA) | pident=67.013000 qcovs=99.000000</title></polygon>
+<text x="893.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 893.5 121.0)" fill="#111">bcrC (bcrC)</text>
+<polygon points="926.8,86.0 983.0,86.0 1001.0,97.0 983.0,108.0 926.8,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>OBGEGAOL_00682 | bcrB | Dehydrogenase/oxidoreductase | Benzoyl-CoA reductase subunit B | PANEL HIT: bcrB (Benzoyl-CoA / Benzoyl-CoA) | pident=76.429000 qcovs=97.000000</title></polygon>
+<text x="963.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 963.9 121.0)" fill="#111">bcrB (bcrB)</text>
+<polygon points="1001.6,86.0 1057.9,86.0 1075.9,97.0 1057.9,108.0 1001.6,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>OBGEGAOL_00683 | bcrA | Dehydrogenase/oxidoreductase | Benzoyl-CoA reductase subunit A | PANEL HIT: bcrA (Benzoyl-CoA / Benzoyl-CoA) | pident=69.318000 qcovs=99.000000</title></polygon>
+<text x="1038.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1038.8 121.0)" fill="#111">bcrA (bcrA)</text>
+<polygon points="1081.1,86.0 1112.7,86.0 1128.3,97.0 1112.7,108.0 1081.1,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>OBGEGAOL_00684 | bcrD | Dehydrogenase/oxidoreductase | Benzoyl-CoA reductase subunit D | PANEL HIT: bcrD (Benzoyl-CoA / Benzoyl-CoA) | pident=72.000000 qcovs=98.000000</title></polygon>
+<text x="1104.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1104.7 121.0)" fill="#111">bcrD (bcrD)</text>
+<polygon points="1134.9,86.0 1206.0,86.0 1224.0,97.0 1206.0,108.0 1134.9,108.0" fill="#1f78b4" stroke="#111" stroke-width="2.2"><title>OBGEGAOL_00685 | bclA | CoA ligase/synthetase | Benzoate--CoA ligase | PANEL HIT: GI:23664434 (Aromatics / Benzene) | pident=54.286000 qcovs=97.000000</title></polygon>
+<text x="1179.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1179.4 121.0)" fill="#111">bclA (GI:23664434)</text>
+<polygon points="1224.9,86.0 1235.9,86.0 1242.9,97.0 1235.9,108.0 1224.9,108.0" fill="#fb9a99" stroke="#888" stroke-width="0.8"><title>OBGEGAOL_00686 | OBGEGAOL_00686 | Electron transfer/redox | putative ferredoxin-like protein</title></polygon>
+<text x="1233.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1233.9 121.0)" fill="#555">OBGEGAOL_00686</text>
+<polygon points="1248.8,86.0 1286.5,86.0 1304.5,97.0 1286.5,108.0 1248.8,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>OBGEGAOL_00687 | hcrB | Dehydrogenase/oxidoreductase | 4-hydroxybenzoyl-CoA reductase subunit beta</title></polygon>
+<text x="1276.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1276.7 121.0)" fill="#555">hcrB</text>
+<polygon points="1346.9,86.0 1319.4,86.0 1305.9,97.0 1319.4,108.0 1346.9,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>OBGEGAOL_00688 | OBGEGAOL_00688 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1326.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1326.4 121.0)" fill="#555">OBGEGAOL_00688</text>
+<polygon points="1357.7,86.0 1402.7,86.0 1420.7,97.0 1402.7,108.0 1357.7,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>OBGEGAOL_00689 | OBGEGAOL_00689 | Dehydrogenase/oxidoreductase | NDMA-dependent alcohol dehydrogenase | PANEL HIT: xylB (Aromatics / Toluene) | pident=31.635000 qcovs=99.000000</title></polygon>
+<text x="1389.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1389.2 121.0)" fill="#111">OBGEGAOL_00689 (xylB)</text>
+<polygon points="1422.7,86.0 1453.8,86.0 1469.1,97.0 1453.8,108.0 1422.7,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>OBGEGAOL_00690 | OBGEGAOL_00690 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1445.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1445.9 121.0)" fill="#555">OBGEGAOL_00690</text>
+<polygon points="1476.4,86.0 1554.3,86.0 1572.3,97.0 1554.3,108.0 1476.4,108.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>OBGEGAOL_00691 | boxC | Hydrolase/decarboxylase/lyase | Benzoyl-CoA-dihydrodiol lyase | PANEL HIT: boxC (Aromatics / Benzene) | pident=55.872000 qcovs=99.000000</title></polygon>
+<text x="1524.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1524.3 121.0)" fill="#111">boxC (boxC)</text>
+<polygon points="1581.9,86.0 1646.0,86.0 1664.0,97.0 1646.0,108.0 1581.9,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>OBGEGAOL_00692 | boxB | Oxygenase/dioxygenase | Benzoyl-CoA oxygenase component B | PANEL HIT: boxB (Aromatics / Benzene) | pident=60.127000 qcovs=99.000000</title></polygon>
+<text x="1622.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1622.9 121.0)" fill="#111">boxB (boxB)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">717,170 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">738,597 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

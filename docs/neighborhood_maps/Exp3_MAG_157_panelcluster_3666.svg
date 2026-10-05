@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_157_panelcluster_3666</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_157 | MAGs/Exp3_MAG_157_c_000000000031 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: PGRcl; acdB; bamB; est; fadA; fadB</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Benzoyl-CoA; Beta-oxidation; Plastics; Pyrogallol</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="484.6,86.0 462.8,86.0 452.0,97.0 462.8,108.0 484.6,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>GHAMLHLO_02760 | gno_1 | Dehydrogenase/oxidoreductase | Gluconate 5-dehydrogenase | PANEL HIT: PGRcl (Pyrogallol / Pyrogallol) | pident=30.258000 qcovs=96.000000</title></polygon>
+<text x="468.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 468.3 121.0)" fill="#111">gno_1 (PGRcl)</text>
+<polygon points="559.8,86.0 503.2,86.0 485.2,97.0 503.2,108.0 559.8,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>GHAMLHLO_02761 | dmdC_2 | Dehydrogenase/oxidoreductase | 3-methylmercaptopropionyl-CoA dehydrogenase | PANEL HIT: acdB (Beta-oxidation / Beta-oxidation) | pident=34.588000 qcovs=89.000000</title></polygon>
+<text x="522.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 522.5 121.0)" fill="#111">dmdC_2 (acdB)</text>
+<polygon points="578.3,86.0 567.0,86.0 560.0,97.0 567.0,108.0 578.3,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>GHAMLHLO_02762 | GHAMLHLO_02762 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="569.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 569.2 121.0)" fill="#555">GHAMLHLO_02762</text>
+<polygon points="627.1,86.0 594.6,86.0 578.6,97.0 594.6,108.0 627.1,108.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>GHAMLHLO_02763 | fadA_3 | Thiolase/transferase | 3-ketoacyl-CoA thiolase | PANEL HIT: fadA (Beta-oxidation / Beta-oxidation) | pident=47.826000 qcovs=99.000000</title></polygon>
+<text x="602.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 602.9 121.0)" fill="#111">fadA_3 (fadA)</text>
+<polygon points="714.0,86.0 645.6,86.0 627.6,97.0 645.6,108.0 714.0,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>GHAMLHLO_02764 | fadB | Hydratase/dehydratase/isomerase | Fatty acid oxidation complex subunit alpha | PANEL HIT: fadB (Beta-oxidation / Beta-oxidation) | pident=31.936000 qcovs=93.000000</title></polygon>
+<text x="670.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 670.8 121.0)" fill="#111">fadB (fadB)</text>
+<polygon points="747.9,86.0 728.6,86.0 719.1,97.0 728.6,108.0 747.9,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>GHAMLHLO_02765 | livF_3 | Transport/efflux | High-affinity branched-chain amino acid transport ATP-binding protein LivF</title></polygon>
+<text x="733.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 733.5 121.0)" fill="#555">livF_3</text>
+<polygon points="780.8,86.0 758.7,86.0 747.8,97.0 758.7,108.0 780.8,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>GHAMLHLO_02766 | livF_4 | Transport/efflux | High-affinity branched-chain amino acid transport ATP-binding protein LivF</title></polygon>
+<text x="764.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 764.3 121.0)" fill="#555">livF_4</text>
+<polygon points="834.8,86.0 798.6,86.0 780.7,97.0 798.6,108.0 834.8,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>GHAMLHLO_02767 | GHAMLHLO_02767 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="807.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 807.8 121.0)" fill="#555">GHAMLHLO_02767</text>
+<polygon points="877.4,86.0 848.9,86.0 834.9,97.0 848.9,108.0 877.4,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>GHAMLHLO_02768 | livH_3 | Transport/efflux | High-affinity branched-chain amino acid transport system permease protein LivH</title></polygon>
+<text x="856.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 856.2 121.0)" fill="#555">livH_3</text>
+<polygon points="931.7,86.0 897.3,86.0 880.3,97.0 897.3,108.0 931.7,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>GHAMLHLO_02769 | braC_2 | Accessory/other | Leucine-, isoleucine-, valine-, threonine-, and alanine-binding protein</title></polygon>
+<text x="906.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 906.0 121.0)" fill="#555">braC_2</text>
+<polygon points="939.7,86.0 984.3,86.0 1002.3,97.0 984.3,108.0 939.7,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>GHAMLHLO_02770 | selO | Accessory/other | Protein adenylyltransferase SelO</title></polygon>
+<text x="971.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 971.0 121.0)" fill="#555">selO</text>
+<polygon points="1002.1,86.0 1014.4,86.0 1021.4,97.0 1014.4,108.0 1002.1,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>GHAMLHLO_02771 | msrB | Dehydrogenase/oxidoreductase | Peptide methionine sulfoxide reductase MsrB</title></polygon>
+<text x="1011.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1011.8 121.0)" fill="#555">msrB</text>
+<polygon points="1021.3,86.0 1039.2,86.0 1048.0,97.0 1039.2,108.0 1021.3,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>GHAMLHLO_02772 | yciB | Accessory/other | Intracellular septation protein</title></polygon>
+<text x="1034.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1034.6 121.0)" fill="#555">yciB</text>
+<polygon points="1047.8,86.0 1058.8,86.0 1065.8,97.0 1058.8,108.0 1047.8,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>GHAMLHLO_02773 | bolA | Regulator | DNA-binding transcriptional regulator BolA</title></polygon>
+<text x="1056.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1056.8 121.0)" fill="#555">bolA</text>
+<polygon points="1061.1,86.0 1083.3,86.0 1094.2,97.0 1083.3,108.0 1061.1,108.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>GHAMLHLO_02774 | GHAMLHLO_02774 | Hydratase/dehydratase/isomerase | putative parvulin-type peptidyl-prolyl cis-trans isomerase</title></polygon>
+<text x="1077.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1077.6 121.0)" fill="#555">GHAMLHLO_02774</text>
+<polygon points="1125.5,86.0 1106.7,86.0 1097.4,97.0 1106.7,108.0 1125.5,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>GHAMLHLO_02775 | lolD_3 | Accessory/other | Lipoprotein-releasing system ATP-binding protein LolD</title></polygon>
+<text x="1111.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1111.5 121.0)" fill="#555">lolD_3</text>
+<polygon points="1127.8,86.0 1145.4,86.0 1154.1,97.0 1145.4,108.0 1127.8,108.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>GHAMLHLO_02776 | tesA | Accessory/other | Esterase TesA | PANEL HIT: est (Plastics / PBAT) | pident=54.098000 qcovs=99.000000</title></polygon>
+<text x="1141.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1141.0 121.0)" fill="#111">tesA (est)</text>
+<polygon points="1229.5,86.0 1175.8,86.0 1157.8,97.0 1175.8,108.0 1229.5,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>GHAMLHLO_02777 | exaA | Dehydrogenase/oxidoreductase | Quinoprotein alcohol dehydrogenase (cytochrome c)</title></polygon>
+<text x="1193.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1193.6 121.0)" fill="#555">exaA</text>
+<polygon points="1292.0,86.0 1256.6,86.0 1239.2,97.0 1256.6,108.0 1292.0,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>GHAMLHLO_02778 | moeA_2 | Accessory/other | Molybdopterin molybdenumtransferase</title></polygon>
+<text x="1265.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1265.6 121.0)" fill="#555">moeA_2</text>
+<polygon points="1300.4,86.0 1320.1,86.0 1329.7,97.0 1320.1,108.0 1300.4,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>GHAMLHLO_02779 | tupB | Transport/efflux | Tungstate uptake system permease protein TupB</title></polygon>
+<text x="1315.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1315.1 121.0)" fill="#555">tupB</text>
+<polygon points="1329.6,86.0 1351.9,86.0 1363.0,97.0 1351.9,108.0 1329.6,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>GHAMLHLO_02780 | btuD_5 | Accessory/other | Vitamin B12 import ATP-binding protein BtuD</title></polygon>
+<text x="1346.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1346.3 121.0)" fill="#555">btuD_5</text>
+<polygon points="1362.5,86.0 1385.7,86.0 1397.2,97.0 1385.7,108.0 1362.5,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>GHAMLHLO_02781 | tupA | Accessory/other | Tungstate-binding protein TupA</title></polygon>
+<text x="1379.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1379.9 121.0)" fill="#555">tupA</text>
+<polygon points="1402.0,86.0 1461.0,86.0 1479.0,97.0 1461.0,108.0 1402.0,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>GHAMLHLO_02782 | sppA | Accessory/other | Protease 4</title></polygon>
+<text x="1440.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1440.5 121.0)" fill="#555">sppA</text>
+<polygon points="1514.6,86.0 1503.6,86.0 1496.6,97.0 1503.6,108.0 1514.6,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>GHAMLHLO_02783 | GHAMLHLO_02783 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1505.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1505.6 121.0)" fill="#555">GHAMLHLO_02783</text>
+<polygon points="1534.8,86.0 1523.8,86.0 1516.8,97.0 1523.8,108.0 1534.8,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>GHAMLHLO_02784 | GHAMLHLO_02784 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1525.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1525.8 121.0)" fill="#555">GHAMLHLO_02784</text>
+<polygon points="1567.2,86.0 1580.0,86.0 1587.0,97.0 1580.0,108.0 1567.2,108.0" fill="#fb9a99" stroke="#888" stroke-width="0.8"><title>GHAMLHLO_02785 | cooF | Electron transfer/redox | Iron-sulfur protein</title></polygon>
+<text x="1577.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1577.1 121.0)" fill="#555">cooF</text>
+<polygon points="1587.5,86.0 1646.0,86.0 1664.0,97.0 1646.0,108.0 1587.5,108.0" fill="#d9d9d9" stroke="#111" stroke-width="2.2"><title>GHAMLHLO_02786 | GHAMLHLO_02786 | Hypothetical/accessory | hypothetical protein | PANEL HIT: bamB (Benzoyl-CoA / Benzoyl-CoA) | pident=34.169000 qcovs=62.000000</title></polygon>
+<text x="1625.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1625.7 121.0)" fill="#111">GHAMLHLO_02786 (bamB)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">14,228 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">43,629 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

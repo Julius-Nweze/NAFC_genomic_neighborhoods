@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">CP063455.1_panelcluster_414</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">CP063455.1 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: mdlD; pueA; pueB</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Plastics</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="452.0,86.0 513.1,86.0 531.1,97.0 513.1,108.0 452.0,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>KOALHHAE_03045 | styD_1 | Dehydrogenase/oxidoreductase | Phenylacetaldehyde dehydrogenase | PANEL HIT: mdlD (Aromatics / Toluene) | pident=32.653000 qcovs=76.000000</title></polygon>
+<text x="491.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 491.6 121.0)" fill="#111">styD_1 (mdlD)</text>
+<polygon points="543.9,86.0 606.8,86.0 624.8,97.0 606.8,108.0 543.9,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03046 | KOALHHAE_03046 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="584.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 584.3 121.0)" fill="#555">KOALHHAE_03046</text>
+<polygon points="622.9,86.0 644.1,86.0 654.5,97.0 644.1,108.0 622.9,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03047 | KOALHHAE_03047 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="638.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 638.7 121.0)" fill="#555">KOALHHAE_03047</text>
+<polygon points="662.4,86.0 695.9,86.0 712.3,97.0 695.9,108.0 662.4,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03048 | feaR | Regulator | Transcriptional activator FeaR</title></polygon>
+<text x="687.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 687.4 121.0)" fill="#555">feaR</text>
+<polygon points="763.9,86.0 736.2,86.0 722.5,97.0 736.2,108.0 763.9,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03049 | KOALHHAE_03049 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="743.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 743.2 121.0)" fill="#555">KOALHHAE_03049</text>
+<polygon points="776.2,86.0 830.8,86.0 848.8,97.0 830.8,108.0 776.2,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03050 | steT_1 | Accessory/other | Serine/threonine exchanger SteT</title></polygon>
+<text x="812.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 812.5 121.0)" fill="#555">steT_1</text>
+<polygon points="849.2,86.0 889.8,86.0 907.8,97.0 889.8,108.0 849.2,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03051 | KOALHHAE_03051 | Accessory/other | Beta-peptidyl aminopeptidase BapA</title></polygon>
+<text x="878.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 878.5 121.0)" fill="#555">KOALHHAE_03051</text>
+<polygon points="923.7,86.0 982.7,86.0 1000.7,97.0 982.7,108.0 923.7,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03052 | aprA_2 | Accessory/other | Metallopeptidase AprA</title></polygon>
+<text x="962.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 962.2 121.0)" fill="#555">aprA_2</text>
+<polygon points="1005.7,86.0 1019.1,86.0 1026.1,97.0 1019.1,108.0 1005.7,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03053 | inh | Accessory/other | Alkaline proteinase inhibitor</title></polygon>
+<text x="1015.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1015.9 121.0)" fill="#555">inh</text>
+<polygon points="1037.6,86.0 1115.0,86.0 1133.0,97.0 1115.0,108.0 1037.6,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03054 | prsD_1 | Accessory/other | Type I secretion system ATP-binding protein PrsD</title></polygon>
+<text x="1085.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1085.3 121.0)" fill="#555">prsD_1</text>
+<polygon points="1132.8,86.0 1185.7,86.0 1203.7,97.0 1185.7,108.0 1132.8,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03055 | prsE_3 | Accessory/other | Type I secretion system membrane fusion protein PrsE</title></polygon>
+<text x="1168.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1168.3 121.0)" fill="#555">prsE_3</text>
+<polygon points="1204.5,86.0 1258.3,86.0 1276.3,97.0 1258.3,108.0 1204.5,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03056 | tolC_2 | Accessory/other | Outer membrane protein TolC</title></polygon>
+<text x="1240.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1240.4 121.0)" fill="#555">tolC_2</text>
+<polygon points="1277.9,86.0 1349.4,86.0 1367.4,97.0 1349.4,108.0 1277.9,108.0" fill="#d9d9d9" stroke="#111" stroke-width="2.2"><title>KOALHHAE_03057 | KOALHHAE_03057 | Hypothetical/accessory | hypothetical protein | PANEL HIT: pueB (Plastics / PU) | pident=88.948000 qcovs=100.000000</title></polygon>
+<text x="1322.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1322.6 121.0)" fill="#111">KOALHHAE_03057 (pueB)</text>
+<polygon points="1390.8,86.0 1541.6,86.0 1559.6,97.0 1541.6,108.0 1390.8,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03058 | KOALHHAE_03058 | Accessory/other | Extracellular serine protease</title></polygon>
+<text x="1475.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1475.2 121.0)" fill="#555">KOALHHAE_03058</text>
+<polygon points="1565.4,86.0 1646.0,86.0 1664.0,97.0 1646.0,108.0 1565.4,108.0" fill="#d9d9d9" stroke="#111" stroke-width="2.2"><title>KOALHHAE_03059 | KOALHHAE_03059 | Hypothetical/accessory | hypothetical protein | PANEL HIT: pueA (Plastics / PU) | pident=91.572000 qcovs=100.000000</title></polygon>
+<text x="1614.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1614.7 121.0)" fill="#111">KOALHHAE_03059 (pueA)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">3,345,786 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">3,368,579 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

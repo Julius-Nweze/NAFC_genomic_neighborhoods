@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GCF_001190925.1_panelcluster_14745</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GCF_001190925.1 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: chcB1; oah; paaE; pimC/aabA; pimD</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Benzoyl-CoA; Cyclohexanecarboxylate; Phenylacetate</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="452.0,86.0 472.3,86.0 482.3,97.0 472.3,108.0 452.0,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>GPINMBEK_01480 | GPINMBEK_01480 | Dehydrogenase/oxidoreductase | 3-beta-hydroxysteroid dehydrogenase | PANEL HIT: chcB1 (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=36.653000 qcovs=93.000000</title></polygon>
+<text x="467.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 467.1 121.0)" fill="#111">GPINMBEK_01480 (chcB1)</text>
+<polygon points="482.1,86.0 510.4,86.0 524.3,97.0 510.4,108.0 482.1,108.0" fill="#fb9a99" stroke="#111" stroke-width="2.2"><title>GPINMBEK_01481 | kshB | Electron transfer/redox | 3-ketosteroid-9-alpha-monooxygenase, ferredoxin reductase component | PANEL HIT: paaE (Phenylacetate / Phenylacetate) | pident=34.444000 qcovs=98.000000</title></polygon>
+<text x="503.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 503.2 121.0)" fill="#111">kshB (paaE)</text>
+<polygon points="536.8,86.0 556.9,86.0 566.8,97.0 556.9,108.0 536.8,108.0" fill="#fb9a99" stroke="#888" stroke-width="0.8"><title>GPINMBEK_01482 | etfB_1 | Electron transfer/redox | Electron transfer flavoprotein subunit beta</title></polygon>
+<text x="551.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 551.8 121.0)" fill="#555">etfB_1</text>
+<polygon points="567.3,86.0 593.0,86.0 605.6,97.0 593.0,108.0 567.3,108.0" fill="#fb9a99" stroke="#888" stroke-width="0.8"><title>GPINMBEK_01483 | etfA_1 | Electron transfer/redox | Electron transfer flavoprotein subunit alpha</title></polygon>
+<text x="586.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 586.5 121.0)" fill="#555">etfA_1</text>
+<polygon points="610.8,86.0 642.0,86.0 657.5,97.0 642.0,108.0 610.8,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>GPINMBEK_01484 | GPINMBEK_01484 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="634.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 634.1 121.0)" fill="#555">GPINMBEK_01484</text>
+<polygon points="666.9,86.0 689.8,86.0 701.0,97.0 689.8,108.0 666.9,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>GPINMBEK_01485 | yohF | Dehydrogenase/oxidoreductase | putative oxidoreductase YohF</title></polygon>
+<text x="684.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 684.0 121.0)" fill="#555">yohF</text>
+<polygon points="702.7,86.0 750.4,86.0 768.4,97.0 750.4,108.0 702.7,108.0" fill="#fb9a99" stroke="#888" stroke-width="0.8"><title>GPINMBEK_01486 | GPINMBEK_01486 | Electron transfer/redox | Electron transfer flavoprotein-ubiquinone oxidoreductase</title></polygon>
+<text x="735.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 735.6 121.0)" fill="#555">GPINMBEK_01486</text>
+<polygon points="819.7,86.0 789.5,86.0 774.7,97.0 789.5,108.0 819.7,108.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>GPINMBEK_01487 | bamA_1 | Hydrolase/decarboxylase/lyase | 6-oxocyclohex-1-ene-1-carbonyl-CoA hydrolase | PANEL HIT: oah (Benzoyl-CoA / Benzoyl-CoA) | pident=50.898000 qcovs=88.000000</title></polygon>
+<text x="797.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 797.2 121.0)" fill="#111">bamA_1 (oah)</text>
+<polygon points="838.2,86.0 887.0,86.0 905.0,97.0 887.0,108.0 838.2,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>GPINMBEK_01488 | GPINMBEK_01488 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="871.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 871.6 121.0)" fill="#555">GPINMBEK_01488</text>
+<polygon points="906.1,86.0 943.1,86.0 961.1,97.0 943.1,108.0 906.1,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>GPINMBEK_01489 | GPINMBEK_01489 | Accessory/other | putative protein</title></polygon>
+<text x="933.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 933.6 121.0)" fill="#555">GPINMBEK_01489</text>
+<polygon points="965.7,86.0 998.5,86.0 1014.7,97.0 998.5,108.0 965.7,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>GPINMBEK_01490 | fadH_1 | Dehydrogenase/oxidoreductase | 2,4-dienoyl-CoA reductase</title></polygon>
+<text x="990.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 990.2 121.0)" fill="#555">fadH_1</text>
+<polygon points="1016.4,86.0 1057.1,86.0 1075.1,97.0 1057.1,108.0 1016.4,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>GPINMBEK_01491 | ifcA | Dehydrogenase/oxidoreductase | Fumarate reductase flavoprotein subunit</title></polygon>
+<text x="1045.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1045.8 121.0)" fill="#555">ifcA</text>
+<polygon points="1129.7,86.0 1091.2,86.0 1073.2,97.0 1091.2,108.0 1129.7,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>GPINMBEK_01492 | ribZ | Transport/efflux | Riboflavin transporter RibZ</title></polygon>
+<text x="1101.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1101.5 121.0)" fill="#555">ribZ</text>
+<polygon points="1182.0,86.0 1153.5,86.0 1139.5,97.0 1153.5,108.0 1182.0,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>GPINMBEK_01493 | nemA_2 | Dehydrogenase/oxidoreductase | N-ethylmaleimide reductase</title></polygon>
+<text x="1160.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1160.7 121.0)" fill="#555">nemA_2</text>
+<polygon points="1207.6,86.0 1190.7,86.0 1182.4,97.0 1190.7,108.0 1207.6,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>GPINMBEK_01494 | GPINMBEK_01494 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1195.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1195.0 121.0)" fill="#555">GPINMBEK_01494</text>
+<polygon points="1238.6,86.0 1218.0,86.0 1207.9,97.0 1218.0,108.0 1238.6,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>GPINMBEK_01495 | cpnA | Dehydrogenase/oxidoreductase | Cyclopentanol dehydrogenase | PANEL HIT: chcB1 (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=35.686000 qcovs=96.000000</title></polygon>
+<text x="1223.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1223.3 121.0)" fill="#111">cpnA (chcB1)</text>
+<polygon points="1272.5,86.0 1250.1,86.0 1239.0,97.0 1250.1,108.0 1272.5,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>GPINMBEK_01496 | fabG_2 | Dehydrogenase/oxidoreductase | 3-oxoacyl-[acyl-carrier-protein] reductase FabG</title></polygon>
+<text x="1255.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1255.7 121.0)" fill="#555">fabG_2</text>
+<polygon points="1319.8,86.0 1293.0,86.0 1279.7,97.0 1293.0,108.0 1319.8,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>GPINMBEK_01497 | GPINMBEK_01497 | Regulator | putative HTH-type transcriptional regulator</title></polygon>
+<text x="1299.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1299.8 121.0)" fill="#555">GPINMBEK_01497</text>
+<polygon points="1328.9,86.0 1361.2,86.0 1377.1,97.0 1361.2,108.0 1328.9,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>GPINMBEK_01498 | pucA_3 | Dehydrogenase/oxidoreductase | putative xanthine dehydrogenase subunit A</title></polygon>
+<text x="1353.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1353.0 121.0)" fill="#555">pucA_3</text>
+<polygon points="1412.5,86.0 1395.4,86.0 1386.9,97.0 1395.4,108.0 1412.5,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>GPINMBEK_01499 | GPINMBEK_01499 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1399.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1399.7 121.0)" fill="#555">GPINMBEK_01499</text>
+<polygon points="1509.8,86.0 1432.2,86.0 1414.2,97.0 1432.2,108.0 1509.8,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>GPINMBEK_01500 | fbiC | Accessory/other | FO synthase</title></polygon>
+<text x="1462.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1462.0 121.0)" fill="#555">fbiC</text>
+<polygon points="1536.6,86.0 1517.4,86.0 1507.9,97.0 1517.4,108.0 1536.6,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>GPINMBEK_01501 | fbiD_1 | Accessory/other | Phosphoenolpyruvate guanylyltransferase</title></polygon>
+<text x="1522.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1522.2 121.0)" fill="#555">fbiD_1</text>
+<polygon points="1564.5,86.0 1548.5,86.0 1540.6,97.0 1548.5,108.0 1564.5,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>GPINMBEK_01502 | GPINMBEK_01502 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1552.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1552.6 121.0)" fill="#555">GPINMBEK_01502</text>
+<polygon points="1572.8,86.0 1602.7,86.0 1617.4,97.0 1602.7,108.0 1572.8,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>GPINMBEK_01503 | GPINMBEK_01503 | Dehydrogenase/oxidoreductase | putative acyl-CoA dehydrogenase fadE25 | PANEL HIT: pimD (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=32.796000 qcovs=97.000000</title></polygon>
+<text x="1595.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1595.1 121.0)" fill="#111">GPINMBEK_01503 (pimD)</text>
+<polygon points="1617.4,86.0 1648.6,86.0 1664.0,97.0 1648.6,108.0 1617.4,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>GPINMBEK_01504 | GPINMBEK_01504 | Dehydrogenase/oxidoreductase | Putative acyl-CoA dehydrogenase FadE17 | PANEL HIT: pimC/aabA (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=33.586000 qcovs=99.000000</title></polygon>
+<text x="1640.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1640.7 121.0)" fill="#111">GPINMBEK_01504 (pimC/...</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">1,660,275 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">1,690,643 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

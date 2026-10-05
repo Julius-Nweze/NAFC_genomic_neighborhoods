@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GCF_000736435.1_panelcluster_14564</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GCF_000736435.1 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: BVMO; chnC; crt; mpdB; phdK; xecD; xylC; xylG</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Alkenes; Aromatics; Beta-oxidation;</text>
+<text x="32.0" y="82.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Catechol-meta</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="568.5,86.0 470.0,86.0 452.0,97.0 470.0,108.0 568.5,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>BEEEDNJF_00193 | prr_1 | Dehydrogenase/oxidoreductase | Gamma-aminobutyraldehyde dehydrogenase | PANEL HIT: xylG (Catechol-meta / Catechol-meta) | pident=37.372000 qcovs=99.000000</title></polygon>
+<text x="510.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 510.2 121.0)" fill="#111">prr_1 (xylG)</text>
+<polygon points="687.9,86.0 590.6,86.0 572.6,97.0 590.6,108.0 687.9,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>BEEEDNJF_00194 | prr_2 | Dehydrogenase/oxidoreductase | Gamma-aminobutyraldehyde dehydrogenase | PANEL HIT: phdK (Aromatics / p-Cumate) | pident=36.289000 qcovs=98.000000</title></polygon>
+<text x="630.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 630.2 121.0)" fill="#111">prr_2 (phdK)</text>
+<polygon points="724.6,86.0 702.4,86.0 691.5,97.0 702.4,108.0 724.6,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>BEEEDNJF_00195 | BEEEDNJF_00195 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="708.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 708.0 121.0)" fill="#555">BEEEDNJF_00195</text>
+<polygon points="852.0,86.0 742.3,86.0 724.3,97.0 742.3,108.0 852.0,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>BEEEDNJF_00196 | mpdB_1 | Dehydrogenase/oxidoreductase | 2-methyl-1,2-propanediol dehydrogenase | PANEL HIT: mpdB (Alkenes / 2-methylpropene) | pident=44.139000 qcovs=97.000000</title></polygon>
+<text x="788.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 788.1 121.0)" fill="#111">mpdB_1 (mpdB)</text>
+<polygon points="927.2,86.0 886.6,86.0 868.6,97.0 886.6,108.0 927.2,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>BEEEDNJF_00197 | lldR_1 | Dehydrogenase/oxidoreductase | Putative L-lactate dehydrogenase operon regulatory protein</title></polygon>
+<text x="897.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 897.9 121.0)" fill="#555">lldR_1</text>
+<polygon points="1025.7,86.0 982.6,86.0 964.6,97.0 982.6,108.0 1025.7,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>BEEEDNJF_00198 | xecD_1 | Dehydrogenase/oxidoreductase | 2-(R)-hydroxypropyl-CoM dehydrogenase | PANEL HIT: xecD (Alkenes / Propene) | pident=44.223000 qcovs=98.000000</title></polygon>
+<text x="995.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 995.1 121.0)" fill="#111">xecD_1 (xecD)</text>
+<polygon points="1073.8,86.0 1053.3,86.0 1043.2,97.0 1053.3,108.0 1073.8,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>BEEEDNJF_00199 | kduD_1 | Dehydrogenase/oxidoreductase | 2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase</title></polygon>
+<text x="1058.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1058.5 121.0)" fill="#555">kduD_1</text>
+<polygon points="1101.0,86.0 1090.0,86.0 1083.0,97.0 1090.0,108.0 1101.0,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>BEEEDNJF_00200 | BEEEDNJF_00200 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1092.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1092.0 121.0)" fill="#555">BEEEDNJF_00200</text>
+<polygon points="1114.3,86.0 1129.1,86.0 1136.4,97.0 1129.1,108.0 1114.3,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>BEEEDNJF_00201 | BEEEDNJF_00201 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1125.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1125.3 121.0)" fill="#555">BEEEDNJF_00201</text>
+<polygon points="1175.9,86.0 1164.9,86.0 1157.9,97.0 1164.9,108.0 1175.9,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>BEEEDNJF_00202 | BEEEDNJF_00202 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1166.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1166.9 121.0)" fill="#555">BEEEDNJF_00202</text>
+<polygon points="1266.1,86.0 1362.7,86.0 1380.7,97.0 1362.7,108.0 1266.1,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>BEEEDNJF_00203 | aldHT_1 | Dehydrogenase/oxidoreductase | Aldehyde dehydrogenase, thermostable | PANEL HIT: xylC (Aromatics / Toluene) | pident=34.521000 qcovs=91.000000</title></polygon>
+<text x="1323.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1323.4 121.0)" fill="#111">aldHT_1 (xylC)</text>
+<polygon points="1388.9,86.0 1496.7,86.0 1514.7,97.0 1496.7,108.0 1388.9,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>BEEEDNJF_00204 | cpnB_1 | Oxygenase/dioxygenase | Cyclopentanone 1,2-monooxygenase | PANEL HIT: BVMO (Alkanes / Subterminal oxidation) | pident=54.820000 qcovs=97.000000</title></polygon>
+<text x="1451.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1451.8 121.0)" fill="#111">cpnB_1 (BVMO)</text>
+<polygon points="1518.2,86.0 1570.7,86.0 1588.7,97.0 1570.7,108.0 1518.2,108.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>BEEEDNJF_00205 | mlhB_1 | Hydrolase/decarboxylase/lyase | Monoterpene epsilon-lactone hydrolase | PANEL HIT: chnC (Alkanes / Terminal/biterminal oxidation) | pident=43.253000 qcovs=74.000000</title></polygon>
+<text x="1553.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1553.4 121.0)" fill="#111">mlhB_1 (chnC)</text>
+<polygon points="1601.7,86.0 1646.0,86.0 1664.0,97.0 1646.0,108.0 1601.7,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>BEEEDNJF_00206 | BEEEDNJF_00206 | Hydratase/dehydratase/isomerase | Crotonyl-CoA hydratase | PANEL HIT: crt (Beta-oxidation / Beta-oxidation) | pident=34.615000 qcovs=95.000000</title></polygon>
+<text x="1632.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1632.8 121.0)" fill="#111">BEEEDNJF_00206 (crt)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">228,225 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">243,802 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GROW_83_consensus_panelcluster_17827</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GROW_83_consensus | 1 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: acdA; crt; nagR; pegC</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Beta-oxidation; Naphthalene; Plastics</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="452.0,86.0 498.0,86.0 516.0,97.0 498.0,108.0 452.0,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>COLLAGROW83CONSE_01412 | crt_1 | Hydratase/dehydratase/isomerase | Short-chain-enoyl-CoA hydratase | PANEL HIT: crt (Beta-oxidation / Beta-oxidation) | pident=33.730000 qcovs=95.000000</title></polygon>
+<text x="484.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 484.0 121.0)" fill="#111">crt_1 (crt)</text>
+<polygon points="520.3,86.0 596.1,86.0 614.1,97.0 596.1,108.0 520.3,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>COLLAGROW83CONSE_01413 | acdA_1 | Dehydrogenase/oxidoreductase | Acyl-CoA dehydrogenase | PANEL HIT: acdA (Beta-oxidation / Beta-oxidation) | pident=44.416000 qcovs=99.000000</title></polygon>
+<text x="567.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 567.2 121.0)" fill="#111">acdA_1 (acdA)</text>
+<polygon points="615.6,86.0 767.4,86.0 785.4,97.0 767.4,108.0 615.6,108.0" fill="#1f78b4" stroke="#888" stroke-width="0.8"><title>COLLAGROW83CONSE_01414 | FCS1_1 | CoA ligase/synthetase | Trans-feruloyl-CoA synthase FCS1</title></polygon>
+<text x="700.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 700.5 121.0)" fill="#555">FCS1_1</text>
+<polygon points="786.2,86.0 898.1,86.0 916.1,97.0 898.1,108.0 786.2,108.0" fill="#6a3d9a" stroke="#888" stroke-width="0.8"><title>COLLAGROW83CONSE_01415 | aruI_1 | Carboxylase | putative 2-ketoarginine decarboxylase AruI</title></polygon>
+<text x="851.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 851.2 121.0)" fill="#555">aruI_1</text>
+<polygon points="918.3,86.0 996.6,86.0 1014.6,97.0 996.6,108.0 918.3,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>COLLAGROW83CONSE_01416 | aruH_1 | Accessory/other | Arginine--pyruvate transaminase AruH</title></polygon>
+<text x="966.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 966.5 121.0)" fill="#555">aruH_1</text>
+<polygon points="1013.5,86.0 1110.4,86.0 1128.4,97.0 1110.4,108.0 1013.5,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>COLLAGROW83CONSE_01417 | ald | Dehydrogenase/oxidoreductase | 3-succinoylsemialdehyde-pyridine dehydrogenase | PANEL HIT: pegC (Plastics / PEG) | pident=47.447000 qcovs=99.000000</title></polygon>
+<text x="1070.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1070.9 121.0)" fill="#111">ald (pegC)</text>
+<polygon points="1134.3,86.0 1173.3,86.0 1191.3,97.0 1173.3,108.0 1134.3,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>COLLAGROW83CONSE_01418 | kefF | Transport/efflux | Glutathione-regulated potassium-efflux system ancillary protein KefF</title></polygon>
+<text x="1162.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1162.8 121.0)" fill="#555">kefF</text>
+<polygon points="1225.6,86.0 1214.6,86.0 1207.6,97.0 1214.6,108.0 1225.6,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>COLLAGROW83CONSE_01419 | COLLAGROW83CONSE_01419 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1216.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1216.6 121.0)" fill="#555">COLLAGROW83CONSE_01419</text>
+<polygon points="1245.6,86.0 1305.9,86.0 1323.9,97.0 1305.9,108.0 1245.6,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>COLLAGROW83CONSE_01420 | COLLAGROW83CONSE_01420 | Accessory/other | putative glycosyltransferase</title></polygon>
+<text x="1284.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1284.8 121.0)" fill="#555">COLLAGROW83CONSE_01420</text>
+<polygon points="1324.2,86.0 1363.7,86.0 1381.7,97.0 1363.7,108.0 1324.2,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>COLLAGROW83CONSE_01421 | COLLAGROW83CONSE_01421 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1352.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1352.9 121.0)" fill="#555">COLLAGROW83CONSE_01421</text>
+<polygon points="1381.3,86.0 1402.3,86.0 1412.6,97.0 1402.3,108.0 1381.3,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>COLLAGROW83CONSE_01422 | COLLAGROW83CONSE_01422 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1397.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1397.0 121.0)" fill="#555">COLLAGROW83CONSE_01422</text>
+<polygon points="1412.3,86.0 1565.2,86.0 1583.2,97.0 1565.2,108.0 1412.3,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>COLLAGROW83CONSE_01423 | COLLAGROW83CONSE_01423 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1497.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1497.8 121.0)" fill="#555">COLLAGROW83CONSE_01423</text>
+<polygon points="1589.1,86.0 1646.0,86.0 1664.0,97.0 1646.0,108.0 1589.1,108.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>COLLAGROW83CONSE_01424 | nodD2_3 | Accessory/other | Nodulation protein D 2 | PANEL HIT: nagR (Naphthalene / Naphthalene) | pident=31.773000 qcovs=99.000000</title></polygon>
+<text x="1626.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1626.5 121.0)" fill="#111">nodD2_3 (nagR)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">1,580,781 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">1,595,774 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

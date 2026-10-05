@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">CP010517.1_panelcluster_235</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">CP010517.1 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: GI:23664434; boxA; boxB; boxC; galT; paaZ</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Gallate; Phenylacetate</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="600.6,86.0 470.0,86.0 452.0,97.0 470.0,108.0 600.6,108.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>IBAGFFNI_00508 | pcaK | Transport/efflux | 4-hydroxybenzoate transporter PcaK | PANEL HIT: galT (Gallate / Gallate) | pident=34.474000 qcovs=91.000000</title></polygon>
+<text x="526.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pcaK (galT)</text>
+<polygon points="696.3,86.0 625.7,86.0 607.7,97.0 625.7,108.0 696.3,108.0" fill="#b15928" stroke="#888" stroke-width="0.8"><title>IBAGFFNI_00509 | menH_2 | Hydrolase/decarboxylase/lyase | 2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase</title></polygon>
+<text x="652.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">menH_2</text>
+<polygon points="886.3,86.0 713.9,86.0 695.9,97.0 713.9,108.0 886.3,108.0" fill="#1f78b4" stroke="#111" stroke-width="2.2"><title>IBAGFFNI_00510 | bclA | CoA ligase/synthetase | Benzoate--CoA ligase | PANEL HIT: GI:23664434 (Aromatics / Benzene) | pident=60.234000 qcovs=95.000000</title></polygon>
+<text x="791.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">bclA (GI:23664434)</text>
+<polygon points="1066.3,86.0 912.1,86.0 894.1,97.0 912.1,108.0 1066.3,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>IBAGFFNI_00511 | boxD | Dehydrogenase/oxidoreductase | 3,4-dehydroadipyl-CoA semialdehyde dehydrogenase | PANEL HIT: paaZ (Phenylacetate / Phenylacetate) | pident=43.702000 qcovs=74.000000</title></polygon>
+<text x="980.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">boxD (paaZ)</text>
+<polygon points="1121.6,86.0 1110.6,86.0 1103.6,97.0 1110.6,108.0 1121.6,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>IBAGFFNI_00512 | IBAGFFNI_00512 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1112.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">IBAGFFNI_00512</text>
+<polygon points="1163.4,86.0 1327.6,86.0 1345.6,97.0 1327.6,108.0 1163.4,108.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>IBAGFFNI_00513 | boxC | Hydrolase/decarboxylase/lyase | Benzoyl-CoA-dihydrodiol lyase | PANEL HIT: boxC (Aromatics / Benzene) | pident=66.728000 qcovs=98.000000</title></polygon>
+<text x="1254.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">boxC (boxC)</text>
+<polygon points="1353.7,86.0 1492.5,86.0 1510.5,97.0 1492.5,108.0 1353.7,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>IBAGFFNI_00514 | boxB | Oxygenase/dioxygenase | Benzoyl-CoA oxygenase component B | PANEL HIT: boxB (Aromatics / Benzene) | pident=75.000000 qcovs=99.000000</title></polygon>
+<text x="1432.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">boxB (boxB)</text>
+<polygon points="1522.4,86.0 1646.0,86.0 1664.0,97.0 1646.0,108.0 1522.4,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>IBAGFFNI_00515 | boxA | Oxygenase/dioxygenase | Benzoyl-CoA oxygenase component A | PANEL HIT: boxA (Aromatics / Benzene) | pident=60.142000 qcovs=98.000000</title></polygon>
+<text x="1593.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">boxA (boxA)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">548,941 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">559,978 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GCF_014634705.1_panelcluster_15113</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GCF_014634705.1 | c_000000000842 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: bphA1; bphA2; bphA3; bphB; bphC; bphD; bphF; cmtAa;</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">mhpD; mhpF</text>
+<text x="32.0" y="82.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Catechol-meta</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="594.3,86.0 470.0,86.0 452.0,97.0 470.0,108.0 594.3,108.0" fill="#fb9a99" stroke="#111" stroke-width="2.2"><title>NHBFONID_05945 | cmtAa | Electron transfer/redox | p-cumate 2,3-dioxygenase system, ferredoxin--NAD(+) reductase component | PANEL HIT: cmtAa (Aromatics / p-Cumate) | pident=38.670000 qcovs=99.000000</title></polygon>
+<text x="523.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">cmtAa (cmtAa)</text>
+<polygon points="689.5,86.0 631.3,86.0 613.3,97.0 631.3,108.0 689.5,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>NHBFONID_05946 | NHBFONID_05946 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="651.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">NHBFONID_05946</text>
+<polygon points="803.7,86.0 721.9,86.0 703.9,97.0 721.9,108.0 803.7,108.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>NHBFONID_05947 | mhpC | Hydrolase/decarboxylase/lyase | 2-hydroxy-6-oxononadienedioate/2-hydroxy-6-oxononatrienedioate hydrolase | PANEL HIT: bphD (Aromatics / Biphenyl) | pident=92.308000 qcovs=100.000000</title></polygon>
+<text x="753.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">mhpC (bphD)</text>
+<polygon points="909.6,86.0 825.3,86.0 807.3,97.0 825.3,108.0 909.6,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>NHBFONID_05948 | bphC_1 | Oxygenase/dioxygenase | Biphenyl-2,3-diol 1,2-dioxygenase | PANEL HIT: bphC (Aromatics / Biphenyl) | pident=95.904000 qcovs=100.000000</title></polygon>
+<text x="858.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">bphC_1 (bphC)</text>
+<polygon points="1007.5,86.0 929.1,86.0 911.1,97.0 929.1,108.0 1007.5,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>NHBFONID_05949 | bphB | Dehydrogenase/oxidoreductase | Cis-2,3-dihydrobiphenyl-2,3-diol dehydrogenase | PANEL HIT: bphB (Aromatics / Biphenyl) | pident=96.014000 qcovs=100.000000</title></polygon>
+<text x="959.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">bphB (bphB)</text>
+<polygon points="1047.9,86.0 1022.2,86.0 1009.6,97.0 1022.2,108.0 1047.9,108.0" fill="#fb9a99" stroke="#111" stroke-width="2.2"><title>NHBFONID_05950 | bphA3 | Electron transfer/redox | Biphenyl dioxygenase ferredoxin subunit | PANEL HIT: bphA3 (Aromatics / Biphenyl) | pident=95.370000 qcovs=99.000000</title></polygon>
+<text x="1028.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">bphA3 (bphA3)</text>
+<polygon points="1117.3,86.0 1067.8,86.0 1049.8,97.0 1067.8,108.0 1117.3,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>NHBFONID_05951 | bphE_2 | Oxygenase/dioxygenase | Biphenyl dioxygenase subunit beta | PANEL HIT: bphA2 (Aromatics / Biphenyl) | pident=87.565000 qcovs=100.000000</title></polygon>
+<text x="1083.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">bphE_2 (bphA2)</text>
+<polygon points="1280.6,86.0 1138.9,86.0 1120.9,97.0 1138.9,108.0 1280.6,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>NHBFONID_05952 | bphA | Oxygenase/dioxygenase | Biphenyl dioxygenase subunit alpha | PANEL HIT: bphA1 (Aromatics / Biphenyl) | pident=93.668000 qcovs=100.000000</title></polygon>
+<text x="1200.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">bphA (bphA1)</text>
+<polygon points="1335.1,86.0 1303.2,86.0 1287.4,97.0 1303.2,108.0 1335.1,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>NHBFONID_05953 | NHBFONID_05953 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1311.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">NHBFONID_05953</text>
+<polygon points="1459.7,86.0 1355.2,86.0 1337.2,97.0 1355.2,108.0 1459.7,108.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>NHBFONID_05954 | mhpE_2 | Hydrolase/decarboxylase/lyase | 4-hydroxy-2-oxovalerate aldolase | PANEL HIT: bphF (Aromatics / Biphenyl) | pident=91.404000 qcovs=99.000000</title></polygon>
+<text x="1398.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">mhpE_2 (bphF)</text>
+<polygon points="1570.2,86.0 1478.9,86.0 1460.9,97.0 1478.9,108.0 1570.2,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>NHBFONID_05955 | dmpF | Dehydrogenase/oxidoreductase | Acetaldehyde dehydrogenase | PANEL HIT: mhpF (Catechol-meta / Catechol-meta) | pident=78.502000 qcovs=97.000000</title></polygon>
+<text x="1515.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">dmpF (mhpF)</text>
+<polygon points="1664.0,86.0 1588.4,86.0 1570.4,97.0 1588.4,108.0 1664.0,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>NHBFONID_05956 | amnF | Dehydrogenase/oxidoreductase | 2-oxopent-4-enoate hydratase | PANEL HIT: mhpD (Catechol-meta / Catechol-meta) | pident=60.558000 qcovs=96.000000</title></polygon>
+<text x="1617.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">amnF (mhpD)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">10,178 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">20,628 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

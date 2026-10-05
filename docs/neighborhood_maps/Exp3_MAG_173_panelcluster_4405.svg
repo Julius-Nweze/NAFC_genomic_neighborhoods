@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_173_panelcluster_4405</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_173 | MAGs/Exp3_MAG_173_c_000000000014 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: BVMO; CYP450; crt; pimC/aabA; pimD</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Beta-oxidation; Cyclohexanecarboxylate</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="497.7,86.0 467.1,86.0 452.0,97.0 467.1,108.0 497.7,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>FNNNPHKG_00765 | linC_1 | Oxygenase/dioxygenase | Linalool 8-monooxygenase | PANEL HIT: CYP450 (Alkanes / Terminal/biterminal oxidation) | pident=61.995000 qcovs=99.000000</title></polygon>
+<text x="474.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 474.8 121.0)" fill="#111">linC_1 (CYP450)</text>
+<polygon points="558.5,86.0 516.8,86.0 498.8,97.0 516.8,108.0 558.5,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>FNNNPHKG_00766 | FNNNPHKG_00766 | Oxygenase/dioxygenase | Baeyer-Villiger monooxygenase | PANEL HIT: BVMO (Alkanes / Subterminal oxidation) | pident=67.528000 qcovs=99.000000</title></polygon>
+<text x="528.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 528.7 121.0)" fill="#111">FNNNPHKG_00766 (BVMO)</text>
+<polygon points="616.7,86.0 576.7,86.0 558.7,97.0 576.7,108.0 616.7,108.0" fill="#1f78b4" stroke="#888" stroke-width="0.8"><title>FNNNPHKG_00767 | FNNNPHKG_00767 | CoA ligase/synthetase | 3-oxocholest-4-en-26-oate--CoA ligase</title></polygon>
+<text x="587.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 587.7 121.0)" fill="#555">FNNNPHKG_00767</text>
+<polygon points="656.3,86.0 630.0,86.0 617.1,97.0 630.0,108.0 656.3,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>FNNNPHKG_00768 | acrC_1 | Dehydrogenase/oxidoreductase | Acryloyl-CoA reductase (NADH) | PANEL HIT: pimD (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=32.240000 qcovs=96.000000</title></polygon>
+<text x="636.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 636.7 121.0)" fill="#111">acrC_1 (pimD)</text>
+<polygon points="699.8,86.0 670.6,86.0 656.3,97.0 670.6,108.0 699.8,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>FNNNPHKG_00769 | FNNNPHKG_00769 | Dehydrogenase/oxidoreductase | Putative acyl-CoA dehydrogenase FadE17 | PANEL HIT: pimC/aabA (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=35.589000 qcovs=100.000000</title></polygon>
+<text x="678.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 678.0 121.0)" fill="#111">FNNNPHKG_00769 (pimC/...</text>
+<polygon points="719.5,86.0 708.5,86.0 701.5,97.0 708.5,108.0 719.5,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>FNNNPHKG_00770 | FNNNPHKG_00770 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="710.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 710.5 121.0)" fill="#555">FNNNPHKG_00770</text>
+<polygon points="759.2,86.0 731.1,86.0 717.2,97.0 731.1,108.0 759.2,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>FNNNPHKG_00771 | FNNNPHKG_00771 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="738.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 738.2 121.0)" fill="#555">FNNNPHKG_00771</text>
+<polygon points="800.6,86.0 774.2,86.0 761.2,97.0 774.2,108.0 800.6,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>FNNNPHKG_00772 | adh_1 | Dehydrogenase/oxidoreductase | putative alcohol dehydrogenase adh</title></polygon>
+<text x="780.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 780.9 121.0)" fill="#555">adh_1</text>
+<polygon points="805.8,86.0 819.5,86.0 826.5,97.0 819.5,108.0 805.8,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>FNNNPHKG_00773 | FNNNPHKG_00773 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="816.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 816.1 121.0)" fill="#555">FNNNPHKG_00773</text>
+<polygon points="827.5,86.0 848.0,86.0 858.1,97.0 848.0,108.0 827.5,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>FNNNPHKG_00774 | FNNNPHKG_00774 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="842.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 842.8 121.0)" fill="#555">FNNNPHKG_00774</text>
+<polygon points="858.4,86.0 913.9,86.0 931.9,97.0 913.9,108.0 858.4,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>FNNNPHKG_00775 | fadH_2 | Dehydrogenase/oxidoreductase | 2,4-dienoyl-CoA reductase</title></polygon>
+<text x="895.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 895.1 121.0)" fill="#555">fadH_2</text>
+<polygon points="932.8,86.0 951.7,86.0 961.0,97.0 951.7,108.0 932.8,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>FNNNPHKG_00776 | FNNNPHKG_00776 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="946.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 946.9 121.0)" fill="#555">FNNNPHKG_00776</text>
+<polygon points="979.4,86.0 968.4,86.0 961.4,97.0 968.4,108.0 979.4,108.0" fill="#b15928" stroke="#888" stroke-width="0.8"><title>FNNNPHKG_00777 | menI_1 | Hydrolase/decarboxylase/lyase | 1,4-dihydroxy-2-naphthoyl-CoA hydrolase</title></polygon>
+<text x="970.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 970.4 121.0)" fill="#555">menI_1</text>
+<polygon points="1019.2,86.0 991.6,86.0 978.1,97.0 991.6,108.0 1019.2,108.0" fill="#d73027" stroke="#888" stroke-width="0.8"><title>FNNNPHKG_00778 | FNNNPHKG_00778 | Oxygenase/dioxygenase | Putative monooxygenase</title></polygon>
+<text x="998.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 998.6 121.0)" fill="#555">FNNNPHKG_00778</text>
+<polygon points="1050.1,86.0 1030.5,86.0 1020.9,97.0 1030.5,108.0 1050.1,108.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>FNNNPHKG_00779 | FNNNPHKG_00779 | Hydratase/dehydratase/isomerase | Crotonyl-CoA hydratase | PANEL HIT: crt (Beta-oxidation / Beta-oxidation) | pident=37.405000 qcovs=95.000000</title></polygon>
+<text x="1035.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1035.5 121.0)" fill="#111">FNNNPHKG_00779 (crt)</text>
+<polygon points="1055.9,86.0 1077.0,86.0 1087.4,97.0 1077.0,108.0 1055.9,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>FNNNPHKG_00780 | FNNNPHKG_00780 | Accessory/other | Tropinesterase</title></polygon>
+<text x="1071.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1071.6 121.0)" fill="#555">FNNNPHKG_00780</text>
+<polygon points="1149.5,86.0 1116.0,86.0 1099.4,97.0 1116.0,108.0 1149.5,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>FNNNPHKG_00781 | FNNNPHKG_00781 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1124.5" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1124.5 121.0)" fill="#555">FNNNPHKG_00781</text>
+<polygon points="1199.0,86.0 1166.9,86.0 1151.1,97.0 1166.9,108.0 1199.0,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>FNNNPHKG_00782 | bglA | Accessory/other | Beta-glucosidase A</title></polygon>
+<text x="1175.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1175.1 121.0)" fill="#555">bglA</text>
+<polygon points="1246.9,86.0 1214.7,86.0 1198.8,97.0 1214.7,108.0 1246.9,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>FNNNPHKG_00783 | FNNNPHKG_00783 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1222.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1222.9 121.0)" fill="#555">FNNNPHKG_00783</text>
+<polygon points="1343.9,86.0 1265.2,86.0 1247.2,97.0 1265.2,108.0 1343.9,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>FNNNPHKG_00784 | FNNNPHKG_00784 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1295.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1295.6 121.0)" fill="#555">FNNNPHKG_00784</text>
+<polygon points="1381.0,86.0 1358.0,86.0 1346.7,97.0 1358.0,108.0 1381.0,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>FNNNPHKG_00785 | FNNNPHKG_00785 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1363.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1363.8 121.0)" fill="#555">FNNNPHKG_00785</text>
+<polygon points="1401.6,86.0 1387.9,86.0 1380.9,97.0 1387.9,108.0 1401.6,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>FNNNPHKG_00786 | FNNNPHKG_00786 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1391.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1391.2 121.0)" fill="#555">FNNNPHKG_00786</text>
+<polygon points="1410.9,86.0 1487.4,86.0 1505.4,97.0 1487.4,108.0 1410.9,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>FNNNPHKG_00787 | treA | Accessory/other | Periplasmic trehalase</title></polygon>
+<text x="1458.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1458.2 121.0)" fill="#555">treA</text>
+<polygon points="1506.5,86.0 1537.7,86.0 1553.0,97.0 1537.7,108.0 1506.5,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>FNNNPHKG_00788 | fucP | Transport/efflux | L-fucose-proton symporter</title></polygon>
+<text x="1529.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1529.8 121.0)" fill="#555">fucP</text>
+<polygon points="1593.9,86.0 1570.0,86.0 1558.3,97.0 1570.0,108.0 1593.9,108.0" fill="#b15928" stroke="#888" stroke-width="0.8"><title>FNNNPHKG_00789 | menH_1 | Hydrolase/decarboxylase/lyase | 2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase</title></polygon>
+<text x="1576.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1576.1 121.0)" fill="#555">menH_1</text>
+<polygon points="1623.7,86.0 1612.7,86.0 1605.7,97.0 1612.7,108.0 1623.7,108.0" fill="#fb9a99" stroke="#888" stroke-width="0.8"><title>FNNNPHKG_00790 | fdxE_1 | Electron transfer/redox | Ferredoxin-6</title></polygon>
+<text x="1614.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1614.7 121.0)" fill="#555">fdxE_1</text>
+<polygon points="1664.0,86.0 1633.5,86.0 1618.5,97.0 1633.5,108.0 1664.0,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>FNNNPHKG_00791 | linC_2 | Oxygenase/dioxygenase | Linalool 8-monooxygenase | PANEL HIT: CYP450 (Alkanes / Terminal/biterminal oxidation) | pident=62.927000 qcovs=97.000000</title></polygon>
+<text x="1641.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1641.3 121.0)" fill="#111">linC_2 (CYP450)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">1,921 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">35,576 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_131_panelcluster_2279</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_131 | MAGs/Exp3_MAG_131_c_000000000009 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: GI:23664434; almA; boxB; boxC; pnbA</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Aromatics; Plastics</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="581.3,86.0 470.0,86.0 452.0,97.0 470.0,108.0 581.3,108.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>IMPLPAML_02185 | acs | Accessory/other | Acetyl-coenzyme A synthetase | PANEL HIT: GI:23664434 (Aromatics / Benzene) | pident=67.323000 qcovs=96.000000</title></polygon>
+<text x="516.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 516.6 121.0)" fill="#111">acs (GI:23664434)</text>
+<polygon points="584.1,86.0 625.0,86.0 643.0,97.0 625.0,108.0 584.1,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>IMPLPAML_02186 | aroK_1 | Accessory/other | Shikimate kinase</title></polygon>
+<text x="613.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 613.6 121.0)" fill="#555">aroK_1</text>
+<polygon points="644.1,86.0 732.8,86.0 750.8,97.0 732.8,108.0 644.1,108.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>IMPLPAML_02187 | boxC | Hydrolase/decarboxylase/lyase | Benzoyl-CoA-dihydrodiol lyase | PANEL HIT: boxC (Aromatics / Benzene) | pident=69.597000 qcovs=98.000000</title></polygon>
+<text x="697.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 697.4 121.0)" fill="#111">boxC (boxC)</text>
+<polygon points="750.9,86.0 823.4,86.0 841.4,97.0 823.4,108.0 750.9,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>IMPLPAML_02188 | boxB | Oxygenase/dioxygenase | Benzoyl-CoA oxygenase component B | PANEL HIT: boxB (Aromatics / Benzene) | pident=70.763000 qcovs=99.000000</title></polygon>
+<text x="796.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 796.2 121.0)" fill="#111">boxB (boxB)</text>
+<polygon points="851.3,86.0 893.2,86.0 911.2,97.0 893.2,108.0 851.3,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>IMPLPAML_02189 | dmlR_3 | Regulator | HTH-type transcriptional regulator DmlR</title></polygon>
+<text x="881.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 881.2 121.0)" fill="#555">dmlR_3</text>
+<polygon points="914.4,86.0 1048.2,86.0 1066.2,97.0 1048.2,108.0 914.4,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>IMPLPAML_02190 | btuB_47 | Transport/efflux | Vitamin B12 transporter BtuB</title></polygon>
+<text x="990.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 990.3 121.0)" fill="#555">btuB_47</text>
+<polygon points="1066.1,86.0 1151.1,86.0 1169.1,97.0 1151.1,108.0 1066.1,108.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>IMPLPAML_02191 | pnbA_2 | Accessory/other | Para-nitrobenzyl esterase | PANEL HIT: pnbA (Plastics / PET) | pident=38.980000 qcovs=97.000000</title></polygon>
+<text x="1117.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1117.6 121.0)" fill="#111">pnbA_2 (pnbA)</text>
+<polygon points="1169.9,86.0 1281.4,86.0 1299.4,97.0 1281.4,108.0 1169.9,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>IMPLPAML_02192 | hutI_5 | Accessory/other | Imidazolonepropionase</title></polygon>
+<text x="1234.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1234.7 121.0)" fill="#555">hutI_5</text>
+<polygon points="1299.1,86.0 1371.7,86.0 1389.7,97.0 1371.7,108.0 1299.1,108.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>IMPLPAML_02193 | leuC_2 | Hydratase/dehydratase/isomerase | 3-isopropylmalate dehydratase large subunit</title></polygon>
+<text x="1344.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1344.4 121.0)" fill="#555">leuC_2</text>
+<polygon points="1390.0,86.0 1416.5,86.0 1429.6,97.0 1416.5,108.0 1390.0,108.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>IMPLPAML_02194 | leuD1 | Hydratase/dehydratase/isomerase | 3-isopropylmalate dehydratase small subunit 1</title></polygon>
+<text x="1409.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1409.8 121.0)" fill="#555">leuD1</text>
+<polygon points="1429.4,86.0 1492.6,86.0 1510.6,97.0 1492.6,108.0 1429.4,108.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>IMPLPAML_02195 | dctA | Transport/efflux | Aerobic C4-dicarboxylate transport protein</title></polygon>
+<text x="1470.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1470.0 121.0)" fill="#555">dctA</text>
+<polygon points="1511.4,86.0 1551.0,86.0 1569.0,97.0 1551.0,108.0 1511.4,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>IMPLPAML_02196 | dehH1 | Accessory/other | Haloacetate dehalogenase H-1</title></polygon>
+<text x="1540.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1540.2 121.0)" fill="#555">dehH1</text>
+<polygon points="1571.3,86.0 1646.0,86.0 1664.0,97.0 1646.0,108.0 1571.3,108.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>IMPLPAML_02197 | ethA | Oxygenase/dioxygenase | FAD-containing monooxygenase EthA | PANEL HIT: almA (Alkanes / Terminal/biterminal oxidation) | pident=52.905000 qcovs=96.000000</title></polygon>
+<text x="1617.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1617.7 121.0)" fill="#111">ethA (almA)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">76,346 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">95,416 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

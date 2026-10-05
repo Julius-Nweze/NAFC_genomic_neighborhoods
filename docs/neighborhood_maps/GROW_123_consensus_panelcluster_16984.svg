@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="274" viewBox="0 0 1700 274">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<rect x="18" y="6" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="6" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="24.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GROW_123_consensus_panelcluster_16984</text>
+<text x="32.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GROW_123_consensus | 1 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="58.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: atoA; chcC2; pcaI; pcaK; xecE1</text>
+<text x="32.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkenes; Catechol-ortho; Cyclohexanecarboxylate;</text>
+<text x="32.0" y="82.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Cyclohexylacetate; Transportation</text>
+<line x1="452" y1="97.0" x2="1664" y2="97.0" stroke="#d0d0d0"/>
+<polygon points="504.2,86.0 469.2,86.0 452.0,97.0 469.2,108.0 504.2,108.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>LJCCGNMH_02747 | scoB | Thiolase/transferase | putative succinyl-CoA:3-ketoacid coenzyme A transferase subunit B | PANEL HIT: atoA (Cyclohexylacetate / Cyclohexylacetate) | pident=46.667000 qcovs=96.000000</title></polygon>
+<text x="478.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 478.1 121.0)" fill="#111">scoB (atoA)</text>
+<polygon points="562.5,86.0 525.0,86.0 507.0,97.0 525.0,108.0 562.5,108.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>LJCCGNMH_02748 | scoA | Thiolase/transferase | putative succinyl-CoA:3-ketoacid coenzyme A transferase subunit A | PANEL HIT: pcaI (Catechol-ortho / Catechol-ortho) | pident=43.056000 qcovs=94.000000</title></polygon>
+<text x="534.8" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 534.8 121.0)" fill="#111">scoA (pcaI)</text>
+<polygon points="573.7,86.0 627.7,86.0 645.7,97.0 627.7,108.0 573.7,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>LJCCGNMH_02749 | gltC_2 | Regulator | HTH-type transcriptional regulator GltC</title></polygon>
+<text x="609.7" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 609.7 121.0)" fill="#555">gltC_2</text>
+<polygon points="644.6,86.0 692.0,86.0 710.0,97.0 692.0,108.0 644.6,108.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>LJCCGNMH_02750 | LJCCGNMH_02750 | Dehydrogenase/oxidoreductase | putative oxidoreductase/MSMEI_2347</title></polygon>
+<text x="677.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 677.3 121.0)" fill="#555">LJCCGNMH_02750</text>
+<polygon points="965.4,86.0 738.5,86.0 720.5,97.0 738.5,108.0 965.4,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>LJCCGNMH_02751 | dnaE2 | Accessory/other | Error-prone DNA polymerase</title></polygon>
+<text x="843.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 843.0 121.0)" fill="#555">dnaE2</text>
+<polygon points="1077.8,86.0 983.1,86.0 965.1,97.0 983.1,108.0 1077.8,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>LJCCGNMH_02752 | imuB | Accessory/other | Protein ImuB</title></polygon>
+<text x="1021.4" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1021.4 121.0)" fill="#555">imuB</text>
+<polygon points="1127.7,86.0 1094.6,86.0 1078.3,97.0 1094.6,108.0 1127.7,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LJCCGNMH_02753 | LJCCGNMH_02753 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1103.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1103.0 121.0)" fill="#555">LJCCGNMH_02753</text>
+<polygon points="1176.7,86.0 1143.8,86.0 1127.6,97.0 1143.8,108.0 1176.7,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>LJCCGNMH_02754 | lexA_3 | Regulator | LexA repressor</title></polygon>
+<text x="1152.1" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1152.1 121.0)" fill="#555">lexA_3</text>
+<polygon points="1184.1,86.0 1219.1,86.0 1236.3,97.0 1219.1,108.0 1184.1,108.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>LJCCGNMH_02755 | vldH | Accessory/other | Validoxylamine A 7&#x27;-phosphate phosphatase</title></polygon>
+<text x="1210.2" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1210.2 121.0)" fill="#555">vldH</text>
+<polygon points="1249.6,86.0 1304.1,86.0 1322.1,97.0 1304.1,108.0 1249.6,108.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>LJCCGNMH_02756 | gltC_3 | Regulator | HTH-type transcriptional regulator GltC</title></polygon>
+<text x="1285.9" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1285.9 121.0)" fill="#555">gltC_3</text>
+<polygon points="1431.7,86.0 1342.9,86.0 1324.9,97.0 1342.9,108.0 1431.7,108.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>LJCCGNMH_02757 | pcaK_4 | Transport/efflux | 4-hydroxybenzoate transporter PcaK | PANEL HIT: pcaK (Transportation / Transportation) | pident=52.740000 qcovs=98.000000</title></polygon>
+<text x="1378.3" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1378.3 121.0)" fill="#111">pcaK_4 (pcaK)</text>
+<polygon points="1461.7,86.0 1444.2,86.0 1435.5,97.0 1444.2,108.0 1461.7,108.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LJCCGNMH_02758 | LJCCGNMH_02758 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1448.6" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1448.6 121.0)" fill="#555">LJCCGNMH_02758</text>
+<polygon points="1598.3,86.0 1479.7,86.0 1461.7,97.0 1479.7,108.0 1598.3,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>LJCCGNMH_02759 | kstD_1 | Dehydrogenase/oxidoreductase | 3-oxosteroid 1-dehydrogenase | PANEL HIT: chcC2 (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=43.828000 qcovs=94.000000</title></polygon>
+<text x="1530.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1530.0 121.0)" fill="#111">kstD_1 (chcC2)</text>
+<polygon points="1664.0,86.0 1616.0,86.0 1598.0,97.0 1616.0,108.0 1664.0,108.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>LJCCGNMH_02760 | bacC | Dehydrogenase/oxidoreductase | Dihydroanticapsin 7-dehydrogenase | PANEL HIT: xecE1 (Alkenes / Propene) | pident=38.095000 qcovs=99.000000</title></polygon>
+<text x="1631.0" y="121.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1631.0 121.0)" fill="#111">bacC (xecE1)</text>
+<text x="452.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">3,107,656 bp</text>
+<text x="1664.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">3,122,906 bp</text>
+<text x="24.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="176" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="176" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="176" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="176" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="198" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="198" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="198" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="198" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="220" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="220" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="220" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="220" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="230.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="242" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>
