@@ -11,7 +11,7 @@ from collections import Counter
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
-SHORTLIST_TSV = HERE.parent / "NA_gene_panel_top_multi_hit_clusters.tsv"
+SHORTLIST_TSV = HERE.parent / "NAFC_gene_panel_top_multi_hit_neighborhoods.tsv"
 
 REF_BARE = {"AP042450.1", "CP010516.1", "CP010517.1", "CP063454.1", "CP063455.1", "LMAZ01000003.1"}
 

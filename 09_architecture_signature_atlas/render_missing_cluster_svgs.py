@@ -15,10 +15,10 @@ from pathlib import Path
 OPERON_DIR = Path(__file__).resolve().parent
 sys.path.insert(0, str(OPERON_DIR))
 sys.path.insert(0, str(OPERON_DIR.parent / "07_neighborhood_reconstruction"))
-from build_na_gene_panel_cluster_svgs import render_cluster_svg, slugify  # noqa: E402
+from build_nafc_gene_panel_cluster_svgs import render_cluster_svg, slugify  # noqa: E402
 
-CLUSTERS_TSV = OPERON_DIR / "NA_gene_panel_clusters_summary.tsv"
-MEMBERS_TSV = OPERON_DIR / "NA_gene_panel_cluster_members.tsv"
+CLUSTERS_TSV = OPERON_DIR / "NAFC_gene_panel_neighborhood_summary.tsv"
+MEMBERS_TSV = OPERON_DIR / "NAFC_gene_panel_neighborhood_members.tsv"
 SVG_DIR = OPERON_DIR / "svgs"
 
 _cluster_rows_cache = None

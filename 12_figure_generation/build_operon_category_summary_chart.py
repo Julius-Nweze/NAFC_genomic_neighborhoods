@@ -13,8 +13,8 @@ from collections import Counter
 from pathlib import Path
 
 OPERON_DIR = Path("/path/to/your/Ref_genomes/Analysis/Result/Operon_clusters")
-SUMMARY_PATH = OPERON_DIR / "NA_gene_panel_clusters_summary.tsv"
-MEMBERS_PATH = OPERON_DIR / "NA_gene_panel_cluster_members.tsv"
+SUMMARY_PATH = OPERON_DIR / "NAFC_gene_panel_neighborhood_summary.tsv"
+MEMBERS_PATH = OPERON_DIR / "NAFC_gene_panel_neighborhood_members.tsv"
 OUT_SVG = OPERON_DIR / "figure_category_multihit_summary.svg"
 OUT_TSV = OPERON_DIR / "figure_category_multihit_summary_data.tsv"
 

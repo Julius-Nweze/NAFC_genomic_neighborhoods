@@ -182,7 +182,7 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument(
         "--clusters-tsv",
-        default="/path/to/your/Ref_genomes/Analysis/Result/Operon_clusters/NA_gene_panel_clusters_summary.tsv",
+        default="/path/to/your/Ref_genomes/Analysis/Result/Operon_clusters/NAFC_gene_panel_neighborhood_summary.tsv",
     )
     parser.add_argument(
         "--source-colorstrip",

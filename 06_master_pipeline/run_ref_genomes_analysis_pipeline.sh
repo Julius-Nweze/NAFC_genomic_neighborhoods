@@ -35,8 +35,8 @@ METADATA_SOURCE="$REF_ROOT/Result/NCBI_genome_info.xlsx"
 TREE_SOURCE="$REF_ROOT/Result/ITOL/Bacteria_71_fasttree.nwk"
 SUMMARIZE_SCRIPT="$REPO_ROOT/shared_dependencies/summarize_ref_genome_gene_counts_itol.py"
 AROMATICS_SCRIPT="$REPO_ROOT/shared_dependencies/split_aromatics_itol_by_subcategory.py"
-OPERON_CLUSTER_SCRIPT="$REPO_ROOT/07_neighborhood_reconstruction/build_na_gene_panel_operon_clusters.py"
-OPERON_CLUSTER_SVG_SCRIPT="$REPO_ROOT/07_neighborhood_reconstruction/build_na_gene_panel_cluster_svgs.py"
+OPERON_CLUSTER_SCRIPT="$REPO_ROOT/07_neighborhood_reconstruction/build_nafc_gene_panel_operon_clusters.py"
+OPERON_CLUSTER_SVG_SCRIPT="$REPO_ROOT/07_neighborhood_reconstruction/build_nafc_gene_panel_cluster_svgs.py"
 
 THREADS="${BLAST_THREADS:-$(nproc 2>/dev/null || echo 1)}"
 MIN_PIDENT="${MIN_PIDENT:-30}"
@@ -299,13 +299,13 @@ import os
 from pathlib import Path
 
 operon_dir = Path(os.environ["OPERON_CLUSTERS_DIR"])
-summary_path = operon_dir / "NA_gene_panel_clusters_summary.tsv"
+summary_path = operon_dir / "NAFC_gene_panel_neighborhood_summary.tsv"
 with summary_path.open(newline="", encoding="utf-8") as handle:
     rows = list(csv.DictReader(handle, delimiter="\t"))
 top = [r for r in rows if r["Cluster strength"] == "multi_hit" and int(r["Panel seed hit count"]) >= 3]
 top.sort(key=lambda r: int(r["Panel seed hit count"]), reverse=True)
 fields = list(rows[0].keys()) if rows else []
-out_path = operon_dir / "NA_gene_panel_top_multi_hit_clusters.tsv"
+out_path = operon_dir / "NAFC_gene_panel_top_multi_hit_neighborhoods.tsv"
 with out_path.open("w", newline="", encoding="utf-8") as handle:
     writer = csv.DictWriter(handle, delimiter="\t", fieldnames=fields)
     writer.writeheader()
@@ -316,7 +316,7 @@ PY
 echo "Copying operon/cluster context summary into the iTOL bundle root ..."
 cp -f "$OPERON_CLUSTERS_DIR/README_operon_cluster_summary.txt" "$TO_USE_DIR/"
 cp -f "$OPERON_CLUSTERS_DIR/README_operon_cluster_summary.txt" "$SHARED_DIR/"
-cp -f "$OPERON_CLUSTERS_DIR/NA_gene_panel_top_multi_hit_clusters.tsv" "$TO_USE_DIR/"
+cp -f "$OPERON_CLUSTERS_DIR/NAFC_gene_panel_top_multi_hit_neighborhoods.tsv" "$TO_USE_DIR/"
 
 cat > "$CHECKLIST" <<EOF
 Run settings
@@ -369,18 +369,18 @@ Plastics split bundles:
 Candidate genomic neighborhoods:
 - Groups panel gene hits into candidate neighborhoods (same contig, gene-order gap <=12,
   coordinate gap <=25 kb) and classifies every gene with the shared enzyme_class() vocabulary.
-- Script: build_na_gene_panel_operon_clusters.py
+- Script: build_nafc_gene_panel_operon_clusters.py
 - Full tables (per-cluster summary, per-gene members, top >=3-hit shortlist) live in
   Analysis/Result/Operon_clusters/ - not copied here in full because they are large
   (tens of MB) and are not iTOL dataset files.
-- README_operon_cluster_summary.txt (run-level stats) and NA_gene_panel_top_multi_hit_clusters.tsv
+- README_operon_cluster_summary.txt (run-level stats) and NAFC_gene_panel_top_multi_hit_neighborhoods.tsv
   (shortlist of multi-gene clusters) ARE copied here, into
   To_Use_for_ITOL/ and this SHARED_DIR, so anyone starting from the iTOL bundle can see the
   operon-context headline numbers and shortlist without leaving this folder tree.
 - A cluster's "Panel categories" column matches the category names used for the bundle
   folders above (e.g. Aromatics, Plastics), so the shortlist can be cross-referenced
   directly against 01_category_bundles/.
-- Both build_na_gene_panel_operon_clusters.py and build_na_gene_panel_cluster_svgs.py
+- Both build_nafc_gene_panel_operon_clusters.py and build_nafc_gene_panel_cluster_svgs.py
   (the SVG gene-map renderer for the >=3-hit shortlist; not run automatically on every
   rerun since it writes ~2,000 files) are copied into Analysis/Result/Operon_clusters/
   alongside their outputs, matching how SUMMARIZE_SCRIPT/AROMATICS_SCRIPT are copied into

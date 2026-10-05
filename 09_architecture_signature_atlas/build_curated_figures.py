@@ -15,7 +15,7 @@ from panel_style import (
 )
 
 OPERON_DIR = Path(__file__).resolve().parent
-CLUSTERS_TSV = OPERON_DIR / "NA_gene_panel_clusters_summary.tsv"
+CLUSTERS_TSV = OPERON_DIR / "NAFC_gene_panel_neighborhood_summary.tsv"
 SVG_DIR = OPERON_DIR / "svgs"
 BAR_CHART_SVG = OPERON_DIR / "figure_category_multihit_summary.svg"
 MAIN_FIG_DIR = OPERON_DIR.parent / "Figures" / "Main_Figures"

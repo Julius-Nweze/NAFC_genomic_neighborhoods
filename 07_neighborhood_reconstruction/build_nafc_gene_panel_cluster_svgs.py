@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-# Title          : build_na_gene_panel_cluster_svgs.py
+# Title          : build_nafc_gene_panel_cluster_svgs.py
 # Description    : Render one SVG gene map per multi-hit candidate neighborhood and write an index.html
 # Author         : Julius Eyiuche Nweze
 # Date           : 2026/07/22
-# Usage          : python3 build_na_gene_panel_cluster_svgs.py
+# Usage          : python3 build_nafc_gene_panel_cluster_svgs.py
 
 from __future__ import annotations
 
@@ -29,8 +29,8 @@ STRENGTH_COLOR = {
 }
 
 OPERON_DIR = Path("/path/to/your/Ref_genomes/Analysis/Result/Operon_clusters")
-SHORTLIST_PATH = OPERON_DIR / "NA_gene_panel_top_multi_hit_clusters.tsv"
-MEMBERS_PATH = OPERON_DIR / "NA_gene_panel_cluster_members.tsv"
+SHORTLIST_PATH = OPERON_DIR / "NAFC_gene_panel_top_multi_hit_neighborhoods.tsv"
+MEMBERS_PATH = OPERON_DIR / "NAFC_gene_panel_neighborhood_members.tsv"
 SVG_DIR = OPERON_DIR / "svgs"
 
 

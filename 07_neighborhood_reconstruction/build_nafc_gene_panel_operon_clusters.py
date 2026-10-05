@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-# Title          : build_na_gene_panel_operon_clusters.py
+# Title          : build_nafc_gene_panel_operon_clusters.py
 # Description    : Group best-hit panel genes into candidate genomic neighborhoods from Prokka coordinates (same contig, gap <=12 genes and <=25 kb)
 # Author         : Julius Eyiuche Nweze
 # Date           : 2026/07/22
-# Usage          : python3 build_na_gene_panel_operon_clusters.py [options]
+# Usage          : python3 build_nafc_gene_panel_operon_clusters.py [options]
 
 """Group best-hit panel genes into candidate genomic neighborhoods from Prokka coordinates (same contig, gap <=12 genes and <=25 kb)."""
 from __future__ import annotations
@@ -306,8 +306,8 @@ def main() -> None:
         "Panel percent identity", "Panel query coverage", "Panel bit score",
     ]
 
-    write_tsv(output_dir / "NA_gene_panel_clusters_summary.tsv", summary_fields, cluster_summary_rows)
-    write_tsv(output_dir / "NA_gene_panel_cluster_members.tsv", member_fields, member_rows)
+    write_tsv(output_dir / "NAFC_gene_panel_neighborhood_summary.tsv", summary_fields, cluster_summary_rows)
+    write_tsv(output_dir / "NAFC_gene_panel_neighborhood_members.tsv", member_fields, member_rows)
     write_tsv(
         output_dir / "genomes_without_prokka_annotation.tsv",
         ["Genome", "SeedHitCount"],

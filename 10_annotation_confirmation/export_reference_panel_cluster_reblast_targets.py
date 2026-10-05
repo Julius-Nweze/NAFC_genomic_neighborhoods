@@ -59,7 +59,7 @@ def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument(
         "--members",
-        default="/path/to/your/Ref_genomes/Analysis/Result/Operon_clusters/NA_gene_panel_cluster_members.tsv",
+        default="/path/to/your/Ref_genomes/Analysis/Result/Operon_clusters/NAFC_gene_panel_neighborhood_members.tsv",
     )
     parser.add_argument(
         "--source-colorstrip",

@@ -18,7 +18,7 @@ import matplotlib.pyplot as plt
 
 DEFAULT_ABUNDANCE = "/path/to/your/MAGs_abundance_metadata_MG.csv"
 DEFAULT_BESTHIT = "/path/to/your/Ref_genomes/Analysis/Result/ITOL/gene_count_summary/besthit_assigned_hit_proteins.tsv"
-DEFAULT_CLUSTERS = "/path/to/your/Ref_genomes/Analysis/Result/Operon_clusters/NA_gene_panel_clusters_summary.tsv"
+DEFAULT_CLUSTERS = "/path/to/your/Ref_genomes/Analysis/Result/Operon_clusters/NAFC_gene_panel_neighborhood_summary.tsv"
 
 
 def classify_group(row):
