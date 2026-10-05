@@ -1,0 +1,769 @@
+---
+title: "The number, taxonomic origins and relative abundance of MAGs"
+author: "Julius Eyiuche Nweze"
+date: "2026-04-23"
+output:
+  rmarkdown::html_document:
+    code_folding: show
+    dev: png
+    df_print: paged
+    fig_caption: yes
+    highlight: pygments
+    keep_md: yes
+    number_sections: no
+    theme: flatly
+    toc: yes
+    toc_depth: 5
+    toc_float: yes
+editor_options: 
+  chunk_output_type: console
+---
+<!--
+Title          : 02_MAG_abundance.Rmd
+Description    : Join CoverM MAG relative abundance with sample metadata, anvi'o bin summaries and GTDB-Tk novelty; plot unmapped reads, MAG counts, phylum- and family-level composition, and genus- and species-level novelty
+Author         : Julius Eyiuche Nweze
+Date           : 2026/04/23
+Usage          : rmarkdown::render("02_MAG_abundance.Rmd")
+-->
+
+
+```{r libraries, include=F}
+repo <- "http://cran.wu.ac.at"
+lib.loc <- Sys.getenv("R_LIBS_USER")
+
+update.packages(
+    lib.loc, 
+    repos = repo,
+    ask = FALSE
+)
+
+.cran_libs <- c(
+"devtools", # The tools required to efficiently manage other packages
+"data.table", # Optimized for fast reading of large files (fread)
+"readr", # For reading .csv files efficiently
+"tibble", # For tibble manipulations (data frames with extra features)
+"readODS", # Read ODS Files
+"tidyverse", # Helps to transform and better present data. 
+"kableExtra",
+"FSA",
+"car",
+"rstatix", 
+"vegan", 
+"ggplot2", # For creating declarative and customizable graphics
+"magrittr", # Forward and backward “pipe”-like operator
+"dplyr" # A grammar of data manipulation
+)
+
+.inst <- .cran_libs %in% installed.packages()
+if (any(!.inst)) {
+   install.packages(.cran_libs[!.inst],
+                    repos = repo,
+                    lib = lib.loc)
+}
+
+.bioc_libs <- c(
+  #"multtest", #Resampling-based multiple hypothesis testing
+)
+
+.bioc_inst <- .bioc_libs %in% installed.packages()
+if (any(!.bioc_inst)) {
+   if (!requireNamespace("BiocManager", quietly = TRUE))
+   install.packages("BiocManager")
+   BiocManager::install(ask = F, lib = lib.loc)  # upgrade bioC packages
+   BiocManager::install(.bioc_libs[!.bioc_inst], ask = F, lib = lib.loc)
+}
+
+.local_libs <- c()
+
+.inst <- names(.local_libs) %in% installed.packages()
+if (any(!.inst)) {
+   install.packages(paste0("~/R/", .local_libs[!.inst]) ,repos = NULL, type = "source", lib = lib.loc)
+}
+
+.github_libs <- c(
+  "wilkelab/ggtext", # Improved text rendering support for 'ggplot2' 
+  "ACCLAB/dabestr" # Data Analysis using Bootstrap-Coupled Estimation 
+)
+
+.github_lib_names <- stringr::str_replace(.github_libs, ".*/(.*)$", "\\1")
+
+.github_inst <- .github_lib_names %in% installed.packages()
+if (any(!.github_inst)) {
+  devtools::install_github(.github_libs[!.github_inst],
+                           lib = lib.loc,
+                           dependencies = TRUE)
+}
+
+# Load packages into session, and print package version
+(loaded.libs <- sapply(c(.cran_libs, .bioc_libs, names(.local_libs), .github_lib_names), require, character.only = TRUE))
+if (!all(loaded.libs)) {stop(paste("Package(s):", names(loaded.libs[loaded.libs == FALSE]), "could not be loaded"))}
+sapply(c(.cran_libs, .bioc_libs, names(.local_libs), .github_lib_names), packageVersion)
+```
+
+
+**Load Unmapped metagenome abundance and metadata**
+```{r load data, cache = T}
+# --- Load Unmapped MAG Abundance Data ---
+read_ods("Exp3_MG_coverm_merged.ods", sheet = "Exp3_MG_coverm_merged",  col_names = TRUE) %>%
+  filter(MAGs == "unmapped") ->
+  Exp3_MG_unmap
+
+# --- Load Metadata ---
+read_ods("Metadata_MG.ods", sheet = "Metadata_MG",  col_names = TRUE) ->
+  Metadata_MG_unmap
+
+# --- Merge Abundance Data with Metadata ---
+Abs_metadata_MG_unmap <- Metadata_MG_unmap %>% 
+  dplyr::right_join(Exp3_MG_unmap, by=c("SampleID"), multiple = "all", relationship = "many-to-many") 
+
+# --- Save Merged Data to CSV ---
+write_csv(Abs_metadata_MG_unmap, "Unmapped_MAGs_abundance_metadata_MG.csv")
+
+
+```
+
+**Plot unmapped reads**
+```{r load unmapped data, cache = T}
+# --- Define Plant Colors ---
+plant = c(Typha ="#8B4513", Juncus = "#53868B")
+
+# --- Calculate Mean Relative Abundance of Unmapped MAGs ---
+MAG_abd_unmap <- Abs_metadata_MG_unmap %>%
+  subset(Relative_abundance > 0) %>%                              # Keep only positive abundances
+  mutate(
+    `Water type` = factor(`Water type`, levels = c("OSPW", "ROW")), # Order water type factor
+    `Plant species` = factor(`Plant species`, levels = c("Typha", "Juncus")), # Order plant species factor
+    Time = factor(Time, levels = c("D-0", "D6", "D19", "D40", "D60", "D89")) # Order time points
+  ) %>%
+  # Average across replicates
+  group_by(MAGs, SampleID, `Plant species`, `Water type`, Time, Replicates) %>%
+  mutate(DE = mean(Relative_abundance), .groups = "drop") %>%
+  # Summarize across replicates for plotting
+  group_by(`Plant species`, `Water type`, Time) %>%
+  summarise(DE_mean = mean(DE), .groups = "drop") 
+
+# --- Plot Unmapped MAGs Relative Abundance ---
+MAG_abd_unmap %>%
+  ggplot(aes(x = `Water type`, y = DE_mean, fill = `Plant species`)) +
+  geom_bar(stat = "identity", position = position_dodge(width = 0.9)) +
+  xlab("Plant species") +
+  ylab("Unmapped reads to MAGs (%)") +
+  theme_bw() +
+  geom_text(aes(label = round(DE_mean, 1)), position = position_dodge(width = 0.9), angle = 90, hjust = 0.05, size = 8) +
+  scale_fill_manual(values = plant) +
+  facet_wrap(~ Time, ncol = 3) +
+  theme(
+    axis.text = element_text(size = 24, colour = "black"),
+    axis.ticks = element_line(size = 0.8),
+    axis.title = element_text(size = 24),
+    legend.position = "right",
+    strip.text.x = element_text(size = 26),
+    strip.text.y = element_text(size = 26),
+    legend.text = element_text(colour = "black", size = 24),
+    legend.title = element_text(size = 24)
+  )
+
+# --- Save Plot as SVG ---
+ggsave("Figures/Percentage_of_Unmapped_reads.svg", width = 45, height = 55, units = "cm")
+
+```
+
+
+**Load MAGs abundance and metadata**
+```{r load MAGs data, cache = T}
+
+# --- Load MAG Abundance Data ---
+read_ods("Exp3_MG_coverm_merged.ods", sheet = "Exp3_MG_coverm_merged",  col_names = TRUE) ->
+  Exp3_MG
+
+# --- Load Metadata ---
+read_ods("Metadata_MG.ods", sheet = "Metadata_MG",  col_names = TRUE) ->
+  Metadata_MG
+
+# --- Load Bin Summary Metadata ---
+read_ods("bins_summary.ods", sheet = "bins_summary",  col_names = TRUE) ->
+  anvi_sum_MG
+
+# --- Load Curated Novelty/Taxonomy Metadata ---
+read_ods("bins_summary.ods", sheet = "Novelty", col_names = TRUE) %>%
+  dplyr::select(MAGs, Domain, Phylum, Class, Order, Family, Genus, Species) ->
+  novelty_taxonomy_MG
+
+# --- Replace Older Bin-Summary Taxonomy With Curated Novelty Taxonomy ---
+anvi_sum_MG <- anvi_sum_MG %>%
+  dplyr::select(-Domain, -Phylum, -Class, -Order, -Family, -Genus, -Species) %>%
+  dplyr::left_join(novelty_taxonomy_MG, by = "MAGs")
+
+# --- Merge Abundance Data with Sample Metadata ---
+Abs_metadata_MG <- Metadata_MG %>% 
+  dplyr::right_join(Exp3_MG, by=c("SampleID"), multiple = "all", relationship = "many-to-many") 
+
+# --- Merge with Bin Summary Metadata ---
+Abs_metadata_MG <- Abs_metadata_MG %>% 
+  dplyr::right_join(anvi_sum_MG, by=c("MAGs"), multiple = "all", relationship = "many-to-many") 
+
+# --- Save Merged Data to CSV ---
+write_csv(Abs_metadata_MG, "MAGs_abundance_metadata_MG.csv")
+
+
+```
+
+
+**Calculate relative abundance of MAGs in metagenome for ITOL**
+```{r load calcuate ITOL, cache = T}
+# --- Prepare MAG Abundance Table for ITOL ---
+
+Abs_metadata_MG %>%
+  # Optional: Filter for a specific plant species
+  # subset(`Plant species` == "Typha") %>%
+  
+  # --- Factorize Columns for Consistent Ordering ---
+  mutate(`Water type` = factor(`Water type`, levels = c("OSPW", "ROW"))) %>%
+  mutate(`Plant species` = factor(`Plant species`, levels = c("Typha", "Juncus"))) %>%
+  mutate(Time = factor(Time, levels = c("D-0", "D6", "D19", "D40", "D60", "D89"))) %>%
+  
+  # --- Average Across Replicates ---
+  group_by(MAGs, SampleID, `Plant species`, `Water type`, Time, Replicates) %>%
+  mutate(DE = mean(Relative_abundance)) %>%
+  
+  # --- Log-transform Abundance (optional, useful for visualization) ---
+  mutate(DE_log = log10(DE + 1)) %>%
+  
+  # --- Reshape Data to Wide Format for ITOL ---
+  reshape2::dcast(MAGs ~ `Plant species` + `Water type` + Time,
+                  value.var = "DE",
+                  fun.aggregate = mean) %>%
+  
+  # --- Save as CSV for ITOL ---
+  write.csv("ITOL/Exp_MG_abundance.csv")
+
+```
+
+**Number of MAGs**
+```{r load n MAGs, cache = T}
+# --- Define Plant Colors for Plot ---
+plant = c(Typha ="#8B4513", Juncus = "#53868B")
+
+# --- Calculate Number of MAGs per Plant, Water Type, and Time ---
+MAG_abd_no <- Abs_metadata_MG %>%
+  subset(Relative_abundance > 0) %>%                       # Only consider MAGs with positive abundance
+  mutate(
+    `Water type` = factor(`Water type`, levels = c("OSPW", "ROW")),   # Order water types
+    `Plant species` = factor(`Plant species`, levels = c("Typha", "Juncus")), # Order plant species
+    Time = factor(Time, levels = c("D-0", "D6", "D19", "D40", "D60", "D89")) # Order time points
+  ) %>%
+  # Average across replicates
+  group_by(MAGs, SampleID, `Plant species`, `Water type`, Time, Replicates) %>%
+  mutate(DE = mean(Relative_abundance), .groups = "drop") %>%
+  # Count unique MAGs per plant, water type, and time
+  group_by(`Plant species`, `Water type`, Time) %>%
+  summarise(count = n_distinct(MAGs), .groups = "drop") 
+
+# --- Plot Number of MAGs ---
+MAG_abd_no %>%
+  ggplot(aes(x = Time, y = count, fill = `Plant species`)) +
+  geom_bar(stat = "identity", position = position_dodge()) +
+  geom_text(aes(label = count), position = position_dodge(width = 0.9), angle = 90, hjust = 0.05, size = 8) +
+  xlab("Plant species") +
+  ylab("Number of MAGs") +
+  facet_wrap(~`Water type`) +
+  theme_bw() +
+  scale_fill_manual(values = plant) +
+  theme(
+    axis.text = element_text(size = 24, colour = "black"),
+    axis.ticks = element_line(size = 0.8),
+    axis.title = element_text(size = 24),
+    legend.position = "right",
+    strip.text.x = element_text(size = 26),
+    strip.text.y = element_text(size = 26),
+    legend.text = element_text(colour = "black", size = 24),
+    axis.text.x = element_text(
+      size = 24, hjust = 1, vjust = 0.5,
+      angle = 90, colour = "black"
+    ),
+    legend.title = element_text(size = 24)
+  )
+
+# --- Save Plot ---
+ggsave("Figures/Number_of_MAGs_Plant_Time.svg", width = 45, height = 45, units = "cm")
+
+```
+
+
+**Number of MAGs at phylum level**
+```{r load n MAGs phylum, cache = T}
+# --- Define Colors for Plants ---
+plant = c(Typha ="#8B4513", Juncus = "#53868B")
+
+# --- Prepare Data: Number of MAGs at Phylum Level ---
+MAG_abd_no <- Abs_metadata_MG %>%
+  # Keep only MAGs with non-zero abundance
+  subset(Relative_abundance > 0) %>%
+  
+  # Factorize columns for ordering in plots
+  mutate(
+    `Water type` = factor(`Water type`, levels = c("OSPW", "ROW")),
+    `Plant species` = factor(`Plant species`, levels = c("Typha", "Juncus")),
+    Time = factor(Time, levels = c("D-0", "D6", "D19", "D40", "D60", "D89"))
+  ) %>%
+  
+  # --- Average Across Replicates ---
+  group_by(MAGs, SampleID, `Plant species`, `Water type`, Time, Replicates) %>%
+  mutate(DE = mean(Relative_abundance), .groups = "drop") %>%
+  
+  # --- Count MAGs per Phylum, Plant, Water Type, and Time ---
+  group_by(`Plant species`, `Water type`, Time, Phylum) %>%
+  summarise(count = n_distinct(MAGs), .groups = "drop") 
+
+# --- Plot Number of MAGs ---
+MAG_abd_no %>%
+  ggplot(aes(x = Phylum, y = count, fill = `Plant species`)) +
+  
+  # Bar plot
+  geom_bar(stat = "identity", position = position_dodge()) +
+  
+  # Add counts as text labels
+  geom_text(aes(label = count), position = position_dodge(width = 0.9),
+            angle = 90, hjust = 0.05, size = 4) +
+  
+  # Axis labels
+  xlab("Plant species") +
+  ylab("Number of MAGs") +
+  
+  # Theme and color settings
+  theme_bw() +
+  scale_fill_manual(values = plant) +
+  
+  # Facet by Water Type and Time
+  facet_wrap(`Water type` ~ Time, ncol = 3) +
+  
+  # Customize text and legend
+  theme(
+    axis.text = element_text(size = 24, colour = "black"),
+    axis.ticks = element_line(size = 0.8),
+    axis.title = element_text(size = 24),
+    legend.position = "right",
+    strip.text.x = element_text(size = 26),
+    strip.text.y = element_text(size = 26),
+    legend.text = element_text(colour = "black", size = 24),
+    axis.text.x = element_text(
+      size = 24, hjust = 1, vjust = 0.5,
+      angle = 90, colour = "black"
+    ),
+    legend.title = element_text(size = 24)
+  )
+
+# --- Save Plot ---
+ggsave("Figures/Number_of_MAGs_Phylum.svg", width = 55, height = 65, units = "cm")
+
+```
+
+
+** Number of MAGs at family level**
+```{r load n MAGs family, cache = T}
+
+# --- Define Colors for Plants ---
+plant = c(Typha ="#8B4513", Juncus = "#53868B")
+
+# --- Prepare Data: Number of MAGs at Family Level ---
+MAG_abd_no <- Abs_metadata_MG %>%
+  # Keep only MAGs with non-zero abundance
+  subset(Relative_abundance > 0) %>%
+  
+  # Factorize columns for ordering in plots
+  mutate(
+    `Water type` = factor(`Water type`, levels = c("OSPW", "ROW")),
+    `Plant species` = factor(`Plant species`, levels = c("Typha", "Juncus")),
+    Time = factor(Time, levels = c("D-0", "D6", "D19", "D40", "D60", "D89"))
+  ) %>%
+  
+  # --- Average Across Replicates ---
+  group_by(MAGs, SampleID, `Plant species`, `Water type`, Time, Replicates) %>%
+  mutate(DE = mean(Relative_abundance), .groups = "drop") %>%
+  
+  # --- Count MAGs per Family, Plant, Water Type, and Time ---
+  group_by(`Plant species`, `Water type`, Time, Family) %>%
+  summarise(count = n_distinct(MAGs), .groups = "drop") 
+
+# --- Plot Number of MAGs at Family Level (Filter count > 5) ---
+MAG_abd_no %>%
+  filter(count > 5) %>%
+  ggplot(aes(x = Family, y = count, fill = `Plant species`)) +
+  
+  # Bar plot
+  geom_bar(stat = "identity", position = position_dodge()) +
+  
+  # Add counts as text labels
+  geom_text(aes(label = count), position = position_dodge(width = 0.9),
+            angle = 90, hjust = 0.05, size = 5) +
+  
+  # Axis labels
+  xlab("Plant species") +
+  ylab("Number of MAGs") +
+  
+  # Theme and color settings
+  theme_bw() +
+  scale_fill_manual(values = plant) +
+  
+  # Facet by Water Type and Time
+  facet_wrap(`Water type` ~ Time, ncol = 3) +
+  
+  # Customize text and legend
+  theme(
+    axis.text = element_text(size = 24, colour = "black"),
+    axis.ticks = element_line(size = 0.8),
+    axis.title = element_text(size = 24),
+    legend.position = "right",
+    strip.text.x = element_text(size = 26),
+    strip.text.y = element_text(size = 26),
+    legend.text = element_text(colour = "black", size = 24),
+    axis.text.x = element_text(
+      size = 24, hjust = 1, vjust = 0.5,
+      angle = 90, colour = "black"
+    ),
+    legend.title = element_text(size = 24)
+  )
+
+# --- Save Plot ---
+ggsave("Figures/Number_of_MAGs_Family_Typha_OSPW_n>5.svg", width = 65, height = 65, units = "cm")
+
+```
+
+
+**Relative abundance of MAGs at phylum level**
+```{r load RT MAGs at phylum, cache = T}
+  
+# --- Define Colors for Each Phylum ---
+phylum_colors <- c(
+  "Acidobacteriota" = "#1f77b4", "Actinomycetota" = "#ff7f0e",
+  "Armatimonadota" = "#2ca02c", "Ascomycota" = "#ffb6c1",
+  "Bacteroidota" = "#9467bd", "Bdellovibrionota" = "#EEC900",
+  "Cyanobacteriota" = "#8c564b", "Deinococcota" = "#b22222",
+  "Fibrobacterota" = "#ee82ee", "Gemmatimonadota" = "#17becf",
+  "Myxococcota" = "#228b22", "Oomycota" = "#a0522d",
+  "Planctomycetota" = "#c49c94", "Pseudomonadota" = "#8B0A50",
+  "Spirochaetota" = "#98df8a", "Verrucomicrobiota" = "#dbdb8d",
+  "Arthropoda" = "#ff4500", "Deferribacterota" = "#ff69b4",
+  "Desulfobacterota" = "#ffd700", "Bacillota" = "#d62728"
+)
+
+# --- Prepare Data: Relative Abundance at Phylum Level ---
+MAG_abd <- Abs_metadata_MG %>%
+  # Keep only MAGs with non-zero abundance
+  subset(Relative_abundance > 0) %>%
+  
+  # Factorize for plotting order
+  mutate(
+    `Water type` = factor(`Water type`, levels = c("OSPW", "ROW")),
+    `Plant species` = factor(`Plant species`, levels = c("Typha", "Juncus")),
+    Time = factor(Time, levels = c("D-0", "D6", "D19", "D40", "D60", "D89"))
+  ) %>%
+  
+  # --- Average Across Replicates ---
+  group_by(MAGs, SampleID, `Plant species`, `Water type`, Time, Replicates) %>%
+  mutate(DE = mean(Relative_abundance), .groups = "drop") %>%
+  
+  # --- Sum Abundance Within Each Phylum ---
+  group_by(`Plant species`, `Water type`, Time, Phylum) %>%
+  summarise(DE_sum = sum(DE), .groups = "drop") %>%
+  
+  # --- Calculate Relative Abundance (%) ---
+  group_by(`Plant species`, `Water type`, Time) %>%
+  mutate(Percent = DE_sum / sum(DE_sum) * 100)
+
+# --- Plot: Relative Abundance of MAGs at Phylum Level ---
+MAG_abd %>%
+  ggplot(aes(x = `Plant species`, y = Percent, fill = Phylum)) +
+  geom_bar(stat = "identity", position = "fill") +
+  xlab("Plant species") +
+  ylab("Relative abundance (%)") +
+  theme_bw() +
+  scale_fill_manual(values = phylum_colors) +
+  facet_grid(`Water type` ~ Time) +
+  theme(
+    axis.text = element_text(size = 24, colour = "black"),
+    axis.ticks = element_line(size = 0.8),
+    axis.title = element_text(size = 24),
+    legend.position = "right",
+    strip.text.x = element_text(size = 26),
+    strip.text.y = element_text(size = 26),
+    legend.text = element_text(colour = "black", size = 24),
+    axis.text.x = element_text(
+      size = 24, hjust = 1, vjust = 0.5,
+      angle = 90, colour = "black"
+    ),
+    legend.title = element_text(size = 24)
+  )
+
+# --- Save Plot ---
+ggsave("Figures/Relative_abundance_of_MAGs_Phylum.svg", width = 65, height = 65, units = "cm")
+
+```
+
+
+**Relative abundance of MAGs at family level**
+```{r load RT MAGs at family, cache = T}
+
+# --- Define Colors for Each Family ---
+family_colors <- c(
+  "Burkholderiaceae" = "#8B2323", "Caulobacteraceae" = "#7FFFD4",
+  "Gallionellaceae" = "#E0EEEE", "Chitinophagaceae" = "#00008B",
+  "Aestuariivirgaceae" = "#FF4040", "Xanthobacteraceae" = "#8B8378",
+  "Methylophilaceae" = "#53868B", "Pseudomonadaceae" = "#7FFF00",
+  "Sphingomonadaceae" = "#458B00", "Cellvibrionaceae" = "#8B4513",
+  "Opitutaceae" = "#008B8B", "Flavobacteriaceae" = "#FFB90F",
+  "Rhodocyclaceae" = "#556B2F", "Cellulomonadaceae" = "#8B4500",
+  "Thiobacillaceae" = "#BF3EFF", "Polyangiaceae" = "#68228B",
+  "Enterobacteriaceae" = "#B4EEB4", "Denitrovibrionaceae" = "#8B0A50",
+  "Acutalibacteraceae" = "#FF1493", "Micropepsaceae" = "#00688B",
+  "Lachnospiraceae" = "#8B7500", "Pirellulaceae" = "#FFD700",
+  "JABEVD01" = "#008B00", "Acetobacteraceae" = "#00FF00"
+)
+
+# --- Prepare Data: Relative Abundance at Family Level ---
+MAG_abd <- Abs_metadata_MG %>%
+  # Keep only MAGs with non-zero abundance
+  subset(Relative_abundance > 0) %>%
+  
+  # Factorize for plotting order
+  mutate(
+    `Water type` = factor(`Water type`, levels = c("OSPW", "ROW")),
+    `Plant species` = factor(`Plant species`, levels = c("Typha", "Juncus")),
+    Time = factor(Time, levels = c("D-0", "D6", "D19", "D40", "D60", "D89"))
+  ) %>%
+  
+  # --- Average Across Replicates ---
+  group_by(MAGs, SampleID, `Plant species`, `Water type`, Time, Replicates) %>%
+  mutate(DE = mean(Relative_abundance), .groups = "drop") %>%
+  
+  # --- Sum Abundance Within Each Family ---
+  group_by(`Plant species`, `Water type`, Time, Family) %>%
+  summarise(DE_sum = sum(DE), .groups = "drop") %>%
+  
+  # --- Calculate Relative Abundance (%) ---
+  group_by(`Plant species`, `Water type`, Time) %>%
+  mutate(Percent = DE_sum / sum(DE_sum) * 100) %>%
+  
+  # --- Keep Top 4 Families per Sample ---
+  arrange(`Plant species`, `Water type`, Time, desc(Percent)) %>%
+  mutate(rank = row_number()) %>%
+  filter(rank <= 4) %>%
+  ungroup()
+
+# --- Plot: Relative Abundance of Top 4 MAG Families ---
+MAG_abd %>%
+  ggplot(aes(x = `Plant species`, y = Percent, fill = Family)) +
+  geom_bar(stat = "identity", position = "fill") +
+  xlab("Plant species") +
+  ylab("Relative abundance (%)") +
+  theme_bw() +
+  scale_fill_manual(values = family_colors) +
+  facet_grid(`Water type` ~ Time) +
+  theme(
+    axis.text = element_text(size = 24, colour = "black"),
+    axis.ticks = element_line(size = 0.8),
+    axis.title = element_text(size = 24),
+    legend.position = "right",
+    strip.text.x = element_text(size = 26),
+    strip.text.y = element_text(size = 26),
+    legend.text = element_text(colour = "black", size = 24),
+    axis.text.x = element_text(
+      size = 24, hjust = 1, vjust = 0.5,
+      angle = 90, colour = "black"
+    ),
+    legend.title = element_text(size = 24)
+  ) +
+  guides(fill = guide_legend(ncol = 1)) 
+
+# --- Save Plot ---
+ggsave("Figures/Relative_abundance_of_MAGs_Family_n=4.svg", width = 65, height = 65, units = "cm")
+
+```
+
+
+
+**Load MAGs novelty data**
+```{r load novelty data, cache = T}
+# --- Load Novelty Data from ODS File ---
+# This reads the "Novelty" sheet from "bins_summary.ods" and keeps the original column names
+read_ods("bins_summary.ods", sheet = "Novelty", col_names = TRUE) ->
+  Novelty
+
+```
+
+**Number of novel MAGs**
+```{r load n novel MAGs, cache = T}
+########### Number of Novel MAGs (Genus Level) ###########
+
+# Filter out eukaryotic MAGs and count MAGs per genus novelty
+Novelty %>%
+  filter(Domain != "Eukaryota") %>%                     # Exclude eukaryotic MAGs
+  group_by(Genus_novelty) %>%                           # Group by genus novelty status
+  summarise(count = n(), .groups = "drop") %>%          # Count number of MAGs per group
+  mutate(Genus_novelty = factor(Genus_novelty,          # Ensure ordering of categories
+                                levels = c("Known", "Novel"))) %>%
+  
+# Plot the number of MAGs per genus novelty
+ggplot(aes(x = Genus_novelty, y = count)) +
+  geom_bar(stat = "identity", position = position_dodge()) +  # Bar plot
+  geom_text(aes(label = count), 
+            position = position_dodge(width = 0.9), 
+            hjust = 0.05, vjust = 0.05, size = 8) +          # Add counts on bars
+  ylab("Number of MAGs") +
+  theme_bw() +
+  theme(
+    axis.text = element_text(size = 24, colour = "black"),
+    axis.ticks = element_line(size = 0.8),
+    axis.title = element_text(size = 24),
+    legend.position = "none"                                # Hide legend
+  )
+
+# Save plot
+ggsave("Figures/Number_of_MAGs_Genus_novelty.svg", 
+       width = 45, height = 45, units = "cm")
+
+```
+
+**Number of species-level novelty**
+```{r load species-level novelty, cache = T}
+########### Number of Novel MAGs (Species Level) ###########
+
+# Filter out eukaryotic MAGs and count MAGs per species novelty
+Novelty %>%
+  filter(Domain != "Eukaryota") %>%                     # Exclude eukaryotic MAGs
+  group_by(Species_novelty) %>%                         # Group by species novelty status
+  summarise(count = n(), .groups = "drop") %>%          # Count number of MAGs per group
+  mutate(Species_novelty = factor(Species_novelty,      # Ensure ordering of categories
+                                  levels = c("Known", "Novel"))) %>%
+  
+# Plot the number of MAGs per species novelty
+ggplot(aes(x = Species_novelty, y = count)) +
+  geom_bar(stat = "identity", position = position_dodge()) +  # Bar plot
+  geom_text(aes(label = count), 
+            position = position_dodge(width = 0.9), 
+            hjust = 0.05, vjust = 0.05, size = 8) +          # Add counts on bars
+  ylab("Number of MAGs") +
+  theme_bw() +
+  theme(
+    axis.text = element_text(size = 24, colour = "black"),
+    axis.ticks = element_line(size = 0.8),
+    axis.title = element_text(size = 24),
+    legend.position = "none"                                # Hide legend
+  )
+
+# Save plot
+ggsave("Figures/Number_of_MAGs_Species_novelty.svg", 
+       width = 45, height = 45, units = "cm")
+
+```
+
+
+**The phylum of species-level of novel MAGs**
+```{r load phylum novel MAGs, cache = T}
+
+########### Phylum distribution of species-level novel MAGs ###########
+
+# Define phylum colors
+phylum_colors <- c(
+  "Acidobacteriota" = "#1f77b4", "Actinomycetota" = "#ff7f0e",
+  "Armatimonadota" = "#2ca02c", "Ascomycota" = "#ffb6c1",
+  "Bacteroidota" = "#9467bd", "Bdellovibrionota" = "#EEC900",
+  "Cyanobacteriota"  = "#8c564b", "Deinococcota" = "#b22222",
+  "Fibrobacterota" = "#ee82ee", "Gemmatimonadota" = "#17becf",
+  "Myxococcota"  = "#228b22", "Oomycota" = "#a0522d",
+  "Planctomycetota" = "#c49c94", "Pseudomonadota" = "#8B0A50",
+  "Spirochaetota" = "#98df8a", "Verrucomicrobiota" = "#dbdb8d",
+  "Arthropoda" = "#ff4500", "Deferribacterota" = "#ff69b4",
+  "Desulfobacterota" = "#ffd700", "Bacillota" = "#d62728"
+)
+
+# Prepare data and plot
+Novelty %>%
+  filter(Domain != "Eukaryota") %>%                       # Exclude eukaryotic MAGs
+  group_by(Species_novelty, Phylum) %>%                   # Group by novelty status and phylum
+  summarise(count = n(), .groups = "drop") %>%            # Count MAGs in each group
+  mutate(Species_novelty = factor(Species_novelty,        # Order novelty categories
+                                  levels = c("Known", "Novel"))) %>%
+  
+  # Plot
+  ggplot(aes(x = Species_novelty, y = count, fill = Phylum)) +
+  geom_bar(stat = "identity", position = "dodge") +       # Side-by-side bars
+  geom_text(aes(label = count), 
+            position = position_dodge(width = 0.9), 
+            hjust = 0.5, vjust = 0.05, size = 8) +       # Counts on top of bars
+  ylab("Number of MAGs") +
+  theme_bw() +
+  theme(
+    axis.text = element_text(size = 24, colour = "black"),
+    axis.ticks = element_line(size = 0.8),
+    axis.title = element_text(size = 24),
+    legend.position = "right",
+    legend.text = element_text(colour = "black", size = 24),
+    axis.text.x = element_text(size = 24, hjust = 0.5, vjust = 0.5, colour = "black"),
+    legend.title = element_text(size = 24)
+  ) +
+  guides(fill = guide_legend(ncol = 1)) +                # Single-column legend
+  scale_fill_manual(values = phylum_colors)              # Apply phylum colors
+
+# Save figure
+ggsave("Figures/Number_of_MAGs_Species_novelty_Phylum.svg", width = 45, height = 45, units = "cm")
+
+```
+
+**The family of species-level of novel MAGs**
+```{r load family novel_MAGs, cache = T}
+########### Family distribution of species-level novel MAGs ###########
+
+# Define family colors
+family_colors <- c(
+  "Burkholderiaceae" = "#8B2323", "Caulobacteraceae" = "#7FFFD4",
+  "Gallionellaceae" = "#E0EEEE", "Chitinophagaceae" = "#00008B",
+  "Aestuariivirgaceae" = "#FF4040", "Xanthobacteraceae" = "#8B8378",
+  "Methylophilaceae" = "#53868B", "Pseudomonadaceae" = "#7FFF00",
+  "Sphingomonadaceae" = "#458B00", "Cellvibrionaceae" = "#8B4513",
+  "Opitutaceae" = "#008B8B", "Flavobacteriaceae" = "#FFB90F",
+  "Rhodocyclaceae" = "#556B2F", "Cellulomonadaceae" = "#8B4500",
+  "Thiobacillaceae" = "#BF3EFF", "Polyangiaceae" = "#68228B",
+  "Enterobacteriaceae" = "#B4EEB4", "Denitrovibrionaceae" = "#8B0A50",
+  "Acutalibacteraceae" = "#FF1493", "Micropepsaceae" = "#00688B",
+  "Lachnospiraceae" = "#8B7500", "Pirellulaceae" = "#FFD700",
+  "JABEVD01" = "#008B00", "Acetobacteraceae" = "#00FF00",
+  "B-17BO" = "#FAEBD7", "Beijerinckiaceae" = "#76EEC6",
+  "Bryobacteraceae" = "#5F9EA0", "Gemmataceae" = "#D2691E",
+  "Planctomycetaceae" = "#A2CD5A", "Rhizobiaceae" = "#8DEEEE",
+  "Steroidobacteraceae" = "#EEEE00", "Tepidisphaeraceae" = "#FFE1FF"
+)
+
+# Prepare data: exclude eukaryotes, group by novelty and family, filter rare families
+Novelty %>%
+  filter(Domain != "Eukaryota") %>%                        
+  group_by(Species_novelty, Family) %>%                     
+  summarise(count = n(), .groups = "drop") %>%             
+  mutate(Species_novelty = factor(Species_novelty, levels = c("Known", "Novel"))) %>% 
+  filter(count > 3) -> nol_3                                  # Keep families with >3 MAGs
+
+# Plot
+nol_3 %>%
+  ggplot(aes(x = Species_novelty, y = count, fill = Family)) +
+  geom_bar(stat = "identity", position = "dodge") +         # Side-by-side bars
+  geom_text(aes(label = count), 
+            position = position_dodge(width = 0.9), 
+            hjust = 0.5, vjust = 0.05, size = 8) +         # Count labels
+  ylab("Number of MAGs") +
+  theme_bw() +
+  theme(
+    axis.text = element_text(size = 24, colour = "black"),
+    axis.ticks = element_line(size = 0.8),
+    axis.title = element_text(size = 24),
+    legend.position = "right",
+    legend.text = element_text(colour = "black", size = 24),
+    axis.text.x = element_text(size = 24, hjust = 0.5, vjust = 0.5, colour = "black"),
+    legend.title = element_text(size = 24)
+  ) +
+  guides(fill = guide_legend(ncol = 1)) +                   # Single-column legend
+  scale_fill_manual(values = family_colors)                 # Apply custom colors
+
+# Save figure
+ggsave("Figures/Number_of_MAGs_Species_novelty_Family.svg", width = 45, height = 45, units = "cm")
+
+```

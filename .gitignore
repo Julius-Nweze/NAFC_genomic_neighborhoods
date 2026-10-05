@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Logs and temporary files
+*.log
+*.tmp
+.DS_Store
+
+# Input data and analysis outputs (not part of this repository)
+Database/
+Genes/
+TXT/
+Result/
+ITOL/
+Prokka/
+*.fasta
+*.faa
+*.fna
+*.fa
+*.gff
+*.nwk
+*.db
+*.xlsx
+*.tsv
+*.svg
+*.png
+
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
