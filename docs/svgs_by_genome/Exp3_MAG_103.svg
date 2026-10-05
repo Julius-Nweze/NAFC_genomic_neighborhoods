@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="634" viewBox="0 0 1700 634">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<text x="24.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_103: reference-panel operon/cluster gene maps</text>
+<text x="24.0" y="56.0" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#555">3 shortlisted clusters (&gt;=3 independent panel gene hits) for this genome</text>
+<text x="24.0" y="74.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="start" fill="#555">Arrow direction shows CDS strand. Color shows enzyme class. Bold outline = reference-panel seed hit.</text>
+<rect x="18" y="82" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="82" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="100.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_103_panelcluster_633</text>
+<text x="32.0" y="118.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_103 | MAGs/Exp3_MAG_103_c_000000000029 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="134.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: aliB; alkB; alkH_ald</text>
+<text x="32.0" y="146.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Beta-oxidation</text>
+<line x1="452" y1="173.0" x2="1664" y2="173.0" stroke="#d0d0d0"/>
+<polygon points="539.8,162.0 470.0,162.0 452.0,173.0 470.0,184.0 539.8,184.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>HMPMECIA_00396 | acrC_1 | Dehydrogenase/oxidoreductase | Acryloyl-CoA reductase (NADH) | PANEL HIT: aliB (Beta-oxidation / Beta-oxidation) | pident=34.557000 qcovs=83.000000</title></polygon>
+<text x="495.9" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">acrC_1 (aliB)</text>
+<polygon points="623.5,162.0 557.5,162.0 539.5,173.0 557.5,184.0 623.5,184.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>HMPMECIA_00397 | acdA_1 | Dehydrogenase/oxidoreductase | Acyl-CoA dehydrogenase</title></polygon>
+<text x="581.5" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">acdA_1</text>
+<polygon points="707.0,162.0 658.6,162.0 640.6,173.0 658.6,184.0 707.0,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>HMPMECIA_00398 | ilvE | Accessory/other | Branched-chain-amino-acid aminotransferase</title></polygon>
+<text x="673.8" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">ilvE</text>
+<polygon points="917.4,162.0 728.6,162.0 710.6,173.0 728.6,184.0 917.4,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>HMPMECIA_00399 | glnE | Accessory/other | Bifunctional glutamine synthetase adenylyltransferase/adenylyl-removing enzyme</title></polygon>
+<text x="814.0" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">glnE</text>
+<polygon points="942.6,162.0 967.8,162.0 980.2,173.0 967.8,184.0 942.6,184.0" fill="#b15928" stroke="#888" stroke-width="0.8"><title>HMPMECIA_00400 | pncC_1 | Hydrolase/decarboxylase/lyase | Nicotinamide-nucleotide amidohydrolase PncC</title></polygon>
+<text x="961.4" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">pncC_1</text>
+<polygon points="989.8,162.0 1045.8,162.0 1063.8,173.0 1045.8,184.0 989.8,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>HMPMECIA_00401 | recA | Accessory/other | Protein RecA</title></polygon>
+<text x="1026.8" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">recA</text>
+<polygon points="1060.8,162.0 1085.0,162.0 1097.0,173.0 1085.0,184.0 1060.8,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>HMPMECIA_00402 | recX | Accessory/other | Regulatory protein RecX</title></polygon>
+<text x="1078.9" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">recX</text>
+<polygon points="1101.2,162.0 1270.0,162.0 1288.0,173.0 1270.0,184.0 1101.2,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>HMPMECIA_00403 | alaS | Accessory/other | Alanine--tRNA ligase</title></polygon>
+<text x="1194.6" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">alaS</text>
+<polygon points="1456.2,162.0 1314.2,162.0 1296.2,173.0 1314.2,184.0 1456.2,184.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>HMPMECIA_00404 | qgdA | Dehydrogenase/oxidoreductase | Quinohemoprotein alcohol dehydrogenase ADH-IIG</title></polygon>
+<text x="1376.2" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">qgdA</text>
+<polygon points="1571.1,162.0 1484.2,162.0 1466.2,173.0 1484.2,184.0 1571.1,184.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>HMPMECIA_00405 | calB_1 | Dehydrogenase/oxidoreductase | Coniferyl aldehyde dehydrogenase | PANEL HIT: alkH_ald (Alkanes / Auxillary alkane pathway) | pident=37.959000 qcovs=99.000000</title></polygon>
+<text x="1518.7" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">calB_1 (alkH_ald)</text>
+<polygon points="1664.0,162.0 1599.3,162.0 1581.3,173.0 1599.3,184.0 1664.0,184.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>HMPMECIA_00406 | alkB2 | Oxygenase/dioxygenase | Alkane 1-monooxygenase 2 | PANEL HIT: alkB (Alkanes / Terminal/biterminal oxidation) | pident=33.910000 qcovs=70.000000</title></polygon>
+<text x="1622.7" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">alkB2 (alkB)</text>
+<text x="452.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">17,544 bp</text>
+<text x="1664.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">34,561 bp</text>
+<rect x="18" y="224" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="224" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="242.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_103_panelcluster_639</text>
+<text x="32.0" y="260.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_103 | MAGs/Exp3_MAG_103_c_000000000049 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="276.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: alkB; mlaD; mlaE; mlaF</text>
+<text x="32.0" y="288.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Transportation</text>
+<line x1="452" y1="315.0" x2="1664" y2="315.0" stroke="#d0d0d0"/>
+<polygon points="508.4,304.0 470.0,304.0 452.0,315.0 470.0,326.0 508.4,326.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>HMPMECIA_00818 | mlaD | Transport/efflux | Intermembrane phospholipid transport system binding protein MlaD | PANEL HIT: mlaD (Transportation / Transportation) | pident=38.994000 qcovs=87.000000</title></polygon>
+<text x="480.2" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">mlaD (mlaD)</text>
+<polygon points="601.9,304.0 526.5,304.0 508.5,315.0 526.5,326.0 601.9,326.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>HMPMECIA_00819 | mlaE | Transport/efflux | Intermembrane phospholipid transport system permease protein MlaE | PANEL HIT: mlaE (Transportation / Transportation) | pident=60.744000 qcovs=93.000000</title></polygon>
+<text x="555.2" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">mlaE (mlaE)</text>
+<polygon points="698.1,304.0 619.8,304.0 601.8,315.0 619.8,326.0 698.1,326.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>HMPMECIA_00820 | mlaF | Transport/efflux | Intermembrane phospholipid transport system ATP-binding protein MlaF | PANEL HIT: mlaF (Transportation / Transportation) | pident=62.308000 qcovs=97.000000</title></polygon>
+<text x="650.0" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">mlaF (mlaF)</text>
+<polygon points="811.0,304.0 719.5,304.0 701.5,315.0 719.5,326.0 811.0,326.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>HMPMECIA_00821 | argF | Accessory/other | Ornithine carbamoyltransferase, anabolic</title></polygon>
+<text x="756.3" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">argF</text>
+<polygon points="951.2,304.0 829.8,304.0 811.8,315.0 829.8,326.0 951.2,326.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>HMPMECIA_00822 | argD | Accessory/other | Acetylornithine aminotransferase</title></polygon>
+<text x="881.5" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">argD</text>
+<polygon points="1038.2,304.0 986.2,304.0 968.2,315.0 986.2,326.0 1038.2,326.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>HMPMECIA_00823 | sodB | Accessory/other | Superoxide dismutase [Fe]</title></polygon>
+<text x="1003.2" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">sodB</text>
+<polygon points="1109.3,304.0 1078.2,304.0 1062.9,315.0 1078.2,326.0 1109.3,326.0" fill="#b15928" stroke="#888" stroke-width="0.8"><title>HMPMECIA_00824 | gloA | Hydrolase/decarboxylase/lyase | Lactoylglutathione lyase</title></polygon>
+<text x="1086.1" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">gloA</text>
+<polygon points="1267.6,304.0 1165.9,304.0 1147.9,315.0 1165.9,326.0 1267.6,326.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>HMPMECIA_00825 | pxpC | Accessory/other | 5-oxoprolinase subunit C</title></polygon>
+<text x="1207.8" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">pxpC</text>
+<polygon points="1353.3,304.0 1285.1,304.0 1267.1,315.0 1285.1,326.0 1353.3,326.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>HMPMECIA_00826 | pxpB | Accessory/other | 5-oxoprolinase subunit B</title></polygon>
+<text x="1310.2" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">pxpB</text>
+<polygon points="1484.4,304.0 1393.5,304.0 1375.5,315.0 1393.5,326.0 1484.4,326.0" fill="#b15928" stroke="#888" stroke-width="0.8"><title>HMPMECIA_00827 | ephA | Hydrolase/decarboxylase/lyase | Epoxide hydrolase A</title></polygon>
+<text x="1429.9" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">ephA</text>
+<polygon points="1664.0,304.0 1524.6,304.0 1506.6,315.0 1524.6,326.0 1664.0,326.0" fill="#d9d9d9" stroke="#111" stroke-width="2.2"><title>HMPMECIA_00828 | HMPMECIA_00828 | Hypothetical/accessory | hypothetical protein | PANEL HIT: alkB (Alkanes / Terminal/biterminal oxidation) | pident=36.245000 qcovs=55.000000</title></polygon>
+<text x="1585.3" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">HMPMECIA_00828 (alkB)</text>
+<text x="452.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">46,130 bp</text>
+<text x="1664.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">56,249 bp</text>
+<rect x="18" y="366" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="366" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="384.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_103_panelcluster_653</text>
+<text x="32.0" y="402.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_103 | MAGs/Exp3_MAG_103_c_000000000146 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="418.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: almA; est; mhbl; pmoA1; pvaA</text>
+<text x="32.0" y="430.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Gentisate; Plastics</text>
+<line x1="452" y1="457.0" x2="1664" y2="457.0" stroke="#d0d0d0"/>
+<polygon points="573.6,446.0 470.0,446.0 452.0,457.0 470.0,468.0 573.6,468.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>HMPMECIA_02062 | pmoA1_2 | Oxygenase/dioxygenase | Particulate methane monooxygenase beta subunit | PANEL HIT: pmoA1 (Alkanes / Terminal/biterminal oxidation) | pident=44.856000 qcovs=98.000000</title></polygon>
+<text x="512.8" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pmoA1_2 (pmoA1)</text>
+<polygon points="837.9,446.0 709.2,446.0 691.2,457.0 709.2,468.0 837.9,468.0" fill="#d9d9d9" stroke="#111" stroke-width="2.2"><title>HMPMECIA_02063 | HMPMECIA_02063 | Hypothetical/accessory | hypothetical protein | PANEL HIT: est (Plastics / PBSA/PCL/PLA) | pident=40.129000 qcovs=96.000000</title></polygon>
+<text x="764.5" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">HMPMECIA_02063 (est)</text>
+<polygon points="1095.3,446.0 863.3,446.0 845.3,457.0 863.3,468.0 1095.3,468.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>HMPMECIA_02064 | pvaA | Dehydrogenase/oxidoreductase | Polyvinylalcohol dehydrogenase | PANEL HIT: pvaA (Plastics / PVA) | pident=39.544000 qcovs=79.000000</title></polygon>
+<text x="970.3" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pvaA (pvaA)</text>
+<polygon points="1250.3,446.0 1133.0,446.0 1115.0,457.0 1133.0,468.0 1250.3,468.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HMPMECIA_02065 | HMPMECIA_02065 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1182.6" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">HMPMECIA_02065</text>
+<polygon points="1318.0,446.0 1528.1,446.0 1546.1,457.0 1528.1,468.0 1318.0,468.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>HMPMECIA_02066 | ethA | Oxygenase/dioxygenase | FAD-containing monooxygenase EthA | PANEL HIT: almA (Alkanes / Terminal/biterminal oxidation) | pident=55.622000 qcovs=97.000000</title></polygon>
+<text x="1432.1" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">ethA (almA)</text>
+<polygon points="1664.0,446.0 1581.9,446.0 1563.9,457.0 1581.9,468.0 1664.0,468.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>HMPMECIA_02067 | nagL | Hydratase/dehydratase/isomerase | Maleylpyruvate isomerase | PANEL HIT: mhbl (Gentisate / Gentisate) | pident=43.396000 qcovs=100.000000</title></polygon>
+<text x="1614.0" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">nagL (mhbl)</text>
+<text x="452.0" y="394.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">8,203 bp</text>
+<text x="1664.0" y="394.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">16,158 bp</text>
+<text x="24.0" y="526.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="536" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="546.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="536" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="546.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="536" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="546.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="536" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="546.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="558" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="568.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="558" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="568.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="558" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="568.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="558" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="568.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="580" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="590.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="580" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="590.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="580" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="590.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="580" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="590.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="602" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="612.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

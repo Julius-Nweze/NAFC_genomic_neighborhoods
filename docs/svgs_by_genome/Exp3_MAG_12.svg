@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="350" viewBox="0 0 1700 350">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<text x="24.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_12: reference-panel operon/cluster gene maps</text>
+<text x="24.0" y="56.0" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#555">1 shortlisted clusters (&gt;=3 independent panel gene hits) for this genome</text>
+<text x="24.0" y="74.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="start" fill="#555">Arrow direction shows CDS strand. Color shows enzyme class. Bold outline = reference-panel seed hit.</text>
+<rect x="18" y="82" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="82" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="100.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_12_panelcluster_1498</text>
+<text x="32.0" y="118.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_12 | MAGs/Exp3_MAG_12_c_000000000073 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="134.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: abmA; abmG1; acsA; mhbD; nbaA</text>
+<text x="32.0" y="146.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Beta-oxidation; Gentisate</text>
+<line x1="452" y1="173.0" x2="1664" y2="173.0" stroke="#d0d0d0"/>
+<polygon points="522.3,162.0 470.0,162.0 452.0,173.0 470.0,184.0 522.3,184.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>ABELAMEC_02447 | nagI | Oxygenase/dioxygenase | Gentisate 1,2-dioxygenase | PANEL HIT: mhbD (Gentisate / Gentisate) | pident=35.241000 qcovs=95.000000</title></polygon>
+<text x="487.2" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 487.2 197.0)" fill="#111">nagI (mhbD)</text>
+<polygon points="610.9,162.0 544.6,162.0 526.6,173.0 544.6,184.0 610.9,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>ABELAMEC_02448 | steT_1 | Accessory/other | Serine/threonine exchanger SteT</title></polygon>
+<text x="568.8" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 568.8 197.0)" fill="#555">steT_1</text>
+<polygon points="673.7,162.0 629.2,162.0 611.2,173.0 629.2,184.0 673.7,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>ABELAMEC_02449 | nitA | Accessory/other | Aliphatic nitrilase</title></polygon>
+<text x="642.5" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 642.5 197.0)" fill="#555">nitA</text>
+<polygon points="728.2,162.0 691.8,162.0 673.9,173.0 691.8,184.0 728.2,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>ABELAMEC_02450 | ABELAMEC_02450 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="701.0" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 701.0 197.0)" fill="#555">ABELAMEC_02450</text>
+<polygon points="755.0,162.0 737.0,162.0 728.1,173.0 737.0,184.0 755.0,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>ABELAMEC_02451 | ABELAMEC_02451 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="741.6" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 741.6 197.0)" fill="#555">ABELAMEC_02451</text>
+<polygon points="862.7,162.0 780.0,162.0 762.0,173.0 780.0,184.0 862.7,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>ABELAMEC_02452 | ABELAMEC_02452 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="812.3" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 812.3 197.0)" fill="#555">ABELAMEC_02452</text>
+<polygon points="965.5,162.0 882.6,162.0 864.6,173.0 882.6,184.0 965.5,184.0" fill="#1f78b4" stroke="#111" stroke-width="2.2"><title>ABELAMEC_02453 | bclA | CoA ligase/synthetase | Benzoate--CoA ligase | PANEL HIT: abmG1 (Aromatics / Anthranilate) | pident=48.889000 qcovs=99.000000</title></polygon>
+<text x="915.0" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 915.0 197.0)" fill="#111">bclA (abmG1)</text>
+<polygon points="1022.7,162.0 983.6,162.0 965.6,173.0 983.6,184.0 1022.7,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>ABELAMEC_02454 | pepIP | Accessory/other | Proline iminopeptidase</title></polygon>
+<text x="994.2" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 994.2 197.0)" fill="#555">pepIP</text>
+<polygon points="1168.8,162.0 1040.8,162.0 1022.8,173.0 1040.8,184.0 1168.8,184.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>ABELAMEC_02455 | namA | Dehydrogenase/oxidoreductase | NADPH dehydrogenase | PANEL HIT: abmA (Aromatics / Anthranilate) | pident=45.106000 qcovs=98.000000</title></polygon>
+<text x="1095.8" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1095.8 197.0)" fill="#111">namA (abmA)</text>
+<polygon points="1197.8,162.0 1178.5,162.0 1168.9,173.0 1178.5,184.0 1197.8,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>ABELAMEC_02456 | ABELAMEC_02456 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1183.4" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1183.4 197.0)" fill="#555">ABELAMEC_02456</text>
+<polygon points="1236.5,162.0 1210.6,162.0 1197.9,173.0 1210.6,184.0 1236.5,184.0" fill="#d9d9d9" stroke="#111" stroke-width="2.2"><title>ABELAMEC_02457 | ABELAMEC_02457 | Hypothetical/accessory | hypothetical protein | PANEL HIT: nbaA (Aromatics / 2-Nitrobenzoate) | pident=33.514000 qcovs=84.000000</title></polygon>
+<text x="1217.2" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1217.2 197.0)" fill="#111">ABELAMEC_02457 (nbaA)</text>
+<polygon points="1268.2,162.0 1250.2,162.0 1241.3,173.0 1250.2,184.0 1268.2,184.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>ABELAMEC_02458 | rssB_5 | Regulator | Regulator of RpoS</title></polygon>
+<text x="1254.8" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1254.8 197.0)" fill="#555">rssB_5</text>
+<polygon points="1532.7,162.0 1293.1,162.0 1275.1,173.0 1293.1,184.0 1532.7,184.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>ABELAMEC_02459 | rcsC_8 | Regulator | Sensor histidine kinase RcsC</title></polygon>
+<text x="1403.9" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1403.9 197.0)" fill="#555">rcsC_8</text>
+<polygon points="1542.5,162.0 1646.0,162.0 1664.0,173.0 1646.0,184.0 1542.5,184.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>ABELAMEC_02460 | acsA | Accessory/other | Acetyl-coenzyme A synthetase | PANEL HIT: acsA (Beta-oxidation / Beta-oxidation) | pident=48.567000 qcovs=92.000000</title></polygon>
+<text x="1603.2" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1603.2 197.0)" fill="#111">acsA (acsA)</text>
+<text x="452.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">3,649 bp</text>
+<text x="1664.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">22,678 bp</text>
+<text x="24.0" y="242.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="252" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="262.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="252" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="262.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="252" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="262.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="252" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="262.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="274" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="284.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="274" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="284.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="274" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="284.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="274" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="284.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="296" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="306.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="296" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="306.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="296" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="306.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="296" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="306.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="318" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="328.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

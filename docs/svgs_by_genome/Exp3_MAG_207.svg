@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="350" viewBox="0 0 1700 350">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<text x="24.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_207: reference-panel operon/cluster gene maps</text>
+<text x="24.0" y="56.0" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#555">1 shortlisted clusters (&gt;=3 independent panel gene hits) for this genome</text>
+<text x="24.0" y="74.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="start" fill="#555">Arrow direction shows CDS strand. Color shows enzyme class. Bold outline = reference-panel seed hit.</text>
+<rect x="18" y="82" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="82" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="100.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_207_panelcluster_5785</text>
+<text x="32.0" y="118.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_207 | MAGs/Exp3_MAG_207_c_000000000044 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="134.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: paaH; pcaJ; pnbA</text>
+<text x="32.0" y="146.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Catechol-ortho; Phenylacetate; Plastics</text>
+<line x1="452" y1="173.0" x2="1664" y2="173.0" stroke="#d0d0d0"/>
+<polygon points="525.6,162.0 470.0,162.0 452.0,173.0 470.0,184.0 525.6,184.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>LPOOPNHA_04966 | mmgB_2 | Dehydrogenase/oxidoreductase | putative 3-hydroxybutyryl-CoA dehydrogenase | PANEL HIT: paaH (Phenylacetate / Phenylacetate) | pident=40.141000 qcovs=60.000000</title></polygon>
+<text x="488.8" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 488.8 197.0)" fill="#111">mmgB_2 (paaH)</text>
+<polygon points="566.0,162.0 546.7,162.0 537.2,173.0 546.7,184.0 566.0,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LPOOPNHA_04967 | LPOOPNHA_04967 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="551.6" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 551.6 197.0)" fill="#555">LPOOPNHA_04967</text>
+<polygon points="584.6,162.0 572.7,162.0 565.7,173.0 572.7,184.0 584.6,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LPOOPNHA_04968 | LPOOPNHA_04968 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="575.1" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 575.1 197.0)" fill="#555">LPOOPNHA_04968</text>
+<polygon points="647.6,162.0 609.0,162.0 591.0,173.0 609.0,184.0 647.6,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LPOOPNHA_04969 | LPOOPNHA_04969 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="619.3" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 619.3 197.0)" fill="#555">LPOOPNHA_04969</text>
+<polygon points="657.6,162.0 729.4,162.0 747.4,173.0 729.4,184.0 657.6,184.0" fill="#fb9a99" stroke="#888" stroke-width="0.8"><title>LPOOPNHA_04970 | apbC | Electron transfer/redox | Iron-sulfur cluster carrier protein</title></polygon>
+<text x="702.5" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 702.5 197.0)" fill="#555">apbC</text>
+<polygon points="876.0,162.0 784.3,162.0 766.3,173.0 784.3,184.0 876.0,184.0" fill="#b2df8a" stroke="#888" stroke-width="0.8"><title>LPOOPNHA_04971 | LPOOPNHA_04971 | Mobile/stress/accessory | IS5 family transposase ISPeth2</title></polygon>
+<text x="821.1" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 821.1 197.0)" fill="#555">LPOOPNHA_04971</text>
+<polygon points="936.2,162.0 906.0,162.0 891.2,173.0 906.0,184.0 936.2,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LPOOPNHA_04972 | LPOOPNHA_04972 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="913.7" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 913.7 197.0)" fill="#555">LPOOPNHA_04972</text>
+<polygon points="942.0,162.0 976.6,162.0 993.7,173.0 976.6,184.0 942.0,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>LPOOPNHA_04973 | paiB | Accessory/other | Protease synthase and sporulation protein PAI 2</title></polygon>
+<text x="967.8" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 967.8 197.0)" fill="#555">paiB</text>
+<polygon points="1077.6,162.0 1017.2,162.0 999.2,173.0 1017.2,184.0 1077.6,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LPOOPNHA_04974 | LPOOPNHA_04974 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1038.4" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1038.4 197.0)" fill="#555">LPOOPNHA_04974</text>
+<polygon points="1119.8,162.0 1097.2,162.0 1086.1,173.0 1097.2,184.0 1119.8,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LPOOPNHA_04975 | LPOOPNHA_04975 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1102.9" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1102.9 197.0)" fill="#555">LPOOPNHA_04975</text>
+<polygon points="1140.0,162.0 1196.3,162.0 1214.3,173.0 1196.3,184.0 1140.0,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>LPOOPNHA_04976 | glpQ | Accessory/other | Glycerophosphodiester phosphodiesterase</title></polygon>
+<text x="1177.2" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1177.2 197.0)" fill="#555">glpQ</text>
+<polygon points="1278.0,162.0 1234.2,162.0 1216.2,173.0 1234.2,184.0 1278.0,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LPOOPNHA_04977 | LPOOPNHA_04977 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1247.1" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1247.1 197.0)" fill="#555">LPOOPNHA_04977</text>
+<polygon points="1287.9,162.0 1402.5,162.0 1420.5,173.0 1402.5,184.0 1287.9,184.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>LPOOPNHA_04978 | fumD_2 | Accessory/other | Fumonisin B1 esterase | PANEL HIT: pnbA (Plastics / PET) | pident=33.589000 qcovs=99.000000</title></polygon>
+<text x="1354.2" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1354.2 197.0)" fill="#111">fumD_2 (pnbA)</text>
+<polygon points="1431.5,162.0 1483.4,162.0 1501.4,173.0 1483.4,184.0 1431.5,184.0" fill="#6a3d9a" stroke="#888" stroke-width="0.8"><title>LPOOPNHA_04979 | pyrF | Carboxylase | Orotidine 5&#x27;-phosphate decarboxylase</title></polygon>
+<text x="1466.4" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1466.4 197.0)" fill="#555">pyrF</text>
+<polygon points="1596.2,162.0 1523.6,162.0 1505.6,173.0 1523.6,184.0 1596.2,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LPOOPNHA_04980 | LPOOPNHA_04980 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1550.9" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1550.9 197.0)" fill="#555">LPOOPNHA_04980</text>
+<polygon points="1610.1,162.0 1646.2,162.0 1664.0,173.0 1646.2,184.0 1610.1,184.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>LPOOPNHA_04981 | scoB | Thiolase/transferase | putative succinyl-CoA:3-ketoacid coenzyme A transferase subunit B | PANEL HIT: pcaJ (Catechol-ortho / Catechol-ortho) | pident=49.246000 qcovs=93.000000</title></polygon>
+<text x="1637.1" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1637.1 197.0)" fill="#111">scoB (pcaJ)</text>
+<text x="452.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">66,836 bp</text>
+<text x="1664.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">81,614 bp</text>
+<text x="24.0" y="242.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="252" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="262.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="252" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="262.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="252" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="262.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="252" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="262.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="274" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="284.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="274" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="284.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="274" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="284.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="274" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="284.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="296" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="306.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="296" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="306.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="296" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="306.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="296" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="306.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="318" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="328.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

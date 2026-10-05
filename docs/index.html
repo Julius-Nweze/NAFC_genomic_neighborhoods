@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>NAFC gene-map atlas</title>
+<style>
+  :root { --bg:#fafafa; --fg:#1a1a1a; --muted:#555; --card:#fff; --line:#ddd; --link:#0b5cad; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg:#16181b; --fg:#e8e8e8; --muted:#a8a8a8; --card:#202327; --line:#3a3d42; --link:#7db4f0; }
+  }
+  body { font-family: Arial, Helvetica, sans-serif; margin: 0; background: var(--bg); color: var(--fg); line-height: 1.55; }
+  main { max-width: 880px; margin: 0 auto; padding: 32px 16px 48px; }
+  h1 { font-size: 1.7rem; margin: 0 0 6px; }
+  h2 { font-size: 1.2rem; margin: 32px 0 8px; }
+  p, li { color: var(--fg); }
+  .sub { color: var(--muted); margin: 0 0 24px; }
+  .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 16px; }
+  .card { background: var(--card); border: 1px solid var(--line); border-radius: 8px; padding: 16px 18px; }
+  .card h3 { margin: 0 0 6px; font-size: 1.05rem; }
+  .card p { margin: 0 0 10px; color: var(--muted); font-size: 0.95rem; }
+  a { color: var(--link); }
+  code { font-size: 0.92em; }
+  footer { margin-top: 40px; color: var(--muted); font-size: 0.9rem; }
+</style>
+</head>
+<body>
+<main>
+  <h1>NAFC gene-map atlas</h1>
+  <p class="sub">Candidate genomic neighborhoods with potential relevance to naphthenic acid fractional compound
+  (NAFC) transformation in plant-root MAGs, OSPW-associated genomes, and NCBI reference genomes.</p>
+
+  <div class="cards">
+    <div class="card">
+      <h3>Architecture gene-map atlas</h3>
+      <p>One gene-map atlas per recurring gene-set signature, pooling every qualifying genome across the three
+      genome sources. Each atlas has a table of the neighborhoods it shows.</p>
+      <a href="Architecture_gene_maps/index.html">Open the architecture atlas &rarr;</a>
+    </div>
+    <div class="card">
+      <h3>Per-genome gene-map atlas</h3>
+      <p>One combined gene map per genome, showing every candidate neighborhood with at least three
+      independent panel hits (288 genomes, 2,095 neighborhoods).</p>
+      <a href="svgs_by_genome/index.html">Open the per-genome atlas &rarr;</a>
+    </div>
+  </div>
+
+  <h2 id="methods">Methods</h2>
+  <p>Proteins from 365 genomes were screened against a curated panel of 667 reference proteins in 22 functional
+  categories with BLASTP (E-value &le;1&times;10<sup>&minus;25</sup>, &ge;30% identity, &ge;50% query coverage).
+  Best hits were linked to Prokka coordinates and grouped into candidate neighborhoods when located on the same
+  contig with gaps of &le;12 genes and &le;25 kb between neighboring hits. Each neighborhood was expanded to
+  include all intervening coding sequences. Arrows show gene orientation and colors show broad functional class.</p>
+  <p>The architecture atlas uses three kinds of signature:</p>
+  <ul>
+    <li><strong>Literature-anchored</strong>: gene combinations from characterized loci
+      (<code>bad_ali_chc</code>, <code>catechol_ortho</code>, <code>phenylacetate</code>,
+      <code>protocatechuate</code>, <code>beta_ox_core</code>).</li>
+    <li><strong>Data-driven &quot;core&quot;</strong>: the most frequently co-occurring genes within each category's
+      multi-hit neighborhoods, typically &ge;2 of the top four genes, adjusted per category. Hydroquinone is not
+      included because its two genes co-occur in only one genome.</li>
+    <li><strong>&quot;Full&quot; panel</strong>: every reference-panel gene of a category, with the smallest match
+      threshold giving a legible number of genomes. Aromatics is also split into three subcategory groupings.</li>
+  </ul>
+  <p>The threshold for each signature is given in its atlas title. Signature-qualified neighborhoods are
+  candidate co-located gene sets. Gene order, strand, and orthology were not checked, so they are not confirmed
+  operons, and genomic potential does not demonstrate activity.</p>
+
+  <h2>Code and citation</h2>
+  <p>The analysis scripts that produced these maps are in the same repository:
+  <a href="https://github.com/Julius-Nweze/NAFC_genomic_neighborhoods">github.com/Julius-Nweze/NAFC_genomic_neighborhoods</a>.</p>
+
+  <footer>Julius Eyiuche Nweze, 2026.</footer>
+</main>
+</body>
+</html>

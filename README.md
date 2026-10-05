@@ -10,10 +10,19 @@ with potential relevance to naphthenic acid fractional compound transformation" 
 - **Repository:** https://github.com/Julius-Nweze/NAFC_genomic_neighborhoods
 - **DOI:** [10.5281/zenodo.23165100](https://doi.org/10.5281/zenodo.23165100)
 
-This folder contains the analysis scripts. Raw genomes, annotations, and sequencing reads are deposited
-separately (see the Data Availability section of the article).
+This repository contains the analysis scripts and a browsable gene-map atlas. Raw genomes, annotations, and
+sequencing reads are deposited separately (see the Data Availability section of the article).
 
-## Folder layout and run order
+## Gene-map atlas
+
+**Browse online:** https://julius-nweze.github.io/NAFC_genomic_neighborhoods/
+
+- `docs/Architecture_gene_maps/`: one gene-map atlas (SVG) and neighborhood table (TSV) per recurring
+  gene-set signature, pooling every qualifying genome.
+- `docs/svgs_by_genome/`: one combined gene map per genome, showing every candidate neighborhood with at
+  least three independent panel hits (288 genomes, 2,095 neighborhoods).
+
+## Scripts: folder layout and run order
 
 Folders are numbered in the order they were used. Within each folder, run the scripts in the order listed.
 `shared_dependencies/` is not a step. It holds modules imported by steps 06 to 08.

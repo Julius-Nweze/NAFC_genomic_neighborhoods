@@ -1,0 +1,260 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="918" viewBox="0 0 1700 918">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<text x="24.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_257: reference-panel operon/cluster gene maps</text>
+<text x="24.0" y="56.0" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#555">5 shortlisted clusters (&gt;=3 independent panel gene hits) for this genome</text>
+<text x="24.0" y="74.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="start" fill="#555">Arrow direction shows CDS strand. Color shows enzyme class. Bold outline = reference-panel seed hit.</text>
+<rect x="18" y="82" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="82" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="100.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_257_panelcluster_8356</text>
+<text x="32.0" y="118.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_257 | MAGs/Exp3_MAG_257_c_000000000028 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="134.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: badH; badK; chcAb; fadJ</text>
+<text x="32.0" y="146.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Beta-oxidation; Cyclohexanecarboxylate</text>
+<line x1="452" y1="173.0" x2="1664" y2="173.0" stroke="#d0d0d0"/>
+<polygon points="576.6,162.0 470.0,162.0 452.0,173.0 470.0,184.0 576.6,184.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>MAKHOFPB_01763 | fadJ | Accessory/other | Fatty acid oxidation complex subunit alpha | PANEL HIT: fadJ (Beta-oxidation / Beta-oxidation) | pident=33.759000 qcovs=96.000000</title></polygon>
+<text x="514.3" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 514.3 197.0)" fill="#111">fadJ (fadJ)</text>
+<polygon points="653.4,162.0 594.4,162.0 576.4,173.0 594.4,184.0 653.4,184.0" fill="#a6cee3" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_01764 | fadA | Thiolase/transferase | Putative acyltransferase</title></polygon>
+<text x="614.9" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 614.9 197.0)" fill="#555">fadA</text>
+<polygon points="665.0,162.0 689.5,162.0 701.5,173.0 689.5,184.0 665.0,184.0" fill="#b15928" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_01765 | folE_2 | Hydrolase/decarboxylase/lyase | GTP cyclohydrolase 1</title></polygon>
+<text x="683.3" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 683.3 197.0)" fill="#555">folE_2</text>
+<polygon points="701.4,162.0 732.6,162.0 748.0,173.0 732.6,184.0 701.4,184.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_01766 | fabG_2 | Dehydrogenase/oxidoreductase | 3-oxoacyl-[acyl-carrier-protein] reductase FabG</title></polygon>
+<text x="724.7" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 724.7 197.0)" fill="#555">fabG_2</text>
+<polygon points="748.5,162.0 766.8,162.0 775.9,173.0 766.8,184.0 748.5,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_01767 | MAKHOFPB_01767 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="762.2" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 762.2 197.0)" fill="#555">MAKHOFPB_01767</text>
+<polygon points="817.2,162.0 793.3,162.0 781.5,173.0 793.3,184.0 817.2,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_01768 | rplI | Accessory/other | 50S ribosomal protein L9</title></polygon>
+<text x="799.4" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 799.4 197.0)" fill="#555">rplI</text>
+<polygon points="835.9,162.0 824.9,162.0 817.9,173.0 824.9,184.0 835.9,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_01769 | rpsR | Accessory/other | 30S ribosomal protein S18</title></polygon>
+<text x="826.9" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 826.9 197.0)" fill="#555">rpsR</text>
+<polygon points="857.9,162.0 840.5,162.0 832.0,173.0 840.5,184.0 857.9,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_01770 | rpsF | Accessory/other | 30S ribosomal protein S6</title></polygon>
+<text x="845.0" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 845.0 197.0)" fill="#555">rpsF</text>
+<polygon points="882.9,162.0 920.4,162.0 938.4,173.0 920.4,184.0 882.9,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_01771 | fabD | Accessory/other | Malonyl CoA-acyl carrier protein transacylase</title></polygon>
+<text x="910.7" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 910.7 197.0)" fill="#555">fabD</text>
+<polygon points="939.8,162.0 969.2,162.0 983.7,173.0 969.2,184.0 939.8,184.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>MAKHOFPB_01772 | fabG_3 | Dehydrogenase/oxidoreductase | 3-oxoacyl-[acyl-carrier-protein] reductase FabG | PANEL HIT: badH (Beta-oxidation / Beta-oxidation) | pident=37.354000 qcovs=99.000000</title></polygon>
+<text x="961.7" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 961.7 197.0)" fill="#111">fabG_3 (badH)</text>
+<polygon points="1042.5,162.0 1002.2,162.0 984.2,173.0 1002.2,184.0 1042.5,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_01773 | MAKHOFPB_01773 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1013.4" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1013.4 197.0)" fill="#555">MAKHOFPB_01773</text>
+<polygon points="1053.0,162.0 1064.0,162.0 1071.0,173.0 1064.0,184.0 1053.0,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_01774 | acpP_2 | Accessory/other | Acyl carrier protein</title></polygon>
+<text x="1062.0" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1062.0 197.0)" fill="#555">acpP_2</text>
+<polygon points="1077.2,162.0 1133.9,162.0 1151.9,173.0 1133.9,184.0 1077.2,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_01775 | fabF | Accessory/other | 3-oxoacyl-[acyl-carrier-protein] synthase 2</title></polygon>
+<text x="1114.5" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1114.5 197.0)" fill="#555">fabF</text>
+<polygon points="1152.8,162.0 1192.4,162.0 1210.4,173.0 1192.4,184.0 1152.8,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_01776 | mltG | Accessory/other | Endolytic murein transglycosylase</title></polygon>
+<text x="1181.6" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1181.6 197.0)" fill="#555">mltG</text>
+<polygon points="1237.6,162.0 1220.3,162.0 1211.8,173.0 1220.3,184.0 1237.6,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_01777 | MAKHOFPB_01777 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1224.7" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1224.7 197.0)" fill="#555">MAKHOFPB_01777</text>
+<polygon points="1247.1,162.0 1269.7,162.0 1280.9,173.0 1269.7,184.0 1247.1,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_01778 | MAKHOFPB_01778 | Accessory/other | Peroxiredoxin</title></polygon>
+<text x="1264.0" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1264.0 197.0)" fill="#555">MAKHOFPB_01778</text>
+<polygon points="1358.6,162.0 1303.6,162.0 1285.6,173.0 1303.6,184.0 1358.6,184.0" fill="#fb9a99" stroke="#111" stroke-width="2.2"><title>MAKHOFPB_01779 | ligXd_1 | Electron transfer/redox | 5,5&#x27;-dehydrodivanillate O-demethylase ferredoxin reductase subunit | PANEL HIT: chcAb (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=39.599000 qcovs=91.000000</title></polygon>
+<text x="1322.1" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1322.1 197.0)" fill="#111">ligXd_1 (chcAb)</text>
+<polygon points="1457.1,162.0 1392.8,162.0 1374.8,173.0 1392.8,184.0 1457.1,184.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_01781 | pcaK_2 | Transport/efflux | 4-hydroxybenzoate transporter PcaK</title></polygon>
+<text x="1416.0" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1416.0 197.0)" fill="#555">pcaK_2</text>
+<polygon points="1466.8,162.0 1536.8,162.0 1554.8,173.0 1536.8,184.0 1466.8,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_01782 | MAKHOFPB_01782 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1510.8" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1510.8 197.0)" fill="#555">MAKHOFPB_01782</text>
+<polygon points="1554.5,162.0 1597.3,162.0 1615.3,173.0 1597.3,184.0 1554.5,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_01783 | MAKHOFPB_01783 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1584.9" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1584.9 197.0)" fill="#555">MAKHOFPB_01783</text>
+<polygon points="1664.0,162.0 1633.1,162.0 1618.0,173.0 1633.1,184.0 1664.0,184.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>MAKHOFPB_01784 | echA8 | Hydratase/dehydratase/isomerase | putative enoyl-CoA hydratase echA8 | PANEL HIT: badK (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=45.349000 qcovs=100.000000</title></polygon>
+<text x="1641.0" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1641.0 197.0)" fill="#111">echA8 (badK)</text>
+<text x="452.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">72,808 bp</text>
+<text x="1664.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">93,259 bp</text>
+<rect x="18" y="224" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="224" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="242.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_257_panelcluster_8359</text>
+<text x="32.0" y="260.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_257 | MAGs/Exp3_MAG_257_c_000000000032 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="276.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: alkJ_adh; chnE; nylB; pcaK</text>
+<text x="32.0" y="288.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Plastics; Transportation</text>
+<line x1="452" y1="315.0" x2="1664" y2="315.0" stroke="#d0d0d0"/>
+<polygon points="560.6,304.0 470.0,304.0 452.0,315.0 470.0,326.0 560.6,326.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>MAKHOFPB_02101 | pcaK_3 | Transport/efflux | 4-hydroxybenzoate transporter PcaK | PANEL HIT: pcaK (Transportation / Transportation) | pident=30.303000 qcovs=87.000000</title></polygon>
+<text x="506.3" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 506.3 339.0)" fill="#111">pcaK_3 (pcaK)</text>
+<polygon points="607.4,304.0 579.0,304.0 565.0,315.0 579.0,326.0 607.4,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_02102 | MAKHOFPB_02102 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="586.2" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 586.2 339.0)" fill="#555">MAKHOFPB_02102</text>
+<polygon points="615.7,304.0 717.8,304.0 735.8,315.0 717.8,326.0 615.7,326.0" fill="#d73027" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_02103 | lsdB_1 | Oxygenase/dioxygenase | Lignostilbene-alpha,beta-dioxygenase isozyme III</title></polygon>
+<text x="675.8" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 675.8 339.0)" fill="#555">lsdB_1</text>
+<polygon points="739.6,304.0 818.5,304.0 836.5,315.0 818.5,326.0 739.6,326.0" fill="#d9d9d9" stroke="#111" stroke-width="2.2"><title>MAKHOFPB_02104 | MAKHOFPB_02104 | Hypothetical/accessory | hypothetical protein | PANEL HIT: nylB (Plastics / Nylon) | pident=33.893000 qcovs=74.000000</title></polygon>
+<text x="788.0" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 788.0 339.0)" fill="#111">MAKHOFPB_02104 (nylB)</text>
+<polygon points="837.5,304.0 863.5,304.0 876.3,315.0 863.5,326.0 837.5,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_02105 | MAKHOFPB_02105 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="856.9" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 856.9 339.0)" fill="#555">MAKHOFPB_02105</text>
+<polygon points="879.5,304.0 942.6,304.0 960.6,315.0 942.6,326.0 879.5,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_02106 | MAKHOFPB_02106 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="920.1" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 920.1 339.0)" fill="#555">MAKHOFPB_02106</text>
+<polygon points="1039.4,304.0 982.7,304.0 964.7,315.0 982.7,326.0 1039.4,326.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_02107 | copD_2 | Accessory/other | Copper resistance protein D</title></polygon>
+<text x="1002.1" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1002.1 339.0)" fill="#555">copD_2</text>
+<polygon points="1074.4,304.0 1054.3,304.0 1044.4,315.0 1054.3,326.0 1074.4,326.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_02108 | pcoC | Accessory/other | Copper resistance protein C</title></polygon>
+<text x="1059.4" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1059.4 339.0)" fill="#555">pcoC</text>
+<polygon points="1176.0,304.0 1098.5,304.0 1080.5,315.0 1098.5,326.0 1176.0,326.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_02109 | MAKHOFPB_02109 | Accessory/other | putative protein</title></polygon>
+<text x="1128.3" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1128.3 339.0)" fill="#555">MAKHOFPB_02109</text>
+<polygon points="1316.5,304.0 1199.8,304.0 1181.8,315.0 1199.8,326.0 1316.5,326.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>MAKHOFPB_02110 | alkJ_1 | Dehydrogenase/oxidoreductase | Alcohol dehydrogenase [acceptor] | PANEL HIT: alkJ_adh (Alkanes / Auxillary alkane pathway) | pident=41.360000 qcovs=95.000000</title></polygon>
+<text x="1249.2" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1249.2 339.0)" fill="#111">alkJ_1 (alkJ_adh)</text>
+<polygon points="1456.2,304.0 1343.0,304.0 1325.0,315.0 1343.0,326.0 1456.2,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_02111 | MAKHOFPB_02111 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1390.6" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1390.6 339.0)" fill="#555">MAKHOFPB_02111</text>
+<polygon points="1541.7,304.0 1473.9,304.0 1455.9,315.0 1473.9,326.0 1541.7,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_02112 | MAKHOFPB_02112 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1498.8" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1498.8 339.0)" fill="#555">MAKHOFPB_02112</text>
+<polygon points="1664.0,304.0 1565.8,304.0 1547.8,315.0 1565.8,326.0 1664.0,326.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>MAKHOFPB_02113 | araE | Dehydrogenase/oxidoreductase | Alpha-ketoglutaric semialdehyde dehydrogenase 1 | PANEL HIT: chnE (Alkanes / Terminal/biterminal oxidation) | pident=34.722000 qcovs=94.000000</title></polygon>
+<text x="1605.9" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1605.9 339.0)" fill="#111">araE (chnE)</text>
+<text x="452.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">1,169 bp</text>
+<text x="1664.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">16,097 bp</text>
+<rect x="18" y="366" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="366" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="384.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_257_panelcluster_8360</text>
+<text x="32.0" y="402.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_257 | MAGs/Exp3_MAG_257_c_000000000032 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="418.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: ISF6_0224; galA; galC; galD; hapE; pchF; xecD</text>
+<text x="32.0" y="430.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkenes; Aromatics; Gallate; Hydroquinone;</text>
+<text x="32.0" y="442.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Plastics</text>
+<line x1="452" y1="457.0" x2="1664" y2="457.0" stroke="#d0d0d0"/>
+<polygon points="485.4,446.0 463.0,446.0 452.0,457.0 463.0,468.0 485.4,468.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>MAKHOFPB_02126 | lvr_1 | Dehydrogenase/oxidoreductase | Levodione reductase | PANEL HIT: xecD (Alkenes / Propene) | pident=36.214000 qcovs=97.000000</title></polygon>
+<text x="468.7" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 468.7 481.0)" fill="#111">lvr_1 (xecD)</text>
+<polygon points="506.2,446.0 492.2,446.0 485.2,457.0 492.2,468.0 506.2,468.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_02127 | MAKHOFPB_02127 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="495.7" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 495.7 481.0)" fill="#555">MAKHOFPB_02127</text>
+<polygon points="551.1,446.0 525.2,446.0 512.4,457.0 525.2,468.0 551.1,468.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_02128 | MAKHOFPB_02128 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="531.8" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 531.8 481.0)" fill="#555">MAKHOFPB_02128</text>
+<polygon points="576.5,446.0 564.9,446.0 557.9,457.0 564.9,468.0 576.5,468.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_02129 | MAKHOFPB_02129 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="567.2" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 567.2 481.0)" fill="#555">MAKHOFPB_02129</text>
+<polygon points="645.6,446.0 596.2,446.0 578.2,457.0 596.2,468.0 645.6,468.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>MAKHOFPB_02130 | styD | Dehydrogenase/oxidoreductase | Phenylacetaldehyde dehydrogenase | PANEL HIT: hapE (Hydroquinone / Hydroquinone) | pident=44.606000 qcovs=97.000000</title></polygon>
+<text x="611.9" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 611.9 481.0)" fill="#111">styD (hapE)</text>
+<polygon points="741.6,446.0 666.2,446.0 648.2,457.0 666.2,468.0 741.6,468.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_02131 | adhA_2 | Dehydrogenase/oxidoreductase | Alcohol dehydrogenase (quinone), dehydrogenase subunit</title></polygon>
+<text x="694.9" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 694.9 481.0)" fill="#555">adhA_2</text>
+<polygon points="836.2,446.0 761.0,446.0 743.0,457.0 761.0,468.0 836.2,468.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_02132 | qbdA_2 | Dehydrogenase/oxidoreductase | Quinohemoprotein alcohol dehydrogenase ADH IIB</title></polygon>
+<text x="789.6" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 789.6 481.0)" fill="#555">qbdA_2</text>
+<polygon points="906.9,446.0 855.8,446.0 837.8,457.0 855.8,468.0 906.9,468.0" fill="#1f78b4" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_02133 | fadD3 | CoA ligase/synthetase | 3-[(3aS,4S,7aS)-7a-methyl-1,5-dioxo-octahydro-1H-inden-4-yl]propanoyl:CoA ligase</title></polygon>
+<text x="872.3" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 872.3 481.0)" fill="#555">fadD3</text>
+<polygon points="946.4,446.0 922.8,446.0 911.3,457.0 922.8,468.0 946.4,468.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_02134 | MAKHOFPB_02134 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="928.8" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 928.8 481.0)" fill="#555">MAKHOFPB_02134</text>
+<polygon points="966.7,446.0 955.7,446.0 948.7,457.0 955.7,468.0 966.7,468.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_02135 | MAKHOFPB_02135 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="957.7" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 957.7 481.0)" fill="#555">MAKHOFPB_02135</text>
+<polygon points="984.6,446.0 971.7,446.0 964.7,457.0 971.7,468.0 984.6,468.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_02136 | MAKHOFPB_02136 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="974.6" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 974.6 481.0)" fill="#555">MAKHOFPB_02136</text>
+<polygon points="1054.4,446.0 1002.4,446.0 984.4,457.0 1002.4,468.0 1054.4,468.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>MAKHOFPB_02137 | pchF | Dehydrogenase/oxidoreductase | 4-cresol dehydrogenase [hydroxylating] flavoprotein subunit | PANEL HIT: pchF (Aromatics / Toluene) | pident=33.141000 qcovs=97.000000</title></polygon>
+<text x="1019.4" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1019.4 481.0)" fill="#111">pchF (pchF)</text>
+<polygon points="1091.3,446.0 1069.7,446.0 1059.1,457.0 1069.7,468.0 1091.3,468.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_02138 | MAKHOFPB_02138 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1075.2" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1075.2 481.0)" fill="#555">MAKHOFPB_02138</text>
+<polygon points="1099.1,446.0 1126.2,446.0 1139.6,457.0 1126.2,468.0 1099.1,468.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_02139 | hcaB_3 | Dehydrogenase/oxidoreductase | 3-phenylpropionate-dihydrodiol/cinnamic acid-dihydrodiol dehydrogenase</title></polygon>
+<text x="1119.4" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1119.4 481.0)" fill="#555">hcaB_3</text>
+<polygon points="1143.8,446.0 1195.3,446.0 1213.3,457.0 1195.3,468.0 1143.8,468.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>MAKHOFPB_02140 | MAKHOFPB_02140 | Hydrolase/decarboxylase/lyase | Mono(2-hydroxyethyl) terephthalate hydrolase | PANEL HIT: ISF6_0224 (Plastics / PET) | pident=34.549000 qcovs=86.000000</title></polygon>
+<text x="1178.5" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1178.5 481.0)" fill="#111">MAKHOFPB_02140 (ISF6_...</text>
+<polygon points="1219.4,446.0 1230.4,446.0 1237.4,457.0 1230.4,468.0 1219.4,468.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_02141 | MAKHOFPB_02141 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1228.4" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1228.4 481.0)" fill="#555">MAKHOFPB_02141</text>
+<polygon points="1238.3,446.0 1249.3,446.0 1256.3,457.0 1249.3,468.0 1238.3,468.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_02142 | MAKHOFPB_02142 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1247.3" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1247.3 481.0)" fill="#555">MAKHOFPB_02142</text>
+<polygon points="1279.0,446.0 1268.0,446.0 1261.0,457.0 1268.0,468.0 1279.0,468.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_02143 | hxlR | Regulator | HTH-type transcriptional activator HxlR</title></polygon>
+<text x="1270.0" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1270.0 481.0)" fill="#555">hxlR</text>
+<polygon points="1283.5,446.0 1305.6,446.0 1316.5,457.0 1305.6,468.0 1283.5,468.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_02144 | hcaB_4 | Dehydrogenase/oxidoreductase | 3-phenylpropionate-dihydrodiol/cinnamic acid-dihydrodiol dehydrogenase</title></polygon>
+<text x="1300.0" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1300.0 481.0)" fill="#555">hcaB_4</text>
+<polygon points="1388.1,446.0 1340.4,446.0 1322.4,457.0 1340.4,468.0 1388.1,468.0" fill="#d73027" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_02145 | lsdB_2 | Oxygenase/dioxygenase | Lignostilbene-alpha,beta-dioxygenase isozyme III</title></polygon>
+<text x="1355.2" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1355.2 481.0)" fill="#555">lsdB_2</text>
+<polygon points="1430.1,446.0 1403.9,446.0 1391.1,457.0 1403.9,468.0 1430.1,468.0" fill="#b15928" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_02146 | ligI | Hydrolase/decarboxylase/lyase | 2-pyrone-4,6-dicarboxylate hydrolase</title></polygon>
+<text x="1410.6" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1410.6 481.0)" fill="#555">ligI</text>
+<polygon points="1482.0,446.0 1450.1,446.0 1434.5,457.0 1450.1,468.0 1482.0,468.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>MAKHOFPB_02147 | ligU | Hydratase/dehydratase/isomerase | (4E)-oxalomesaconate Delta-isomerase | PANEL HIT: galD (Gallate / Gallate) | pident=58.000000 qcovs=97.000000</title></polygon>
+<text x="1458.2" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1458.2 481.0)" fill="#111">ligU (galD)</text>
+<polygon points="1511.6,446.0 1491.5,446.0 1481.6,457.0 1491.5,468.0 1511.6,468.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>MAKHOFPB_02148 | ligK | Hydrolase/decarboxylase/lyase | 4-carboxy-4-hydroxy-2-oxoadipate aldolase | PANEL HIT: galC (Gallate / Gallate) | pident=61.712000 qcovs=93.000000</title></polygon>
+<text x="1496.6" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1496.6 481.0)" fill="#111">ligK (galC)</text>
+<polygon points="1518.1,446.0 1545.5,446.0 1559.0,457.0 1545.5,468.0 1518.1,468.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_02149 | MAKHOFPB_02149 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1538.5" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1538.5 481.0)" fill="#555">MAKHOFPB_02149</text>
+<polygon points="1558.8,446.0 1589.3,446.0 1604.3,457.0 1589.3,468.0 1558.8,468.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_02150 | ligJ_1 | Hydratase/dehydratase/isomerase | 2-keto-4-carboxy-3-hexenedioate hydratase</title></polygon>
+<text x="1581.5" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1581.5 481.0)" fill="#555">ligJ_1</text>
+<polygon points="1605.0,446.0 1616.6,446.0 1623.6,457.0 1616.6,468.0 1605.0,468.0" fill="#d73027" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_02151 | ligA_2 | Oxygenase/dioxygenase | Protocatechuate 4,5-dioxygenase alpha chain</title></polygon>
+<text x="1614.3" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1614.3 481.0)" fill="#555">ligA_2</text>
+<polygon points="1623.7,446.0 1650.7,446.0 1664.0,457.0 1650.7,468.0 1623.7,468.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>MAKHOFPB_02152 | ligB_2 | Oxygenase/dioxygenase | Protocatechuate 4,5-dioxygenase beta chain | PANEL HIT: galA (Gallate / Gallate) | pident=42.786000 qcovs=59.000000</title></polygon>
+<text x="1643.8" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1643.8 481.0)" fill="#111">ligB_2 (galA)</text>
+<text x="452.0" y="394.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">28,867 bp</text>
+<text x="1664.0" y="394.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">56,191 bp</text>
+<rect x="18" y="508" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="508" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="526.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_257_panelcluster_8365</text>
+<text x="32.0" y="544.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_257 | MAGs/Exp3_MAG_257_c_000000000035 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="560.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: est; galT; pnbA</text>
+<text x="32.0" y="572.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Gallate; Plastics</text>
+<line x1="452" y1="599.0" x2="1664" y2="599.0" stroke="#d0d0d0"/>
+<polygon points="557.1,588.0 470.0,588.0 452.0,599.0 470.0,610.0 557.1,610.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>MAKHOFPB_02383 | mhbT_1 | Transport/efflux | 3-hydroxybenzoate transporter MhbT | PANEL HIT: galT (Gallate / Gallate) | pident=30.179000 qcovs=87.000000</title></polygon>
+<text x="504.5" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 504.5 623.0)" fill="#111">mhbT_1 (galT)</text>
+<polygon points="618.1,588.0 581.5,588.0 563.5,599.0 581.5,610.0 618.1,610.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_02384 | nicS | Regulator | HTH-type transcriptional repressor NicS</title></polygon>
+<text x="590.8" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 590.8 623.0)" fill="#555">nicS</text>
+<polygon points="638.2,588.0 627.2,588.0 620.2,599.0 627.2,610.0 638.2,610.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_02385 | MAKHOFPB_02385 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="629.2" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 629.2 623.0)" fill="#555">MAKHOFPB_02385</text>
+<polygon points="640.5,588.0 782.1,588.0 800.1,599.0 782.1,610.0 640.5,610.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_02386 | MAKHOFPB_02386 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="720.3" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 720.3 623.0)" fill="#555">MAKHOFPB_02386</text>
+<polygon points="801.2,588.0 866.8,588.0 884.8,599.0 866.8,610.0 801.2,610.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_02387 | aes_4 | Accessory/other | Acetyl esterase</title></polygon>
+<text x="843.0" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 843.0 623.0)" fill="#555">aes_4</text>
+<polygon points="884.5,588.0 998.6,588.0 1016.6,599.0 998.6,610.0 884.5,610.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>MAKHOFPB_02388 | fumD_3 | Accessory/other | Fumonisin B1 esterase | PANEL HIT: pnbA (Plastics / PET) | pident=32.075000 qcovs=92.000000</title></polygon>
+<text x="950.6" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 950.6 623.0)" fill="#111">fumD_3 (pnbA)</text>
+<polygon points="1017.2,588.0 1069.7,588.0 1087.7,599.0 1069.7,610.0 1017.2,610.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_02389 | MAKHOFPB_02389 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1052.4" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1052.4 623.0)" fill="#555">MAKHOFPB_02389</text>
+<polygon points="1087.3,588.0 1103.3,588.0 1111.1,599.0 1103.3,610.0 1087.3,610.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_02390 | MAKHOFPB_02390 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1099.2" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1099.2 623.0)" fill="#555">MAKHOFPB_02390</text>
+<polygon points="1186.2,588.0 1122.1,588.0 1104.1,599.0 1122.1,610.0 1186.2,610.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_02391 | nphR_3 | Regulator | Transcriptional activator NphR</title></polygon>
+<text x="1145.2" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1145.2 623.0)" fill="#555">nphR_3</text>
+<polygon points="1275.6,588.0 1215.6,588.0 1197.6,599.0 1215.6,610.0 1275.6,610.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_02392 | MAKHOFPB_02392 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1236.6" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1236.6 623.0)" fill="#555">MAKHOFPB_02392</text>
+<polygon points="1317.5,588.0 1291.9,588.0 1279.3,599.0 1291.9,610.0 1317.5,610.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_02393 | MAKHOFPB_02393 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1298.4" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1298.4 623.0)" fill="#555">MAKHOFPB_02393</text>
+<polygon points="1369.7,588.0 1334.7,588.0 1317.4,599.0 1334.7,610.0 1369.7,610.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_02394 | MAKHOFPB_02394 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1343.5" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1343.5 623.0)" fill="#555">MAKHOFPB_02394</text>
+<polygon points="1494.7,588.0 1387.4,588.0 1369.4,599.0 1387.4,610.0 1494.7,610.0" fill="#d73027" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_02395 | lsdB_3 | Oxygenase/dioxygenase | Lignostilbene-alpha,beta-dioxygenase isozyme III</title></polygon>
+<text x="1432.0" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1432.0 623.0)" fill="#555">lsdB_3</text>
+<polygon points="1519.6,588.0 1505.0,588.0 1497.9,599.0 1505.0,610.0 1519.6,610.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_02396 | MAKHOFPB_02396 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1508.7" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1508.7 623.0)" fill="#555">MAKHOFPB_02396</text>
+<polygon points="1664.0,588.0 1549.6,588.0 1531.6,599.0 1549.6,610.0 1664.0,610.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>MAKHOFPB_02397 | pnbA_5 | Accessory/other | Para-nitrobenzyl esterase | PANEL HIT: est (Plastics / PBAT) | pident=32.246000 qcovs=93.000000</title></polygon>
+<text x="1597.8" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1597.8 623.0)" fill="#111">pnbA_5 (est)</text>
+<text x="452.0" y="536.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">11,768 bp</text>
+<text x="1664.0" y="536.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">26,160 bp</text>
+<rect x="18" y="650" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="650" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="668.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_257_panelcluster_8374</text>
+<text x="32.0" y="686.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_257 | MAGs/Exp3_MAG_257_c_000000000060 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="702.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: alkJ_adh; chcB2; est; pcaC</text>
+<text x="32.0" y="714.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Cyclohexanecarboxylate; Plastics;</text>
+<text x="32.0" y="726.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Protocatechuate</text>
+<line x1="452" y1="741.0" x2="1664" y2="741.0" stroke="#d0d0d0"/>
+<polygon points="523.8,730.0 470.0,730.0 452.0,741.0 470.0,752.0 523.8,752.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>MAKHOFPB_02972 | lvr_2 | Dehydrogenase/oxidoreductase | Levodione reductase | PANEL HIT: chcB2 (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=39.919000 qcovs=96.000000</title></polygon>
+<text x="487.9" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 487.9 765.0)" fill="#111">lvr_2 (chcB2)</text>
+<polygon points="543.1,730.0 529.5,730.0 522.5,741.0 529.5,752.0 543.1,752.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_02973 | MAKHOFPB_02973 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="532.8" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 532.8 765.0)" fill="#555">MAKHOFPB_02973</text>
+<polygon points="685.8,730.0 561.0,730.0 543.0,741.0 561.0,752.0 685.8,752.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_02974 | crtI | Hydratase/dehydratase/isomerase | Phytoene desaturase (lycopene-forming)</title></polygon>
+<text x="614.4" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 614.4 765.0)" fill="#555">crtI</text>
+<polygon points="799.1,730.0 712.4,730.0 694.4,741.0 712.4,752.0 799.1,752.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_02975 | amiE | Accessory/other | N-acetylmuramyl-L-alanine amidase</title></polygon>
+<text x="746.7" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 746.7 765.0)" fill="#555">amiE</text>
+<polygon points="880.2,730.0 829.1,730.0 811.1,741.0 829.1,752.0 880.2,752.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_02976 | budC | Dehydrogenase/oxidoreductase | Diacetyl reductase [(S)-acetoin forming]</title></polygon>
+<text x="845.6" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 845.6 765.0)" fill="#555">budC</text>
+<polygon points="917.4,730.0 892.2,730.0 879.8,741.0 892.2,752.0 917.4,752.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_02977 | MAKHOFPB_02977 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="898.6" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 898.6 765.0)" fill="#555">MAKHOFPB_02977</text>
+<polygon points="960.3,730.0 931.3,730.0 917.0,741.0 931.3,752.0 960.3,752.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_02978 | MAKHOFPB_02978 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="938.6" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 938.6 765.0)" fill="#555">MAKHOFPB_02978</text>
+<polygon points="1005.2,730.0 974.9,730.0 959.9,741.0 974.9,752.0 1005.2,752.0" fill="#d9d9d9" stroke="#111" stroke-width="2.2"><title>MAKHOFPB_02979 | MAKHOFPB_02979 | Hypothetical/accessory | hypothetical protein | PANEL HIT: pcaC (Protocatechuate / Protocatechuate) | pident=36.066000 qcovs=91.000000</title></polygon>
+<text x="982.5" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 982.5 765.0)" fill="#111">MAKHOFPB_02979 (pcaC)</text>
+<polygon points="1127.5,730.0 1033.9,730.0 1015.9,741.0 1033.9,752.0 1127.5,752.0" fill="#d9d9d9" stroke="#111" stroke-width="2.2"><title>MAKHOFPB_02980 | MAKHOFPB_02980 | Hypothetical/accessory | hypothetical protein | PANEL HIT: est (Plastics / PLA) | pident=35.000000 qcovs=98.000000</title></polygon>
+<text x="1071.7" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1071.7 765.0)" fill="#111">MAKHOFPB_02980 (est)</text>
+<polygon points="1225.1,730.0 1160.4,730.0 1142.4,741.0 1160.4,752.0 1225.1,752.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_02981 | mmsB | Dehydrogenase/oxidoreductase | 3-hydroxyisobutyrate dehydrogenase</title></polygon>
+<text x="1183.7" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1183.7 765.0)" fill="#555">mmsB</text>
+<polygon points="1299.3,730.0 1242.8,730.0 1224.8,741.0 1242.8,752.0 1299.3,752.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_02982 | MAKHOFPB_02982 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1262.0" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1262.0 765.0)" fill="#555">MAKHOFPB_02982</text>
+<polygon points="1409.3,730.0 1318.2,730.0 1300.2,741.0 1318.2,752.0 1409.3,752.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_02983 | MAKHOFPB_02983 | Accessory/other | Cytochrome p450 CYP199A2</title></polygon>
+<text x="1354.8" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1354.8 765.0)" fill="#555">MAKHOFPB_02983</text>
+<polygon points="1501.2,730.0 1437.3,730.0 1419.3,741.0 1437.3,752.0 1501.2,752.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MAKHOFPB_02984 | MAKHOFPB_02984 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1460.2" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1460.2 765.0)" fill="#555">MAKHOFPB_02984</text>
+<polygon points="1664.0,730.0 1530.7,730.0 1512.7,741.0 1530.7,752.0 1664.0,752.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>MAKHOFPB_02985 | alkJ_2 | Dehydrogenase/oxidoreductase | Alcohol dehydrogenase [acceptor] | PANEL HIT: alkJ_adh (Alkanes / Auxillary alkane pathway) | pident=40.850000 qcovs=97.000000</title></polygon>
+<text x="1588.4" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1588.4 765.0)" fill="#111">alkJ_2 (alkJ_adh)</text>
+<text x="452.0" y="678.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">8,691 bp</text>
+<text x="1664.0" y="678.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">21,957 bp</text>
+<text x="24.0" y="810.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="820" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="830.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="820" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="830.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="820" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="830.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="820" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="830.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="842" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="852.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="842" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="852.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="842" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="852.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="842" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="852.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="864" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="874.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="864" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="874.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="864" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="874.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="864" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="874.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="886" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="896.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

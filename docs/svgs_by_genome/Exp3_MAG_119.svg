@@ -1,0 +1,278 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="1486" viewBox="0 0 1700 1486">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<text x="24.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_119: reference-panel operon/cluster gene maps</text>
+<text x="24.0" y="56.0" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#555">9 shortlisted clusters (&gt;=3 independent panel gene hits) for this genome</text>
+<text x="24.0" y="74.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="start" fill="#555">Arrow direction shows CDS strand. Color shows enzyme class. Bold outline = reference-panel seed hit.</text>
+<rect x="18" y="82" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="82" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="100.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_119_panelcluster_1363</text>
+<text x="32.0" y="118.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_119 | MAGs/Exp3_MAG_119_c_000000000004 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="134.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: blc; hmgL; uctC</text>
+<text x="32.0" y="146.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Cyclohexylacetate; Oxalate</text>
+<line x1="452" y1="173.0" x2="1664" y2="173.0" stroke="#d0d0d0"/>
+<polygon points="452.0,162.0 495.4,162.0 513.4,173.0 495.4,184.0 452.0,184.0" fill="#d9d9d9" stroke="#111" stroke-width="2.2"><title>GBEBHPEL_00023 | GBEBHPEL_00023 | Hypothetical/accessory | hypothetical protein | PANEL HIT: blc (Alkanes / Hydrocarbon uptake) | pident=51.592000 qcovs=89.000000</title></polygon>
+<text x="482.7" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">GBEBHPEL_00023 (blc)</text>
+<polygon points="672.0,162.0 533.0,162.0 515.0,173.0 533.0,184.0 672.0,184.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>GBEBHPEL_00024 | yejF | Transport/efflux | putative ABC transporter ATP-binding protein YejF</title></polygon>
+<text x="593.5" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">yejF</text>
+<polygon points="762.9,162.0 689.7,162.0 671.7,173.0 689.7,184.0 762.9,184.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>GBEBHPEL_00025 | yejE | Transport/efflux | Inner membrane ABC transporter permease protein YejE</title></polygon>
+<text x="717.3" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">yejE</text>
+<polygon points="885.5,162.0 807.8,162.0 789.8,173.0 807.8,184.0 885.5,184.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>GBEBHPEL_00026 | yejB | Transport/efflux | Inner membrane ABC transporter permease protein YejB</title></polygon>
+<text x="837.6" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">yejB</text>
+<polygon points="1063.4,162.0 912.4,162.0 894.4,173.0 912.4,184.0 1063.4,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>GBEBHPEL_00027 | GBEBHPEL_00027 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="978.9" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">GBEBHPEL_00027</text>
+<polygon points="1074.9,162.0 1131.4,162.0 1149.4,173.0 1131.4,184.0 1074.9,184.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>GBEBHPEL_00028 | fabI_1 | Dehydrogenase/oxidoreductase | Enoyl-[acyl-carrier-protein] reductase [NADH] FabI</title></polygon>
+<text x="1112.1" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">fabI_1</text>
+<polygon points="1169.4,162.0 1201.3,162.0 1217.1,173.0 1201.3,184.0 1169.4,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>GBEBHPEL_00029 | GBEBHPEL_00029 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1193.2" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">GBEBHPEL_00029</text>
+<polygon points="1222.8,162.0 1263.9,162.0 1281.9,173.0 1263.9,184.0 1222.8,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>GBEBHPEL_00030 | sodB | Accessory/other | Superoxide dismutase [Mn/Fe]</title></polygon>
+<text x="1252.4" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">sodB</text>
+<polygon points="1285.2,162.0 1352.8,162.0 1370.8,173.0 1352.8,184.0 1285.2,184.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>GBEBHPEL_00031 | zupT_1 | Transport/efflux | Zinc transporter ZupT</title></polygon>
+<text x="1328.0" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">zupT_1</text>
+<polygon points="1441.1,162.0 1391.0,162.0 1373.0,173.0 1391.0,184.0 1441.1,184.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>GBEBHPEL_00032 | yiaJ_1 | Regulator | DNA-binding transcriptional repressor YiaJ</title></polygon>
+<text x="1407.1" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">yiaJ_1</text>
+<polygon points="1451.8,162.0 1526.4,162.0 1544.4,173.0 1526.4,184.0 1451.8,184.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>GBEBHPEL_00033 | yngG_1 | Hydrolase/decarboxylase/lyase | Hydroxymethylglutaryl-CoA lyase YngG | PANEL HIT: hmgL (Cyclohexylacetate / Cyclohexylacetate) | pident=42.215000 qcovs=94.000000</title></polygon>
+<text x="1498.1" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">yngG_1 (hmgL)</text>
+<polygon points="1548.0,162.0 1646.0,162.0 1664.0,173.0 1646.0,184.0 1548.0,184.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>GBEBHPEL_00034 | frc_1 | Thiolase/transferase | Formyl-CoA:oxalate CoA-transferase | PANEL HIT: uctC (Oxalate / Oxalate) | pident=35.952000 qcovs=84.000000</title></polygon>
+<text x="1606.0" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">frc_1 (uctC)</text>
+<text x="452.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">3,802 bp</text>
+<text x="1664.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">16,839 bp</text>
+<rect x="18" y="224" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="224" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="242.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_119_panelcluster_1377</text>
+<text x="32.0" y="260.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_119 | MAGs/Exp3_MAG_119_c_000000000095 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="276.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: mhbD; mhbH; mhbl</text>
+<text x="32.0" y="288.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Gentisate</text>
+<line x1="452" y1="315.0" x2="1664" y2="315.0" stroke="#d0d0d0"/>
+<polygon points="770.2,304.0 470.0,304.0 452.0,315.0 470.0,326.0 770.2,326.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>GBEBHPEL_00699 | nagL_1 | Hydratase/dehydratase/isomerase | Maleylpyruvate isomerase | PANEL HIT: mhbl (Gentisate / Gentisate) | pident=68.692000 qcovs=100.000000</title></polygon>
+<text x="611.1" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">nagL_1 (mhbl)</text>
+<polygon points="1145.5,304.0 797.7,304.0 779.7,315.0 797.7,326.0 1145.5,326.0" fill="#d9d9d9" stroke="#111" stroke-width="2.2"><title>GBEBHPEL_00700 | GBEBHPEL_00700 | Hypothetical/accessory | hypothetical protein | PANEL HIT: mhbH (Gentisate / Gentisate) | pident=78.125000 qcovs=100.000000</title></polygon>
+<text x="962.6" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">GBEBHPEL_00700 (mhbH)</text>
+<polygon points="1664.0,304.0 1167.5,304.0 1149.5,315.0 1167.5,326.0 1664.0,326.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>GBEBHPEL_00701 | nagI | Oxygenase/dioxygenase | Gentisate 1,2-dioxygenase | PANEL HIT: mhbD (Gentisate / Gentisate) | pident=54.810000 qcovs=98.000000</title></polygon>
+<text x="1406.7" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">nagI (mhbD)</text>
+<text x="452.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">1,025 bp</text>
+<text x="1664.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">3,469 bp</text>
+<rect x="18" y="366" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="366" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="384.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_119_panelcluster_1388</text>
+<text x="32.0" y="402.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_119 | MAGs/Exp3_MAG_119_c_000000000157 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="418.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: aliA; hpcC; hpcE; hpcG; nagR</text>
+<text x="32.0" y="430.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Beta-oxidation; Naphthalene</text>
+<line x1="452" y1="457.0" x2="1664" y2="457.0" stroke="#d0d0d0"/>
+<polygon points="499.4,446.0 467.7,446.0 452.0,457.0 467.7,468.0 499.4,468.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>GBEBHPEL_01220 | hpcG_1 | Hydratase/dehydratase/isomerase | 2-oxo-hept-4-ene-1,7-dioate hydratase | PANEL HIT: hpcG (Aromatics / Homoprotocatechuate) | pident=57.040000 qcovs=100.000000</title></polygon>
+<text x="475.7" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 475.7 481.0)" fill="#111">hpcG_1 (hpcG)</text>
+<polygon points="524.2,446.0 507.6,446.0 499.5,457.0 507.6,468.0 524.2,468.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>GBEBHPEL_01221 | GBEBHPEL_01221 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="511.9" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 511.9 481.0)" fill="#555">GBEBHPEL_01221</text>
+<polygon points="570.8,446.0 539.6,446.0 524.2,457.0 539.6,468.0 570.8,468.0" fill="#d73027" stroke="#888" stroke-width="0.8"><title>GBEBHPEL_01222 | mhpB | Oxygenase/dioxygenase | 2,3-dihydroxyphenylpropionate/2,3-dihydroxicinnamic acid 1,2-dioxygenase</title></polygon>
+<text x="547.5" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 547.5 481.0)" fill="#555">mhpB</text>
+<polygon points="589.5,446.0 577.9,446.0 570.9,457.0 577.9,468.0 589.5,468.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>GBEBHPEL_01223 | GBEBHPEL_01223 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="580.2" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 580.2 481.0)" fill="#555">GBEBHPEL_01223</text>
+<polygon points="647.2,446.0 608.7,446.0 590.7,457.0 608.7,468.0 647.2,468.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>GBEBHPEL_01224 | GBEBHPEL_01224 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="618.9" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 618.9 481.0)" fill="#555">GBEBHPEL_01224</text>
+<polygon points="732.7,446.0 667.7,446.0 649.7,457.0 667.7,468.0 732.7,468.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>GBEBHPEL_01225 | betB_1 | Dehydrogenase/oxidoreductase | NAD/NADP-dependent betaine aldehyde dehydrogenase | PANEL HIT: hpcC (Aromatics / Homoprotocatechuate) | pident=66.017000 qcovs=98.000000</title></polygon>
+<text x="691.2" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 691.2 481.0)" fill="#111">betB_1 (hpcC)</text>
+<polygon points="777.6,446.0 748.5,446.0 734.2,457.0 748.5,468.0 777.6,468.0" fill="#6a3d9a" stroke="#888" stroke-width="0.8"><title>GBEBHPEL_01226 | hpcE_1 | Carboxylase | Homoprotocatechuate catabolism bifunctional isomerase/decarboxylase</title></polygon>
+<text x="755.9" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 755.9 481.0)" fill="#555">hpcE_1</text>
+<polygon points="816.1,446.0 790.1,446.0 777.3,457.0 790.1,468.0 816.1,468.0" fill="#6a3d9a" stroke="#111" stroke-width="2.2"><title>GBEBHPEL_01227 | hpcE_2 | Carboxylase | Homoprotocatechuate catabolism bifunctional isomerase/decarboxylase | PANEL HIT: hpcE (Aromatics / Homoprotocatechuate) | pident=37.321000 qcovs=91.000000</title></polygon>
+<text x="796.7" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 796.7 481.0)" fill="#111">hpcE_2 (hpcE)</text>
+<polygon points="1035.3,446.0 843.3,446.0 825.3,457.0 843.3,468.0 1035.3,468.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>GBEBHPEL_01228 | GBEBHPEL_01228 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="930.3" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 930.3 481.0)" fill="#555">GBEBHPEL_01228</text>
+<polygon points="1071.0,446.0 1054.8,446.0 1046.9,457.0 1054.8,468.0 1071.0,468.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>GBEBHPEL_01229 | GBEBHPEL_01229 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1058.9" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1058.9 481.0)" fill="#555">GBEBHPEL_01229</text>
+<polygon points="1125.7,446.0 1091.4,446.0 1074.5,457.0 1091.4,468.0 1125.7,468.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>GBEBHPEL_01230 | GBEBHPEL_01230 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1100.1" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1100.1 481.0)" fill="#555">GBEBHPEL_01230</text>
+<polygon points="1183.1,446.0 1146.5,446.0 1128.5,457.0 1146.5,468.0 1183.1,468.0" fill="#fdbf6f" stroke="#111" stroke-width="2.2"><title>GBEBHPEL_01231 | syrM1 | Regulator | HTH-type transcriptional regulator SyrM 1 | PANEL HIT: nagR (Naphthalene / Naphthalene) | pident=32.450000 qcovs=96.000000</title></polygon>
+<text x="1155.8" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1155.8 481.0)" fill="#111">syrM1 (nagR)</text>
+<polygon points="1191.1,446.0 1207.1,446.0 1215.0,457.0 1207.1,468.0 1191.1,468.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>GBEBHPEL_01232 | GBEBHPEL_01232 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1203.0" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1203.0 481.0)" fill="#555">GBEBHPEL_01232</text>
+<polygon points="1337.9,446.0 1249.8,446.0 1231.8,457.0 1249.8,468.0 1337.9,468.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>GBEBHPEL_01233 | pckG | Accessory/other | Phosphoenolpyruvate carboxykinase [GTP]</title></polygon>
+<text x="1284.9" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1284.9 481.0)" fill="#555">pckG</text>
+<polygon points="1374.4,446.0 1363.4,446.0 1356.4,457.0 1363.4,468.0 1374.4,468.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>GBEBHPEL_01234 | GBEBHPEL_01234 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1365.4" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1365.4 481.0)" fill="#555">GBEBHPEL_01234</text>
+<polygon points="1439.2,446.0 1389.0,446.0 1371.0,457.0 1389.0,468.0 1439.2,468.0" fill="#b15928" stroke="#888" stroke-width="0.8"><title>GBEBHPEL_01235 | tdcB | Hydrolase/decarboxylase/lyase | L-threonine ammonia-lyase</title></polygon>
+<text x="1405.1" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1405.1 481.0)" fill="#555">tdcB</text>
+<polygon points="1446.9,446.0 1487.4,446.0 1505.4,457.0 1487.4,468.0 1446.9,468.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>GBEBHPEL_01236 | rhaR_2 | Regulator | HTH-type transcriptional activator RhaR</title></polygon>
+<text x="1476.1" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1476.1 481.0)" fill="#555">rhaR_2</text>
+<polygon points="1512.3,446.0 1557.6,446.0 1575.6,457.0 1557.6,468.0 1512.3,468.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>GBEBHPEL_01237 | GBEBHPEL_01237 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1544.0" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1544.0 481.0)" fill="#555">GBEBHPEL_01237</text>
+<polygon points="1664.0,446.0 1595.5,446.0 1577.5,457.0 1595.5,468.0 1664.0,468.0" fill="#1f78b4" stroke="#111" stroke-width="2.2"><title>GBEBHPEL_01238 | GBEBHPEL_01238 | CoA ligase/synthetase | Long-chain-fatty-acid--CoA ligase FadD13 | PANEL HIT: aliA (Beta-oxidation / Beta-oxidation) | pident=30.813000 qcovs=94.000000</title></polygon>
+<text x="1620.8" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1620.8 481.0)" fill="#111">GBEBHPEL_01238 (aliA)</text>
+<text x="452.0" y="394.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">956 bp</text>
+<text x="1664.0" y="394.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">22,267 bp</text>
+<rect x="18" y="508" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="508" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="526.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_119_panelcluster_1408</text>
+<text x="32.0" y="544.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_119 | MAGs/Exp3_MAG_119_c_000000000278 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="560.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: paaA; paaB; paaC; paaD; paaE</text>
+<text x="32.0" y="572.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Phenylacetate</text>
+<line x1="452" y1="599.0" x2="1664" y2="599.0" stroke="#d0d0d0"/>
+<polygon points="452.0,588.0 649.9,588.0 667.9,599.0 649.9,610.0 452.0,610.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>GBEBHPEL_02165 | paaA | Accessory/other | 1,2-phenylacetyl-CoA epoxidase, subunit A | PANEL HIT: paaA (Phenylacetate / Phenylacetate) | pident=34.078000 qcovs=57.000000</title></polygon>
+<text x="559.9" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">paaA (paaA)</text>
+<polygon points="666.4,588.0 759.1,588.0 777.1,599.0 759.1,610.0 666.4,610.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>GBEBHPEL_02166 | paaB | Accessory/other | 1,2-phenylacetyl-CoA epoxidase, subunit B | PANEL HIT: paaB (Phenylacetate / Phenylacetate) | pident=57.447000 qcovs=100.000000</title></polygon>
+<text x="721.7" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">paaB (paaB)</text>
+<polygon points="781.8,588.0 1044.7,588.0 1062.7,599.0 1044.7,610.0 781.8,610.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>GBEBHPEL_02167 | paaC | Accessory/other | 1,2-phenylacetyl-CoA epoxidase, subunit C | PANEL HIT: paaC (Phenylacetate / Phenylacetate) | pident=44.672000 qcovs=97.000000</title></polygon>
+<text x="922.2" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">paaC (paaC)</text>
+<polygon points="1062.3,588.0 1250.4,588.0 1268.4,599.0 1250.4,610.0 1062.3,610.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>GBEBHPEL_02168 | paaD | Accessory/other | Putative 1,2-phenylacetyl-CoA epoxidase, subunit D | PANEL HIT: paaD (Phenylacetate / Phenylacetate) | pident=48.571000 qcovs=91.000000</title></polygon>
+<text x="1165.4" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">paaD (paaD)</text>
+<polygon points="1267.0,588.0 1646.0,588.0 1664.0,599.0 1646.0,610.0 1267.0,610.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>GBEBHPEL_02169 | paaE | Accessory/other | 1,2-phenylacetyl-CoA epoxidase, subunit E | PANEL HIT: paaE (Phenylacetate / Phenylacetate) | pident=43.526000 qcovs=99.000000</title></polygon>
+<text x="1465.5" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">paaE (paaE)</text>
+<text x="452.0" y="536.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">8 bp</text>
+<text x="1664.0" y="536.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">3,359 bp</text>
+<rect x="18" y="650" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="650" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="668.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_119_panelcluster_1414</text>
+<text x="32.0" y="686.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_119 | MAGs/Exp3_MAG_119_c_000000000294 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="702.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: dszC; ladA</text>
+<text x="32.0" y="714.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Aromatics</text>
+<line x1="452" y1="741.0" x2="1664" y2="741.0" stroke="#d0d0d0"/>
+<polygon points="807.5,730.0 470.0,730.0 452.0,741.0 470.0,752.0 807.5,752.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>GBEBHPEL_02278 | dmoA | Oxygenase/dioxygenase | Dimethyl-sulfide monooxygenase | PANEL HIT: ladA (Alkanes / Terminal/biterminal oxidation) | pident=44.568000 qcovs=98.000000</title></polygon>
+<text x="629.7" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">dmoA (ladA)</text>
+<polygon points="1028.8,730.0 832.0,730.0 814.0,741.0 832.0,752.0 1028.8,752.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>GBEBHPEL_02279 | metQ_2 | Accessory/other | D-methionine-binding lipoprotein MetQ</title></polygon>
+<text x="921.4" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">metQ_2</text>
+<polygon points="1368.2,730.0 1053.3,730.0 1035.3,741.0 1053.3,752.0 1368.2,752.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>GBEBHPEL_02280 | soxC_1 | Accessory/other | Dibenzothiophene desulfurization enzyme C | PANEL HIT: dszC (Aromatics / Dibenzofuran) | pident=34.761000 qcovs=95.000000</title></polygon>
+<text x="1201.8" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">soxC_1 (dszC)</text>
+<polygon points="1664.0,730.0 1387.5,730.0 1369.5,741.0 1387.5,752.0 1664.0,752.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>GBEBHPEL_02281 | soxC_2 | Accessory/other | Dibenzothiophene desulfurization enzyme C | PANEL HIT: dszC (Aromatics / Dibenzofuran) | pident=31.892000 qcovs=87.000000</title></polygon>
+<text x="1516.7" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">soxC_2 (dszC)</text>
+<text x="452.0" y="678.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">1,088 bp</text>
+<text x="1664.0" y="678.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">5,741 bp</text>
+<rect x="18" y="792" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="792" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="810.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_119_panelcluster_1415</text>
+<text x="32.0" y="828.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_119 | MAGs/Exp3_MAG_119_c_000000000296 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="844.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: mlaD; mlaE; mlaF</text>
+<text x="32.0" y="856.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Transportation</text>
+<line x1="452" y1="883.0" x2="1664" y2="883.0" stroke="#d0d0d0"/>
+<polygon points="726.1,872.0 470.0,872.0 452.0,883.0 470.0,894.0 726.1,894.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>GBEBHPEL_02293 | mlaD | Transport/efflux | Intermembrane phospholipid transport system binding protein MlaD | PANEL HIT: mlaD (Transportation / Transportation) | pident=49.693000 qcovs=89.000000</title></polygon>
+<text x="589.0" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">mlaD (mlaD)</text>
+<polygon points="1192.5,872.0 768.9,872.0 750.9,883.0 768.9,894.0 1192.5,894.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>GBEBHPEL_02294 | mlaE | Transport/efflux | Intermembrane phospholipid transport system permease protein MlaE | PANEL HIT: mlaE (Transportation / Transportation) | pident=60.581000 qcovs=93.000000</title></polygon>
+<text x="971.7" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">mlaE (mlaE)</text>
+<polygon points="1664.0,872.0 1208.3,872.0 1190.3,883.0 1208.3,894.0 1664.0,894.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>GBEBHPEL_02295 | mlaF_1 | Transport/efflux | Intermembrane phospholipid transport system ATP-binding protein MlaF | PANEL HIT: mlaF (Transportation / Transportation) | pident=58.621000 qcovs=97.000000</title></polygon>
+<text x="1427.1" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">mlaF_1 (mlaF)</text>
+<text x="452.0" y="820.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">1,181 bp</text>
+<text x="1664.0" y="820.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">3,329 bp</text>
+<rect x="18" y="934" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="934" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="952.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_119_panelcluster_1419</text>
+<text x="32.0" y="970.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_119 | MAGs/Exp3_MAG_119_c_000000000325 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="986.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: atoB; cmtB; mhbl</text>
+<text x="32.0" y="998.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Beta-oxidation; Gentisate</text>
+<line x1="452" y1="1025.0" x2="1664" y2="1025.0" stroke="#d0d0d0"/>
+<polygon points="599.5,1014.0 470.0,1014.0 452.0,1025.0 470.0,1036.0 599.5,1036.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>GBEBHPEL_02495 | phaB | Dehydrogenase/oxidoreductase | Acetoacetyl-CoA reductase | PANEL HIT: cmtB (Aromatics / p-Cumate) | pident=36.220000 qcovs=95.000000</title></polygon>
+<text x="525.8" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">phaB (cmtB)</text>
+<polygon points="878.1,1014.0 659.9,1014.0 641.9,1025.0 659.9,1036.0 878.1,1036.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>GBEBHPEL_02496 | phaA_2 | Accessory/other | Acetyl-CoA acetyltransferase | PANEL HIT: atoB (Beta-oxidation / Beta-oxidation) | pident=59.391000 qcovs=99.000000</title></polygon>
+<text x="760.0" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">phaA_2 (atoB)</text>
+<polygon points="1281.1,1014.0 920.7,1014.0 902.7,1025.0 920.7,1036.0 1281.1,1036.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>GBEBHPEL_02497 | phaC | Accessory/other | Poly(3-hydroxyalkanoate) polymerase subunit PhaC</title></polygon>
+<text x="1091.9" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">phaC</text>
+<polygon points="1309.2,1014.0 1358.4,1014.0 1376.4,1025.0 1358.4,1036.0 1309.2,1036.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>GBEBHPEL_02498 | GBEBHPEL_02498 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1342.8" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">GBEBHPEL_02498</text>
+<polygon points="1531.7,1014.0 1378.2,1014.0 1360.2,1025.0 1378.2,1036.0 1531.7,1036.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>GBEBHPEL_02499 | yfiH | Accessory/other | Polyphenol oxidase</title></polygon>
+<text x="1445.9" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">yfiH</text>
+<polygon points="1664.0,1014.0 1548.9,1014.0 1530.9,1025.0 1548.9,1036.0 1664.0,1036.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>GBEBHPEL_02500 | nagL_3 | Hydratase/dehydratase/isomerase | Maleylpyruvate isomerase | PANEL HIT: mhbl (Gentisate / Gentisate) | pident=44.091000 qcovs=99.000000</title></polygon>
+<text x="1597.4" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">nagL_3 (mhbl)</text>
+<text x="452.0" y="962.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">1,016 bp</text>
+<text x="1664.0" y="962.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">7,079 bp</text>
+<rect x="18" y="1076" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="1076" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="1094.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_119_panelcluster_1429</text>
+<text x="32.0" y="1112.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_119 | MAGs/Exp3_MAG_119_c_000000000393 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="1128.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: GI:23664434; boxA; boxB; boxC; uctC</text>
+<text x="32.0" y="1140.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Oxalate</text>
+<line x1="452" y1="1167.0" x2="1664" y2="1167.0" stroke="#d0d0d0"/>
+<polygon points="541.9,1156.0 470.0,1156.0 452.0,1167.0 470.0,1178.0 541.9,1178.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>GBEBHPEL_02967 | uctC_5 | Thiolase/transferase | Acetyl-CoA:oxalate CoA-transferase | PANEL HIT: uctC (Oxalate / Oxalate) | pident=37.808000 qcovs=92.000000</title></polygon>
+<text x="496.9" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 496.9 1191.0)" fill="#111">uctC_5 (uctC)</text>
+<polygon points="551.5,1156.0 600.8,1156.0 618.8,1167.0 600.8,1178.0 551.5,1178.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>GBEBHPEL_02968 | dmlR_16 | Regulator | HTH-type transcriptional regulator DmlR</title></polygon>
+<text x="585.2" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 585.2 1191.0)" fill="#555">dmlR_16</text>
+<polygon points="724.0,1156.0 636.0,1156.0 618.0,1167.0 636.0,1178.0 724.0,1178.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>GBEBHPEL_02969 | GBEBHPEL_02969 | Dehydrogenase/oxidoreductase | putative FAD-linked oxidoreductase</title></polygon>
+<text x="671.0" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 671.0 1191.0)" fill="#555">GBEBHPEL_02969</text>
+<polygon points="756.8,1156.0 738.9,1156.0 730.1,1167.0 738.9,1178.0 756.8,1178.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>GBEBHPEL_02970 | GBEBHPEL_02970 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="743.5" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 743.5 1191.0)" fill="#555">GBEBHPEL_02970</text>
+<polygon points="770.3,1156.0 798.8,1156.0 812.9,1167.0 798.8,1178.0 770.3,1178.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>GBEBHPEL_02971 | cobO_1 | Accessory/other | Cobalamin adenosyltransferase</title></polygon>
+<text x="791.6" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 791.6 1191.0)" fill="#555">cobO_1</text>
+<polygon points="817.7,1156.0 867.0,1156.0 885.0,1167.0 867.0,1178.0 817.7,1178.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>GBEBHPEL_02972 | GBEBHPEL_02972 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="851.3" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 851.3 1191.0)" fill="#555">GBEBHPEL_02972</text>
+<polygon points="977.4,1156.0 903.9,1156.0 885.9,1167.0 903.9,1178.0 977.4,1178.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>GBEBHPEL_02973 | dadA1_2 | Dehydrogenase/oxidoreductase | D-amino acid dehydrogenase 1</title></polygon>
+<text x="931.6" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 931.6 1191.0)" fill="#555">dadA1_2</text>
+<polygon points="993.9,1156.0 1041.4,1156.0 1059.4,1167.0 1041.4,1178.0 993.9,1178.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>GBEBHPEL_02974 | gltI_4 | Transport/efflux | Glutamate/aspartate import solute-binding protein</title></polygon>
+<text x="1026.7" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1026.7 1191.0)" fill="#555">gltI_4</text>
+<polygon points="1060.5,1156.0 1099.1,1156.0 1117.1,1167.0 1099.1,1178.0 1060.5,1178.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>GBEBHPEL_02975 | GBEBHPEL_02975 | Accessory/other | Aspartate racemase</title></polygon>
+<text x="1088.8" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1088.8 1191.0)" fill="#555">GBEBHPEL_02975</text>
+<polygon points="1215.7,1156.0 1134.6,1156.0 1116.6,1167.0 1134.6,1178.0 1215.7,1178.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>GBEBHPEL_02976 | boxA | Oxygenase/dioxygenase | Benzoyl-CoA oxygenase component A | PANEL HIT: boxA (Aromatics / Benzene) | pident=56.463000 qcovs=99.000000</title></polygon>
+<text x="1166.1" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1166.1 1191.0)" fill="#111">boxA (boxA)</text>
+<polygon points="1323.8,1156.0 1235.6,1156.0 1217.6,1167.0 1235.6,1178.0 1323.8,1178.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>GBEBHPEL_02977 | boxB | Oxygenase/dioxygenase | Benzoyl-CoA oxygenase component B | PANEL HIT: boxB (Aromatics / Benzene) | pident=72.881000 qcovs=99.000000</title></polygon>
+<text x="1270.7" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1270.7 1191.0)" fill="#111">boxB (boxB)</text>
+<polygon points="1450.2,1156.0 1344.6,1156.0 1326.6,1167.0 1344.6,1178.0 1450.2,1178.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>GBEBHPEL_02978 | boxC | Hydrolase/decarboxylase/lyase | Benzoyl-CoA-dihydrodiol lyase | PANEL HIT: boxC (Aromatics / Benzene) | pident=67.391000 qcovs=99.000000</title></polygon>
+<text x="1388.4" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1388.4 1191.0)" fill="#111">boxC (boxC)</text>
+<polygon points="1532.6,1156.0 1482.6,1156.0 1464.6,1167.0 1482.6,1178.0 1532.6,1178.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>GBEBHPEL_02979 | aroK_2 | Accessory/other | Shikimate kinase</title></polygon>
+<text x="1498.6" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1498.6 1191.0)" fill="#555">aroK_2</text>
+<polygon points="1545.6,1156.0 1646.0,1156.0 1664.0,1167.0 1646.0,1178.0 1545.6,1178.0" fill="#1f78b4" stroke="#111" stroke-width="2.2"><title>GBEBHPEL_02980 | bclA | CoA ligase/synthetase | Benzoate--CoA ligase | PANEL HIT: GI:23664434 (Aromatics / Benzene) | pident=55.577000 qcovs=96.000000</title></polygon>
+<text x="1604.8" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1604.8 1191.0)" fill="#111">bclA (GI:23664434)</text>
+<text x="452.0" y="1104.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">1,270 bp</text>
+<text x="1664.0" y="1104.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">17,570 bp</text>
+<rect x="18" y="1218" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="1218" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="1236.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_119_panelcluster_1459</text>
+<text x="32.0" y="1254.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_119 | MAGs/Exp3_MAG_119_c_000000000574 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="1270.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: acsA; dszC; paaG; sdgB; ssuD</text>
+<text x="32.0" y="1282.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Aromatics; Beta-oxidation; Phenylacetate</text>
+<line x1="452" y1="1309.0" x2="1664" y2="1309.0" stroke="#d0d0d0"/>
+<polygon points="452.0,1298.0 499.0,1298.0 517.0,1309.0 499.0,1320.0 452.0,1320.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>GBEBHPEL_04234 | sfnC | Oxygenase/dioxygenase | putative FMNH2-dependent monooxygenase SfnC | PANEL HIT: dszC (Aromatics / Dibenzofuran) | pident=39.474000 qcovs=82.000000</title></polygon>
+<text x="484.5" y="1333.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 484.5 1333.0)" fill="#111">sfnC (dszC)</text>
+<polygon points="517.6,1298.0 576.2,1298.0 594.2,1309.0 576.2,1320.0 517.6,1320.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>GBEBHPEL_04235 | sfnR | Regulator | Sigma54-dependent transcriptional activator SfnR</title></polygon>
+<text x="555.9" y="1333.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 555.9 1333.0)" fill="#555">sfnR</text>
+<polygon points="593.9,1298.0 651.7,1298.0 669.7,1309.0 651.7,1320.0 593.9,1320.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>GBEBHPEL_04236 | ssuD | Oxygenase/dioxygenase | Alkanesulfonate monooxygenase | PANEL HIT: ssuD (Alkanes / Auxillary alkane pathway) | pident=64.187000 qcovs=94.000000</title></polygon>
+<text x="631.8" y="1333.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 631.8 1333.0)" fill="#111">ssuD (ssuD)</text>
+<polygon points="676.4,1298.0 718.4,1298.0 736.4,1309.0 718.4,1320.0 676.4,1320.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>GBEBHPEL_04237 | gltC_6 | Regulator | HTH-type transcriptional regulator GltC</title></polygon>
+<text x="706.4" y="1333.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 706.4 1333.0)" fill="#555">gltC_6</text>
+<polygon points="747.4,1298.0 819.6,1298.0 837.6,1309.0 819.6,1320.0 747.4,1320.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>GBEBHPEL_04238 | GBEBHPEL_04238 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="792.5" y="1333.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 792.5 1333.0)" fill="#555">GBEBHPEL_04238</text>
+<polygon points="841.8,1298.0 934.3,1298.0 952.3,1309.0 934.3,1320.0 841.8,1320.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>GBEBHPEL_04239 | madA | Accessory/other | Acetyl-S-ACP:malonate ACP transferase</title></polygon>
+<text x="897.0" y="1333.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 897.0 1333.0)" fill="#555">madA</text>
+<polygon points="952.9,1298.0 967.6,1298.0 974.8,1309.0 967.6,1320.0 952.9,1320.0" fill="#6a3d9a" stroke="#888" stroke-width="0.8"><title>GBEBHPEL_04240 | mdcC | Carboxylase | Malonate decarboxylase acyl carrier protein</title></polygon>
+<text x="963.8" y="1333.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 963.8 1333.0)" fill="#555">mdcC</text>
+<polygon points="974.5,1298.0 1016.8,1298.0 1034.8,1309.0 1016.8,1320.0 974.5,1320.0" fill="#6a3d9a" stroke="#888" stroke-width="0.8"><title>GBEBHPEL_04241 | madC | Carboxylase | Malonyl-S-ACP:biotin-protein carboxyltransferase MADC</title></polygon>
+<text x="1004.6" y="1333.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1004.6 1333.0)" fill="#555">madC</text>
+<polygon points="1035.1,1298.0 1066.0,1298.0 1081.2,1309.0 1066.0,1320.0 1035.1,1320.0" fill="#6a3d9a" stroke="#888" stroke-width="0.8"><title>GBEBHPEL_04242 | madD | Carboxylase | Malonyl-S-ACP:biotin-protein carboxyltransferase MADD</title></polygon>
+<text x="1058.1" y="1333.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1058.1 1333.0)" fill="#555">madD</text>
+<polygon points="1080.9,1298.0 1113.0,1298.0 1128.8,1309.0 1113.0,1320.0 1080.9,1320.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>GBEBHPEL_04243 | mdcG | Accessory/other | Phosphoribosyl-dephospho-CoA transferase</title></polygon>
+<text x="1104.8" y="1333.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1104.8 1333.0)" fill="#555">mdcG</text>
+<polygon points="1128.5,1298.0 1167.0,1298.0 1185.0,1309.0 1167.0,1320.0 1128.5,1320.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>GBEBHPEL_04244 | citG | Accessory/other | 2-(5&#x27;&#x27;-triphosphoribosyl)-3&#x27;-dephosphocoenzyme-A synthase</title></polygon>
+<text x="1156.8" y="1333.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1156.8 1333.0)" fill="#555">citG</text>
+<polygon points="1184.8,1298.0 1226.6,1298.0 1244.6,1309.0 1226.6,1320.0 1184.8,1320.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>GBEBHPEL_04245 | baeC | Accessory/other | Polyketide biosynthesis malonyl CoA-acyl carrier protein transacylase BaeC</title></polygon>
+<text x="1214.7" y="1333.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1214.7 1333.0)" fill="#555">baeC</text>
+<polygon points="1249.7,1298.0 1361.1,1298.0 1379.1,1309.0 1361.1,1320.0 1249.7,1320.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>GBEBHPEL_04246 | acsA_1 | Accessory/other | Acetyl-coenzyme A synthetase | PANEL HIT: acsA (Beta-oxidation / Beta-oxidation) | pident=44.765000 qcovs=95.000000</title></polygon>
+<text x="1314.4" y="1333.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1314.4 1333.0)" fill="#111">acsA_1 (acsA)</text>
+<polygon points="1469.2,1298.0 1399.3,1298.0 1381.3,1309.0 1399.3,1320.0 1469.2,1320.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>GBEBHPEL_04247 | GBEBHPEL_04247 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1425.3" y="1333.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1425.3 1333.0)" fill="#555">GBEBHPEL_04247</text>
+<polygon points="1611.7,1298.0 1491.7,1298.0 1473.7,1309.0 1491.7,1320.0 1611.7,1320.0" fill="#1f78b4" stroke="#111" stroke-width="2.2"><title>GBEBHPEL_04248 | FCS1_3 | CoA ligase/synthetase | Trans-feruloyl-CoA synthase FCS1 | PANEL HIT: sdgB (Aromatics / Salicylate) | pident=32.917000 qcovs=98.000000</title></polygon>
+<text x="1542.7" y="1333.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1542.7 1333.0)" fill="#111">FCS1_3 (sdgB)</text>
+<polygon points="1664.0,1298.0 1629.2,1298.0 1612.0,1309.0 1629.2,1320.0 1664.0,1320.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>GBEBHPEL_04249 | GBEBHPEL_04249 | Hydratase/dehydratase/isomerase | Crotonyl-CoA hydratase | PANEL HIT: paaG (Phenylacetate / Phenylacetate) | pident=37.109000 qcovs=96.000000</title></polygon>
+<text x="1638.0" y="1333.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1638.0 1333.0)" fill="#111">GBEBHPEL_04249 (paaG)</text>
+<text x="452.0" y="1246.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">123 bp</text>
+<text x="1664.0" y="1246.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">18,586 bp</text>
+<text x="24.0" y="1378.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="1388" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="1398.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="1388" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="1398.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="1388" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="1398.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="1388" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="1398.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="1410" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="1420.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="1410" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="1420.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="1410" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="1420.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="1410" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="1420.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="1432" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="1442.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="1432" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="1442.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="1432" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="1442.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="1432" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="1442.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="1454" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="1464.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

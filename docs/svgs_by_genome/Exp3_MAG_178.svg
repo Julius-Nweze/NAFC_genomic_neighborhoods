@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="492" viewBox="0 0 1700 492">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<text x="24.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_178: reference-panel operon/cluster gene maps</text>
+<text x="24.0" y="56.0" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#555">2 shortlisted clusters (&gt;=3 independent panel gene hits) for this genome</text>
+<text x="24.0" y="74.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="start" fill="#555">Arrow direction shows CDS strand. Color shows enzyme class. Bold outline = reference-panel seed hit.</text>
+<rect x="18" y="82" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="82" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="100.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_178_panelcluster_4664</text>
+<text x="32.0" y="118.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_178 | MAGs/Exp3_MAG_178_c_000000000005 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="134.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: hapE; paaA; paaB; paaE</text>
+<text x="32.0" y="146.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Hydroquinone; Phenylacetate</text>
+<line x1="452" y1="173.0" x2="1664" y2="173.0" stroke="#d0d0d0"/>
+<polygon points="479.5,162.0 461.1,162.0 452.0,173.0 461.1,184.0 479.5,184.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>JPOJALAI_01289 | paaB_1 | Accessory/other | 1,2-phenylacetyl-CoA epoxidase, subunit B | PANEL HIT: paaB (Phenylacetate / Phenylacetate) | pident=53.261000 qcovs=98.000000</title></polygon>
+<text x="465.7" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">paaB_1 (paaB)</text>
+<polygon points="573.3,162.0 501.3,162.0 483.3,173.0 501.3,184.0 573.3,184.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>JPOJALAI_01290 | paaA_1 | Accessory/other | 1,2-phenylacetyl-CoA epoxidase, subunit A | PANEL HIT: paaA (Phenylacetate / Phenylacetate) | pident=39.427000 qcovs=89.000000</title></polygon>
+<text x="528.3" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">paaA_1 (paaA)</text>
+<polygon points="586.2,162.0 669.9,162.0 687.9,173.0 669.9,184.0 586.2,184.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>JPOJALAI_01291 | paaE | Accessory/other | 1,2-phenylacetyl-CoA epoxidase, subunit E | PANEL HIT: paaE (Phenylacetate / Phenylacetate) | pident=42.105000 qcovs=99.000000</title></polygon>
+<text x="637.1" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">paaE (paaE)</text>
+<polygon points="689.2,162.0 867.1,162.0 885.1,173.0 867.1,184.0 689.2,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>JPOJALAI_01292 | JPOJALAI_01292 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="787.1" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">JPOJALAI_01292</text>
+<polygon points="886.0,162.0 966.6,162.0 984.6,173.0 966.6,184.0 886.0,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>JPOJALAI_01293 | JPOJALAI_01293 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="935.3" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">JPOJALAI_01293</text>
+<polygon points="1141.2,162.0 1003.1,162.0 985.1,173.0 1003.1,184.0 1141.2,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>JPOJALAI_01294 | phoV | Accessory/other | Alkaline phosphatase PhoV</title></polygon>
+<text x="1063.1" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">phoV</text>
+<polygon points="1321.8,162.0 1159.4,162.0 1141.4,173.0 1159.4,184.0 1321.8,184.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>JPOJALAI_01295 | pglF | Hydratase/dehydratase/isomerase | UDP-N-acetyl-alpha-D-glucosamine C6 dehydratase</title></polygon>
+<text x="1231.6" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">pglF</text>
+<polygon points="1389.2,162.0 1341.3,162.0 1323.3,173.0 1341.3,184.0 1389.2,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>JPOJALAI_01296 | JPOJALAI_01296 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1356.3" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">JPOJALAI_01296</text>
+<polygon points="1523.4,162.0 1409.3,162.0 1391.3,173.0 1409.3,184.0 1523.4,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>JPOJALAI_01297 | JPOJALAI_01297 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1457.3" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">JPOJALAI_01297</text>
+<polygon points="1664.0,162.0 1543.4,162.0 1525.4,173.0 1543.4,184.0 1664.0,184.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>JPOJALAI_01298 | aldA | Dehydrogenase/oxidoreductase | Putative aldehyde dehydrogenase AldA | PANEL HIT: hapE (Hydroquinone / Hydroquinone) | pident=42.766000 qcovs=96.000000</title></polygon>
+<text x="1594.7" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">aldA (hapE)</text>
+<text x="452.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">268,434 bp</text>
+<text x="1664.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">281,127 bp</text>
+<rect x="18" y="224" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="224" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="242.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_178_panelcluster_4674</text>
+<text x="32.0" y="260.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_178 | MAGs/Exp3_MAG_178_c_000000000017 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="276.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: paaA; paaB; paaC; paaD</text>
+<text x="32.0" y="288.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Phenylacetate</text>
+<line x1="452" y1="315.0" x2="1664" y2="315.0" stroke="#d0d0d0"/>
+<polygon points="679.2,304.0 470.0,304.0 452.0,315.0 470.0,326.0 679.2,326.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>JPOJALAI_03078 | paaD_2 | Accessory/other | Putative 1,2-phenylacetyl-CoA epoxidase, subunit D | PANEL HIT: paaD (Phenylacetate / Phenylacetate) | pident=51.948000 qcovs=87.000000</title></polygon>
+<text x="565.6" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">paaD_2 (paaD)</text>
+<polygon points="1067.4,304.0 728.3,304.0 710.3,315.0 728.3,326.0 1067.4,326.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>JPOJALAI_03079 | paaC_2 | Accessory/other | 1,2-phenylacetyl-CoA epoxidase, subunit C | PANEL HIT: paaC (Phenylacetate / Phenylacetate) | pident=40.650000 qcovs=98.000000</title></polygon>
+<text x="888.9" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">paaC_2 (paaC)</text>
+<polygon points="1211.9,304.0 1090.1,304.0 1072.1,315.0 1090.1,326.0 1211.9,326.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>JPOJALAI_03080 | paaB_2 | Accessory/other | 1,2-phenylacetyl-CoA epoxidase, subunit B | PANEL HIT: paaB (Phenylacetate / Phenylacetate) | pident=54.651000 qcovs=91.000000</title></polygon>
+<text x="1142.0" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">paaB_2 (paaB)</text>
+<polygon points="1664.0,304.0 1236.0,304.0 1218.0,315.0 1236.0,326.0 1664.0,326.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>JPOJALAI_03081 | paaA_2 | Accessory/other | 1,2-phenylacetyl-CoA epoxidase, subunit A | PANEL HIT: paaA (Phenylacetate / Phenylacetate) | pident=37.762000 qcovs=91.000000</title></polygon>
+<text x="1441.0" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">paaA_2 (paaA)</text>
+<text x="452.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">121,370 bp</text>
+<text x="1664.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">123,945 bp</text>
+<text x="24.0" y="384.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="394" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="404.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="394" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="404.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="394" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="404.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="394" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="404.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="416" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="426.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="416" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="426.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="416" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="426.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="416" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="426.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="438" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="448.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="438" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="448.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="438" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="448.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="438" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="448.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="460" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="470.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="492" viewBox="0 0 1700 492">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<text x="24.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_108: reference-panel operon/cluster gene maps</text>
+<text x="24.0" y="56.0" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#555">2 shortlisted clusters (&gt;=3 independent panel gene hits) for this genome</text>
+<text x="24.0" y="74.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="start" fill="#555">Arrow direction shows CDS strand. Color shows enzyme class. Bold outline = reference-panel seed hit.</text>
+<rect x="18" y="82" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="82" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="100.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_108_panelcluster_913</text>
+<text x="32.0" y="118.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_108 | MAGs/Exp3_MAG_108_c_000000000162 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="134.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: paaB; paaC; paaD; paaG; paaY</text>
+<text x="32.0" y="146.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Phenylacetate</text>
+<line x1="452" y1="173.0" x2="1664" y2="173.0" stroke="#d0d0d0"/>
+<polygon points="452.0,162.0 531.2,162.0 549.2,173.0 531.2,184.0 452.0,184.0" fill="#d9d9d9" stroke="#111" stroke-width="2.2"><title>FELBEILN_01044 | FELBEILN_01044 | Hypothetical/accessory | hypothetical protein | PANEL HIT: paaB (Phenylacetate / Phenylacetate) | pident=67.033000 qcovs=97.000000</title></polygon>
+<text x="500.6" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">FELBEILN_01044 (paaB)</text>
+<polygon points="550.7,162.0 726.3,162.0 744.3,173.0 726.3,184.0 550.7,184.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>FELBEILN_01045 | paaC | Accessory/other | 1,2-phenylacetyl-CoA epoxidase, subunit C | PANEL HIT: paaC (Phenylacetate / Phenylacetate) | pident=44.269000 qcovs=100.000000</title></polygon>
+<text x="647.5" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">paaC (paaC)</text>
+<polygon points="751.7,162.0 865.4,162.0 883.4,173.0 865.4,184.0 751.7,184.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>FELBEILN_01046 | paaD | Accessory/other | Putative 1,2-phenylacetyl-CoA epoxidase, subunit D | PANEL HIT: paaD (Phenylacetate / Phenylacetate) | pident=48.171000 qcovs=90.000000</title></polygon>
+<text x="817.6" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">paaD (paaD)</text>
+<polygon points="887.2,162.0 1067.4,162.0 1085.4,173.0 1067.4,184.0 887.2,184.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>FELBEILN_01047 | paaG | Hydratase/dehydratase/isomerase | 1,2-epoxyphenylacetyl-CoA isomerase | PANEL HIT: paaG (Phenylacetate / Phenylacetate) | pident=47.529000 qcovs=99.000000</title></polygon>
+<text x="986.3" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">paaG (paaG)</text>
+<polygon points="1087.7,162.0 1178.4,162.0 1196.4,173.0 1178.4,184.0 1087.7,184.0" fill="#b15928" stroke="#888" stroke-width="0.8"><title>FELBEILN_01048 | paaI | Hydrolase/decarboxylase/lyase | Acyl-coenzyme A thioesterase PaaI</title></polygon>
+<text x="1142.1" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">paaI</text>
+<polygon points="1471.7,162.0 1231.7,162.0 1213.7,173.0 1231.7,184.0 1471.7,184.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>FELBEILN_01049 | iolS_1 | Dehydrogenase/oxidoreductase | Aldo-keto reductase IolS</title></polygon>
+<text x="1342.7" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">iolS_1</text>
+<polygon points="1500.2,162.0 1646.0,162.0 1664.0,173.0 1646.0,184.0 1500.2,184.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>FELBEILN_01050 | caiE | Accessory/other | Carnitine operon protein CaiE | PANEL HIT: paaY (Phenylacetate / Phenylacetate) | pident=46.961000 qcovs=92.000000</title></polygon>
+<text x="1582.1" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">caiE (paaY)</text>
+<text x="452.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">262 bp</text>
+<text x="1664.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">5,012 bp</text>
+<rect x="18" y="224" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="224" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="242.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_108_panelcluster_919</text>
+<text x="32.0" y="260.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_108 | MAGs/Exp3_MAG_108_c_000000000337 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="276.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: chcB2; mlaE; mlaF</text>
+<text x="32.0" y="288.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Cyclohexanecarboxylate; Transportation</text>
+<line x1="452" y1="315.0" x2="1664" y2="315.0" stroke="#d0d0d0"/>
+<polygon points="519.0,304.0 470.0,304.0 452.0,315.0 470.0,326.0 519.0,326.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>FELBEILN_02118 | linC | Dehydrogenase/oxidoreductase | 2,5-dichloro-2,5-cyclohexadiene-1,4-diol dehydrogenase | PANEL HIT: chcB2 (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=39.683000 qcovs=99.000000</title></polygon>
+<text x="485.5" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 485.5 339.0)" fill="#111">linC (chcB2)</text>
+<polygon points="546.8,304.0 530.7,304.0 522.8,315.0 530.7,326.0 546.8,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>FELBEILN_02119 | FELBEILN_02119 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="534.8" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 534.8 339.0)" fill="#555">FELBEILN_02119</text>
+<polygon points="565.0,304.0 582.8,304.0 591.6,315.0 582.8,326.0 565.0,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>FELBEILN_02120 | FELBEILN_02120 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="578.3" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 578.3 339.0)" fill="#555">FELBEILN_02120</text>
+<polygon points="608.9,304.0 634.4,304.0 646.9,315.0 634.4,326.0 608.9,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>FELBEILN_02121 | FELBEILN_02121 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="627.9" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 627.9 339.0)" fill="#555">FELBEILN_02121</text>
+<polygon points="647.9,304.0 780.4,304.0 798.4,315.0 780.4,326.0 647.9,326.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>FELBEILN_02122 | glgP | Accessory/other | Glycogen phosphorylase</title></polygon>
+<text x="723.1" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 723.1 339.0)" fill="#555">glgP</text>
+<polygon points="795.3,304.0 998.2,304.0 1016.2,315.0 998.2,326.0 795.3,326.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>FELBEILN_02123 | mgtA | Transport/efflux | Magnesium-transporting ATPase, P-type 1</title></polygon>
+<text x="905.8" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 905.8 339.0)" fill="#555">mgtA</text>
+<polygon points="1043.2,304.0 1025.2,304.0 1016.3,315.0 1025.2,326.0 1043.2,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>FELBEILN_02124 | FELBEILN_02124 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1029.7" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1029.7 339.0)" fill="#555">FELBEILN_02124</text>
+<polygon points="1139.2,304.0 1066.0,304.0 1048.0,315.0 1066.0,326.0 1139.2,326.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>FELBEILN_02125 | rssB_5 | Regulator | Regulator of RpoS</title></polygon>
+<text x="1093.6" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1093.6 339.0)" fill="#555">rssB_5</text>
+<polygon points="1224.6,304.0 1183.8,304.0 1165.8,315.0 1183.8,326.0 1224.6,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>FELBEILN_02126 | FELBEILN_02126 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1195.2" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1195.2 339.0)" fill="#555">FELBEILN_02126</text>
+<polygon points="1437.0,304.0 1244.1,304.0 1226.1,315.0 1244.1,326.0 1437.0,326.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>FELBEILN_02127 | ppsA | Accessory/other | Phosphoenolpyruvate synthase</title></polygon>
+<text x="1331.6" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1331.6 339.0)" fill="#555">ppsA</text>
+<polygon points="1526.8,304.0 1456.5,304.0 1438.5,315.0 1456.5,326.0 1526.8,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>FELBEILN_02128 | FELBEILN_02128 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1482.7" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1482.7 339.0)" fill="#555">FELBEILN_02128</text>
+<polygon points="1596.0,304.0 1545.4,304.0 1527.4,315.0 1545.4,326.0 1596.0,326.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>FELBEILN_02129 | mkl_1 | Transport/efflux | putative ribonucleotide transport ATP-binding protein mkl | PANEL HIT: mlaF (Transportation / Transportation) | pident=36.842000 qcovs=84.000000</title></polygon>
+<text x="1561.7" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1561.7 339.0)" fill="#111">mkl_1 (mlaF)</text>
+<polygon points="1664.0,304.0 1614.3,304.0 1596.3,315.0 1614.3,326.0 1664.0,326.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>FELBEILN_02130 | mlaE_2 | Transport/efflux | Intermembrane phospholipid transport system permease protein MlaE | PANEL HIT: mlaE (Transportation / Transportation) | pident=31.602000 qcovs=88.000000</title></polygon>
+<text x="1630.1" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1630.1 339.0)" fill="#111">mlaE_2 (mlaE)</text>
+<text x="452.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">21,224 bp</text>
+<text x="1664.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">35,016 bp</text>
+<text x="24.0" y="384.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="394" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="404.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="394" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="404.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="394" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="404.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="394" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="404.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="416" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="426.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="416" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="426.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="416" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="426.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="416" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="426.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="438" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="448.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="438" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="448.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="438" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="448.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="438" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="448.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="460" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="470.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

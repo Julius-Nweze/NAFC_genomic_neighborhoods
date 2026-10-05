@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="492" viewBox="0 0 1700 492">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<text x="24.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_277: reference-panel operon/cluster gene maps</text>
+<text x="24.0" y="56.0" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#555">2 shortlisted clusters (&gt;=3 independent panel gene hits) for this genome</text>
+<text x="24.0" y="74.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="start" fill="#555">Arrow direction shows CDS strand. Color shows enzyme class. Bold outline = reference-panel seed hit.</text>
+<rect x="18" y="82" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="82" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="100.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_277_panelcluster_9826</text>
+<text x="32.0" y="118.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_277 | MAGs/Exp3_MAG_277_c_000000000011 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="134.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: mlaF; mpdB; ubiX</text>
+<text x="32.0" y="146.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkenes; Tannin; Transportation</text>
+<line x1="452" y1="173.0" x2="1664" y2="173.0" stroke="#d0d0d0"/>
+<polygon points="452.0,162.0 676.1,162.0 694.1,173.0 676.1,184.0 452.0,184.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>EHDDDHMH_01715 | mpdB_2 | Dehydrogenase/oxidoreductase | 2-methyl-1,2-propanediol dehydrogenase | PANEL HIT: mpdB (Alkenes / 2-methylpropene) | pident=30.819000 qcovs=80.000000</title></polygon>
+<text x="573.0" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">mpdB_2 (mpdB)</text>
+<polygon points="871.2,162.0 799.9,162.0 781.9,173.0 799.9,184.0 871.2,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>EHDDDHMH_01716 | sigK_1 | Accessory/other | ECF RNA polymerase sigma factor SigK</title></polygon>
+<text x="826.5" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">sigK_1</text>
+<polygon points="922.1,162.0 911.1,162.0 904.1,173.0 911.1,184.0 922.1,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>EHDDDHMH_01717 | EHDDDHMH_01717 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="913.1" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">EHDDDHMH_01717</text>
+<polygon points="979.2,162.0 1069.3,162.0 1087.3,173.0 1069.3,184.0 979.2,184.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>EHDDDHMH_01718 | mlaE_2 | Transport/efflux | Intermembrane phospholipid transport system permease protein MlaE</title></polygon>
+<text x="1033.2" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">mlaE_2</text>
+<polygon points="1086.7,162.0 1176.9,162.0 1194.9,173.0 1176.9,184.0 1086.7,184.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>EHDDDHMH_01719 | mkl_2 | Transport/efflux | putative ribonucleotide transport ATP-binding protein mkl | PANEL HIT: mlaF (Transportation / Transportation) | pident=35.366000 qcovs=91.000000</title></polygon>
+<text x="1140.8" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">mkl_2 (mlaF)</text>
+<polygon points="1194.3,162.0 1317.6,162.0 1335.6,173.0 1317.6,184.0 1194.3,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>EHDDDHMH_01720 | EHDDDHMH_01720 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1265.0" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">EHDDDHMH_01720</text>
+<polygon points="1498.2,162.0 1395.4,162.0 1377.4,173.0 1395.4,184.0 1498.2,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>EHDDDHMH_01721 | folD | Accessory/other | Bifunctional protein FolD protein</title></polygon>
+<text x="1437.8" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">folD</text>
+<polygon points="1664.0,162.0 1605.8,162.0 1587.8,173.0 1605.8,184.0 1664.0,184.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>EHDDDHMH_01723 | bsdB | Accessory/other | putative UbiX-like flavin prenyltransferase | PANEL HIT: ubiX (Tannin / Tannin) | pident=39.362000 qcovs=99.000000</title></polygon>
+<text x="1625.9" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">bsdB (ubiX)</text>
+<text x="452.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">15,816 bp</text>
+<text x="1664.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">24,692 bp</text>
+<rect x="18" y="224" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="224" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="242.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_277_panelcluster_9845</text>
+<text x="32.0" y="260.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_277 | MAGs/Exp3_MAG_277_c_000000000038 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="276.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: dszC; ssuD</text>
+<text x="32.0" y="288.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Aromatics</text>
+<line x1="452" y1="315.0" x2="1664" y2="315.0" stroke="#d0d0d0"/>
+<polygon points="722.2,304.0 470.0,304.0 452.0,315.0 470.0,326.0 722.2,326.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>EHDDDHMH_04553 | sfnC | Oxygenase/dioxygenase | putative FMNH2-dependent monooxygenase SfnC | PANEL HIT: dszC (Aromatics / Dibenzofuran) | pident=38.916000 qcovs=97.000000</title></polygon>
+<text x="587.1" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">sfnC (dszC)</text>
+<polygon points="993.8,304.0 751.0,304.0 733.0,315.0 751.0,326.0 993.8,326.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>EHDDDHMH_04554 | msuD | Oxygenase/dioxygenase | Methanesulfonate monooxygenase | PANEL HIT: ssuD (Alkanes / Auxillary alkane pathway) | pident=62.797000 qcovs=99.000000</title></polygon>
+<text x="863.4" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">msuD (ssuD)</text>
+<polygon points="1117.2,304.0 1013.6,304.0 995.6,315.0 1013.6,326.0 1117.2,326.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>EHDDDHMH_04555 | ssuE | Dehydrogenase/oxidoreductase | FMN reductase (NADPH)</title></polygon>
+<text x="1056.4" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">ssuE</text>
+<polygon points="1370.8,304.0 1136.8,304.0 1118.8,315.0 1136.8,326.0 1370.8,326.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>EHDDDHMH_04556 | sfnG | Oxygenase/dioxygenase | FMNH(2)-dependent dimethylsulfone monooxygenase | PANEL HIT: ssuD (Alkanes / Auxillary alkane pathway) | pident=30.678000 qcovs=88.000000</title></polygon>
+<text x="1244.8" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">sfnG (ssuD)</text>
+<polygon points="1664.0,304.0 1398.3,304.0 1380.3,315.0 1398.3,326.0 1664.0,326.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>EHDDDHMH_04557 | soxC | Accessory/other | Dibenzothiophene desulfurization enzyme C | PANEL HIT: dszC (Aromatics / Dibenzofuran) | pident=33.577000 qcovs=96.000000</title></polygon>
+<text x="1522.1" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">soxC (dszC)</text>
+<text x="452.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">14,965 bp</text>
+<text x="1664.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">20,346 bp</text>
+<text x="24.0" y="384.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="394" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="404.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="394" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="404.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="394" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="404.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="394" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="404.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="416" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="426.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="416" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="426.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="416" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="426.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="416" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="426.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="438" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="448.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="438" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="448.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="438" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="448.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="438" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="448.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="460" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="470.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

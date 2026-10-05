@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="492" viewBox="0 0 1700 492">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<text x="24.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_163: reference-panel operon/cluster gene maps</text>
+<text x="24.0" y="56.0" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#555">2 shortlisted clusters (&gt;=3 independent panel gene hits) for this genome</text>
+<text x="24.0" y="74.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="start" fill="#555">Arrow direction shows CDS strand. Color shows enzyme class. Bold outline = reference-panel seed hit.</text>
+<rect x="18" y="82" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="82" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="100.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_163_panelcluster_3941</text>
+<text x="32.0" y="118.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_163 | MAGs/Exp3_MAG_163_c_000000000074 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="134.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: hapE; pegC</text>
+<text x="32.0" y="146.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Hydroquinone; Plastics</text>
+<line x1="452" y1="173.0" x2="1664" y2="173.0" stroke="#d0d0d0"/>
+<polygon points="734.0,162.0 470.0,162.0 452.0,173.0 470.0,184.0 734.0,184.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>ONOKBDLE_00699 | ald_1 | Dehydrogenase/oxidoreductase | 3-succinoylsemialdehyde-pyridine dehydrogenase | PANEL HIT: pegC (Plastics / PEG) | pident=51.606000 qcovs=99.000000</title></polygon>
+<text x="593.0" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">ald_1 (pegC)</text>
+<polygon points="1028.7,162.0 762.9,162.0 744.9,173.0 762.9,184.0 1028.7,184.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>ONOKBDLE_00700 | ald_2 | Dehydrogenase/oxidoreductase | 3-succinoylsemialdehyde-pyridine dehydrogenase | PANEL HIT: pegC (Plastics / PEG) | pident=51.627000 qcovs=99.000000</title></polygon>
+<text x="886.8" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">ald_2 (pegC)</text>
+<polygon points="1070.7,162.0 1230.5,162.0 1248.5,173.0 1230.5,184.0 1070.7,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>ONOKBDLE_00701 | ONOKBDLE_00701 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1159.6" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">ONOKBDLE_00701</text>
+<polygon points="1305.8,162.0 1263.3,162.0 1245.3,173.0 1263.3,184.0 1305.8,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>ONOKBDLE_00702 | tyrA | Accessory/other | T-protein</title></polygon>
+<text x="1275.5" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">tyrA</text>
+<polygon points="1363.6,162.0 1646.0,162.0 1664.0,173.0 1646.0,184.0 1363.6,184.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>ONOKBDLE_00703 | adh_1 | Dehydrogenase/oxidoreductase | Aldehyde dehydrogenase | PANEL HIT: hapE (Hydroquinone / Hydroquinone) | pident=40.412000 qcovs=98.000000</title></polygon>
+<text x="1513.8" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">adh_1 (hapE)</text>
+<text x="452.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">6,698 bp</text>
+<text x="1664.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">12,834 bp</text>
+<rect x="18" y="224" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="224" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="242.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_163_panelcluster_3963</text>
+<text x="32.0" y="260.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_163 | MAGs/Exp3_MAG_163_c_000000000276 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="276.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: crt; hapE; uctC</text>
+<text x="32.0" y="288.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Beta-oxidation; Hydroquinone; Oxalate</text>
+<line x1="452" y1="315.0" x2="1664" y2="315.0" stroke="#d0d0d0"/>
+<polygon points="452.0,304.0 499.0,304.0 517.0,315.0 499.0,326.0 452.0,326.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>ONOKBDLE_02539 | caiD_2 | Hydratase/dehydratase/isomerase | Carnitinyl-CoA dehydratase | PANEL HIT: crt (Beta-oxidation / Beta-oxidation) | pident=34.510000 qcovs=94.000000</title></polygon>
+<text x="484.5" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 484.5 339.0)" fill="#111">caiD_2 (crt)</text>
+<polygon points="517.2,304.0 576.4,304.0 594.4,315.0 576.4,326.0 517.2,326.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>ONOKBDLE_02540 | lcdH_4 | Dehydrogenase/oxidoreductase | L-carnitine dehydrogenase</title></polygon>
+<text x="555.8" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 555.8 339.0)" fill="#555">lcdH_4</text>
+<polygon points="680.2,304.0 612.1,304.0 594.1,315.0 612.1,326.0 680.2,326.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>ONOKBDLE_02541 | cdhR_5 | Regulator | HTH-type transcriptional regulator CdhR</title></polygon>
+<text x="637.2" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 637.2 339.0)" fill="#555">cdhR_5</text>
+<polygon points="689.1,304.0 743.0,304.0 761.0,315.0 743.0,326.0 689.1,326.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>ONOKBDLE_02542 | kce_1 | Accessory/other | 3-keto-5-aminohexanoate cleavage enzyme</title></polygon>
+<text x="725.1" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 725.1 339.0)" fill="#555">kce_1</text>
+<polygon points="760.7,304.0 826.4,304.0 844.4,315.0 826.4,326.0 760.7,326.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>ONOKBDLE_02543 | potA_6 | Accessory/other | Spermidine/putrescine import ATP-binding protein PotA</title></polygon>
+<text x="802.5" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 802.5 339.0)" fill="#555">potA_6</text>
+<polygon points="839.6,304.0 921.4,304.0 939.4,315.0 921.4,326.0 839.6,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>ONOKBDLE_02544 | ONOKBDLE_02544 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="889.5" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 889.5 339.0)" fill="#555">ONOKBDLE_02544</text>
+<polygon points="943.7,304.0 994.4,304.0 1012.4,315.0 994.4,326.0 943.7,326.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>ONOKBDLE_02545 | potH | Transport/efflux | Putrescine transport system permease protein PotH</title></polygon>
+<text x="978.0" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 978.0 339.0)" fill="#555">potH</text>
+<polygon points="1012.0,304.0 1058.4,304.0 1076.4,315.0 1058.4,326.0 1012.0,326.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>ONOKBDLE_02546 | ydcV_4 | Transport/efflux | Inner membrane ABC transporter permease protein YdcV</title></polygon>
+<text x="1044.2" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1044.2 339.0)" fill="#555">ydcV_4</text>
+<polygon points="1077.7,304.0 1153.7,304.0 1171.7,315.0 1153.7,326.0 1077.7,326.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>ONOKBDLE_02547 | carC | Dehydrogenase/oxidoreductase | Caffeyl-CoA reductase-Etf complex subunit CarC</title></polygon>
+<text x="1124.7" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1124.7 339.0)" fill="#555">carC</text>
+<polygon points="1171.4,304.0 1322.5,304.0 1340.5,315.0 1322.5,326.0 1171.4,326.0" fill="#1f78b4" stroke="#888" stroke-width="0.8"><title>ONOKBDLE_02548 | FCS1_2 | CoA ligase/synthetase | Trans-feruloyl-CoA synthase FCS1</title></polygon>
+<text x="1255.9" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1255.9 339.0)" fill="#555">FCS1_2</text>
+<polygon points="1460.4,304.0 1358.2,304.0 1340.2,315.0 1358.2,326.0 1460.4,326.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>ONOKBDLE_02549 | tgnC | Dehydrogenase/oxidoreductase | (Z)-2-((N-methylformamido)methylene)-5-hydroxybutyrolactone dehydrogenase | PANEL HIT: hapE (Hydroquinone / Hydroquinone) | pident=46.598000 qcovs=99.000000</title></polygon>
+<text x="1400.3" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1400.3 339.0)" fill="#111">tgnC (hapE)</text>
+<polygon points="1471.8,304.0 1493.1,304.0 1503.6,315.0 1493.1,326.0 1471.8,326.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>ONOKBDLE_02550 | yabJ | Accessory/other | 2-iminobutanoate/2-iminopropanoate deaminase</title></polygon>
+<text x="1487.7" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1487.7 339.0)" fill="#555">yabJ</text>
+<polygon points="1503.7,304.0 1550.3,304.0 1568.3,315.0 1550.3,326.0 1503.7,326.0" fill="#b15928" stroke="#888" stroke-width="0.8"><title>ONOKBDLE_02551 | catD_1 | Hydrolase/decarboxylase/lyase | 3-oxoadipate enol-lactonase 2</title></polygon>
+<text x="1536.0" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1536.0 339.0)" fill="#555">catD_1</text>
+<polygon points="1572.3,304.0 1646.0,304.0 1664.0,315.0 1646.0,326.0 1572.3,326.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>ONOKBDLE_02552 | uctC_1 | Thiolase/transferase | Acetyl-CoA:oxalate CoA-transferase | PANEL HIT: uctC (Oxalate / Oxalate) | pident=35.328000 qcovs=86.000000</title></polygon>
+<text x="1618.1" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1618.1 339.0)" fill="#111">uctC_1 (uctC)</text>
+<text x="452.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">2,545 bp</text>
+<text x="1664.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">17,524 bp</text>
+<text x="24.0" y="384.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="394" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="404.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="394" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="404.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="394" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="404.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="394" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="404.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="416" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="426.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="416" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="426.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="416" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="426.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="416" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="426.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="438" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="448.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="438" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="448.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="438" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="448.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="438" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="448.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="460" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="470.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

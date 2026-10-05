@@ -1,0 +1,328 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="2054" viewBox="0 0 1700 2054">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<text x="24.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_256: reference-panel operon/cluster gene maps</text>
+<text x="24.0" y="56.0" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#555">13 shortlisted clusters (&gt;=3 independent panel gene hits) for this genome</text>
+<text x="24.0" y="74.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="start" fill="#555">Arrow direction shows CDS strand. Color shows enzyme class. Bold outline = reference-panel seed hit.</text>
+<rect x="18" y="82" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="82" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="100.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_256_panelcluster_8246</text>
+<text x="32.0" y="118.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_256 | MAGs/Exp3_MAG_256_c_000000000013 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="134.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: hapE; nylB; pnbA</text>
+<text x="32.0" y="146.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Hydroquinone; Plastics</text>
+<line x1="452" y1="173.0" x2="1664" y2="173.0" stroke="#d0d0d0"/>
+<polygon points="452.0,162.0 528.8,162.0 546.8,173.0 528.8,184.0 452.0,184.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>ENPAFGMO_00193 | nylB | Hydrolase/decarboxylase/lyase | 6-aminohexanoate-dimer hydrolase | PANEL HIT: nylB (Plastics / Nylon) | pident=34.509000 qcovs=93.000000</title></polygon>
+<text x="499.4" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 499.4 197.0)" fill="#111">nylB (nylB)</text>
+<polygon points="547.6,162.0 570.5,162.0 581.8,173.0 570.5,184.0 547.6,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>ENPAFGMO_00194 | ENPAFGMO_00194 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="564.7" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 564.7 197.0)" fill="#555">ENPAFGMO_00194</text>
+<polygon points="643.0,162.0 608.0,162.0 590.8,173.0 608.0,184.0 643.0,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>ENPAFGMO_00195 | ENPAFGMO_00195 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="616.9" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 616.9 197.0)" fill="#555">ENPAFGMO_00195</text>
+<polygon points="659.6,162.0 817.5,162.0 835.5,173.0 817.5,184.0 659.6,184.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>ENPAFGMO_00196 | btuB_1 | Transport/efflux | Vitamin B12 transporter BtuB</title></polygon>
+<text x="747.5" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 747.5 197.0)" fill="#555">btuB_1</text>
+<polygon points="835.4,162.0 933.8,162.0 951.8,173.0 933.8,184.0 835.4,184.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>ENPAFGMO_00197 | pnbA_1 | Accessory/other | Para-nitrobenzyl esterase | PANEL HIT: pnbA (Plastics / PET) | pident=40.447000 qcovs=97.000000</title></polygon>
+<text x="893.6" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 893.6 197.0)" fill="#111">pnbA_1 (pnbA)</text>
+<polygon points="1104.3,162.0 1005.9,162.0 987.9,173.0 1005.9,184.0 1104.3,184.0" fill="#a6cee3" stroke="#888" stroke-width="0.8"><title>ENPAFGMO_00198 | carA | Thiolase/transferase | Caffeate CoA-transferase</title></polygon>
+<text x="1046.1" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1046.1 197.0)" fill="#555">carA</text>
+<polygon points="1194.7,162.0 1123.4,162.0 1105.4,173.0 1123.4,184.0 1194.7,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>ENPAFGMO_00199 | ENPAFGMO_00199 | Accessory/other | Acetyl-CoA acetyltransferase</title></polygon>
+<text x="1150.0" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1150.0 197.0)" fill="#555">ENPAFGMO_00199</text>
+<polygon points="1207.5,162.0 1251.2,162.0 1269.2,173.0 1251.2,184.0 1207.5,184.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>ENPAFGMO_00200 | dmdD | Hydratase/dehydratase/isomerase | Methylthioacryloyl-CoA hydratase</title></polygon>
+<text x="1238.3" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1238.3 197.0)" fill="#555">dmdD</text>
+<polygon points="1268.9,162.0 1390.2,162.0 1408.2,173.0 1390.2,184.0 1268.9,184.0" fill="#1f78b4" stroke="#888" stroke-width="0.8"><title>ENPAFGMO_00201 | menE | CoA ligase/synthetase | 2-succinylbenzoate--CoA ligase</title></polygon>
+<text x="1338.5" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1338.5 197.0)" fill="#555">menE</text>
+<polygon points="1410.0,162.0 1448.6,162.0 1466.6,173.0 1448.6,184.0 1410.0,184.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>ENPAFGMO_00202 | ENPAFGMO_00202 | Dehydrogenase/oxidoreductase | putative oxidoreductase</title></polygon>
+<text x="1438.3" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1438.3 197.0)" fill="#555">ENPAFGMO_00202</text>
+<polygon points="1472.6,162.0 1495.8,162.0 1507.2,173.0 1495.8,184.0 1472.6,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>ENPAFGMO_00203 | ENPAFGMO_00203 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1489.9" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1489.9 197.0)" fill="#555">ENPAFGMO_00203</text>
+<polygon points="1527.4,162.0 1544.4,162.0 1552.7,173.0 1544.4,184.0 1527.4,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>ENPAFGMO_00204 | ENPAFGMO_00204 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1540.1" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1540.1 197.0)" fill="#555">ENPAFGMO_00204</text>
+<polygon points="1554.1,162.0 1646.0,162.0 1664.0,173.0 1646.0,184.0 1554.1,184.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>ENPAFGMO_00205 | gbsA | Dehydrogenase/oxidoreductase | Betaine aldehyde dehydrogenase | PANEL HIT: hapE (Hydroquinone / Hydroquinone) | pident=44.877000 qcovs=99.000000</title></polygon>
+<text x="1609.0" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1609.0 197.0)" fill="#111">gbsA (hapE)</text>
+<text x="452.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">9,643 bp</text>
+<text x="1664.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">26,014 bp</text>
+<rect x="18" y="224" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="224" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="242.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_256_panelcluster_8249</text>
+<text x="32.0" y="260.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_256 | MAGs/Exp3_MAG_256_c_000000000027 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="276.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: galA; galC; galD; galR; galT</text>
+<text x="32.0" y="288.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Gallate</text>
+<line x1="452" y1="315.0" x2="1664" y2="315.0" stroke="#d0d0d0"/>
+<polygon points="676.1,304.0 470.0,304.0 452.0,315.0 470.0,326.0 676.1,326.0" fill="#fdbf6f" stroke="#111" stroke-width="2.2"><title>ENPAFGMO_00642 | argP_1 | Regulator | HTH-type transcriptional regulator ArgP | PANEL HIT: galR (Gallate / Gallate) | pident=48.101000 qcovs=97.000000</title></polygon>
+<text x="564.1" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">argP_1 (galR)</text>
+<polygon points="698.6,304.0 874.2,304.0 892.2,315.0 874.2,326.0 698.6,326.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>ENPAFGMO_00643 | galD | Accessory/other | 4-oxalomesaconate tautomerase | PANEL HIT: galD (Gallate / Gallate) | pident=57.759000 qcovs=96.000000</title></polygon>
+<text x="795.4" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">galD (galD)</text>
+<polygon points="891.4,304.0 1055.9,304.0 1073.9,315.0 1055.9,326.0 891.4,326.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>ENPAFGMO_00644 | ligJ_1 | Hydratase/dehydratase/isomerase | 2-keto-4-carboxy-3-hexenedioate hydratase</title></polygon>
+<text x="982.7" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">ligJ_1</text>
+<polygon points="1073.2,304.0 1175.4,304.0 1193.4,315.0 1175.4,326.0 1073.2,326.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>ENPAFGMO_00645 | proA | Hydrolase/decarboxylase/lyase | 4-hydroxy-4-methyl-2-oxoglutarate aldolase/4-carboxy-4-hydroxy-2-oxoadipate aldolase | PANEL HIT: galC (Gallate / Gallate) | pident=61.435000 qcovs=94.000000</title></polygon>
+<text x="1133.3" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">proA (galC)</text>
+<polygon points="1200.5,304.0 1414.5,304.0 1432.5,315.0 1414.5,326.0 1200.5,326.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>ENPAFGMO_00646 | pcaK_1 | Transport/efflux | 4-hydroxybenzoate transporter PcaK | PANEL HIT: galT (Gallate / Gallate) | pident=59.747000 qcovs=88.000000</title></polygon>
+<text x="1316.5" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pcaK_1 (galT)</text>
+<polygon points="1433.0,304.0 1646.0,304.0 1664.0,315.0 1646.0,326.0 1433.0,326.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>ENPAFGMO_00647 | mhpB_1 | Oxygenase/dioxygenase | 2,3-dihydroxyphenylpropionate/2,3-dihydroxicinnamic acid 1,2-dioxygenase | PANEL HIT: galA (Gallate / Gallate) | pident=62.798000 qcovs=99.000000</title></polygon>
+<text x="1548.5" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">mhpB_1 (galA)</text>
+<text x="452.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">40,218 bp</text>
+<text x="1664.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">47,112 bp</text>
+<rect x="18" y="366" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="366" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="384.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_256_panelcluster_8250</text>
+<text x="32.0" y="402.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_256 | MAGs/Exp3_MAG_256_c_000000000029 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="418.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: atdA1; hpcE; nagR</text>
+<text x="32.0" y="430.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Naphthalene</text>
+<line x1="452" y1="457.0" x2="1664" y2="457.0" stroke="#d0d0d0"/>
+<polygon points="517.5,446.0 470.0,446.0 452.0,457.0 470.0,468.0 517.5,468.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>ENPAFGMO_00673 | pcpR_1 | Accessory/other | PCP degradation transcriptional activation protein | PANEL HIT: nagR (Naphthalene / Naphthalene) | pident=42.244000 qcovs=100.000000</title></polygon>
+<text x="484.7" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 484.7 481.0)" fill="#111">pcpR_1 (nagR)</text>
+<polygon points="549.6,446.0 529.3,446.0 519.4,457.0 529.3,468.0 549.6,468.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>ENPAFGMO_00674 | ENPAFGMO_00674 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="534.5" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 534.5 481.0)" fill="#555">ENPAFGMO_00674</text>
+<polygon points="563.2,446.0 618.2,446.0 636.2,457.0 618.2,468.0 563.2,468.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>ENPAFGMO_00675 | ENPAFGMO_00675 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="599.7" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 599.7 481.0)" fill="#555">ENPAFGMO_00675</text>
+<polygon points="635.9,446.0 682.3,446.0 700.3,457.0 682.3,468.0 635.9,468.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>ENPAFGMO_00676 | ENPAFGMO_00676 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="668.1" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 668.1 481.0)" fill="#555">ENPAFGMO_00676</text>
+<polygon points="702.5,446.0 746.1,446.0 764.1,457.0 746.1,468.0 702.5,468.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>ENPAFGMO_00677 | yisK | Accessory/other | putative protein YisK | PANEL HIT: hpcE (Aromatics / Homoprotocatechuate) | pident=39.474000 qcovs=50.000000</title></polygon>
+<text x="733.3" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 733.3 481.0)" fill="#111">yisK (hpcE)</text>
+<polygon points="764.4,446.0 858.7,446.0 876.7,457.0 858.7,468.0 764.4,468.0" fill="#d73027" stroke="#888" stroke-width="0.8"><title>ENPAFGMO_00678 | tsdB | Oxygenase/dioxygenase | putative NADH-specific resorcinol 4-hydroxylase</title></polygon>
+<text x="820.5" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 820.5 481.0)" fill="#555">tsdB</text>
+<polygon points="893.2,446.0 985.7,446.0 1003.7,457.0 985.7,468.0 893.2,468.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>ENPAFGMO_00679 | trg_1 | Accessory/other | Methyl-accepting chemotaxis protein III</title></polygon>
+<text x="948.4" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 948.4 481.0)" fill="#555">trg_1</text>
+<polygon points="1064.7,446.0 1022.2,446.0 1004.2,457.0 1022.2,468.0 1064.7,468.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>ENPAFGMO_00680 | ENPAFGMO_00680 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1034.5" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1034.5 481.0)" fill="#555">ENPAFGMO_00680</text>
+<polygon points="1068.6,446.0 1109.0,446.0 1127.0,457.0 1109.0,468.0 1068.6,468.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>ENPAFGMO_00681 | yxeN | Transport/efflux | putative amino-acid permease protein YxeN</title></polygon>
+<text x="1097.8" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1097.8 481.0)" fill="#555">yxeN</text>
+<polygon points="1137.8,446.0 1196.5,446.0 1214.5,457.0 1196.5,468.0 1137.8,468.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>ENPAFGMO_00682 | ENPAFGMO_00682 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1176.1" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1176.1 481.0)" fill="#555">ENPAFGMO_00682</text>
+<polygon points="1224.4,446.0 1255.9,446.0 1271.5,457.0 1255.9,468.0 1224.4,468.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>ENPAFGMO_00683 | ENPAFGMO_00683 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1247.9" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1247.9 481.0)" fill="#555">ENPAFGMO_00683</text>
+<polygon points="1295.3,446.0 1281.5,446.0 1274.5,457.0 1281.5,468.0 1295.3,468.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>ENPAFGMO_00684 | ENPAFGMO_00684 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1284.9" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1284.9 481.0)" fill="#555">ENPAFGMO_00684</text>
+<polygon points="1457.8,446.0 1322.9,446.0 1304.9,457.0 1322.9,468.0 1457.8,468.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>ENPAFGMO_00685 | fatA_1 | Accessory/other | Ferric-anguibactin receptor FatA</title></polygon>
+<text x="1381.3" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1381.3 481.0)" fill="#555">fatA_1</text>
+<polygon points="1565.1,446.0 1491.7,446.0 1473.7,457.0 1491.7,468.0 1565.1,468.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>ENPAFGMO_00686 | puuB_2 | Dehydrogenase/oxidoreductase | Gamma-glutamylputrescine oxidoreductase</title></polygon>
+<text x="1519.4" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1519.4 481.0)" fill="#555">puuB_2</text>
+<polygon points="1664.0,446.0 1583.9,446.0 1565.9,457.0 1583.9,468.0 1664.0,468.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>ENPAFGMO_00687 | puuA_1 | Accessory/other | Gamma-glutamylputrescine synthetase PuuA | PANEL HIT: atdA1 (Aromatics / Aniline) | pident=30.179000 qcovs=76.000000</title></polygon>
+<text x="1614.9" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1614.9 481.0)" fill="#111">puuA_1 (atdA1)</text>
+<text x="452.0" y="394.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">3,466 bp</text>
+<text x="1664.0" y="394.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">20,397 bp</text>
+<rect x="18" y="508" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="508" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="526.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_256_panelcluster_8259</text>
+<text x="32.0" y="544.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_256 | MAGs/Exp3_MAG_256_c_000000000064 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="560.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: paaB; paaC; paaD; paaE; paaZ</text>
+<text x="32.0" y="572.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Phenylacetate</text>
+<line x1="452" y1="599.0" x2="1664" y2="599.0" stroke="#d0d0d0"/>
+<polygon points="452.0,588.0 493.1,588.0 511.1,599.0 493.1,610.0 452.0,610.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>ENPAFGMO_01348 | paaB | Accessory/other | 1,2-phenylacetyl-CoA epoxidase, subunit B | PANEL HIT: paaB (Phenylacetate / Phenylacetate) | pident=58.696000 qcovs=98.000000</title></polygon>
+<text x="481.5" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">paaB (paaB)</text>
+<polygon points="510.9,588.0 637.3,588.0 655.3,599.0 637.3,610.0 510.9,610.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>ENPAFGMO_01349 | paaC | Accessory/other | 1,2-phenylacetyl-CoA epoxidase, subunit C | PANEL HIT: paaC (Phenylacetate / Phenylacetate) | pident=44.048000 qcovs=99.000000</title></polygon>
+<text x="583.1" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">paaC (paaC)</text>
+<polygon points="655.1,588.0 733.4,588.0 751.4,599.0 733.4,610.0 655.1,610.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>ENPAFGMO_01350 | paaD | Accessory/other | Putative 1,2-phenylacetyl-CoA epoxidase, subunit D | PANEL HIT: paaD (Phenylacetate / Phenylacetate) | pident=46.584000 qcovs=90.000000</title></polygon>
+<text x="703.3" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">paaD (paaD)</text>
+<polygon points="752.9,588.0 935.1,588.0 953.1,599.0 935.1,610.0 752.9,610.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>ENPAFGMO_01351 | paaE | Accessory/other | 1,2-phenylacetyl-CoA epoxidase, subunit E | PANEL HIT: paaE (Phenylacetate / Phenylacetate) | pident=43.923000 qcovs=99.000000</title></polygon>
+<text x="853.0" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">paaE (paaE)</text>
+<polygon points="955.6,588.0 1055.2,588.0 1073.2,599.0 1055.2,610.0 955.6,610.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>ENPAFGMO_01352 | kstR2 | Regulator | HTH-type transcriptional repressor KstR2</title></polygon>
+<text x="1014.4" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">kstR2</text>
+<polygon points="1075.6,588.0 1267.6,588.0 1285.6,599.0 1267.6,610.0 1075.6,610.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>ENPAFGMO_01353 | ENPAFGMO_01353 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1180.6" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">ENPAFGMO_01353</text>
+<polygon points="1286.6,588.0 1646.0,588.0 1664.0,599.0 1646.0,610.0 1286.6,610.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>ENPAFGMO_01354 | paaZ | Hydrolase/decarboxylase/lyase | Bifunctional protein PaaZ | PANEL HIT: paaZ (Phenylacetate / Phenylacetate) | pident=57.755000 qcovs=99.000000</title></polygon>
+<text x="1475.3" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">paaZ (paaZ)</text>
+<text x="452.0" y="536.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">539 bp</text>
+<text x="1664.0" y="536.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">7,185 bp</text>
+<rect x="18" y="650" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="650" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="668.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_256_panelcluster_8273</text>
+<text x="32.0" y="686.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_256 | MAGs/Exp3_MAG_256_c_000000000133 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="702.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: pcaB; pcaC; pcaG; pcaH</text>
+<text x="32.0" y="714.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Protocatechuate</text>
+<line x1="452" y1="741.0" x2="1664" y2="741.0" stroke="#d0d0d0"/>
+<polygon points="452.0,730.0 654.4,730.0 672.4,741.0 654.4,752.0 452.0,752.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>ENPAFGMO_02164 | pcaH | Oxygenase/dioxygenase | Protocatechuate 3,4-dioxygenase beta chain | PANEL HIT: pcaH (Protocatechuate / Protocatechuate) | pident=61.905000 qcovs=97.000000</title></polygon>
+<text x="562.2" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pcaH (pcaH)</text>
+<polygon points="671.3,730.0 832.9,730.0 850.9,741.0 832.9,752.0 671.3,752.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>ENPAFGMO_02165 | pcaG | Oxygenase/dioxygenase | Protocatechuate 3,4-dioxygenase alpha chain | PANEL HIT: pcaG (Protocatechuate / Protocatechuate) | pident=53.960000 qcovs=98.000000</title></polygon>
+<text x="761.1" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pcaG (pcaG)</text>
+<polygon points="879.2,730.0 1268.2,730.0 1286.2,741.0 1268.2,752.0 879.2,752.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>ENPAFGMO_02166 | pcaB | Hydratase/dehydratase/isomerase | 3-carboxy-cis,cis-muconate cycloisomerase | PANEL HIT: pcaB (Protocatechuate / Protocatechuate) | pident=46.353000 qcovs=99.000000</title></polygon>
+<text x="1082.7" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pcaB (pcaB)</text>
+<polygon points="1290.9,730.0 1646.0,730.0 1664.0,741.0 1646.0,752.0 1290.9,752.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>ENPAFGMO_02167 | rutD_2 | Hydrolase/decarboxylase/lyase | Putative aminoacrylate hydrolase RutD | PANEL HIT: pcaC (Protocatechuate / Protocatechuate) | pident=35.156000 qcovs=96.000000</title></polygon>
+<text x="1477.4" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">rutD_2 (pcaC)</text>
+<text x="452.0" y="678.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">9,446 bp</text>
+<text x="1664.0" y="678.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">13,635 bp</text>
+<rect x="18" y="792" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="792" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="810.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_256_panelcluster_8280</text>
+<text x="32.0" y="828.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_256 | MAGs/Exp3_MAG_256_c_000000000180 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="844.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: galR; nagR; pobA</text>
+<text x="32.0" y="856.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Gallate; Naphthalene</text>
+<line x1="452" y1="883.0" x2="1664" y2="883.0" stroke="#d0d0d0"/>
+<polygon points="587.2,872.0 470.0,872.0 452.0,883.0 470.0,894.0 587.2,894.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>ENPAFGMO_02790 | pcpR_3 | Accessory/other | PCP degradation transcriptional activation protein | PANEL HIT: nagR (Naphthalene / Naphthalene) | pident=38.983000 qcovs=98.000000</title></polygon>
+<text x="519.6" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pcpR_3 (nagR)</text>
+<polygon points="599.9,872.0 755.7,872.0 773.7,883.0 755.7,894.0 599.9,894.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>ENPAFGMO_02791 | pobA | Oxygenase/dioxygenase | p-hydroxybenzoate hydroxylase | PANEL HIT: pobA (Aromatics / Toluene) | pident=66.324000 qcovs=99.000000</title></polygon>
+<text x="686.8" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pobA (pobA)</text>
+<polygon points="921.4,872.0 793.1,872.0 775.1,883.0 793.1,894.0 921.4,894.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>ENPAFGMO_02792 | ENPAFGMO_02792 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="848.3" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">ENPAFGMO_02792</text>
+<polygon points="1003.4,872.0 942.5,872.0 924.5,883.0 942.5,894.0 1003.4,894.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>ENPAFGMO_02793 | ENPAFGMO_02793 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="964.0" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">ENPAFGMO_02793</text>
+<polygon points="1026.2,872.0 1053.2,872.0 1066.5,883.0 1053.2,894.0 1026.2,894.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>ENPAFGMO_02794 | ENPAFGMO_02794 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1046.3" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">ENPAFGMO_02794</text>
+<polygon points="1318.3,872.0 1099.6,872.0 1081.6,883.0 1099.6,894.0 1318.3,894.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>ENPAFGMO_02795 | ENPAFGMO_02795 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1199.9" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">ENPAFGMO_02795</text>
+<polygon points="1400.1,872.0 1499.6,872.0 1517.6,883.0 1499.6,894.0 1400.1,894.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>ENPAFGMO_02796 | ped_2 | Dehydrogenase/oxidoreductase | (S)-1-Phenylethanol dehydrogenase</title></polygon>
+<text x="1458.8" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">ped_2</text>
+<polygon points="1664.0,872.0 1535.7,872.0 1517.7,883.0 1535.7,894.0 1664.0,894.0" fill="#fdbf6f" stroke="#111" stroke-width="2.2"><title>ENPAFGMO_02797 | gbpR_1 | Regulator | HTH-type transcriptional regulator GbpR | PANEL HIT: galR (Gallate / Gallate) | pident=32.423000 qcovs=74.000000</title></polygon>
+<text x="1590.9" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">gbpR_1 (galR)</text>
+<text x="452.0" y="820.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">709 bp</text>
+<text x="1664.0" y="820.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">8,911 bp</text>
+<rect x="18" y="934" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="934" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="952.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_256_panelcluster_8294</text>
+<text x="32.0" y="970.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_256 | MAGs/Exp3_MAG_256_c_000000000233 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="986.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: hbd; pcaI; pcaJ</text>
+<text x="32.0" y="998.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Catechol-ortho; Plastics</text>
+<line x1="452" y1="1025.0" x2="1664" y2="1025.0" stroke="#d0d0d0"/>
+<polygon points="866.0,1014.0 470.0,1014.0 452.0,1025.0 470.0,1036.0 866.0,1036.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>ENPAFGMO_03501 | bdhA | Dehydrogenase/oxidoreductase | D-beta-hydroxybutyrate dehydrogenase | PANEL HIT: hbd (Plastics / P3HV/PHA/PHBV) | pident=42.412000 qcovs=97.000000</title></polygon>
+<text x="659.0" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">bdhA (hbd)</text>
+<polygon points="1292.8,1014.0 955.4,1014.0 937.4,1025.0 955.4,1036.0 1292.8,1036.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>ENPAFGMO_03502 | pcaJ_1 | Thiolase/transferase | 3-oxoadipate CoA-transferase subunit B | PANEL HIT: pcaJ (Catechol-ortho / Catechol-ortho) | pident=66.507000 qcovs=98.000000</title></polygon>
+<text x="1115.1" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pcaJ_1 (pcaJ)</text>
+<polygon points="1664.0,1014.0 1312.4,1014.0 1294.4,1025.0 1312.4,1036.0 1664.0,1036.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>ENPAFGMO_03503 | pcaI_1 | Thiolase/transferase | 3-oxoadipate CoA-transferase subunit A | PANEL HIT: pcaI (Catechol-ortho / Catechol-ortho) | pident=67.713000 qcovs=97.000000</title></polygon>
+<text x="1479.2" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pcaI_1 (pcaI)</text>
+<text x="452.0" y="962.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">1,550 bp</text>
+<text x="1664.0" y="962.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">3,841 bp</text>
+<rect x="18" y="1076" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="1076" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="1094.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_256_panelcluster_8299</text>
+<text x="32.0" y="1112.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_256 | MAGs/Exp3_MAG_256_c_000000000268 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="1128.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: galA; galR; galT</text>
+<text x="32.0" y="1140.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Gallate</text>
+<line x1="452" y1="1167.0" x2="1664" y2="1167.0" stroke="#d0d0d0"/>
+<polygon points="829.6,1156.0 470.0,1156.0 452.0,1167.0 470.0,1178.0 829.6,1178.0" fill="#fdbf6f" stroke="#111" stroke-width="2.2"><title>ENPAFGMO_03798 | argP_3 | Regulator | HTH-type transcriptional regulator ArgP | PANEL HIT: galR (Gallate / Gallate) | pident=48.241000 qcovs=98.000000</title></polygon>
+<text x="640.8" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">argP_3 (galR)</text>
+<polygon points="875.8,1156.0 1263.7,1156.0 1281.7,1167.0 1263.7,1178.0 875.8,1178.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>ENPAFGMO_03799 | pcaK_2 | Transport/efflux | 4-hydroxybenzoate transporter PcaK | PANEL HIT: galT (Gallate / Gallate) | pident=58.451000 qcovs=94.000000</title></polygon>
+<text x="1078.8" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pcaK_2 (galT)</text>
+<polygon points="1284.7,1156.0 1646.0,1156.0 1664.0,1167.0 1646.0,1178.0 1284.7,1178.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>ENPAFGMO_03800 | mhpB_2 | Oxygenase/dioxygenase | 2,3-dihydroxyphenylpropionate/2,3-dihydroxicinnamic acid 1,2-dioxygenase | PANEL HIT: galA (Gallate / Gallate) | pident=64.412000 qcovs=99.000000</title></polygon>
+<text x="1474.3" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">mhpB_2 (galA)</text>
+<text x="452.0" y="1104.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">2,479 bp</text>
+<text x="1664.0" y="1104.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">6,590 bp</text>
+<rect x="18" y="1218" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="1218" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="1236.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_256_panelcluster_8301</text>
+<text x="32.0" y="1254.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_256 | MAGs/Exp3_MAG_256_c_000000000273 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="1270.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: galA; galR; pht2</text>
+<text x="32.0" y="1282.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Gallate</text>
+<line x1="452" y1="1309.0" x2="1664" y2="1309.0" stroke="#d0d0d0"/>
+<polygon points="452.0,1298.0 562.4,1298.0 580.4,1309.0 562.4,1320.0 452.0,1320.0" fill="#fdbf6f" stroke="#111" stroke-width="2.2"><title>ENPAFGMO_03858 | hdfR | Regulator | HTH-type transcriptional regulator HdfR | PANEL HIT: galR (Gallate / Gallate) | pident=34.037000 qcovs=92.000000</title></polygon>
+<text x="516.2" y="1333.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">hdfR (galR)</text>
+<polygon points="593.5,1298.0 646.8,1298.0 664.8,1309.0 646.8,1320.0 593.5,1320.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>ENPAFGMO_03859 | ENPAFGMO_03859 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="629.1" y="1333.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">ENPAFGMO_03859</text>
+<polygon points="713.7,1298.0 682.8,1298.0 667.6,1309.0 682.8,1320.0 713.7,1320.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>ENPAFGMO_03860 | ENPAFGMO_03860 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="690.6" y="1333.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">ENPAFGMO_03860</text>
+<polygon points="781.7,1298.0 731.2,1298.0 713.2,1309.0 731.2,1320.0 781.7,1320.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>ENPAFGMO_03861 | ENPAFGMO_03861 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="747.5" y="1333.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">ENPAFGMO_03861</text>
+<polygon points="922.3,1298.0 808.8,1298.0 790.8,1309.0 808.8,1320.0 922.3,1320.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>ENPAFGMO_03862 | mauG_2 | Accessory/other | Methylamine utilization protein MauG</title></polygon>
+<text x="856.6" y="1333.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">mauG_2</text>
+<polygon points="1075.9,1298.0 940.3,1298.0 922.3,1309.0 940.3,1320.0 1075.9,1320.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>ENPAFGMO_03863 | ENPAFGMO_03863 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="999.1" y="1333.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">ENPAFGMO_03863</text>
+<polygon points="1197.9,1298.0 1114.6,1298.0 1096.6,1309.0 1114.6,1320.0 1197.9,1320.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>ENPAFGMO_03864 | ophA1 | Oxygenase/dioxygenase | Phthalate dioxygenase reductase | PANEL HIT: pht2 (Aromatics / Phthalate) | pident=39.875000 qcovs=98.000000</title></polygon>
+<text x="1147.3" y="1333.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">ophA1 (pht2)</text>
+<polygon points="1313.1,1298.0 1222.3,1298.0 1204.3,1309.0 1222.3,1320.0 1313.1,1320.0" fill="#fb9a99" stroke="#888" stroke-width="0.8"><title>ENPAFGMO_03865 | tsaM1 | Electron transfer/redox | Toluene-4-sulfonate monooxygenase system iron-sulfur subunit TsaM1</title></polygon>
+<text x="1258.7" y="1333.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">tsaM1</text>
+<polygon points="1321.8,1298.0 1376.7,1298.0 1394.7,1309.0 1376.7,1320.0 1321.8,1320.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>ENPAFGMO_03866 | rspR | Regulator | HTH-type transcriptional repressor RspR</title></polygon>
+<text x="1358.2" y="1333.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">rspR</text>
+<polygon points="1536.0,1298.0 1437.9,1298.0 1419.9,1309.0 1437.9,1320.0 1536.0,1320.0" fill="#b15928" stroke="#888" stroke-width="0.8"><title>ENPAFGMO_03867 | rutD_3 | Hydrolase/decarboxylase/lyase | Putative aminoacrylate hydrolase RutD</title></polygon>
+<text x="1477.9" y="1333.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">rutD_3</text>
+<polygon points="1575.8,1298.0 1549.8,1298.0 1537.0,1309.0 1549.8,1320.0 1575.8,1320.0" fill="#d73027" stroke="#888" stroke-width="0.8"><title>ENPAFGMO_03868 | galA_1 | Oxygenase/dioxygenase | Gallate dioxygenase</title></polygon>
+<text x="1556.4" y="1333.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">galA_1</text>
+<polygon points="1664.0,1298.0 1594.0,1298.0 1576.0,1309.0 1594.0,1320.0 1664.0,1320.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>ENPAFGMO_03869 | ligB | Oxygenase/dioxygenase | Protocatechuate 4,5-dioxygenase beta chain | PANEL HIT: galA (Gallate / Gallate) | pident=51.813000 qcovs=57.000000</title></polygon>
+<text x="1620.0" y="1333.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">ligB (galA)</text>
+<text x="452.0" y="1246.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">6,761 bp</text>
+<text x="1664.0" y="1246.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">18,289 bp</text>
+<rect x="18" y="1360" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="1360" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="1378.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_256_panelcluster_8322</text>
+<text x="32.0" y="1396.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_256 | MAGs/Exp3_MAG_256_c_000000000391 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="1412.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: pcaF; pcaI; pcaJ</text>
+<text x="32.0" y="1424.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Catechol-ortho; Protocatechuate</text>
+<line x1="452" y1="1451.0" x2="1664" y2="1451.0" stroke="#d0d0d0"/>
+<polygon points="1022.7,1440.0 470.0,1440.0 452.0,1451.0 470.0,1462.0 1022.7,1462.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>ENPAFGMO_04961 | pcaF | Thiolase/transferase | Beta-ketoadipyl-CoA thiolase | PANEL HIT: pcaF (Catechol-ortho; Protocatechuate / Protocatechuate) | pident=69.825000 qcovs=100.000000</title></polygon>
+<text x="737.3" y="1475.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pcaF (pcaF)</text>
+<polygon points="1339.5,1440.0 1051.6,1440.0 1033.6,1451.0 1051.6,1462.0 1339.5,1462.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>ENPAFGMO_04962 | pcaJ_2 | Thiolase/transferase | 3-oxoadipate CoA-transferase subunit B | PANEL HIT: pcaJ (Catechol-ortho / Catechol-ortho) | pident=72.642000 qcovs=99.000000</title></polygon>
+<text x="1186.6" y="1475.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pcaJ_2 (pcaJ)</text>
+<polygon points="1664.0,1440.0 1361.8,1440.0 1343.8,1451.0 1361.8,1462.0 1664.0,1462.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>ENPAFGMO_04963 | pcaI_2 | Thiolase/transferase | 3-oxoadipate CoA-transferase subunit A | PANEL HIT: pcaI (Catechol-ortho / Catechol-ortho) | pident=72.768000 qcovs=97.000000</title></polygon>
+<text x="1503.9" y="1475.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pcaI_2 (pcaI)</text>
+<text x="452.0" y="1388.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">6,526 bp</text>
+<text x="1664.0" y="1388.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">9,080 bp</text>
+<rect x="18" y="1502" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="1502" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="1520.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_256_panelcluster_8324</text>
+<text x="32.0" y="1538.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_256 | MAGs/Exp3_MAG_256_c_000000000400 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="1554.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: paaG; paaI; paaK; paaY</text>
+<text x="32.0" y="1566.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Phenylacetate</text>
+<line x1="452" y1="1593.0" x2="1664" y2="1593.0" stroke="#d0d0d0"/>
+<polygon points="669.2,1582.0 470.0,1582.0 452.0,1593.0 470.0,1604.0 669.2,1604.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>ENPAFGMO_05103 | yrdA_2 | Accessory/other | Protein YrdA | PANEL HIT: paaY (Phenylacetate / Phenylacetate) | pident=61.290000 qcovs=95.000000</title></polygon>
+<text x="560.6" y="1617.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">yrdA_2 (paaY)</text>
+<polygon points="744.4,1582.0 1018.4,1582.0 1036.4,1593.0 1018.4,1604.0 744.4,1604.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>ENPAFGMO_05104 | paaG | Hydratase/dehydratase/isomerase | 1,2-epoxyphenylacetyl-CoA isomerase | PANEL HIT: paaG (Phenylacetate / Phenylacetate) | pident=51.538000 qcovs=99.000000</title></polygon>
+<text x="890.4" y="1617.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">paaG (paaG)</text>
+<polygon points="1036.8,1582.0 1178.2,1582.0 1196.2,1593.0 1178.2,1604.0 1036.8,1604.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>ENPAFGMO_05105 | paaI | Hydrolase/decarboxylase/lyase | Acyl-coenzyme A thioesterase PaaI | PANEL HIT: paaI (Phenylacetate / Phenylacetate) | pident=39.837000 qcovs=88.000000</title></polygon>
+<text x="1116.5" y="1617.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">paaI (paaI)</text>
+<polygon points="1197.6,1582.0 1646.0,1582.0 1664.0,1593.0 1646.0,1604.0 1197.6,1604.0" fill="#1f78b4" stroke="#111" stroke-width="2.2"><title>ENPAFGMO_05106 | paaK | CoA ligase/synthetase | Phenylacetate-coenzyme A ligase | PANEL HIT: paaK (Phenylacetate / Phenylacetate) | pident=64.953000 qcovs=98.000000</title></polygon>
+<text x="1430.8" y="1617.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">paaK (paaK)</text>
+<text x="452.0" y="1530.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">10,576 bp</text>
+<text x="1664.0" y="1530.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">13,974 bp</text>
+<rect x="18" y="1644" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="1644" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="1662.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_256_panelcluster_8326</text>
+<text x="32.0" y="1680.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_256 | MAGs/Exp3_MAG_256_c_000000000412 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="1696.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: crt; pimC/aabA; pimD</text>
+<text x="32.0" y="1708.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Beta-oxidation; Cyclohexanecarboxylate</text>
+<line x1="452" y1="1735.0" x2="1664" y2="1735.0" stroke="#d0d0d0"/>
+<polygon points="655.9,1724.0 470.0,1724.0 452.0,1735.0 470.0,1746.0 655.9,1746.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>ENPAFGMO_05201 | dpgD_2 | Hydratase/dehydratase/isomerase | Enoyl-CoA-hydratase | PANEL HIT: crt (Beta-oxidation / Beta-oxidation) | pident=36.948000 qcovs=93.000000</title></polygon>
+<text x="554.0" y="1759.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">dpgD_2 (crt)</text>
+<polygon points="1052.5,1724.0 672.9,1724.0 654.9,1735.0 672.9,1746.0 1052.5,1746.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>ENPAFGMO_05202 | ENPAFGMO_05202 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="853.7" y="1759.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">ENPAFGMO_05202</text>
+<polygon points="1350.7,1724.0 1069.5,1724.0 1051.5,1735.0 1069.5,1746.0 1350.7,1746.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>ENPAFGMO_05203 | carC_2 | Dehydrogenase/oxidoreductase | Caffeyl-CoA reductase-Etf complex subunit CarC | PANEL HIT: pimD (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=42.593000 qcovs=99.000000</title></polygon>
+<text x="1201.1" y="1759.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">carC_2 (pimD)</text>
+<polygon points="1664.0,1724.0 1371.8,1724.0 1353.8,1735.0 1371.8,1746.0 1664.0,1746.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>ENPAFGMO_05204 | ENPAFGMO_05204 | Dehydrogenase/oxidoreductase | Putative acyl-CoA dehydrogenase FadE17 | PANEL HIT: pimC/aabA (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=40.452000 qcovs=98.000000</title></polygon>
+<text x="1508.9" y="1759.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">ENPAFGMO_05204 (pimC/...</text>
+<text x="452.0" y="1672.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">254 bp</text>
+<text x="1664.0" y="1672.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">4,907 bp</text>
+<rect x="18" y="1786" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="1786" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="1804.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_256_panelcluster_8328</text>
+<text x="32.0" y="1822.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_256 | MAGs/Exp3_MAG_256_c_000000000416 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="1838.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: PGRcl; pcaI; pcaJ</text>
+<text x="32.0" y="1850.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Catechol-ortho; Pyrogallol</text>
+<line x1="452" y1="1877.0" x2="1664" y2="1877.0" stroke="#d0d0d0"/>
+<polygon points="452.0,1866.0 596.4,1866.0 614.4,1877.0 596.4,1888.0 452.0,1888.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>ENPAFGMO_05237 | gno | Dehydrogenase/oxidoreductase | Gluconate 5-dehydrogenase | PANEL HIT: PGRcl (Pyrogallol / Pyrogallol) | pident=30.435000 qcovs=93.000000</title></polygon>
+<text x="533.2" y="1901.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">gno (PGRcl)</text>
+<polygon points="915.5,1866.0 633.6,1866.0 615.6,1877.0 633.6,1888.0 915.5,1888.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>ENPAFGMO_05238 | hisC_4 | Accessory/other | Histidinol-phosphate aminotransferase</title></polygon>
+<text x="765.6" y="1901.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">hisC_4</text>
+<polygon points="1130.6,1866.0 952.6,1866.0 934.6,1877.0 952.6,1888.0 1130.6,1888.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>ENPAFGMO_05239 | ENPAFGMO_05239 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1032.6" y="1901.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">ENPAFGMO_05239</text>
+<polygon points="1284.9,1866.0 1176.0,1866.0 1158.0,1877.0 1176.0,1888.0 1284.9,1888.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>ENPAFGMO_05240 | ENPAFGMO_05240 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1221.4" y="1901.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">ENPAFGMO_05240</text>
+<polygon points="1358.1,1866.0 1302.1,1866.0 1284.1,1877.0 1302.1,1888.0 1358.1,1888.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>ENPAFGMO_05241 | ENPAFGMO_05241 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1321.1" y="1901.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">ENPAFGMO_05241</text>
+<polygon points="1381.9,1866.0 1510.2,1866.0 1528.2,1877.0 1510.2,1888.0 1381.9,1888.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>ENPAFGMO_05242 | scoA | Thiolase/transferase | putative succinyl-CoA:3-ketoacid coenzyme A transferase subunit A | PANEL HIT: pcaI (Catechol-ortho / Catechol-ortho) | pident=47.926000 qcovs=94.000000</title></polygon>
+<text x="1455.1" y="1901.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">scoA (pcaI)</text>
+<polygon points="1531.5,1866.0 1646.0,1866.0 1664.0,1877.0 1646.0,1888.0 1531.5,1888.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>ENPAFGMO_05243 | scoB | Thiolase/transferase | putative succinyl-CoA:3-ketoacid coenzyme A transferase subunit B | PANEL HIT: pcaJ (Catechol-ortho / Catechol-ortho) | pident=50.971000 qcovs=94.000000</title></polygon>
+<text x="1597.7" y="1901.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">scoB (pcaJ)</text>
+<text x="452.0" y="1814.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">8,397 bp</text>
+<text x="1664.0" y="1814.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">14,240 bp</text>
+<text x="24.0" y="1946.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="1956" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="1966.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="1956" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="1966.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="1956" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="1966.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="1956" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="1966.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="1978" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="1988.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="1978" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="1988.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="1978" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="1988.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="1978" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="1988.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="2000" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="2010.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="2000" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="2010.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="2000" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="2010.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="2000" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="2010.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="2022" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="2032.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

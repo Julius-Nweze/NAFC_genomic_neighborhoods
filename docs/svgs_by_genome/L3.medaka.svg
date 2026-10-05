@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="492" viewBox="0 0 1700 492">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<text x="24.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="start" fill="#222">L3.medaka: reference-panel operon/cluster gene maps</text>
+<text x="24.0" y="56.0" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#555">2 shortlisted clusters (&gt;=3 independent panel gene hits) for this genome</text>
+<text x="24.0" y="74.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="start" fill="#555">Arrow direction shows CDS strand. Color shows enzyme class. Bold outline = reference-panel seed hit.</text>
+<rect x="18" y="82" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="82" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="100.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">L3.medaka_panelcluster_17972</text>
+<text x="32.0" y="118.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">L3.medaka | contig_2 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="134.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: catE; hapE; xylC</text>
+<text x="32.0" y="146.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Catechol-meta; Hydroquinone</text>
+<line x1="452" y1="173.0" x2="1664" y2="173.0" stroke="#d0d0d0"/>
+<polygon points="452.0,162.0 683.6,162.0 701.6,173.0 683.6,184.0 452.0,184.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>COLLAL3MEDAKA_00464 | aldA_1 | Dehydrogenase/oxidoreductase | Lactaldehyde dehydrogenase | PANEL HIT: xylC (Aromatics / Toluene) | pident=31.263000 qcovs=95.000000</title></polygon>
+<text x="576.8" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">aldA_1 (xylC)</text>
+<polygon points="878.7,162.0 728.3,162.0 710.3,173.0 728.3,184.0 878.7,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>COLLAL3MEDAKA_00465 | znuA_1 | Accessory/other | High-affinity zinc uptake system binding-protein ZnuA</title></polygon>
+<text x="794.5" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">znuA_1</text>
+<polygon points="908.9,162.0 941.9,162.0 958.2,173.0 941.9,184.0 908.9,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>COLLAL3MEDAKA_00466 | yjdJ | Accessory/other | putative protein YjdJ</title></polygon>
+<text x="933.5" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">yjdJ</text>
+<polygon points="999.8,162.0 1122.9,162.0 1140.9,173.0 1122.9,184.0 999.8,184.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>COLLAL3MEDAKA_00467 | catE_1 | Oxygenase/dioxygenase | Catechol-2,3-dioxygenase | PANEL HIT: catE (Catechol-meta / Catechol-meta) | pident=35.178000 qcovs=87.000000</title></polygon>
+<text x="1070.3" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">catE_1 (catE)</text>
+<polygon points="1360.9,162.0 1220.0,162.0 1202.0,173.0 1220.0,184.0 1360.9,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>COLLAL3MEDAKA_00468 | COLLAL3MEDAKA_00468 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1281.5" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">COLLAL3MEDAKA_00468</text>
+<polygon points="1664.0,162.0 1420.9,162.0 1402.9,173.0 1420.9,184.0 1664.0,184.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>COLLAL3MEDAKA_00469 | aldA_2 | Dehydrogenase/oxidoreductase | Putative aldehyde dehydrogenase AldA | PANEL HIT: hapE (Hydroquinone / Hydroquinone) | pident=41.423000 qcovs=98.000000</title></polygon>
+<text x="1533.4" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">aldA_2 (hapE)</text>
+<text x="452.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">410,867 bp</text>
+<text x="1664.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">417,800 bp</text>
+<rect x="18" y="224" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="224" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="242.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">L3.medaka_panelcluster_17974</text>
+<text x="32.0" y="260.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">L3.medaka | contig_2 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="276.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: abmG1; alkJ_adh; chcB2; hapE</text>
+<text x="32.0" y="288.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Aromatics; Cyclohexanecarboxylate;</text>
+<text x="32.0" y="300.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Hydroquinone</text>
+<line x1="452" y1="315.0" x2="1664" y2="315.0" stroke="#d0d0d0"/>
+<polygon points="452.0,304.0 503.2,304.0 521.2,315.0 503.2,326.0 452.0,326.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>COLLAL3MEDAKA_00567 | bacC_2 | Dehydrogenase/oxidoreductase | Dihydroanticapsin 7-dehydrogenase | PANEL HIT: chcB2 (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=40.476000 qcovs=97.000000</title></polygon>
+<text x="486.6" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">bacC_2 (chcB2)</text>
+<polygon points="673.9,304.0 548.7,304.0 530.7,315.0 548.7,326.0 673.9,326.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>COLLAL3MEDAKA_00568 | acsA_1 | Accessory/other | Acetyl-coenzyme A synthetase | PANEL HIT: abmG1 (Aromatics / Anthranilate) | pident=33.207000 qcovs=96.000000</title></polygon>
+<text x="602.3" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">acsA_1 (abmG1)</text>
+<polygon points="731.4,304.0 702.9,304.0 688.9,315.0 702.9,326.0 731.4,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>COLLAL3MEDAKA_00569 | COLLAL3MEDAKA_00569 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="710.1" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">COLLAL3MEDAKA_00569</text>
+<polygon points="873.4,304.0 785.3,304.0 767.3,315.0 785.3,326.0 873.4,326.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>COLLAL3MEDAKA_00570 | scmP_2 | Accessory/other | N-acetylcysteine deacetylase</title></polygon>
+<text x="820.4" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">scmP_2</text>
+<polygon points="1014.0,304.0 907.8,304.0 889.8,315.0 907.8,326.0 1014.0,326.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>COLLAL3MEDAKA_00571 | norB_2 | Accessory/other | Quinolone resistance protein NorB</title></polygon>
+<text x="951.9" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">norB_2</text>
+<polygon points="1120.6,304.0 1033.0,304.0 1015.0,315.0 1033.0,326.0 1120.6,326.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>COLLAL3MEDAKA_00572 | scmP_3 | Accessory/other | N-acetylcysteine deacetylase</title></polygon>
+<text x="1067.8" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">scmP_3</text>
+<polygon points="1337.1,304.0 1151.7,304.0 1133.7,315.0 1151.7,326.0 1337.1,326.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>COLLAL3MEDAKA_00573 | rhaS_3 | Regulator | HTH-type transcriptional activator RhaS</title></polygon>
+<text x="1235.4" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">rhaS_3</text>
+<polygon points="1517.5,304.0 1382.2,304.0 1364.2,315.0 1382.2,326.0 1517.5,326.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>COLLAL3MEDAKA_00574 | betA | Dehydrogenase/oxidoreductase | Oxygen-dependent choline dehydrogenase | PANEL HIT: alkJ_adh (Alkanes / Auxillary alkane pathway) | pident=41.308000 qcovs=95.000000</title></polygon>
+<text x="1440.8" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">betA (alkJ_adh)</text>
+<polygon points="1664.0,304.0 1548.1,304.0 1530.1,315.0 1548.1,326.0 1664.0,326.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>COLLAL3MEDAKA_00575 | gbsA | Dehydrogenase/oxidoreductase | Betaine aldehyde dehydrogenase | PANEL HIT: hapE (Hydroquinone / Hydroquinone) | pident=39.431000 qcovs=100.000000</title></polygon>
+<text x="1597.1" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">gbsA (hapE)</text>
+<text x="452.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">516,158 bp</text>
+<text x="1664.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">529,656 bp</text>
+<text x="24.0" y="384.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="394" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="404.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="394" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="404.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="394" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="404.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="394" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="404.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="416" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="426.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="416" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="426.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="416" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="426.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="416" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="426.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="438" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="448.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="438" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="448.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="438" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="448.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="438" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="448.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="460" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="470.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

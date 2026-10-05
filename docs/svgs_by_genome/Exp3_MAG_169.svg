@@ -1,0 +1,245 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="1202" viewBox="0 0 1700 1202">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<text x="24.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_169: reference-panel operon/cluster gene maps</text>
+<text x="24.0" y="56.0" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#555">7 shortlisted clusters (&gt;=3 independent panel gene hits) for this genome</text>
+<text x="24.0" y="74.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="start" fill="#555">Arrow direction shows CDS strand. Color shows enzyme class. Bold outline = reference-panel seed hit.</text>
+<rect x="18" y="82" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="82" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="100.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_169_panelcluster_4215</text>
+<text x="32.0" y="118.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_169 | MAGs/Exp3_MAG_169_c_000000000005 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="134.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: mpdC; pcaI; pcaJ; uctC; yfdE</text>
+<text x="32.0" y="146.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkenes; Catechol-ortho; Oxalate</text>
+<line x1="452" y1="173.0" x2="1664" y2="173.0" stroke="#d0d0d0"/>
+<polygon points="452.0,162.0 512.3,162.0 530.3,173.0 512.3,184.0 452.0,184.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>HEENNAKK_00185 | HEENNAKK_00185 | Dehydrogenase/oxidoreductase | Putative aldehyde dehydrogenase | PANEL HIT: mpdC (Alkenes / 2-methylpropene) | pident=40.456000 qcovs=93.000000</title></polygon>
+<text x="491.2" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 491.2 197.0)" fill="#111">HEENNAKK_00185 (mpdC)</text>
+<polygon points="530.9,162.0 559.0,162.0 572.8,173.0 559.0,184.0 530.9,184.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>HEENNAKK_00186 | bacC_1 | Dehydrogenase/oxidoreductase | Dihydroanticapsin 7-dehydrogenase</title></polygon>
+<text x="551.8" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 551.8 197.0)" fill="#555">bacC_1</text>
+<polygon points="578.4,162.0 605.0,162.0 618.1,173.0 605.0,184.0 578.4,184.0" fill="#b2df8a" stroke="#888" stroke-width="0.8"><title>HEENNAKK_00187 | HEENNAKK_00187 | Mobile/stress/accessory | IS481 family transposase ISMysp6</title></polygon>
+<text x="598.2" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 598.2 197.0)" fill="#555">HEENNAKK_00187</text>
+<polygon points="619.5,162.0 630.5,162.0 637.5,173.0 630.5,184.0 619.5,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HEENNAKK_00188 | HEENNAKK_00188 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="628.5" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 628.5 197.0)" fill="#555">HEENNAKK_00188</text>
+<polygon points="624.8,162.0 642.6,162.0 651.3,173.0 642.6,184.0 624.8,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HEENNAKK_00189 | HEENNAKK_00189 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="638.1" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 638.1 197.0)" fill="#555">HEENNAKK_00189</text>
+<polygon points="684.9,162.0 663.4,162.0 652.8,173.0 663.4,184.0 684.9,184.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>HEENNAKK_00190 | kstR2_1 | Regulator | HTH-type transcriptional repressor KstR2</title></polygon>
+<text x="668.9" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 668.9 197.0)" fill="#555">kstR2_1</text>
+<polygon points="692.7,162.0 723.2,162.0 738.1,173.0 723.2,184.0 692.7,184.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>HEENNAKK_00191 | HEENNAKK_00191 | Hydratase/dehydratase/isomerase | Putative enoyl-CoA hydratase EchA13</title></polygon>
+<text x="715.4" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 715.4 197.0)" fill="#555">HEENNAKK_00191</text>
+<polygon points="738.6,162.0 782.9,162.0 800.9,173.0 782.9,184.0 738.6,184.0" fill="#a6cee3" stroke="#888" stroke-width="0.8"><title>HEENNAKK_00192 | smtB_1 | Thiolase/transferase | Succinyl-CoA--L-malate CoA-transferase beta subunit</title></polygon>
+<text x="769.7" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 769.7 197.0)" fill="#555">smtB_1</text>
+<polygon points="800.6,162.0 846.4,162.0 864.4,173.0 846.4,184.0 800.6,184.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>HEENNAKK_00193 | bbsF | Thiolase/transferase | Succinyl-CoA:(R)-benzylsuccinate CoA-transferase subunit BbsF | PANEL HIT: uctC (Oxalate / Oxalate) | pident=38.591000 qcovs=75.000000</title></polygon>
+<text x="832.5" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 832.5 197.0)" fill="#111">bbsF (uctC)</text>
+<polygon points="865.6,162.0 886.7,162.0 897.1,173.0 886.7,184.0 865.6,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HEENNAKK_00194 | HEENNAKK_00194 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="881.4" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 881.4 197.0)" fill="#555">HEENNAKK_00194</text>
+<polygon points="896.9,162.0 931.9,162.0 949.1,173.0 931.9,184.0 896.9,184.0" fill="#b15928" stroke="#888" stroke-width="0.8"><title>HEENNAKK_00195 | gloB_1 | Hydrolase/decarboxylase/lyase | Hydroxyacylglutathione hydrolase</title></polygon>
+<text x="923.0" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 923.0 197.0)" fill="#555">gloB_1</text>
+<polygon points="1015.8,162.0 969.4,162.0 951.4,173.0 969.4,184.0 1015.8,184.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>HEENNAKK_00196 | uctC_2 | Thiolase/transferase | Acetyl-CoA:oxalate CoA-transferase | PANEL HIT: uctC (Oxalate / Oxalate) | pident=36.220000 qcovs=94.000000</title></polygon>
+<text x="983.6" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 983.6 197.0)" fill="#111">uctC_2 (uctC)</text>
+<polygon points="1083.4,162.0 1036.1,162.0 1018.1,173.0 1036.1,184.0 1083.4,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HEENNAKK_00197 | HEENNAKK_00197 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1050.7" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1050.7 197.0)" fill="#555">HEENNAKK_00197</text>
+<polygon points="1096.3,162.0 1143.0,162.0 1161.0,173.0 1143.0,184.0 1096.3,184.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>HEENNAKK_00198 | yfdE | Thiolase/transferase | Acetyl-CoA:oxalate CoA-transferase | PANEL HIT: yfdE (Oxalate / Oxalate) | pident=38.342000 qcovs=96.000000</title></polygon>
+<text x="1128.6" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1128.6 197.0)" fill="#111">yfdE (yfdE)</text>
+<polygon points="1161.5,162.0 1191.2,162.0 1205.8,173.0 1191.2,184.0 1161.5,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HEENNAKK_00199 | HEENNAKK_00199 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1183.7" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1183.7 197.0)" fill="#555">HEENNAKK_00199</text>
+<polygon points="1205.6,162.0 1247.8,162.0 1265.8,173.0 1247.8,184.0 1205.6,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HEENNAKK_00200 | HEENNAKK_00200 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1235.7" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1235.7 197.0)" fill="#555">HEENNAKK_00200</text>
+<polygon points="1265.9,162.0 1295.4,162.0 1310.0,173.0 1295.4,184.0 1265.9,184.0" fill="#b15928" stroke="#888" stroke-width="0.8"><title>HEENNAKK_00201 | citE_1 | Hydrolase/decarboxylase/lyase | Citrate lyase subunit beta-like protein</title></polygon>
+<text x="1288.0" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1288.0 197.0)" fill="#555">citE_1</text>
+<polygon points="1323.1,162.0 1364.3,162.0 1382.3,173.0 1364.3,184.0 1323.1,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HEENNAKK_00202 | HEENNAKK_00202 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1352.7" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1352.7 197.0)" fill="#555">HEENNAKK_00202</text>
+<polygon points="1386.0,162.0 1451.1,162.0 1469.1,173.0 1451.1,184.0 1386.0,184.0" fill="#6a3d9a" stroke="#888" stroke-width="0.8"><title>HEENNAKK_00203 | HEENNAKK_00203 | Carboxylase | Methylmalonyl-CoA carboxyltransferase 12S subunit</title></polygon>
+<text x="1427.5" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1427.5 197.0)" fill="#555">HEENNAKK_00203</text>
+<polygon points="1468.8,162.0 1487.6,162.0 1496.8,173.0 1487.6,184.0 1468.8,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HEENNAKK_00204 | HEENNAKK_00204 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1482.8" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1482.8 197.0)" fill="#555">HEENNAKK_00204</text>
+<polygon points="1496.6,162.0 1573.4,162.0 1591.4,173.0 1573.4,184.0 1496.6,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>HEENNAKK_00205 | carB_1 | Accessory/other | Carbamoyl-phosphate synthase large chain</title></polygon>
+<text x="1544.0" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1544.0 197.0)" fill="#555">carB_1</text>
+<polygon points="1593.2,162.0 1618.8,162.0 1631.4,173.0 1618.8,184.0 1593.2,184.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>HEENNAKK_00206 | scoA_1 | Thiolase/transferase | putative succinyl-CoA:3-ketoacid coenzyme A transferase subunit A | PANEL HIT: pcaI (Catechol-ortho / Catechol-ortho) | pident=48.869000 qcovs=95.000000</title></polygon>
+<text x="1612.3" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1612.3 197.0)" fill="#111">scoA_1 (pcaI)</text>
+<polygon points="1630.6,162.0 1653.0,162.0 1664.0,173.0 1653.0,184.0 1630.6,184.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>HEENNAKK_00207 | scoB_1 | Thiolase/transferase | putative succinyl-CoA:3-ketoacid coenzyme A transferase subunit B | PANEL HIT: pcaJ (Catechol-ortho / Catechol-ortho) | pident=52.913000 qcovs=96.000000</title></polygon>
+<text x="1647.3" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1647.3 197.0)" fill="#111">scoB_1 (pcaJ)</text>
+<text x="452.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">36,268 bp</text>
+<text x="1664.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">59,152 bp</text>
+<rect x="18" y="224" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="224" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="242.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_169_panelcluster_4221</text>
+<text x="32.0" y="260.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_169 | MAGs/Exp3_MAG_169_c_000000000018 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="276.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: fadA; fadJ; pcaI; pcaJ; pimC/aabA</text>
+<text x="32.0" y="288.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Beta-oxidation; Catechol-ortho;</text>
+<text x="32.0" y="300.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Cyclohexanecarboxylate</text>
+<line x1="452" y1="315.0" x2="1664" y2="315.0" stroke="#d0d0d0"/>
+<polygon points="452.0,304.0 624.0,304.0 642.0,315.0 624.0,326.0 452.0,326.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>HEENNAKK_00639 | fadJ | Accessory/other | Fatty acid oxidation complex subunit alpha | PANEL HIT: fadJ (Beta-oxidation / Beta-oxidation) | pident=30.370000 qcovs=93.000000</title></polygon>
+<text x="547.0" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">fadJ (fadJ)</text>
+<polygon points="703.8,304.0 660.1,304.0 642.1,315.0 660.1,326.0 703.8,326.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>HEENNAKK_00640 | pcaJ_1 | Thiolase/transferase | 3-oxoadipate CoA-transferase subunit B | PANEL HIT: pcaJ (Catechol-ortho / Catechol-ortho) | pident=62.019000 qcovs=97.000000</title></polygon>
+<text x="673.0" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pcaJ_1 (pcaJ)</text>
+<polygon points="768.0,304.0 721.5,304.0 703.5,315.0 721.5,326.0 768.0,326.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>HEENNAKK_00641 | pcaI_1 | Thiolase/transferase | 3-oxoadipate CoA-transferase subunit A | PANEL HIT: pcaI (Catechol-ortho / Catechol-ortho) | pident=55.752000 qcovs=98.000000</title></polygon>
+<text x="735.7" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pcaI_1 (pcaI)</text>
+<polygon points="786.1,304.0 818.3,304.0 834.2,315.0 818.3,326.0 786.1,326.0" fill="#6a3d9a" stroke="#888" stroke-width="0.8"><title>HEENNAKK_00642 | accB | Carboxylase | Biotin carboxyl carrier protein of acetyl-CoA carboxylase</title></polygon>
+<text x="810.1" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">accB</text>
+<polygon points="834.5,304.0 945.3,304.0 963.3,315.0 945.3,326.0 834.5,326.0" fill="#6a3d9a" stroke="#888" stroke-width="0.8"><title>HEENNAKK_00643 | accC | Carboxylase | Biotin carboxylase</title></polygon>
+<text x="898.9" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">accC</text>
+<polygon points="963.7,304.0 1086.2,304.0 1104.2,315.0 1086.2,326.0 963.7,326.0" fill="#6a3d9a" stroke="#888" stroke-width="0.8"><title>HEENNAKK_00644 | cfiA_2 | Carboxylase | 2-oxoglutarate carboxylase large subunit</title></polygon>
+<text x="1033.9" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">cfiA_2</text>
+<polygon points="1104.5,304.0 1164.4,304.0 1182.4,315.0 1164.4,326.0 1104.5,326.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>HEENNAKK_00645 | HEENNAKK_00645 | Hydratase/dehydratase/isomerase | Hydroxycinnamoyl-CoA hydratase-lyase</title></polygon>
+<text x="1143.5" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">HEENNAKK_00645</text>
+<polygon points="1182.0,304.0 1252.7,304.0 1270.7,315.0 1252.7,326.0 1182.0,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HEENNAKK_00646 | HEENNAKK_00646 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1226.3" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">HEENNAKK_00646</text>
+<polygon points="1275.1,304.0 1336.4,304.0 1354.4,315.0 1336.4,326.0 1275.1,326.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>HEENNAKK_00647 | kynB_1 | Accessory/other | Kynurenine formamidase</title></polygon>
+<text x="1314.7" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">kynB_1</text>
+<polygon points="1357.6,304.0 1449.2,304.0 1467.2,315.0 1449.2,326.0 1357.6,326.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>HEENNAKK_00648 | HEENNAKK_00648 | Dehydrogenase/oxidoreductase | Putative acyl-CoA dehydrogenase FadE17 | PANEL HIT: pimC/aabA (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=32.242000 qcovs=99.000000</title></polygon>
+<text x="1412.4" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">HEENNAKK_00648 (pimC/...</text>
+<polygon points="1466.8,304.0 1533.8,304.0 1551.8,315.0 1533.8,326.0 1466.8,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HEENNAKK_00649 | HEENNAKK_00649 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1509.3" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">HEENNAKK_00649</text>
+<polygon points="1551.0,304.0 1646.0,304.0 1664.0,315.0 1646.0,326.0 1551.0,326.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>HEENNAKK_00650 | fadA | Thiolase/transferase | 3-ketoacyl-CoA thiolase | PANEL HIT: fadA (Beta-oxidation / Beta-oxidation) | pident=44.608000 qcovs=99.000000</title></polygon>
+<text x="1607.5" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">fadA (fadA)</text>
+<text x="452.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">85,839 bp</text>
+<text x="1664.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">98,678 bp</text>
+<rect x="18" y="366" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="366" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="384.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_169_panelcluster_4222</text>
+<text x="32.0" y="402.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_169 | MAGs/Exp3_MAG_169_c_000000000020 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="418.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: crt; paaA; paaB; paaC; paaD; paaE; paaH; paaZ</text>
+<text x="32.0" y="430.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Beta-oxidation; Phenylacetate</text>
+<line x1="452" y1="457.0" x2="1664" y2="457.0" stroke="#d0d0d0"/>
+<polygon points="452.0,446.0 534.5,446.0 552.5,457.0 534.5,468.0 452.0,468.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>HEENNAKK_00700 | crt_1 | Hydratase/dehydratase/isomerase | Short-chain-enoyl-CoA hydratase | PANEL HIT: crt (Beta-oxidation / Beta-oxidation) | pident=36.555000 qcovs=91.000000</title></polygon>
+<text x="502.3" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">crt_1 (crt)</text>
+<polygon points="552.0,446.0 651.7,446.0 669.7,457.0 651.7,468.0 552.0,468.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>HEENNAKK_00701 | HEENNAKK_00701 | Dehydrogenase/oxidoreductase | 3-hydroxybutyryl-CoA dehydrogenase | PANEL HIT: paaH (Phenylacetate / Phenylacetate) | pident=38.211000 qcovs=51.000000</title></polygon>
+<text x="610.8" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">HEENNAKK_00701 (paaH)</text>
+<polygon points="722.5,446.0 686.2,446.0 668.3,457.0 686.2,468.0 722.5,468.0" fill="#b15928" stroke="#888" stroke-width="0.8"><title>HEENNAKK_00702 | entH_1 | Hydrolase/decarboxylase/lyase | Proofreading thioesterase EntH</title></polygon>
+<text x="695.4" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">entH_1</text>
+<polygon points="726.7,446.0 991.0,446.0 1009.0,457.0 991.0,468.0 726.7,468.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>HEENNAKK_00703 | paaZ | Hydrolase/decarboxylase/lyase | Bifunctional protein PaaZ | PANEL HIT: paaZ (Phenylacetate / Phenylacetate) | pident=49.419000 qcovs=99.000000</title></polygon>
+<text x="867.9" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">paaZ (paaZ)</text>
+<polygon points="1091.3,446.0 1026.4,446.0 1008.4,457.0 1026.4,468.0 1091.3,468.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>HEENNAKK_00704 | fadR | Regulator | Fatty acid metabolism regulator protein</title></polygon>
+<text x="1049.9" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">fadR</text>
+<polygon points="1141.1,446.0 1108.1,446.0 1091.8,457.0 1108.1,468.0 1141.1,468.0" fill="#b15928" stroke="#888" stroke-width="0.8"><title>HEENNAKK_00705 | paaI | Hydrolase/decarboxylase/lyase | Acyl-coenzyme A thioesterase PaaI</title></polygon>
+<text x="1116.5" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">paaI</text>
+<polygon points="1158.3,446.0 1269.1,446.0 1287.1,457.0 1269.1,468.0 1158.3,468.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>HEENNAKK_00706 | paaA | Accessory/other | 1,2-phenylacetyl-CoA epoxidase, subunit A | PANEL HIT: paaA (Phenylacetate / Phenylacetate) | pident=37.895000 qcovs=91.000000</title></polygon>
+<text x="1222.7" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">paaA (paaA)</text>
+<polygon points="1286.6,446.0 1314.9,446.0 1328.8,457.0 1314.9,468.0 1286.6,468.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>HEENNAKK_00707 | paaB | Accessory/other | 1,2-phenylacetyl-CoA epoxidase, subunit B | PANEL HIT: paaB (Phenylacetate / Phenylacetate) | pident=58.889000 qcovs=96.000000</title></polygon>
+<text x="1307.7" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">paaB (paaB)</text>
+<polygon points="1328.3,446.0 1422.3,446.0 1440.3,457.0 1422.3,468.0 1328.3,468.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>HEENNAKK_00708 | paaC | Accessory/other | 1,2-phenylacetyl-CoA epoxidase, subunit C | PANEL HIT: paaC (Phenylacetate / Phenylacetate) | pident=41.700000 qcovs=98.000000</title></polygon>
+<text x="1384.3" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">paaC (paaC)</text>
+<polygon points="1439.3,446.0 1489.8,446.0 1507.8,457.0 1489.8,468.0 1439.3,468.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>HEENNAKK_00709 | paaD | Accessory/other | Putative 1,2-phenylacetyl-CoA epoxidase, subunit D | PANEL HIT: paaD (Phenylacetate / Phenylacetate) | pident=58.282000 qcovs=92.000000</title></polygon>
+<text x="1473.6" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">paaD (paaD)</text>
+<polygon points="1508.1,446.0 1646.0,446.0 1664.0,457.0 1646.0,468.0 1508.1,468.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>HEENNAKK_00710 | paaE | Accessory/other | 1,2-phenylacetyl-CoA epoxidase, subunit E | PANEL HIT: paaE (Phenylacetate / Phenylacetate) | pident=43.646000 qcovs=98.000000</title></polygon>
+<text x="1586.1" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">paaE (paaE)</text>
+<text x="452.0" y="394.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">26,298 bp</text>
+<text x="1664.0" y="394.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">35,160 bp</text>
+<rect x="18" y="508" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="508" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="526.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_169_panelcluster_4231</text>
+<text x="32.0" y="544.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_169 | MAGs/Exp3_MAG_169_c_000000000050 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="560.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: hapE; hmgL; yfdE</text>
+<text x="32.0" y="572.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Cyclohexylacetate; Hydroquinone; Oxalate</text>
+<line x1="452" y1="599.0" x2="1664" y2="599.0" stroke="#d0d0d0"/>
+<polygon points="846.7,588.0 470.0,588.0 452.0,599.0 470.0,610.0 846.7,610.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>HEENNAKK_01455 | smtB_2 | Thiolase/transferase | Succinyl-CoA--L-malate CoA-transferase beta subunit | PANEL HIT: yfdE (Oxalate / Oxalate) | pident=34.417000 qcovs=95.000000</title></polygon>
+<text x="649.3" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">smtB_2 (yfdE)</text>
+<polygon points="1323.0,588.0 863.4,588.0 845.4,599.0 863.4,610.0 1323.0,610.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>HEENNAKK_01456 | tgnC | Dehydrogenase/oxidoreductase | (Z)-2-((N-methylformamido)methylene)-5-hydroxybutyrolactone dehydrogenase | PANEL HIT: hapE (Hydroquinone / Hydroquinone) | pident=46.203000 qcovs=97.000000</title></polygon>
+<text x="1084.2" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">tgnC (hapE)</text>
+<polygon points="1377.4,588.0 1646.0,588.0 1664.0,599.0 1646.0,610.0 1377.4,610.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>HEENNAKK_01457 | yngG | Hydrolase/decarboxylase/lyase | Hydroxymethylglutaryl-CoA lyase YngG | PANEL HIT: hmgL (Cyclohexylacetate / Cyclohexylacetate) | pident=40.000000 qcovs=97.000000</title></polygon>
+<text x="1520.7" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">yngG (hmgL)</text>
+<text x="452.0" y="536.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">1,945 bp</text>
+<text x="1664.0" y="536.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">5,712 bp</text>
+<rect x="18" y="650" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="650" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="668.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_169_panelcluster_4240</text>
+<text x="32.0" y="686.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_169 | MAGs/Exp3_MAG_169_c_000000000089 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="702.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: pcaB; pcaC; pcaD; pcaH</text>
+<text x="32.0" y="714.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Catechol-ortho; Protocatechuate</text>
+<line x1="452" y1="741.0" x2="1664" y2="741.0" stroke="#d0d0d0"/>
+<polygon points="452.0,730.0 701.5,730.0 719.5,741.0 701.5,752.0 452.0,752.0" fill="#d9d9d9" stroke="#111" stroke-width="2.2"><title>HEENNAKK_02172 | HEENNAKK_02172 | Hypothetical/accessory | hypothetical protein | PANEL HIT: pcaH (Protocatechuate / Protocatechuate) | pident=47.664000 qcovs=90.000000</title></polygon>
+<text x="585.8" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">HEENNAKK_02172 (pcaH)</text>
+<polygon points="718.2,730.0 886.1,730.0 904.1,741.0 886.1,752.0 718.2,752.0" fill="#d73027" stroke="#888" stroke-width="0.8"><title>HEENNAKK_02173 | pcaG | Oxygenase/dioxygenase | Protocatechuate 3,4-dioxygenase alpha chain</title></polygon>
+<text x="811.1" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">pcaG</text>
+<polygon points="899.5,730.0 1271.0,730.0 1289.0,741.0 1271.0,752.0 899.5,752.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>HEENNAKK_02174 | pcaB | Hydratase/dehydratase/isomerase | 3-carboxy-cis,cis-muconate cycloisomerase | PANEL HIT: pcaB (Protocatechuate / Protocatechuate) | pident=37.822000 qcovs=82.000000</title></polygon>
+<text x="1094.2" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pcaB (pcaB)</text>
+<polygon points="1287.6,730.0 1523.4,730.0 1541.4,741.0 1523.4,752.0 1287.6,752.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>HEENNAKK_02175 | catD | Hydrolase/decarboxylase/lyase | 3-oxoadipate enol-lactonase 2 | PANEL HIT: pcaD (Catechol-ortho; Protocatechuate / Protocatechuate) | pident=41.569000 qcovs=95.000000</title></polygon>
+<text x="1414.5" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">catD (pcaD)</text>
+<polygon points="1540.1,730.0 1646.0,730.0 1664.0,741.0 1646.0,752.0 1540.1,752.0" fill="#d9d9d9" stroke="#111" stroke-width="2.2"><title>HEENNAKK_02176 | HEENNAKK_02176 | Hypothetical/accessory | hypothetical protein | PANEL HIT: pcaC (Protocatechuate / Protocatechuate) | pident=45.082000 qcovs=91.000000</title></polygon>
+<text x="1602.0" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">HEENNAKK_02176 (pcaC)</text>
+<text x="452.0" y="678.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">12,728 bp</text>
+<text x="1664.0" y="678.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">16,424 bp</text>
+<rect x="18" y="792" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="792" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="810.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_169_panelcluster_4247</text>
+<text x="32.0" y="828.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_169 | MAGs/Exp3_MAG_169_c_000000000131 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="844.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: chcB1; chnE; xylE</text>
+<text x="32.0" y="856.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Catechol-meta; Cyclohexanecarboxylate</text>
+<line x1="452" y1="883.0" x2="1664" y2="883.0" stroke="#d0d0d0"/>
+<polygon points="554.3,872.0 470.0,872.0 452.0,883.0 470.0,894.0 554.3,894.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>HEENNAKK_02752 | bphC_2 | Oxygenase/dioxygenase | Manganese-dependent 2,3-dihydroxybiphenyl 1,2-dioxygenase | PANEL HIT: xylE (Catechol-meta / Catechol-meta) | pident=30.375000 qcovs=93.000000</title></polygon>
+<text x="503.2" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">bphC_2 (xylE)</text>
+<polygon points="574.7,872.0 650.0,872.0 668.0,883.0 650.0,894.0 574.7,894.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HEENNAKK_02753 | HEENNAKK_02753 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="621.3" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">HEENNAKK_02753</text>
+<polygon points="670.4,872.0 761.4,872.0 779.4,883.0 761.4,894.0 670.4,894.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>HEENNAKK_02754 | pqsH | Accessory/other | 2-heptyl-3-hydroxy-4(1H)-quinolone synthase</title></polygon>
+<text x="724.9" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">pqsH</text>
+<polygon points="779.0,872.0 856.4,872.0 874.4,883.0 856.4,894.0 779.0,894.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HEENNAKK_02755 | HEENNAKK_02755 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="826.7" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">HEENNAKK_02755</text>
+<polygon points="986.7,872.0 892.0,872.0 874.0,883.0 892.0,894.0 986.7,894.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HEENNAKK_02756 | HEENNAKK_02756 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="930.4" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">HEENNAKK_02756</text>
+<polygon points="1006.9,872.0 1121.6,872.0 1139.6,883.0 1121.6,894.0 1006.9,894.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>HEENNAKK_02757 | gabD1_2 | Dehydrogenase/oxidoreductase | Succinate-semialdehyde dehydrogenase [NADP(+)] 1 | PANEL HIT: chnE (Alkanes / Terminal/biterminal oxidation) | pident=47.228000 qcovs=97.000000</title></polygon>
+<text x="1073.2" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">gabD1_2 (chnE)</text>
+<polygon points="1230.0,872.0 1158.1,872.0 1140.1,883.0 1158.1,894.0 1230.0,894.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HEENNAKK_02758 | HEENNAKK_02758 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1185.1" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">HEENNAKK_02758</text>
+<polygon points="1280.2,872.0 1246.3,872.0 1229.6,883.0 1246.3,894.0 1280.2,894.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>HEENNAKK_02759 | rpiB | Hydratase/dehydratase/isomerase | Ribose-5-phosphate isomerase B</title></polygon>
+<text x="1254.9" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">rpiB</text>
+<polygon points="1373.1,872.0 1300.9,872.0 1282.9,883.0 1300.9,894.0 1373.1,894.0" fill="#d73027" stroke="#888" stroke-width="0.8"><title>HEENNAKK_02760 | bphC_3 | Oxygenase/dioxygenase | Manganese-dependent 2,3-dihydroxybiphenyl 1,2-dioxygenase</title></polygon>
+<text x="1328.0" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">bphC_3</text>
+<polygon points="1381.8,872.0 1451.7,872.0 1469.7,883.0 1451.7,894.0 1381.8,894.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>HEENNAKK_02761 | leuO | Regulator | HTH-type transcriptional regulator LeuO</title></polygon>
+<text x="1425.7" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">leuO</text>
+<polygon points="1479.1,872.0 1570.4,872.0 1588.4,883.0 1570.4,894.0 1479.1,894.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>HEENNAKK_02762 | aqdB | Accessory/other | 2-heptyl-3-hydroxy-4(1H)-quinolone synthase</title></polygon>
+<text x="1533.7" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">aqdB</text>
+<polygon points="1588.0,872.0 1646.0,872.0 1664.0,883.0 1646.0,894.0 1588.0,894.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>HEENNAKK_02763 | HEENNAKK_02763 | Dehydrogenase/oxidoreductase | 3-alpha-(or 20-beta)-hydroxysteroid dehydrogenase | PANEL HIT: chcB1 (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=39.592000 qcovs=93.000000</title></polygon>
+<text x="1626.0" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">HEENNAKK_02763 (chcB1)</text>
+<text x="452.0" y="820.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">1,391 bp</text>
+<text x="1664.0" y="820.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">13,969 bp</text>
+<rect x="18" y="934" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="934" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="952.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_169_panelcluster_4248</text>
+<text x="32.0" y="970.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_169 | MAGs/Exp3_MAG_169_c_000000000139 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="986.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: pcaC; pcaF; pcaI; pcaJ</text>
+<text x="32.0" y="998.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Catechol-ortho; Protocatechuate</text>
+<line x1="452" y1="1025.0" x2="1664" y2="1025.0" stroke="#d0d0d0"/>
+<polygon points="452.0,1014.0 533.2,1014.0 551.2,1025.0 533.2,1036.0 452.0,1036.0" fill="#d9d9d9" stroke="#111" stroke-width="2.2"><title>HEENNAKK_02882 | HEENNAKK_02882 | Hypothetical/accessory | hypothetical protein | PANEL HIT: pcaC (Protocatechuate / Protocatechuate) | pident=41.406000 qcovs=96.000000</title></polygon>
+<text x="501.6" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">HEENNAKK_02882 (pcaC)</text>
+<polygon points="855.7,1014.0 677.5,1014.0 659.5,1025.0 677.5,1036.0 855.7,1036.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HEENNAKK_02883 | HEENNAKK_02883 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="757.6" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">HEENNAKK_02883</text>
+<polygon points="948.2,1014.0 873.5,1014.0 855.5,1025.0 873.5,1036.0 948.2,1036.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>HEENNAKK_02884 | dpnM | Accessory/other | Modification methylase DpnIIA</title></polygon>
+<text x="901.9" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">dpnM</text>
+<polygon points="1002.1,1014.0 1174.2,1014.0 1192.2,1025.0 1174.2,1036.0 1002.1,1036.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HEENNAKK_02885 | HEENNAKK_02885 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1097.1" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">HEENNAKK_02885</text>
+<polygon points="1286.5,1014.0 1202.7,1014.0 1184.7,1025.0 1202.7,1036.0 1286.5,1036.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HEENNAKK_02886 | HEENNAKK_02886 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1235.6" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">HEENNAKK_02886</text>
+<polygon points="1307.4,1014.0 1387.7,1014.0 1405.7,1025.0 1387.7,1036.0 1307.4,1036.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>HEENNAKK_02887 | pcaI_2 | Thiolase/transferase | 3-oxoadipate CoA-transferase subunit A | PANEL HIT: pcaI (Catechol-ortho / Catechol-ortho) | pident=68.037000 qcovs=95.000000</title></polygon>
+<text x="1356.6" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pcaI_2 (pcaI)</text>
+<polygon points="1403.8,1014.0 1477.7,1014.0 1495.7,1025.0 1477.7,1036.0 1403.8,1036.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>HEENNAKK_02888 | pcaJ_2 | Thiolase/transferase | 3-oxoadipate CoA-transferase subunit B | PANEL HIT: pcaJ (Catechol-ortho; Protocatechuate / Catechol-ortho; Protocatechuate) | pident=68.932000 qcovs=93.000000</title></polygon>
+<text x="1449.8" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pcaJ_2 (pcaJ)</text>
+<polygon points="1495.1,1014.0 1646.0,1014.0 1664.0,1025.0 1646.0,1036.0 1495.1,1036.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>HEENNAKK_02889 | pcaF | Thiolase/transferase | Beta-ketoadipyl-CoA thiolase | PANEL HIT: pcaF (Catechol-ortho; Protocatechuate / Protocatechuate) | pident=56.171000 qcovs=98.000000</title></polygon>
+<text x="1579.5" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pcaF (pcaF)</text>
+<text x="452.0" y="962.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">3,906 bp</text>
+<text x="1664.0" y="962.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">12,300 bp</text>
+<text x="24.0" y="1094.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="1104" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="1114.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="1104" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="1114.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="1104" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="1114.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="1104" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="1114.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="1126" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="1136.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="1126" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="1136.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="1126" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="1136.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="1126" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="1136.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="1148" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="1158.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="1148" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="1158.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="1148" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="1158.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="1148" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="1158.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="1170" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="1180.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

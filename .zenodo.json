@@ -1,7 +1,7 @@
 {
-  "title": "NAFC genomic-neighborhood analysis scripts",
+  "title": "NAFC genomic-neighborhood analysis scripts and gene-map atlas",
   "upload_type": "software",
-  "description": "Analysis scripts for the article \"Wetland-root microbial genomes contain recurrent multi-gene neighborhoods with potential relevance to naphthenic acid fractional compound transformation\". The workflow covers MAG recovery and abundance, Prokka annotation, phylogenomics, a curated 667-protein reference-panel BLASTP screen of 365 genomes, candidate genomic-neighborhood reconstruction, iTOL dataset generation, architecture signatures, annotation confirmation, ROW versus OSPW comparison, and figure generation.",
+  "description": "Analysis scripts for the article \"Wetland-root microbial genomes contain recurrent multi-gene neighborhoods with potential relevance to naphthenic acid fractional compound transformation\". The workflow covers MAG recovery and abundance, Prokka annotation, phylogenomics, a curated 667-protein reference-panel BLASTP screen of 365 genomes, candidate genomic-neighborhood reconstruction, iTOL dataset generation, architecture signatures, annotation confirmation, ROW versus OSPW comparison, and figure generation. The release also includes a browsable gene-map atlas (docs/): one gene map per recurring gene-set signature and one combined gene map per genome (288 genomes, 2,095 neighborhoods), viewable at https://julius-nweze.github.io/NAFC_genomic_neighborhoods/.",
   "creators": [
     {
       "name": "Nweze, Julius Eyiuche",

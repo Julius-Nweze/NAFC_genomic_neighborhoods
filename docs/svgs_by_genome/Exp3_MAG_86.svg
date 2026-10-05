@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="492" viewBox="0 0 1700 492">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<text x="24.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_86: reference-panel operon/cluster gene maps</text>
+<text x="24.0" y="56.0" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#555">2 shortlisted clusters (&gt;=3 independent panel gene hits) for this genome</text>
+<text x="24.0" y="74.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="start" fill="#555">Arrow direction shows CDS strand. Color shows enzyme class. Bold outline = reference-panel seed hit.</text>
+<rect x="18" y="82" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="82" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="100.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_86_panelcluster_13303</text>
+<text x="32.0" y="118.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_86 | MAGs/Exp3_MAG_86_c_000000000012 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="134.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: hpcH; pcaF; pobA</text>
+<text x="32.0" y="146.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Catechol-ortho; Protocatechuate</text>
+<line x1="452" y1="173.0" x2="1664" y2="173.0" stroke="#d0d0d0"/>
+<polygon points="715.3,162.0 470.0,162.0 452.0,173.0 470.0,184.0 715.3,184.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>OEDOMGNC_01929 | praI | Oxygenase/dioxygenase | 4-hydroxybenzoate 3-monooxygenase (NAD(P)H) | PANEL HIT: pobA (Aromatics / Toluene) | pident=53.197000 qcovs=99.000000</title></polygon>
+<text x="583.6" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">praI (pobA)</text>
+<polygon points="981.0,162.0 732.4,162.0 714.4,173.0 732.4,184.0 981.0,184.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>OEDOMGNC_01930 | pcaF | Thiolase/transferase | Beta-ketoadipyl-CoA thiolase | PANEL HIT: pcaF (Catechol-ortho; Protocatechuate / Protocatechuate) | pident=65.743000 qcovs=99.000000</title></polygon>
+<text x="847.7" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pcaF (pcaF)</text>
+<polygon points="1255.8,162.0 1003.9,162.0 985.9,173.0 1003.9,184.0 1255.8,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>OEDOMGNC_01931 | mdtG | Accessory/other | Multidrug resistance protein MdtG</title></polygon>
+<text x="1120.8" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">mdtG</text>
+<polygon points="1271.5,162.0 1471.6,162.0 1489.6,173.0 1471.6,184.0 1271.5,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>OEDOMGNC_01932 | OEDOMGNC_01932 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1380.6" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">OEDOMGNC_01932</text>
+<polygon points="1487.8,162.0 1646.0,162.0 1664.0,173.0 1646.0,184.0 1487.8,184.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>OEDOMGNC_01933 | garL_1 | Hydrolase/decarboxylase/lyase | 5-keto-4-deoxy-D-glucarate aldolase | PANEL HIT: hpcH (Aromatics / Homoprotocatechuate) | pident=33.906000 qcovs=89.000000</title></polygon>
+<text x="1575.9" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">garL_1 (hpcH)</text>
+<text x="452.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">87,349 bp</text>
+<text x="1664.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">92,817 bp</text>
+<rect x="18" y="224" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="224" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="242.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_86_panelcluster_13343</text>
+<text x="32.0" y="260.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_86 | MAGs/Exp3_MAG_86_c_000000000063 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="276.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: fadJ; hbd; pimC/aabA; pimD; pvaA</text>
+<text x="32.0" y="288.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Beta-oxidation; Cyclohexanecarboxylate; Plastics</text>
+<line x1="452" y1="315.0" x2="1664" y2="315.0" stroke="#d0d0d0"/>
+<polygon points="452.0,304.0 526.4,304.0 544.4,315.0 526.4,326.0 452.0,326.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>OEDOMGNC_05491 | pvaA_3 | Dehydrogenase/oxidoreductase | Polyvinylalcohol dehydrogenase | PANEL HIT: pvaA (Plastics / PVA) | pident=38.959000 qcovs=96.000000</title></polygon>
+<text x="498.2" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 498.2 339.0)" fill="#111">pvaA_3 (pvaA)</text>
+<polygon points="734.2,304.0 565.8,304.0 547.8,315.0 565.8,326.0 734.2,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>OEDOMGNC_05492 | OEDOMGNC_05492 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="641.0" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 641.0 339.0)" fill="#555">OEDOMGNC_05492</text>
+<polygon points="739.9,304.0 778.0,304.0 796.0,315.0 778.0,326.0 739.9,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>OEDOMGNC_05493 | OEDOMGNC_05493 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="767.9" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 767.9 339.0)" fill="#555">OEDOMGNC_05493</text>
+<polygon points="877.0,304.0 816.3,304.0 798.3,315.0 816.3,326.0 877.0,326.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>OEDOMGNC_05494 | guaB | Dehydrogenase/oxidoreductase | Inosine-5&#x27;-monophosphate dehydrogenase</title></polygon>
+<text x="837.7" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 837.7 339.0)" fill="#555">guaB</text>
+<polygon points="880.6,304.0 898.8,304.0 907.7,315.0 898.8,326.0 880.6,326.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>OEDOMGNC_05495 | efp_2 | Accessory/other | Elongation factor P</title></polygon>
+<text x="894.2" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 894.2 339.0)" fill="#555">efp_2</text>
+<polygon points="981.3,304.0 928.7,304.0 910.7,315.0 928.7,326.0 981.3,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>OEDOMGNC_05496 | OEDOMGNC_05496 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="946.0" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 946.0 339.0)" fill="#555">OEDOMGNC_05496</text>
+<polygon points="1132.5,304.0 999.1,304.0 981.1,315.0 999.1,326.0 1132.5,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>OEDOMGNC_05497 | OEDOMGNC_05497 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1056.8" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1056.8 339.0)" fill="#555">OEDOMGNC_05497</text>
+<polygon points="1136.8,304.0 1168.0,304.0 1183.4,315.0 1168.0,326.0 1136.8,326.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>OEDOMGNC_05498 | scrK | Accessory/other | Fructokinase</title></polygon>
+<text x="1160.1" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1160.1 339.0)" fill="#555">scrK</text>
+<polygon points="1185.7,304.0 1211.4,304.0 1224.1,315.0 1211.4,326.0 1185.7,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>OEDOMGNC_05499 | OEDOMGNC_05499 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1204.9" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1204.9 339.0)" fill="#555">OEDOMGNC_05499</text>
+<polygon points="1224.8,304.0 1377.6,304.0 1395.6,315.0 1377.6,326.0 1224.8,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>OEDOMGNC_05500 | OEDOMGNC_05500 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1310.2" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1310.2 339.0)" fill="#555">OEDOMGNC_05500</text>
+<polygon points="1503.2,304.0 1413.7,304.0 1395.7,315.0 1413.7,326.0 1503.2,326.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>OEDOMGNC_05501 | fadB | Hydratase/dehydratase/isomerase | Fatty acid oxidation complex subunit alpha | PANEL HIT: fadJ (Beta-oxidation / Beta-oxidation) | pident=32.771000 qcovs=98.000000</title></polygon>
+<text x="1449.5" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1449.5 339.0)" fill="#111">fadB (fadJ)</text>
+<polygon points="1544.8,304.0 1517.9,304.0 1504.6,315.0 1517.9,326.0 1544.8,326.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>OEDOMGNC_05502 | kduD_3 | Dehydrogenase/oxidoreductase | 2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase | PANEL HIT: hbd (Plastics / P3HV/PHA/PHBV) | pident=37.358000 qcovs=98.000000</title></polygon>
+<text x="1524.7" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1524.7 339.0)" fill="#111">kduD_3 (hbd)</text>
+<polygon points="1603.8,304.0 1562.6,304.0 1544.6,315.0 1562.6,326.0 1603.8,326.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>OEDOMGNC_05503 | acrC | Dehydrogenase/oxidoreductase | Acryloyl-CoA reductase (NADH) | PANEL HIT: pimD (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=32.533000 qcovs=98.000000</title></polygon>
+<text x="1574.2" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1574.2 339.0)" fill="#111">acrC (pimD)</text>
+<polygon points="1664.0,304.0 1621.9,304.0 1603.9,315.0 1621.9,326.0 1664.0,326.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>OEDOMGNC_05504 | OEDOMGNC_05504 | Dehydrogenase/oxidoreductase | Putative acyl-CoA dehydrogenase FadE17 | PANEL HIT: pimC/aabA (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=38.958000 qcovs=100.000000</title></polygon>
+<text x="1633.9" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1633.9 339.0)" fill="#111">OEDOMGNC_05504 (pimC/...</text>
+<text x="452.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">9,805 bp</text>
+<text x="1664.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">33,505 bp</text>
+<text x="24.0" y="384.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="394" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="404.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="394" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="404.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="394" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="404.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="394" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="404.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="416" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="426.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="416" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="426.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="416" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="426.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="416" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="426.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="438" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="448.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="438" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="448.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="438" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="448.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="438" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="448.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="460" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="470.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

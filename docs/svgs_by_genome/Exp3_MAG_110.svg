@@ -1,0 +1,168 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="1060" viewBox="0 0 1700 1060">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<text x="24.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_110: reference-panel operon/cluster gene maps</text>
+<text x="24.0" y="56.0" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#555">6 shortlisted clusters (&gt;=3 independent panel gene hits) for this genome</text>
+<text x="24.0" y="74.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="start" fill="#555">Arrow direction shows CDS strand. Color shows enzyme class. Bold outline = reference-panel seed hit.</text>
+<rect x="18" y="82" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="82" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="100.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_110_panelcluster_1013</text>
+<text x="32.0" y="118.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_110 | MAGs/Exp3_MAG_110_c_000000000195 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="134.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: chnD; prmA; prmB; prmC</text>
+<text x="32.0" y="146.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes</text>
+<line x1="452" y1="173.0" x2="1664" y2="173.0" stroke="#d0d0d0"/>
+<polygon points="452.0,162.0 591.5,162.0 609.5,173.0 591.5,184.0 452.0,184.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>KIAPBPPI_01072 | adh | Dehydrogenase/oxidoreductase | Alcohol dehydrogenase | PANEL HIT: chnD (Alkanes / Terminal/biterminal oxidation) | pident=36.000000 qcovs=97.000000</title></polygon>
+<text x="530.8" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">adh (chnD)</text>
+<polygon points="625.2,162.0 654.7,162.0 669.2,173.0 654.7,184.0 625.2,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KIAPBPPI_01073 | KIAPBPPI_01073 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="647.2" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">KIAPBPPI_01073</text>
+<polygon points="702.5,162.0 684.2,162.0 675.2,173.0 684.2,184.0 702.5,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KIAPBPPI_01074 | KIAPBPPI_01074 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="688.9" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">KIAPBPPI_01074</text>
+<polygon points="873.9,162.0 725.0,162.0 707.0,173.0 725.0,184.0 873.9,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KIAPBPPI_01075 | KIAPBPPI_01075 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="790.5" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">KIAPBPPI_01075</text>
+<polygon points="921.2,162.0 889.6,162.0 874.1,173.0 889.6,184.0 921.2,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KIAPBPPI_01076 | KIAPBPPI_01076 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="897.7" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">KIAPBPPI_01076</text>
+<polygon points="993.8,162.0 943.1,162.0 925.1,173.0 943.1,184.0 993.8,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KIAPBPPI_01077 | KIAPBPPI_01077 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="959.4" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">KIAPBPPI_01077</text>
+<polygon points="1068.7,162.0 1300.2,162.0 1318.2,173.0 1300.2,184.0 1068.7,184.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>KIAPBPPI_01078 | prmA_1 | Oxygenase/dioxygenase | Propane 2-monooxygenase, hydroxylase component large subunit | PANEL HIT: prmA (Alkanes / Subterminal oxidation) | pident=65.056000 qcovs=99.000000</title></polygon>
+<text x="1193.4" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">prmA_1 (prmA)</text>
+<polygon points="1333.1,162.0 1477.6,162.0 1495.6,173.0 1477.6,184.0 1333.1,184.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>KIAPBPPI_01079 | prmB_1 | Oxygenase/dioxygenase | Propane 2-monooxygenase, reductase component | PANEL HIT: prmB (Alkanes / Subterminal oxidation) | pident=44.160000 qcovs=93.000000</title></polygon>
+<text x="1414.4" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">prmB_1 (prmB)</text>
+<polygon points="1505.6,162.0 1646.0,162.0 1664.0,173.0 1646.0,184.0 1505.6,184.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>KIAPBPPI_01080 | prmC_1 | Oxygenase/dioxygenase | Propane 2-monooxygenase, hydroxylase component small subunit | PANEL HIT: prmC (Alkanes / Subterminal oxidation) | pident=43.953000 qcovs=92.000000</title></polygon>
+<text x="1584.8" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">prmC_1 (prmC)</text>
+<text x="452.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">273 bp</text>
+<text x="1664.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">8,375 bp</text>
+<rect x="18" y="224" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="224" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="242.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_110_panelcluster_1022</text>
+<text x="32.0" y="260.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_110 | MAGs/Exp3_MAG_110_c_000000000267 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="276.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: pcaF; pcaI; pcaJ</text>
+<text x="32.0" y="288.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Catechol-ortho; Protocatechuate</text>
+<line x1="452" y1="315.0" x2="1664" y2="315.0" stroke="#d0d0d0"/>
+<polygon points="1011.3,304.0 470.0,304.0 452.0,315.0 470.0,326.0 1011.3,326.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>KIAPBPPI_01465 | pcaF | Thiolase/transferase | Beta-ketoadipyl-CoA thiolase | PANEL HIT: pcaF (Catechol-ortho; Protocatechuate / Protocatechuate) | pident=67.581000 qcovs=100.000000</title></polygon>
+<text x="731.6" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pcaF (pcaF)</text>
+<polygon points="1336.7,304.0 1025.6,304.0 1007.6,315.0 1025.6,326.0 1336.7,326.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>KIAPBPPI_01466 | pcaJ | Thiolase/transferase | 3-oxoadipate CoA-transferase subunit B | PANEL HIT: pcaJ (Catechol-ortho / Catechol-ortho) | pident=56.039000 qcovs=97.000000</title></polygon>
+<text x="1172.1" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pcaJ (pcaJ)</text>
+<polygon points="1664.0,304.0 1352.8,304.0 1334.8,315.0 1352.8,326.0 1664.0,326.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>KIAPBPPI_01467 | pcaI | Thiolase/transferase | 3-oxoadipate CoA-transferase subunit A | PANEL HIT: pcaI (Catechol-ortho / Catechol-ortho) | pident=59.633000 qcovs=94.000000</title></polygon>
+<text x="1499.4" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pcaI (pcaI)</text>
+<text x="452.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">719 bp</text>
+<text x="1664.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">3,325 bp</text>
+<rect x="18" y="366" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="366" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="384.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_110_panelcluster_1039</text>
+<text x="32.0" y="402.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_110 | MAGs/Exp3_MAG_110_c_000000000419 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="418.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: DPGC; PGRcl; paaH</text>
+<text x="32.0" y="430.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Phenylacetate; Pyrogallol</text>
+<line x1="452" y1="457.0" x2="1664" y2="457.0" stroke="#d0d0d0"/>
+<polygon points="452.0,446.0 784.2,446.0 802.2,457.0 784.2,468.0 452.0,468.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>KIAPBPPI_02331 | kynB | Accessory/other | Kynurenine formamidase | PANEL HIT: DPGC (Pyrogallol / Pyrogallol) | pident=62.642000 qcovs=100.000000</title></polygon>
+<text x="627.1" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">kynB (DPGC)</text>
+<polygon points="801.8,446.0 930.1,446.0 948.1,457.0 930.1,468.0 801.8,468.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KIAPBPPI_02332 | KIAPBPPI_02332 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="875.0" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">KIAPBPPI_02332</text>
+<polygon points="946.5,446.0 1264.9,446.0 1282.9,457.0 1264.9,468.0 946.5,468.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>KIAPBPPI_02333 | kduD_1 | Dehydrogenase/oxidoreductase | 2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase | PANEL HIT: PGRcl (Pyrogallol / Pyrogallol) | pident=40.684000 qcovs=95.000000</title></polygon>
+<text x="1114.7" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">kduD_1 (PGRcl)</text>
+<polygon points="1283.8,446.0 1646.0,446.0 1664.0,457.0 1646.0,468.0 1283.8,468.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>KIAPBPPI_02334 | KIAPBPPI_02334 | Dehydrogenase/oxidoreductase | 3-hydroxybutyryl-CoA dehydrogenase | PANEL HIT: paaH (Phenylacetate / Phenylacetate) | pident=35.640000 qcovs=59.000000</title></polygon>
+<text x="1473.9" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">KIAPBPPI_02334 (paaH)</text>
+<text x="452.0" y="394.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">4,316 bp</text>
+<text x="1664.0" y="394.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">7,222 bp</text>
+<rect x="18" y="508" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="508" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="526.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_110_panelcluster_1040</text>
+<text x="32.0" y="544.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_110 | MAGs/Exp3_MAG_110_c_000000000425 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="560.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: acdB; chcB1; chcB2; xecD</text>
+<text x="32.0" y="572.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkenes; Beta-oxidation; Cyclohexanecarboxylate</text>
+<line x1="452" y1="599.0" x2="1664" y2="599.0" stroke="#d0d0d0"/>
+<polygon points="452.0,588.0 948.1,588.0 966.1,599.0 948.1,610.0 452.0,610.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>KIAPBPPI_02362 | dmdC_2 | Dehydrogenase/oxidoreductase | 3-methylmercaptopropionyl-CoA dehydrogenase | PANEL HIT: acdB (Beta-oxidation / Beta-oxidation) | pident=32.034000 qcovs=94.000000</title></polygon>
+<text x="709.0" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">dmdC_2 (acdB)</text>
+<polygon points="974.0,588.0 1176.7,588.0 1194.7,599.0 1176.7,610.0 974.0,610.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>KIAPBPPI_02363 | lvr_2 | Dehydrogenase/oxidoreductase | Levodione reductase | PANEL HIT: chcB2 (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=40.081000 qcovs=96.000000</title></polygon>
+<text x="1084.4" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">lvr_2 (chcB2)</text>
+<polygon points="1198.7,588.0 1409.9,588.0 1427.9,599.0 1409.9,610.0 1198.7,610.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>KIAPBPPI_02364 | cpnA_2 | Dehydrogenase/oxidoreductase | Cyclopentanol dehydrogenase | PANEL HIT: chcB1 (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=43.627000 qcovs=69.000000</title></polygon>
+<text x="1313.3" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">cpnA_2 (chcB1)</text>
+<polygon points="1664.0,588.0 1458.8,588.0 1440.8,599.0 1458.8,610.0 1664.0,610.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>KIAPBPPI_02365 | fabG_6 | Dehydrogenase/oxidoreductase | 3-oxoacyl-[acyl-carrier-protein] reductase FabG | PANEL HIT: xecD (Alkenes / Propene) | pident=35.156000 qcovs=99.000000</title></polygon>
+<text x="1552.4" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">fabG_6 (xecD)</text>
+<text x="452.0" y="536.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">2,625 bp</text>
+<text x="1664.0" y="536.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">6,875 bp</text>
+<rect x="18" y="650" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="650" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="668.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_110_panelcluster_1059</text>
+<text x="32.0" y="686.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_110 | MAGs/Exp3_MAG_110_c_000000000595 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="702.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: badK; pcaC; pcaD; pcaG; pcaH</text>
+<text x="32.0" y="714.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Catechol-ortho; Cyclohexanecarboxylate;</text>
+<text x="32.0" y="726.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Protocatechuate</text>
+<line x1="452" y1="741.0" x2="1664" y2="741.0" stroke="#d0d0d0"/>
+<polygon points="543.2,730.0 470.0,730.0 452.0,741.0 470.0,752.0 543.2,752.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>KIAPBPPI_03234 | pcaG | Oxygenase/dioxygenase | Protocatechuate 3,4-dioxygenase alpha chain | PANEL HIT: pcaG (Protocatechuate / Protocatechuate) | pident=44.712000 qcovs=98.000000</title></polygon>
+<text x="497.6" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pcaG (pcaG)</text>
+<polygon points="651.6,730.0 561.3,730.0 543.3,741.0 561.3,752.0 651.6,752.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>KIAPBPPI_03235 | pcaH | Oxygenase/dioxygenase | Protocatechuate 3,4-dioxygenase beta chain | PANEL HIT: pcaH (Protocatechuate / Protocatechuate) | pident=61.277000 qcovs=98.000000</title></polygon>
+<text x="597.4" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pcaH (pcaH)</text>
+<polygon points="711.8,730.0 666.6,730.0 648.6,741.0 666.6,752.0 711.8,752.0" fill="#d9d9d9" stroke="#111" stroke-width="2.2"><title>KIAPBPPI_03236 | KIAPBPPI_03236 | Hypothetical/accessory | hypothetical protein | PANEL HIT: pcaC (Protocatechuate / Protocatechuate) | pident=41.538000 qcovs=97.000000</title></polygon>
+<text x="680.2" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">KIAPBPPI_03236 (pcaC)</text>
+<polygon points="828.0,730.0 730.8,730.0 712.8,741.0 730.8,752.0 828.0,752.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>KIAPBPPI_03237 | catD | Hydrolase/decarboxylase/lyase | 3-oxoadipate enol-lactonase 2 | PANEL HIT: pcaD (Catechol-ortho; Protocatechuate / Protocatechuate) | pident=37.786000 qcovs=99.000000</title></polygon>
+<text x="770.4" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">catD (pcaD)</text>
+<polygon points="841.6,730.0 959.1,730.0 977.1,741.0 959.1,752.0 841.6,752.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>KIAPBPPI_03238 | gbpR_2 | Regulator | HTH-type transcriptional regulator GbpR</title></polygon>
+<text x="909.3" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">gbpR_2</text>
+<polygon points="1033.2,730.0 992.4,730.0 974.4,741.0 992.4,752.0 1033.2,752.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KIAPBPPI_03239 | yqjF_2 | Accessory/other | Inner membrane protein YqjF</title></polygon>
+<text x="1003.8" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">yqjF_2</text>
+<polygon points="1274.8,730.0 1061.8,730.0 1043.8,741.0 1061.8,752.0 1274.8,752.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KIAPBPPI_03240 | ubiB | Accessory/other | putative protein kinase UbiB</title></polygon>
+<text x="1159.3" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">ubiB</text>
+<polygon points="1388.9,730.0 1293.4,730.0 1275.4,741.0 1293.4,752.0 1388.9,752.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KIAPBPPI_03241 | ubiE | Accessory/other | Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE</title></polygon>
+<text x="1332.1" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">ubiE</text>
+<polygon points="1419.4,730.0 1531.2,730.0 1549.2,741.0 1531.2,752.0 1419.4,752.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KIAPBPPI_03242 | mutM | Accessory/other | Formamidopyrimidine-DNA glycosylase</title></polygon>
+<text x="1484.3" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">mutM</text>
+<polygon points="1550.9,730.0 1646.0,730.0 1664.0,741.0 1646.0,752.0 1550.9,752.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>KIAPBPPI_03243 | echA8 | Hydratase/dehydratase/isomerase | putative enoyl-CoA hydratase echA8 | PANEL HIT: badK (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=53.876000 qcovs=100.000000</title></polygon>
+<text x="1607.5" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">echA8 (badK)</text>
+<text x="452.0" y="678.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">473 bp</text>
+<text x="1664.0" y="678.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">8,768 bp</text>
+<rect x="18" y="792" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="792" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="810.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_110_panelcluster_1061</text>
+<text x="32.0" y="828.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_110 | MAGs/Exp3_MAG_110_c_000000000598 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="844.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: aliB; fadB; yfdE</text>
+<text x="32.0" y="856.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Beta-oxidation; Oxalate</text>
+<line x1="452" y1="883.0" x2="1664" y2="883.0" stroke="#d0d0d0"/>
+<polygon points="452.0,872.0 559.6,872.0 577.6,883.0 559.6,894.0 452.0,894.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>KIAPBPPI_03255 | yfdE | Thiolase/transferase | Acetyl-CoA:oxalate CoA-transferase | PANEL HIT: yfdE (Oxalate / Oxalate) | pident=35.696000 qcovs=97.000000</title></polygon>
+<text x="514.8" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">yfdE (yfdE)</text>
+<polygon points="638.6,872.0 604.5,872.0 587.7,883.0 604.5,894.0 638.6,894.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KIAPBPPI_03256 | KIAPBPPI_03256 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="613.2" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">KIAPBPPI_03256</text>
+<polygon points="772.9,872.0 678.6,872.0 660.6,883.0 678.6,894.0 772.9,894.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KIAPBPPI_03257 | KIAPBPPI_03257 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="716.7" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">KIAPBPPI_03257</text>
+<polygon points="866.7,872.0 790.4,872.0 772.4,883.0 790.4,894.0 866.7,894.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>KIAPBPPI_03258 | livH_12 | Transport/efflux | High-affinity branched-chain amino acid transport system permease protein LivH</title></polygon>
+<text x="819.6" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">livH_12</text>
+<polygon points="944.6,872.0 884.3,872.0 866.3,883.0 884.3,894.0 944.6,894.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>KIAPBPPI_03259 | livF_14 | Transport/efflux | High-affinity branched-chain amino acid transport ATP-binding protein LivF</title></polygon>
+<text x="905.5" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">livF_14</text>
+<polygon points="1022.7,872.0 960.4,872.0 942.4,883.0 960.4,894.0 1022.7,894.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KIAPBPPI_03260 | lptB_9 | Accessory/other | Lipopolysaccharide export system ATP-binding protein LptB</title></polygon>
+<text x="982.6" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">lptB_9</text>
+<polygon points="1188.4,872.0 1066.7,872.0 1048.7,883.0 1066.7,894.0 1188.4,894.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KIAPBPPI_03261 | KIAPBPPI_03261 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1118.5" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">KIAPBPPI_03261</text>
+<polygon points="1433.5,872.0 1225.4,872.0 1207.4,883.0 1225.4,894.0 1433.5,894.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>KIAPBPPI_03262 | fadB_3 | Hydratase/dehydratase/isomerase | Fatty acid oxidation complex subunit alpha | PANEL HIT: fadB (Beta-oxidation / Beta-oxidation) | pident=30.516000 qcovs=94.000000</title></polygon>
+<text x="1320.5" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">fadB_3 (fadB)</text>
+<polygon points="1450.7,872.0 1518.9,872.0 1536.9,883.0 1518.9,894.0 1450.7,894.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>KIAPBPPI_03263 | tsaQ1 | Regulator | HTH-type transcriptional regulator TsaQ1/TsaQ2</title></polygon>
+<text x="1493.8" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">tsaQ1</text>
+<polygon points="1538.4,872.0 1646.0,872.0 1664.0,883.0 1646.0,894.0 1538.4,894.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>KIAPBPPI_03264 | acrC_2 | Dehydrogenase/oxidoreductase | Acryloyl-CoA reductase (NADH) | PANEL HIT: aliB (Beta-oxidation / Beta-oxidation) | pident=34.511000 qcovs=93.000000</title></polygon>
+<text x="1601.2" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">acrC_2 (aliB)</text>
+<text x="452.0" y="820.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">1,873 bp</text>
+<text x="1664.0" y="820.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">13,015 bp</text>
+<text x="24.0" y="952.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="962" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="972.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="962" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="972.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="962" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="972.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="962" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="972.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="984" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="994.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="984" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="994.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="984" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="994.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="984" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="994.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="1006" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="1016.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="1006" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="1016.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="1006" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="1016.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="1006" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="1016.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="1028" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="1038.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="634" viewBox="0 0 1700 634">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<text x="24.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_31: reference-panel operon/cluster gene maps</text>
+<text x="24.0" y="56.0" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#555">3 shortlisted clusters (&gt;=3 independent panel gene hits) for this genome</text>
+<text x="24.0" y="74.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="start" fill="#555">Arrow direction shows CDS strand. Color shows enzyme class. Bold outline = reference-panel seed hit.</text>
+<rect x="18" y="82" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="82" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="100.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_31_panelcluster_10723</text>
+<text x="32.0" y="118.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_31 | MAGs/Exp3_MAG_31_c_000000000095 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="134.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: fadE; fadI; fadJ</text>
+<text x="32.0" y="146.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Beta-oxidation; Catechol-ortho</text>
+<line x1="452" y1="173.0" x2="1664" y2="173.0" stroke="#d0d0d0"/>
+<polygon points="882.2,162.0 470.0,162.0 452.0,173.0 470.0,184.0 882.2,184.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>HBGECCKF_00766 | fadJ | Accessory/other | Fatty acid oxidation complex subunit alpha | PANEL HIT: fadJ (Beta-oxidation / Beta-oxidation) | pident=35.610000 qcovs=96.000000</title></polygon>
+<text x="667.1" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">fadJ (fadJ)</text>
+<polygon points="1155.9,162.0 900.0,162.0 882.0,173.0 900.0,184.0 1155.9,184.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>HBGECCKF_00767 | pcaF | Thiolase/transferase | Beta-ketoadipyl-CoA thiolase | PANEL HIT: fadI (Catechol-ortho / Catechol-ortho) | pident=33.570000 qcovs=96.000000</title></polygon>
+<text x="1018.9" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pcaF (fadI)</text>
+<polygon points="1664.0,162.0 1180.5,162.0 1162.5,173.0 1180.5,184.0 1664.0,184.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>HBGECCKF_00768 | fadE_1 | Dehydrogenase/oxidoreductase | Acyl-coenzyme A dehydrogenase | PANEL HIT: fadE (Beta-oxidation / Beta-oxidation) | pident=47.570000 qcovs=95.000000</title></polygon>
+<text x="1413.3" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">fadE_1 (fadE)</text>
+<text x="452.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">691 bp</text>
+<text x="1664.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">6,556 bp</text>
+<rect x="18" y="224" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="224" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="242.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_31_panelcluster_10727</text>
+<text x="32.0" y="260.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_31 | MAGs/Exp3_MAG_31_c_000000000162 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="276.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: acdA; atoB; chqB</text>
+<text x="32.0" y="288.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Beta-oxidation; Hydroxyquinol</text>
+<line x1="452" y1="315.0" x2="1664" y2="315.0" stroke="#d0d0d0"/>
+<polygon points="782.4,304.0 470.0,304.0 452.0,315.0 470.0,326.0 782.4,326.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>HBGECCKF_01297 | thlA | Thiolase/transferase | Acetyl-CoA acetyltransferase | PANEL HIT: atoB (Beta-oxidation / Beta-oxidation) | pident=44.588000 qcovs=98.000000</title></polygon>
+<text x="617.2" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">thlA (atoB)</text>
+<polygon points="1106.4,304.0 800.7,304.0 782.7,315.0 800.7,326.0 1106.4,326.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>HBGECCKF_01298 | mmgC | Dehydrogenase/oxidoreductase | Acyl-CoA dehydrogenase | PANEL HIT: acdA (Beta-oxidation / Beta-oxidation) | pident=44.828000 qcovs=99.000000</title></polygon>
+<text x="944.5" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">mmgC (acdA)</text>
+<polygon points="1304.6,304.0 1167.0,304.0 1149.0,315.0 1167.0,326.0 1304.6,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HBGECCKF_01299 | HBGECCKF_01299 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1226.8" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">HBGECCKF_01299</text>
+<polygon points="1420.6,304.0 1322.3,304.0 1304.3,315.0 1322.3,326.0 1420.6,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HBGECCKF_01300 | HBGECCKF_01300 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1362.5" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">HBGECCKF_01300</text>
+<polygon points="1664.0,304.0 1441.9,304.0 1423.9,315.0 1441.9,326.0 1664.0,326.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>HBGECCKF_01301 | npcC | Oxygenase/dioxygenase | Hydroxyquinol 1,2-dioxygenase | PANEL HIT: chqB (Hydroxyquinol / Hydroxyquinol) | pident=32.283000 qcovs=86.000000</title></polygon>
+<text x="1544.0" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">npcC (chqB)</text>
+<text x="452.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">5,748 bp</text>
+<text x="1664.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">10,094 bp</text>
+<rect x="18" y="366" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="366" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="384.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_31_panelcluster_10731</text>
+<text x="32.0" y="402.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_31 | MAGs/Exp3_MAG_31_c_000000000220 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="418.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: mlaD; mlaE; mlaF</text>
+<text x="32.0" y="430.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Transportation</text>
+<line x1="452" y1="457.0" x2="1664" y2="457.0" stroke="#d0d0d0"/>
+<polygon points="601.0,446.0 470.0,446.0 452.0,457.0 470.0,468.0 601.0,468.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>HBGECCKF_01773 | mlaD | Transport/efflux | Intermembrane phospholipid transport system binding protein MlaD | PANEL HIT: mlaD (Transportation / Transportation) | pident=44.000000 qcovs=95.000000</title></polygon>
+<text x="526.5" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">mlaD (mlaD)</text>
+<polygon points="825.6,446.0 618.7,446.0 600.7,457.0 618.7,468.0 825.6,468.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>HBGECCKF_01774 | mlaE | Transport/efflux | Intermembrane phospholipid transport system permease protein MlaE | PANEL HIT: mlaE (Transportation / Transportation) | pident=61.628000 qcovs=99.000000</title></polygon>
+<text x="713.1" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">mlaE (mlaE)</text>
+<polygon points="858.0,446.0 1001.1,446.0 1019.1,457.0 1001.1,468.0 858.0,468.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HBGECCKF_01775 | HBGECCKF_01775 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="938.6" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">HBGECCKF_01775</text>
+<polygon points="1227.0,446.0 1051.2,446.0 1033.2,457.0 1051.2,468.0 1227.0,468.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HBGECCKF_01776 | HBGECCKF_01776 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1130.1" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">HBGECCKF_01776</text>
+<polygon points="1279.8,446.0 1337.6,446.0 1355.6,457.0 1337.6,468.0 1279.8,468.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HBGECCKF_01777 | HBGECCKF_01777 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1317.7" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">HBGECCKF_01777</text>
+<polygon points="1358.8,446.0 1404.5,446.0 1422.5,457.0 1404.5,468.0 1358.8,468.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HBGECCKF_01778 | HBGECCKF_01778 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1390.6" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">HBGECCKF_01778</text>
+<polygon points="1664.0,446.0 1453.7,446.0 1435.7,457.0 1453.7,468.0 1664.0,468.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>HBGECCKF_01779 | mlaF | Transport/efflux | Intermembrane phospholipid transport system ATP-binding protein MlaF | PANEL HIT: mlaF (Transportation / Transportation) | pident=58.846000 qcovs=97.000000</title></polygon>
+<text x="1549.9" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">mlaF (mlaF)</text>
+<text x="452.0" y="394.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">787 bp</text>
+<text x="1664.0" y="394.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">5,007 bp</text>
+<text x="24.0" y="526.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="536" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="546.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="536" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="546.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="536" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="546.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="536" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="546.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="558" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="568.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="558" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="568.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="558" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="568.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="558" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="568.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="580" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="590.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="580" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="590.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="580" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="590.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="580" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="590.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="602" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="612.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

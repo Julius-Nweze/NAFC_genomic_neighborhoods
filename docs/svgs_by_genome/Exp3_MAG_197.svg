@@ -1,0 +1,223 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="1060" viewBox="0 0 1700 1060">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<text x="24.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_197: reference-panel operon/cluster gene maps</text>
+<text x="24.0" y="56.0" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#555">6 shortlisted clusters (&gt;=3 independent panel gene hits) for this genome</text>
+<text x="24.0" y="74.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="start" fill="#555">Arrow direction shows CDS strand. Color shows enzyme class. Bold outline = reference-panel seed hit.</text>
+<rect x="18" y="82" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="82" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="100.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_197_panelcluster_5388</text>
+<text x="32.0" y="118.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_197 | MAGs/Exp3_MAG_197_c_000000000004 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="134.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: fadA; hbd; pcaK</text>
+<text x="32.0" y="146.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Beta-oxidation; Plastics; Transportation</text>
+<line x1="452" y1="173.0" x2="1664" y2="173.0" stroke="#d0d0d0"/>
+<polygon points="452.0,162.0 559.0,162.0 577.0,173.0 559.0,184.0 452.0,184.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>OAOAOKED_00128 | naiP | Transport/efflux | Putative niacin/nicotinamide transporter NaiP | PANEL HIT: pcaK (Transportation / Transportation) | pident=31.111000 qcovs=90.000000</title></polygon>
+<text x="514.5" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 514.5 197.0)" fill="#111">naiP (pcaK)</text>
+<polygon points="576.6,162.0 633.2,162.0 651.2,173.0 633.2,184.0 576.6,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>OAOAOKED_00129 | thiD | Accessory/other | Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase</title></polygon>
+<text x="613.9" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 613.9 197.0)" fill="#555">thiD</text>
+<polygon points="716.3,162.0 674.1,162.0 656.1,173.0 674.1,184.0 716.3,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>OAOAOKED_00130 | OAOAOKED_00130 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="686.2" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 686.2 197.0)" fill="#555">OAOAOKED_00130</text>
+<polygon points="833.7,162.0 733.9,162.0 715.9,173.0 733.9,184.0 833.7,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>OAOAOKED_00131 | OAOAOKED_00131 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="774.8" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 774.8 197.0)" fill="#555">OAOAOKED_00131</text>
+<polygon points="867.8,162.0 843.5,162.0 831.5,173.0 843.5,184.0 867.8,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>OAOAOKED_00132 | OAOAOKED_00132 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="849.6" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 849.6 197.0)" fill="#555">OAOAOKED_00132</text>
+<polygon points="901.1,162.0 878.5,162.0 867.4,173.0 878.5,184.0 901.1,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>OAOAOKED_00133 | tolQ | Accessory/other | Tol-Pal system protein TolQ</title></polygon>
+<text x="884.2" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 884.2 197.0)" fill="#555">tolQ</text>
+<polygon points="982.8,162.0 923.4,162.0 905.4,173.0 923.4,184.0 982.8,184.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>OAOAOKED_00134 | araQ_1 | Transport/efflux | L-arabinose transport system permease protein AraQ</title></polygon>
+<text x="944.1" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 944.1 197.0)" fill="#555">araQ_1</text>
+<polygon points="1089.3,162.0 1000.8,162.0 982.8,173.0 1000.8,184.0 1089.3,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>OAOAOKED_00135 | OAOAOKED_00135 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1036.0" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1036.0 197.0)" fill="#555">OAOAOKED_00135</text>
+<polygon points="1212.9,162.0 1111.4,162.0 1093.4,173.0 1111.4,184.0 1212.9,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>OAOAOKED_00136 | OAOAOKED_00136 | Accessory/other | putative sugar-binding periplasmic protein</title></polygon>
+<text x="1153.2" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1153.2 197.0)" fill="#555">OAOAOKED_00136</text>
+<polygon points="1311.8,162.0 1226.7,162.0 1208.7,173.0 1226.7,184.0 1311.8,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>OAOAOKED_00137 | nanK_1 | Accessory/other | N-acetylmannosamine kinase</title></polygon>
+<text x="1260.2" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1260.2 197.0)" fill="#555">nanK_1</text>
+<polygon points="1333.1,162.0 1425.9,162.0 1443.9,173.0 1425.9,184.0 1333.1,184.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>OAOAOKED_00138 | fadA5 | Thiolase/transferase | Steroid 3-ketoacyl-CoA thiolase | PANEL HIT: fadA (Beta-oxidation / Beta-oxidation) | pident=43.797000 qcovs=99.000000</title></polygon>
+<text x="1388.5" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1388.5 197.0)" fill="#111">fadA5 (fadA)</text>
+<polygon points="1444.9,162.0 1496.9,162.0 1514.9,173.0 1496.9,184.0 1444.9,184.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>OAOAOKED_00139 | OAOAOKED_00139 | Dehydrogenase/oxidoreductase | putative oxidoreductase</title></polygon>
+<text x="1479.9" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1479.9 197.0)" fill="#555">OAOAOKED_00139</text>
+<polygon points="1512.1,162.0 1573.8,162.0 1591.8,173.0 1573.8,184.0 1512.1,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>OAOAOKED_00140 | OAOAOKED_00140 | Accessory/other | putative fatty acyl-CoA transferase</title></polygon>
+<text x="1551.9" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1551.9 197.0)" fill="#555">OAOAOKED_00140</text>
+<polygon points="1664.0,162.0 1609.4,162.0 1591.4,173.0 1609.4,184.0 1664.0,184.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>OAOAOKED_00141 | bdhA | Dehydrogenase/oxidoreductase | D-beta-hydroxybutyrate dehydrogenase | PANEL HIT: hbd (Plastics / P3HV/PHA/PHBV) | pident=45.703000 qcovs=98.000000</title></polygon>
+<text x="1627.7" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1627.7 197.0)" fill="#111">bdhA (hbd)</text>
+<text x="452.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">71,643 bp</text>
+<text x="1664.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">84,270 bp</text>
+<rect x="18" y="224" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="224" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="242.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_197_panelcluster_5392</text>
+<text x="32.0" y="260.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_197 | MAGs/Exp3_MAG_197_c_000000000006 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="276.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: hpaH; hpcC; hpcE; paaA; paaC; paaD; paaK; paaZ; xylE</text>
+<text x="32.0" y="288.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Catechol-meta; Phenylacetate</text>
+<line x1="452" y1="315.0" x2="1664" y2="315.0" stroke="#d0d0d0"/>
+<polygon points="452.0,304.0 504.1,304.0 522.1,315.0 504.1,326.0 452.0,326.0" fill="#6a3d9a" stroke="#111" stroke-width="2.2"><title>OAOAOKED_00362 | hpcE | Carboxylase | Homoprotocatechuate catabolism bifunctional isomerase/decarboxylase | PANEL HIT: hpcE (Aromatics / Homoprotocatechuate) | pident=45.673000 qcovs=96.000000</title></polygon>
+<text x="487.0" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 487.0 339.0)" fill="#111">hpcE (hpcE)</text>
+<polygon points="521.7,304.0 650.1,304.0 668.1,315.0 650.1,326.0 521.7,326.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>OAOAOKED_00363 | betB | Dehydrogenase/oxidoreductase | NAD/NADP-dependent betaine aldehyde dehydrogenase | PANEL HIT: hpcC (Aromatics / Homoprotocatechuate) | pident=48.387000 qcovs=98.000000</title></polygon>
+<text x="594.9" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 594.9 339.0)" fill="#111">betB (hpcC)</text>
+<polygon points="669.2,304.0 787.9,304.0 805.9,315.0 787.9,326.0 669.2,326.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>OAOAOKED_00364 | OAOAOKED_00364 | Oxygenase/dioxygenase | 4-hydroxyphenylacetate 3-monooxygenase oxygenase component | PANEL HIT: hpaH (Aromatics / Anthranilate) | pident=43.064000 qcovs=97.000000</title></polygon>
+<text x="737.6" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 737.6 339.0)" fill="#111">OAOAOKED_00364 (hpaH)</text>
+<polygon points="805.6,304.0 834.1,304.0 848.1,315.0 834.1,326.0 805.6,326.0" fill="#d73027" stroke="#888" stroke-width="0.8"><title>OAOAOKED_00365 | OAOAOKED_00365 | Oxygenase/dioxygenase | 4-hydroxyphenylacetate 3-monooxygenase, reductase component</title></polygon>
+<text x="826.8" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 826.8 339.0)" fill="#555">OAOAOKED_00365</text>
+<polygon points="846.9,304.0 919.7,304.0 937.7,315.0 919.7,326.0 846.9,326.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>OAOAOKED_00366 | bphC_1 | Oxygenase/dioxygenase | Manganese-dependent 2,3-dihydroxybiphenyl 1,2-dioxygenase | PANEL HIT: xylE (Catechol-meta / Catechol-meta) | pident=30.195000 qcovs=98.000000</title></polygon>
+<text x="892.3" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 892.3 339.0)" fill="#111">bphC_1 (xylE)</text>
+<polygon points="987.0,304.0 1004.7,304.0 1013.4,315.0 1004.7,326.0 987.0,326.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>OAOAOKED_00367 | livF_2 | Transport/efflux | High-affinity branched-chain amino acid transport ATP-binding protein LivF</title></polygon>
+<text x="1000.2" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1000.2 339.0)" fill="#555">livF_2</text>
+<polygon points="1013.0,304.0 1039.1,304.0 1051.9,315.0 1039.1,326.0 1013.0,326.0" fill="#b15928" stroke="#888" stroke-width="0.8"><title>OAOAOKED_00368 | paaI | Hydrolase/decarboxylase/lyase | Acyl-coenzyme A thioesterase PaaI</title></polygon>
+<text x="1032.5" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1032.5 339.0)" fill="#555">paaI</text>
+<polygon points="1047.5,304.0 1156.0,304.0 1174.0,315.0 1156.0,326.0 1047.5,326.0" fill="#1f78b4" stroke="#111" stroke-width="2.2"><title>OAOAOKED_00369 | OAOAOKED_00369 | CoA ligase/synthetase | Phenylacetate-coenzyme A ligase | PANEL HIT: paaK (Phenylacetate / Phenylacetate) | pident=52.500000 qcovs=97.000000</title></polygon>
+<text x="1110.7" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1110.7 339.0)" fill="#111">OAOAOKED_00369 (paaK)</text>
+<polygon points="1174.2,304.0 1201.2,304.0 1214.5,315.0 1201.2,326.0 1174.2,326.0" fill="#b15928" stroke="#888" stroke-width="0.8"><title>OAOAOKED_00370 | flK | Hydrolase/decarboxylase/lyase | Fluoroacetyl-CoA thioesterase</title></polygon>
+<text x="1194.3" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1194.3 339.0)" fill="#555">flK</text>
+<polygon points="1408.2,304.0 1236.4,304.0 1218.4,315.0 1236.4,326.0 1408.2,326.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>OAOAOKED_00371 | paaZ_1 | Hydrolase/decarboxylase/lyase | Bifunctional protein PaaZ | PANEL HIT: paaZ (Phenylacetate / Phenylacetate) | pident=50.963000 qcovs=99.000000</title></polygon>
+<text x="1313.3" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1313.3 339.0)" fill="#111">paaZ_1 (paaZ)</text>
+<polygon points="1452.7,304.0 1423.8,304.0 1409.5,315.0 1423.8,326.0 1452.7,326.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>OAOAOKED_00372 | paaD | Accessory/other | Putative 1,2-phenylacetyl-CoA epoxidase, subunit D | PANEL HIT: paaD (Phenylacetate / Phenylacetate) | pident=41.875000 qcovs=90.000000</title></polygon>
+<text x="1431.1" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1431.1 339.0)" fill="#111">paaD (paaD)</text>
+<polygon points="1522.6,304.0 1470.0,304.0 1452.0,315.0 1470.0,326.0 1522.6,326.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>OAOAOKED_00373 | paaC | Accessory/other | 1,2-phenylacetyl-CoA epoxidase, subunit C | PANEL HIT: paaC (Phenylacetate / Phenylacetate) | pident=38.525000 qcovs=97.000000</title></polygon>
+<text x="1487.3" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1487.3 339.0)" fill="#111">paaC (paaC)</text>
+<polygon points="1571.2,304.0 1538.2,304.0 1521.9,315.0 1538.2,326.0 1571.2,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>OAOAOKED_00374 | OAOAOKED_00374 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1546.6" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1546.6 339.0)" fill="#555">OAOAOKED_00374</text>
+<polygon points="1664.0,304.0 1590.1,304.0 1572.1,315.0 1590.1,326.0 1664.0,326.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>OAOAOKED_00375 | paaA | Accessory/other | 1,2-phenylacetyl-CoA epoxidase, subunit A | PANEL HIT: paaA (Phenylacetate / Phenylacetate) | pident=39.203000 qcovs=96.000000</title></polygon>
+<text x="1618.0" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1618.0 339.0)" fill="#111">paaA (paaA)</text>
+<text x="452.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">30,733 bp</text>
+<text x="1664.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">43,549 bp</text>
+<rect x="18" y="366" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="366" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="384.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_197_panelcluster_5397</text>
+<text x="32.0" y="402.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_197 | MAGs/Exp3_MAG_197_c_000000000016 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="418.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: acsA</text>
+<text x="32.0" y="430.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Beta-oxidation</text>
+<line x1="452" y1="457.0" x2="1664" y2="457.0" stroke="#d0d0d0"/>
+<polygon points="804.4,446.0 470.0,446.0 452.0,457.0 470.0,468.0 804.4,468.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>OAOAOKED_00948 | acsA_1 | Accessory/other | Acetyl-coenzyme A synthetase | PANEL HIT: acsA (Beta-oxidation / Beta-oxidation) | pident=39.418000 qcovs=90.000000</title></polygon>
+<text x="628.2" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">acsA_1 (acsA)</text>
+<polygon points="1274.9,446.0 818.1,446.0 800.1,457.0 818.1,468.0 1274.9,468.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>OAOAOKED_00949 | acs_1 | Accessory/other | Acetyl-coenzyme A synthetase | PANEL HIT: acsA (Beta-oxidation / Beta-oxidation) | pident=31.240000 qcovs=89.000000</title></polygon>
+<text x="1037.5" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">acs_1 (acsA)</text>
+<polygon points="1299.8,446.0 1646.0,446.0 1664.0,457.0 1646.0,468.0 1299.8,468.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>OAOAOKED_00950 | acs_2 | Accessory/other | Acetyl-coenzyme A synthetase | PANEL HIT: acsA (Beta-oxidation / Beta-oxidation) | pident=51.669000 qcovs=92.000000</title></polygon>
+<text x="1481.9" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">acs_2 (acsA)</text>
+<text x="452.0" y="394.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">68 bp</text>
+<text x="1664.0" y="394.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">6,546 bp</text>
+<rect x="18" y="508" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="508" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="526.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_197_panelcluster_5401</text>
+<text x="32.0" y="544.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_197 | MAGs/Exp3_MAG_197_c_000000000020 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="560.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: acdA; ahpF; ubiX</text>
+<text x="32.0" y="572.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Beta-oxidation; Tannin</text>
+<line x1="452" y1="599.0" x2="1664" y2="599.0" stroke="#d0d0d0"/>
+<polygon points="796.9,588.0 470.0,588.0 452.0,599.0 470.0,610.0 796.9,610.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>OAOAOKED_01383 | mmgC_2 | Dehydrogenase/oxidoreductase | Acyl-CoA dehydrogenase | PANEL HIT: acdA (Beta-oxidation / Beta-oxidation) | pident=45.600000 qcovs=99.000000</title></polygon>
+<text x="624.5" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">mmgC_2 (acdA)</text>
+<polygon points="983.1,588.0 826.3,588.0 808.3,599.0 826.3,610.0 983.1,610.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>OAOAOKED_01384 | ubiX | Accessory/other | Flavin prenyltransferase UbiX | PANEL HIT: ubiX (Tannin / Tannin) | pident=48.913000 qcovs=97.000000</title></polygon>
+<text x="895.7" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">ubiX (ubiX)</text>
+<polygon points="1075.6,588.0 1003.9,588.0 985.9,599.0 1003.9,610.0 1075.6,610.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>OAOAOKED_01385 | OAOAOKED_01385 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1030.7" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">OAOAOKED_01385</text>
+<polygon points="1360.4,588.0 1105.6,588.0 1087.6,599.0 1105.6,610.0 1360.4,610.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>OAOAOKED_01386 | OAOAOKED_01386 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1224.0" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">OAOAOKED_01386</text>
+<polygon points="1664.0,588.0 1380.5,588.0 1362.5,599.0 1380.5,610.0 1664.0,610.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>OAOAOKED_01387 | trxB | Dehydrogenase/oxidoreductase | Thioredoxin reductase | PANEL HIT: ahpF (Alkanes / Finnerty pathway) | pident=36.774000 qcovs=59.000000</title></polygon>
+<text x="1513.3" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">trxB (ahpF)</text>
+<text x="452.0" y="536.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">15,987 bp</text>
+<text x="1664.0" y="536.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">19,918 bp</text>
+<rect x="18" y="650" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="650" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="668.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_197_panelcluster_5412</text>
+<text x="32.0" y="686.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_197 | MAGs/Exp3_MAG_197_c_000000000045 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="702.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: bphF; bphJ; hpaB; hpcC; styB; todF; xylJ</text>
+<text x="32.0" y="714.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Catechol-meta</text>
+<line x1="452" y1="741.0" x2="1664" y2="741.0" stroke="#d0d0d0"/>
+<polygon points="545.7,730.0 470.0,730.0 452.0,741.0 470.0,752.0 545.7,752.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>OAOAOKED_02136 | todF | Hydrolase/decarboxylase/lyase | 2-hydroxy-6-oxo-2,4-heptadienoate hydrolase | PANEL HIT: todF (Aromatics / Toluene) | pident=42.857000 qcovs=96.000000</title></polygon>
+<text x="498.8" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 498.8 765.0)" fill="#111">todF (todF)</text>
+<polygon points="567.2,730.0 553.8,730.0 546.8,741.0 553.8,752.0 567.2,752.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>OAOAOKED_02137 | OAOAOKED_02137 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="557.0" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 557.0 765.0)" fill="#555">OAOAOKED_02137</text>
+<polygon points="655.9,730.0 587.2,730.0 569.2,741.0 587.2,752.0 655.9,752.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>OAOAOKED_02138 | tesE | Hydratase/dehydratase/isomerase | 2-hydroxyhexa-2,4-dienoate hydratase | PANEL HIT: xylJ (Catechol-meta / Catechol-meta) | pident=48.372000 qcovs=96.000000</title></polygon>
+<text x="612.5" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 612.5 765.0)" fill="#111">tesE (xylJ)</text>
+<polygon points="824.9,730.0 674.6,730.0 656.6,741.0 674.6,752.0 824.9,752.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>OAOAOKED_02139 | xylG_2 | Dehydrogenase/oxidoreductase | 2-hydroxymuconic semialdehyde dehydrogenase | PANEL HIT: hpcC (Aromatics / Homoprotocatechuate) | pident=46.767000 qcovs=98.000000</title></polygon>
+<text x="740.8" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 740.8 765.0)" fill="#111">xylG_2 (hpcC)</text>
+<polygon points="903.7,730.0 844.0,730.0 826.0,741.0 844.0,752.0 903.7,752.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>OAOAOKED_02140 | xylJ | Hydratase/dehydratase/isomerase | 2-hydroxypent-2,4-dienoate hydratase</title></polygon>
+<text x="864.8" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 864.8 765.0)" fill="#555">xylJ</text>
+<polygon points="925.0,730.0 910.4,730.0 903.2,741.0 910.4,752.0 925.0,752.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>OAOAOKED_02141 | OAOAOKED_02141 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="914.1" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 914.1 765.0)" fill="#555">OAOAOKED_02141</text>
+<polygon points="974.7,730.0 941.3,730.0 924.8,741.0 941.3,752.0 974.7,752.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>OAOAOKED_02142 | OAOAOKED_02142 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="949.8" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 949.8 765.0)" fill="#555">OAOAOKED_02142</text>
+<polygon points="1001.5,730.0 984.0,730.0 975.4,741.0 984.0,752.0 1001.5,752.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>OAOAOKED_02143 | OAOAOKED_02143 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="988.4" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 988.4 765.0)" fill="#555">OAOAOKED_02143</text>
+<polygon points="1059.8,730.0 1024.4,730.0 1006.9,741.0 1024.4,752.0 1059.8,752.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>OAOAOKED_02144 | nphA2 | Dehydrogenase/oxidoreductase | NADH-dependent flavin reductase | PANEL HIT: styB (Aromatics / Styrene) | pident=41.830000 qcovs=89.000000</title></polygon>
+<text x="1033.4" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1033.4 765.0)" fill="#111">nphA2 (styB)</text>
+<polygon points="1151.0,730.0 1077.3,730.0 1059.3,741.0 1077.3,752.0 1151.0,752.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>OAOAOKED_02145 | garR | Dehydrogenase/oxidoreductase | 2-hydroxy-3-oxopropionate reductase</title></polygon>
+<text x="1105.2" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1105.2 765.0)" fill="#555">garR</text>
+<polygon points="1272.1,730.0 1173.7,730.0 1155.7,741.0 1173.7,752.0 1272.1,752.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>OAOAOKED_02146 | OAOAOKED_02146 | Hydrolase/decarboxylase/lyase | 4-hydroxy-2-oxovalerate aldolase | PANEL HIT: bphF (Aromatics / Biphenyl) | pident=52.410000 qcovs=94.000000</title></polygon>
+<text x="1213.9" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1213.9 765.0)" fill="#111">OAOAOKED_02146 (bphF)</text>
+<polygon points="1374.7,730.0 1289.7,730.0 1271.7,741.0 1289.7,752.0 1374.7,752.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>OAOAOKED_02147 | OAOAOKED_02147 | Dehydrogenase/oxidoreductase | Acetaldehyde dehydrogenase | PANEL HIT: bphJ (Aromatics / Biphenyl) | pident=55.446000 qcovs=96.000000</title></polygon>
+<text x="1323.2" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1323.2 765.0)" fill="#111">OAOAOKED_02147 (bphJ)</text>
+<polygon points="1461.1,730.0 1390.8,730.0 1372.8,741.0 1390.8,752.0 1461.1,752.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>OAOAOKED_02148 | xynR_2 | Regulator | HTH-type transcriptional regulator XynR</title></polygon>
+<text x="1417.0" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1417.0 765.0)" fill="#555">xynR_2</text>
+<polygon points="1489.4,730.0 1646.0,730.0 1664.0,741.0 1646.0,752.0 1489.4,752.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>OAOAOKED_02149 | nphA1 | Oxygenase/dioxygenase | 4-nitrophenol 2-monooxygenase, oxygenase component | PANEL HIT: hpaB (Aromatics / 4-Hydroxyphenylacetate) | pident=57.002000 qcovs=96.000000</title></polygon>
+<text x="1576.7" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1576.7 765.0)" fill="#111">nphA1 (hpaB)</text>
+<text x="452.0" y="678.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">591 bp</text>
+<text x="1664.0" y="678.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">11,458 bp</text>
+<rect x="18" y="792" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="792" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="810.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_197_panelcluster_5418</text>
+<text x="32.0" y="828.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_197 | MAGs/Exp3_MAG_197_c_000000000053 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="844.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: paaY; subC; yfdE</text>
+<text x="32.0" y="856.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Oxalate; Phenylacetate; Plastics</text>
+<line x1="452" y1="883.0" x2="1664" y2="883.0" stroke="#d0d0d0"/>
+<polygon points="595.5,872.0 470.0,872.0 452.0,883.0 470.0,894.0 595.5,894.0" fill="#d9d9d9" stroke="#111" stroke-width="2.2"><title>OAOAOKED_02276 | OAOAOKED_02276 | Hypothetical/accessory | hypothetical protein | PANEL HIT: subC (Plastics / PLA) | pident=35.690000 qcovs=63.000000</title></polygon>
+<text x="523.7" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 523.7 907.0)" fill="#111">OAOAOKED_02276 (subC)</text>
+<polygon points="623.3,872.0 608.7,872.0 601.5,883.0 608.7,894.0 623.3,894.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>OAOAOKED_02277 | OAOAOKED_02277 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="612.4" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 612.4 907.0)" fill="#555">OAOAOKED_02277</text>
+<polygon points="665.6,872.0 646.3,872.0 636.8,883.0 646.3,894.0 665.6,894.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>OAOAOKED_02278 | OAOAOKED_02278 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="651.2" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 651.2 907.0)" fill="#555">OAOAOKED_02278</text>
+<polygon points="739.3,872.0 695.2,872.0 677.2,883.0 695.2,894.0 739.3,894.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>OAOAOKED_02279 | OAOAOKED_02279 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="708.3" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 708.3 907.0)" fill="#555">OAOAOKED_02279</text>
+<polygon points="786.0,872.0 764.8,872.0 754.3,883.0 764.8,894.0 786.0,894.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>OAOAOKED_02280 | OAOAOKED_02280 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="770.2" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 770.2 907.0)" fill="#555">OAOAOKED_02280</text>
+<polygon points="953.7,872.0 808.3,872.0 790.3,883.0 808.3,894.0 953.7,894.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>OAOAOKED_02281 | OAOAOKED_02281 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="872.0" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 872.0 907.0)" fill="#555">OAOAOKED_02281</text>
+<polygon points="972.6,872.0 1072.9,872.0 1090.9,883.0 1072.9,894.0 972.6,894.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>OAOAOKED_02282 | thrS | Accessory/other | Threonine--tRNA ligase</title></polygon>
+<text x="1031.8" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1031.8 907.0)" fill="#555">thrS</text>
+<polygon points="1091.1,872.0 1122.4,872.0 1137.8,883.0 1122.4,894.0 1091.1,894.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>OAOAOKED_02283 | paaX | Regulator | Transcriptional repressor PaaX</title></polygon>
+<text x="1114.4" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1114.4 907.0)" fill="#555">paaX</text>
+<polygon points="1138.4,872.0 1191.2,872.0 1209.2,883.0 1191.2,894.0 1138.4,894.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>OAOAOKED_02284 | ugpB_4 | Accessory/other | sn-glycerol-3-phosphate-binding periplasmic protein UgpB</title></polygon>
+<text x="1173.8" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1173.8 907.0)" fill="#555">ugpB_4</text>
+<polygon points="1246.2,872.0 1221.9,872.0 1209.9,883.0 1221.9,894.0 1246.2,894.0" fill="#b15928" stroke="#888" stroke-width="0.8"><title>OAOAOKED_02285 | folE | Hydrolase/decarboxylase/lyase | GTP cyclohydrolase 1</title></polygon>
+<text x="1228.1" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1228.1 907.0)" fill="#555">folE</text>
+<polygon points="1290.6,872.0 1262.9,872.0 1249.2,883.0 1262.9,894.0 1290.6,894.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>OAOAOKED_02286 | caiE | Accessory/other | Carnitine operon protein CaiE | PANEL HIT: paaY (Phenylacetate / Phenylacetate) | pident=36.517000 qcovs=91.000000</title></polygon>
+<text x="1269.9" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1269.9 907.0)" fill="#111">caiE (paaY)</text>
+<polygon points="1312.2,872.0 1296.9,872.0 1289.4,883.0 1296.9,894.0 1312.2,894.0" fill="#b15928" stroke="#888" stroke-width="0.8"><title>OAOAOKED_02287 | ndx1 | Hydrolase/decarboxylase/lyase | Diadenosine hexaphosphate hydrolase</title></polygon>
+<text x="1300.8" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1300.8 907.0)" fill="#555">ndx1</text>
+<polygon points="1363.2,872.0 1328.6,872.0 1311.6,883.0 1328.6,894.0 1363.2,894.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>OAOAOKED_02288 | OAOAOKED_02288 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1337.4" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1337.4 907.0)" fill="#555">OAOAOKED_02288</text>
+<polygon points="1432.3,872.0 1405.1,872.0 1391.8,883.0 1405.1,894.0 1432.3,894.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>OAOAOKED_02289 | OAOAOKED_02289 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1412.0" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1412.0 907.0)" fill="#555">OAOAOKED_02289</text>
+<polygon points="1434.0,872.0 1491.6,872.0 1509.6,883.0 1491.6,894.0 1434.0,894.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>OAOAOKED_02290 | rarA | Accessory/other | Replication-associated recombination protein A</title></polygon>
+<text x="1471.8" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1471.8 907.0)" fill="#555">rarA</text>
+<polygon points="1540.7,872.0 1517.9,872.0 1506.7,883.0 1517.9,894.0 1540.7,894.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>OAOAOKED_02291 | OAOAOKED_02291 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1523.7" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1523.7 907.0)" fill="#555">OAOAOKED_02291</text>
+<polygon points="1589.2,872.0 1557.7,872.0 1542.2,883.0 1557.7,894.0 1589.2,894.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>OAOAOKED_02292 | dasC | Transport/efflux | Diacetylchitobiose uptake system permease protein DasC</title></polygon>
+<text x="1565.7" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1565.7 907.0)" fill="#555">dasC</text>
+<polygon points="1590.9,872.0 1646.0,872.0 1664.0,883.0 1646.0,894.0 1590.9,894.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>OAOAOKED_02293 | yfdE | Thiolase/transferase | Acetyl-CoA:oxalate CoA-transferase | PANEL HIT: yfdE (Oxalate / Oxalate) | pident=41.463000 qcovs=86.000000</title></polygon>
+<text x="1627.5" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1627.5 907.0)" fill="#111">yfdE (yfdE)</text>
+<text x="452.0" y="820.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">32 bp</text>
+<text x="1664.0" y="820.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">20,328 bp</text>
+<text x="24.0" y="952.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="962" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="972.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="962" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="972.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="962" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="972.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="962" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="972.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="984" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="994.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="984" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="994.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="984" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="994.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="984" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="994.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="1006" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="1016.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="1006" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="1016.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="1006" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="1016.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="1006" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="1016.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="1028" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="1038.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

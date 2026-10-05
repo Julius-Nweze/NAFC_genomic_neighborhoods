@@ -1,0 +1,252 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="1202" viewBox="0 0 1700 1202">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<text x="24.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_196: reference-panel operon/cluster gene maps</text>
+<text x="24.0" y="56.0" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#555">7 shortlisted clusters (&gt;=3 independent panel gene hits) for this genome</text>
+<text x="24.0" y="74.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="start" fill="#555">Arrow direction shows CDS strand. Color shows enzyme class. Bold outline = reference-panel seed hit.</text>
+<rect x="18" y="82" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="82" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="100.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_196_panelcluster_5345</text>
+<text x="32.0" y="118.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_196 | MAGs/Exp3_MAG_196_c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="134.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: fadE; xylB; xylC</text>
+<text x="32.0" y="146.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Beta-oxidation</text>
+<line x1="452" y1="173.0" x2="1664" y2="173.0" stroke="#d0d0d0"/>
+<polygon points="452.0,162.0 619.7,162.0 637.7,173.0 619.7,184.0 452.0,184.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>LKIODPPM_00124 | xylC | Dehydrogenase/oxidoreductase | Benzaldehyde dehydrogenase [NAD(+)] | PANEL HIT: xylC (Aromatics / Toluene) | pident=48.326000 qcovs=98.000000</title></polygon>
+<text x="544.8" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">xylC (xylC)</text>
+<polygon points="650.2,162.0 772.1,162.0 790.1,173.0 772.1,184.0 650.2,184.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>LKIODPPM_00125 | xylB | Dehydrogenase/oxidoreductase | Aryl-alcohol dehydrogenase | PANEL HIT: xylB (Aromatics / Toluene) | pident=52.732000 qcovs=99.000000</title></polygon>
+<text x="720.2" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">xylB (xylB)</text>
+<polygon points="935.0,162.0 856.2,162.0 838.2,173.0 856.2,184.0 935.0,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LKIODPPM_00126 | LKIODPPM_00126 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="886.6" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">LKIODPPM_00126</text>
+<polygon points="1091.7,162.0 956.8,162.0 938.8,173.0 956.8,184.0 1091.7,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LKIODPPM_00127 | LKIODPPM_00127 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1015.2" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">LKIODPPM_00127</text>
+<polygon points="1140.7,162.0 1216.9,162.0 1234.9,173.0 1216.9,184.0 1140.7,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LKIODPPM_00128 | LKIODPPM_00128 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1187.8" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">LKIODPPM_00128</text>
+<polygon points="1237.3,162.0 1273.8,162.0 1291.8,173.0 1273.8,184.0 1237.3,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LKIODPPM_00129 | LKIODPPM_00129 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1264.6" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">LKIODPPM_00129</text>
+<polygon points="1664.0,162.0 1366.0,162.0 1348.0,173.0 1366.0,184.0 1664.0,184.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>LKIODPPM_00130 | fadE | Dehydrogenase/oxidoreductase | Acyl-coenzyme A dehydrogenase | PANEL HIT: fadE (Beta-oxidation / Beta-oxidation) | pident=54.545000 qcovs=98.000000</title></polygon>
+<text x="1506.0" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">fadE (fadE)</text>
+<text x="452.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">150,531 bp</text>
+<text x="1664.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">160,068 bp</text>
+<rect x="18" y="224" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="224" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="242.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_196_panelcluster_5356</text>
+<text x="32.0" y="260.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_196 | MAGs/Exp3_MAG_196_c_000000000003 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="276.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: alkH_ald; amdA; chcB2; galA; nylA</text>
+<text x="32.0" y="288.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Cyclohexanecarboxylate; Gallate; Plastics</text>
+<line x1="452" y1="315.0" x2="1664" y2="315.0" stroke="#d0d0d0"/>
+<polygon points="498.8,304.0 467.4,304.0 452.0,315.0 467.4,326.0 498.8,326.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>LKIODPPM_01130 | gatA_2 | Accessory/other | Glutamyl-tRNA(Gln) amidotransferase subunit A | PANEL HIT: amdA (Plastics / PU) | pident=31.350000 qcovs=84.000000</title></polygon>
+<text x="475.4" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 475.4 339.0)" fill="#111">gatA_2 (amdA)</text>
+<polygon points="548.3,304.0 516.1,304.0 500.3,315.0 516.1,326.0 548.3,326.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>LKIODPPM_01131 | gatA_3 | Accessory/other | Glutamyl-tRNA(Gln) amidotransferase subunit A</title></polygon>
+<text x="524.3" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 524.3 339.0)" fill="#555">gatA_3</text>
+<polygon points="595.2,304.0 564.6,304.0 549.5,315.0 564.6,326.0 595.2,326.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>LKIODPPM_01132 | aam_1 | Accessory/other | Acylamidase | PANEL HIT: nylA (Plastics / Nylon) | pident=30.223000 qcovs=95.000000</title></polygon>
+<text x="572.3" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 572.3 339.0)" fill="#111">aam_1 (nylA)</text>
+<polygon points="634.7,304.0 611.6,304.0 600.3,315.0 611.6,326.0 634.7,326.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>LKIODPPM_01133 | ansZ_1 | Accessory/other | L-asparaginase 2</title></polygon>
+<text x="617.5" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 617.5 339.0)" fill="#555">ansZ_1</text>
+<polygon points="669.1,304.0 646.9,304.0 636.0,315.0 646.9,326.0 669.1,326.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>LKIODPPM_01134 | ansZ_2 | Accessory/other | L-asparaginase 2</title></polygon>
+<text x="652.5" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 652.5 339.0)" fill="#555">ansZ_2</text>
+<polygon points="732.6,304.0 697.2,304.0 679.8,315.0 697.2,326.0 732.6,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LKIODPPM_01135 | LKIODPPM_01135 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="706.2" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 706.2 339.0)" fill="#555">LKIODPPM_01135</text>
+<polygon points="808.6,304.0 764.0,304.0 746.0,315.0 764.0,326.0 808.6,326.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>LKIODPPM_01136 | QRSL1_2 | Accessory/other | Glutamyl-tRNA(Gln) amidotransferase subunit A, chloroplastic/mitochondrial</title></polygon>
+<text x="777.3" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 777.3 339.0)" fill="#555">QRSL1_2</text>
+<polygon points="823.9,304.0 849.5,304.0 862.2,315.0 849.5,326.0 823.9,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LKIODPPM_01137 | LKIODPPM_01137 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="843.0" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 843.0 339.0)" fill="#555">LKIODPPM_01137</text>
+<polygon points="862.5,304.0 902.7,304.0 920.7,315.0 902.7,326.0 862.5,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LKIODPPM_01138 | LKIODPPM_01138 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="891.6" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 891.6 339.0)" fill="#555">LKIODPPM_01138</text>
+<polygon points="922.1,304.0 950.0,304.0 963.7,315.0 950.0,326.0 922.1,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LKIODPPM_01139 | LKIODPPM_01139 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="942.9" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 942.9 339.0)" fill="#555">LKIODPPM_01139</text>
+<polygon points="1025.4,304.0 993.0,304.0 977.0,315.0 993.0,326.0 1025.4,326.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>LKIODPPM_01140 | gatA_4 | Accessory/other | Glutamyl-tRNA(Gln) amidotransferase subunit A</title></polygon>
+<text x="1001.2" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1001.2 339.0)" fill="#555">gatA_4</text>
+<polygon points="1082.0,304.0 1051.0,304.0 1035.8,315.0 1051.0,326.0 1082.0,326.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>LKIODPPM_01141 | aam_2 | Accessory/other | Acylamidase | PANEL HIT: nylA (Plastics / Nylon) | pident=30.561000 qcovs=94.000000</title></polygon>
+<text x="1058.9" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1058.9 339.0)" fill="#111">aam_2 (nylA)</text>
+<polygon points="1134.9,304.0 1100.6,304.0 1083.7,315.0 1100.6,326.0 1134.9,326.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>LKIODPPM_01142 | gatA_5 | Accessory/other | Glutamyl-tRNA(Gln) amidotransferase subunit A</title></polygon>
+<text x="1109.3" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1109.3 339.0)" fill="#555">gatA_5</text>
+<polygon points="1229.1,304.0 1161.5,304.0 1143.5,315.0 1161.5,326.0 1229.1,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LKIODPPM_01143 | LKIODPPM_01143 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1186.3" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1186.3 339.0)" fill="#555">LKIODPPM_01143</text>
+<polygon points="1330.8,304.0 1258.8,304.0 1240.8,315.0 1258.8,326.0 1330.8,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LKIODPPM_01144 | LKIODPPM_01144 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1285.8" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1285.8 339.0)" fill="#555">LKIODPPM_01144</text>
+<polygon points="1362.9,304.0 1341.8,304.0 1331.4,315.0 1341.8,326.0 1362.9,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LKIODPPM_01145 | LKIODPPM_01145 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1347.1" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1347.1 339.0)" fill="#555">LKIODPPM_01145</text>
+<polygon points="1382.5,304.0 1371.5,304.0 1364.5,315.0 1371.5,326.0 1382.5,326.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>LKIODPPM_01146 | fecI | Accessory/other | putative RNA polymerase sigma factor FecI</title></polygon>
+<text x="1373.5" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1373.5 339.0)" fill="#555">fecI</text>
+<polygon points="1479.5,304.0 1418.0,304.0 1400.0,315.0 1418.0,326.0 1479.5,326.0" fill="#6a3d9a" stroke="#888" stroke-width="0.8"><title>LKIODPPM_01147 | lysA | Carboxylase | Diaminopimelate decarboxylase</title></polygon>
+<text x="1439.8" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1439.8 339.0)" fill="#555">lysA</text>
+<polygon points="1502.4,304.0 1491.4,304.0 1484.4,315.0 1491.4,326.0 1502.4,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LKIODPPM_01148 | LKIODPPM_01148 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1493.4" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1493.4 339.0)" fill="#555">LKIODPPM_01148</text>
+<polygon points="1519.3,304.0 1503.0,304.0 1495.0,315.0 1503.0,326.0 1519.3,326.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>LKIODPPM_01149 | salL | Accessory/other | Adenosyl-chloride synthase</title></polygon>
+<text x="1507.2" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1507.2 339.0)" fill="#555">salL</text>
+<polygon points="1524.2,304.0 1540.8,304.0 1549.0,315.0 1540.8,326.0 1524.2,326.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>LKIODPPM_01150 | linX | Dehydrogenase/oxidoreductase | 2,5-dichloro-2,5-cyclohexadiene-1,4-diol dehydrogenase LinX | PANEL HIT: chcB2 (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=36.694000 qcovs=98.000000</title></polygon>
+<text x="1536.6" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1536.6 339.0)" fill="#111">linX (chcB2)</text>
+<polygon points="1595.6,304.0 1566.2,304.0 1551.7,315.0 1566.2,326.0 1595.6,326.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>LKIODPPM_01151 | prr | Dehydrogenase/oxidoreductase | Gamma-aminobutyraldehyde dehydrogenase | PANEL HIT: alkH_ald (Alkanes / Auxillary alkane pathway) | pident=33.254000 qcovs=86.000000</title></polygon>
+<text x="1573.6" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1573.6 339.0)" fill="#111">prr (alkH_ald)</text>
+<polygon points="1597.1,304.0 1616.6,304.0 1626.2,315.0 1616.6,326.0 1597.1,326.0" fill="#b15928" stroke="#888" stroke-width="0.8"><title>LKIODPPM_01152 | pmdD | Hydrolase/decarboxylase/lyase | 2-pyrone-4,6-dicarbaxylate hydrolase</title></polygon>
+<text x="1611.7" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1611.7 339.0)" fill="#555">pmdD</text>
+<polygon points="1626.4,304.0 1637.4,304.0 1644.4,315.0 1637.4,326.0 1626.4,326.0" fill="#d73027" stroke="#888" stroke-width="0.8"><title>LKIODPPM_01153 | ligA_1 | Oxygenase/dioxygenase | Protocatechuate 4,5-dioxygenase alpha chain</title></polygon>
+<text x="1635.4" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1635.4 339.0)" fill="#555">ligA_1</text>
+<polygon points="1638.4,304.0 1655.5,304.0 1664.0,315.0 1655.5,326.0 1638.4,326.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>LKIODPPM_01154 | ligB_1 | Oxygenase/dioxygenase | Protocatechuate 4,5-dioxygenase beta chain | PANEL HIT: galA (Gallate / Gallate) | pident=47.739000 qcovs=58.000000</title></polygon>
+<text x="1651.2" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1651.2 339.0)" fill="#111">ligB_1 (galA)</text>
+<text x="452.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">33,618 bp</text>
+<text x="1664.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">73,462 bp</text>
+<rect x="18" y="366" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="366" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="384.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_196_panelcluster_5358</text>
+<text x="32.0" y="402.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_196 | MAGs/Exp3_MAG_196_c_000000000005 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="418.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: atoA; pcaI; pht2</text>
+<text x="32.0" y="430.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Catechol-ortho; Cyclohexylacetate;</text>
+<text x="32.0" y="442.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Protocatechuate</text>
+<line x1="452" y1="457.0" x2="1664" y2="457.0" stroke="#d0d0d0"/>
+<polygon points="452.0,446.0 793.8,446.0 811.8,457.0 793.8,468.0 452.0,468.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>LKIODPPM_01268 | scoA_1 | Thiolase/transferase | putative succinyl-CoA:3-ketoacid coenzyme A transferase subunit A | PANEL HIT: pcaI (Catechol-ortho; Protocatechuate / Catechol-ortho; Protocatechuate) | pident=50.739000 qcovs=89.000000</title></polygon>
+<text x="631.9" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">scoA_1 (pcaI)</text>
+<polygon points="840.6,446.0 1147.5,446.0 1165.5,457.0 1147.5,468.0 840.6,468.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>LKIODPPM_01269 | scoB_1 | Thiolase/transferase | putative succinyl-CoA:3-ketoacid coenzyme A transferase subunit B | PANEL HIT: atoA (Cyclohexylacetate / Cyclohexylacetate) | pident=52.404000 qcovs=94.000000</title></polygon>
+<text x="1003.1" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">scoB_1 (atoA)</text>
+<polygon points="1664.0,446.0 1193.2,446.0 1175.2,457.0 1193.2,468.0 1664.0,468.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>LKIODPPM_01270 | ophA1 | Oxygenase/dioxygenase | Phthalate dioxygenase reductase | PANEL HIT: pht2 (Aromatics / Phthalate) | pident=41.824000 qcovs=97.000000</title></polygon>
+<text x="1419.6" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">ophA1 (pht2)</text>
+<text x="452.0" y="394.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">32,361 bp</text>
+<text x="1664.0" y="394.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">34,755 bp</text>
+<rect x="18" y="508" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="508" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="526.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_196_panelcluster_5363</text>
+<text x="32.0" y="544.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_196 | MAGs/Exp3_MAG_196_c_000000000007 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="560.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: athL; atoA; atoB; bthL; hpcE; nagF; pcaI</text>
+<text x="32.0" y="572.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Beta-oxidation; Catechol-ortho;</text>
+<text x="32.0" y="584.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Cyclohexylacetate; Naphthalene; Protocatechuate; Pyrogallol</text>
+<line x1="452" y1="599.0" x2="1664" y2="599.0" stroke="#d0d0d0"/>
+<polygon points="546.5,588.0 470.0,588.0 452.0,599.0 470.0,610.0 546.5,610.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>LKIODPPM_01593 | phaA | Accessory/other | Acetyl-CoA acetyltransferase | PANEL HIT: atoB (Beta-oxidation / Beta-oxidation) | pident=59.796000 qcovs=99.000000</title></polygon>
+<text x="499.3" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">phaA (atoB)</text>
+<polygon points="601.0,588.0 565.8,588.0 548.5,599.0 565.8,610.0 601.0,610.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>LKIODPPM_01594 | scoB_2 | Thiolase/transferase | putative succinyl-CoA:3-ketoacid coenzyme A transferase subunit B | PANEL HIT: atoA (Cyclohexylacetate / Cyclohexylacetate) | pident=47.573000 qcovs=94.000000</title></polygon>
+<text x="574.8" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">scoB_2 (atoA)</text>
+<polygon points="657.9,588.0 619.8,588.0 601.8,599.0 619.8,610.0 657.9,610.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>LKIODPPM_01595 | scoA_2 | Thiolase/transferase | Succinyl-CoA:3-ketoacid coenzyme A transferase subunit A | PANEL HIT: pcaI (Catechol-ortho; Protocatechuate / Catechol-ortho; Protocatechuate) | pident=47.596000 qcovs=91.000000</title></polygon>
+<text x="629.8" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">scoA_2 (pcaI)</text>
+<polygon points="665.6,588.0 717.9,588.0 735.9,599.0 717.9,610.0 665.6,610.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>LKIODPPM_01596 | hcaR | Regulator | Hca operon transcriptional activator HcaR</title></polygon>
+<text x="700.8" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">hcaR</text>
+<polygon points="855.5,588.0 756.7,588.0 738.7,599.0 756.7,610.0 855.5,610.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>LKIODPPM_01597 | vdh_1 | Dehydrogenase/oxidoreductase | Vanillin dehydrogenase | PANEL HIT: nagF (Naphthalene / Naphthalene) | pident=49.375000 qcovs=99.000000</title></polygon>
+<text x="797.1" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">vdh_1 (nagF)</text>
+<polygon points="1042.0,588.0 881.3,588.0 863.3,599.0 881.3,610.0 1042.0,610.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>LKIODPPM_01598 | fyuA_2 | Accessory/other | Pesticin receptor</title></polygon>
+<text x="952.6" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">fyuA_2</text>
+<polygon points="1123.8,588.0 1069.2,588.0 1051.2,599.0 1069.2,610.0 1123.8,610.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LKIODPPM_01599 | LKIODPPM_01599 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1087.5" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">LKIODPPM_01599</text>
+<polygon points="1198.3,588.0 1146.2,588.0 1128.2,599.0 1146.2,610.0 1198.3,610.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>LKIODPPM_01600 | LKIODPPM_01600 | Hydrolase/decarboxylase/lyase | Ureidoglycolate lyase | PANEL HIT: hpcE (Aromatics / Homoprotocatechuate) | pident=33.447000 qcovs=65.000000</title></polygon>
+<text x="1163.3" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">LKIODPPM_01600 (hpcE)</text>
+<polygon points="1277.9,588.0 1218.7,588.0 1200.7,599.0 1218.7,610.0 1277.9,610.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LKIODPPM_01601 | LKIODPPM_01601 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1239.3" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">LKIODPPM_01601</text>
+<polygon points="1290.5,588.0 1331.5,588.0 1349.5,599.0 1331.5,610.0 1290.5,610.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>LKIODPPM_01602 | glaR | Regulator | HTH-type transcriptional repressor GlaR</title></polygon>
+<text x="1320.0" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">glaR</text>
+<polygon points="1356.7,588.0 1577.3,588.0 1595.3,599.0 1577.3,610.0 1356.7,610.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>LKIODPPM_01603 | athL | Accessory/other | Pyrogallol hydroxytransferase large subunit | PANEL HIT: athL (Pyrogallol / Pyrogallol) | pident=49.539000 qcovs=99.000000</title></polygon>
+<text x="1476.0" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">athL (athL)</text>
+<polygon points="1596.1,588.0 1646.0,588.0 1664.0,599.0 1646.0,610.0 1596.1,610.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>LKIODPPM_01604 | bthL | Accessory/other | Pyrogallol hydroxytransferase small subunit | PANEL HIT: bthL (Pyrogallol / Pyrogallol) | pident=41.797000 qcovs=91.000000</title></polygon>
+<text x="1630.1" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">bthL (bthL)</text>
+<text x="452.0" y="536.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">79,746 bp</text>
+<text x="1664.0" y="536.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">94,904 bp</text>
+<rect x="18" y="650" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="650" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="668.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_196_panelcluster_5364</text>
+<text x="32.0" y="686.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_196 | MAGs/Exp3_MAG_196_c_000000000007 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="702.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: ISF6_0224; galR; pudA</text>
+<text x="32.0" y="714.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Gallate; Plastics</text>
+<line x1="452" y1="741.0" x2="1664" y2="741.0" stroke="#d0d0d0"/>
+<polygon points="701.7,730.0 470.0,730.0 452.0,741.0 470.0,752.0 701.7,752.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>LKIODPPM_01619 | LKIODPPM_01619 | Hydrolase/decarboxylase/lyase | Mono(2-hydroxyethyl) terephthalate hydrolase | PANEL HIT: ISF6_0224 (Plastics / PET) | pident=30.675000 qcovs=79.000000</title></polygon>
+<text x="576.8" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">LKIODPPM_01619 (ISF6_...</text>
+<polygon points="807.6,730.0 732.2,730.0 714.2,741.0 732.2,752.0 807.6,752.0" fill="#b15928" stroke="#888" stroke-width="0.8"><title>LKIODPPM_01620 | menH_4 | Hydrolase/decarboxylase/lyase | 2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase</title></polygon>
+<text x="760.9" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">menH_4</text>
+<polygon points="844.0,730.0 880.4,730.0 898.4,741.0 880.4,752.0 844.0,752.0" fill="#d73027" stroke="#888" stroke-width="0.8"><title>LKIODPPM_01621 | ligA_3 | Oxygenase/dioxygenase | Protocatechuate 4,5-dioxygenase alpha chain</title></polygon>
+<text x="871.2" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">ligA_3</text>
+<polygon points="897.3,730.0 1056.3,730.0 1074.3,741.0 1056.3,752.0 897.3,752.0" fill="#fdbf6f" stroke="#111" stroke-width="2.2"><title>LKIODPPM_01622 | hdfR_3 | Regulator | HTH-type transcriptional regulator HdfR | PANEL HIT: galR (Gallate / Gallate) | pident=36.776000 qcovs=97.000000</title></polygon>
+<text x="985.8" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">hdfR_3 (galR)</text>
+<polygon points="1107.5,730.0 1124.9,730.0 1133.4,741.0 1124.9,752.0 1107.5,752.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LKIODPPM_01623 | LKIODPPM_01623 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1120.4" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">LKIODPPM_01623</text>
+<polygon points="1140.2,730.0 1405.1,730.0 1423.1,741.0 1405.1,752.0 1140.2,752.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>LKIODPPM_01624 | fyuA_3 | Accessory/other | Pesticin receptor</title></polygon>
+<text x="1281.7" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">fyuA_3</text>
+<polygon points="1440.7,730.0 1646.0,730.0 1664.0,741.0 1646.0,752.0 1440.7,752.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>LKIODPPM_01625 | fumD_1 | Accessory/other | Fumonisin B1 esterase | PANEL HIT: pudA (Plastics / PU) | pident=34.000000 qcovs=84.000000</title></polygon>
+<text x="1552.4" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">fumD_1 (pudA)</text>
+<text x="452.0" y="678.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">114,979 bp</text>
+<text x="1664.0" y="678.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">123,935 bp</text>
+<rect x="18" y="792" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="792" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="810.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_196_panelcluster_5383</text>
+<text x="32.0" y="828.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_196 | MAGs/Exp3_MAG_196_c_000000000021 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="844.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: chqB; macA; nagF</text>
+<text x="32.0" y="856.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Hydroxyquinol; Naphthalene</text>
+<line x1="452" y1="883.0" x2="1664" y2="883.0" stroke="#d0d0d0"/>
+<polygon points="516.0,872.0 470.0,872.0 452.0,883.0 470.0,894.0 516.0,894.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>LKIODPPM_03343 | npcC | Oxygenase/dioxygenase | Hydroxyquinol 1,2-dioxygenase | PANEL HIT: chqB (Hydroxyquinol / Hydroxyquinol) | pident=50.360000 qcovs=95.000000</title></polygon>
+<text x="484.0" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 484.0 907.0)" fill="#111">npcC (chqB)</text>
+<polygon points="611.8,872.0 550.6,872.0 532.6,883.0 550.6,894.0 611.8,894.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>LKIODPPM_03344 | linF | Dehydrogenase/oxidoreductase | Maleylacetate reductase | PANEL HIT: macA (Hydroxyquinol / Hydroxyquinol) | pident=50.430000 qcovs=97.000000</title></polygon>
+<text x="572.2" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 572.2 907.0)" fill="#111">linF (macA)</text>
+<polygon points="707.9,872.0 650.0,872.0 632.0,883.0 650.0,894.0 707.9,894.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LKIODPPM_03345 | LKIODPPM_03345 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="669.9" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 669.9 907.0)" fill="#555">LKIODPPM_03345</text>
+<polygon points="781.6,872.0 726.7,872.0 708.7,883.0 726.7,894.0 781.6,894.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>LKIODPPM_03346 | denD_1 | Dehydrogenase/oxidoreductase | D-erythronate dehydrogenase</title></polygon>
+<text x="745.2" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 745.2 907.0)" fill="#555">denD_1</text>
+<polygon points="828.6,872.0 798.7,872.0 784.0,883.0 798.7,894.0 828.6,894.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LKIODPPM_03347 | LKIODPPM_03347 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="806.3" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 806.3 907.0)" fill="#555">LKIODPPM_03347</text>
+<polygon points="879.2,872.0 848.4,872.0 833.3,883.0 848.4,894.0 879.2,894.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>LKIODPPM_03348 | yceJ_2 | Accessory/other | Cytochrome b561 </title></polygon>
+<text x="856.2" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 856.2 907.0)" fill="#555">yceJ_2</text>
+<polygon points="922.7,872.0 899.8,872.0 888.5,883.0 899.8,894.0 922.7,894.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LKIODPPM_03349 | LKIODPPM_03349 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="905.6" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 905.6 907.0)" fill="#555">LKIODPPM_03349</text>
+<polygon points="984.8,872.0 941.0,872.0 923.0,883.0 941.0,894.0 984.8,894.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LKIODPPM_03350 | LKIODPPM_03350 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="953.9" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 953.9 907.0)" fill="#555">LKIODPPM_03350</text>
+<polygon points="1053.0,872.0 1009.2,872.0 991.2,883.0 1009.2,894.0 1053.0,894.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LKIODPPM_03351 | LKIODPPM_03351 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1022.1" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1022.1 907.0)" fill="#555">LKIODPPM_03351</text>
+<polygon points="1211.7,872.0 1073.1,872.0 1055.1,883.0 1073.1,894.0 1211.7,894.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>LKIODPPM_03352 | fyuA_7 | Accessory/other | Pesticin receptor</title></polygon>
+<text x="1133.4" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1133.4 907.0)" fill="#555">fyuA_7</text>
+<polygon points="1255.7,872.0 1298.1,872.0 1316.1,883.0 1298.1,894.0 1255.7,894.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>LKIODPPM_03353 | srpS | Regulator | HTH-type transcriptional regulator SrpS</title></polygon>
+<text x="1285.9" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1285.9 907.0)" fill="#555">srpS</text>
+<polygon points="1484.3,872.0 1345.2,872.0 1327.2,883.0 1345.2,894.0 1484.3,894.0" fill="#1f78b4" stroke="#888" stroke-width="0.8"><title>LKIODPPM_03354 | FCS1 | CoA ligase/synthetase | Trans-feruloyl-CoA synthase FCS1</title></polygon>
+<text x="1405.8" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1405.8 907.0)" fill="#555">FCS1</text>
+<polygon points="1548.7,872.0 1502.4,872.0 1484.4,883.0 1502.4,894.0 1548.7,894.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>LKIODPPM_03355 | LKIODPPM_03355 | Hydratase/dehydratase/isomerase | Hydroxycinnamoyl-CoA hydratase-lyase</title></polygon>
+<text x="1516.6" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1516.6 907.0)" fill="#555">LKIODPPM_03355</text>
+<polygon points="1664.0,872.0 1578.0,872.0 1560.0,883.0 1578.0,894.0 1664.0,894.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>LKIODPPM_03356 | vdh_2 | Dehydrogenase/oxidoreductase | Vanillin dehydrogenase | PANEL HIT: nagF (Naphthalene / Naphthalene) | pident=49.138000 qcovs=96.000000</title></polygon>
+<text x="1612.0" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1612.0 907.0)" fill="#111">vdh_2 (nagF)</text>
+<text x="452.0" y="820.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">24,005 bp</text>
+<text x="1664.0" y="820.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">40,299 bp</text>
+<rect x="18" y="934" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="934" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="952.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_196_panelcluster_5385</text>
+<text x="32.0" y="970.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_196 | MAGs/Exp3_MAG_196_c_000000000023 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="986.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: atoB; pcaD; pcaF</text>
+<text x="32.0" y="998.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Beta-oxidation; Catechol-ortho; Protocatechuate</text>
+<line x1="452" y1="1025.0" x2="1664" y2="1025.0" stroke="#d0d0d0"/>
+<polygon points="563.3,1014.0 470.0,1014.0 452.0,1025.0 470.0,1036.0 563.3,1036.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>LKIODPPM_03667 | catD_2 | Hydrolase/decarboxylase/lyase | 3-oxoadipate enol-lactonase 2 | PANEL HIT: pcaD (Catechol-ortho; Protocatechuate / Protocatechuate) | pident=36.471000 qcovs=97.000000</title></polygon>
+<text x="507.7" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">catD_2 (pcaD)</text>
+<polygon points="672.5,1014.0 581.7,1014.0 563.7,1025.0 581.7,1036.0 672.5,1036.0" fill="#a6cee3" stroke="#888" stroke-width="0.8"><title>LKIODPPM_03668 | catJ | Thiolase/transferase | 3-oxoadipate CoA-transferase subunit B</title></polygon>
+<text x="618.1" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">catJ</text>
+<polygon points="805.8,1014.0 704.9,1014.0 686.9,1025.0 704.9,1036.0 805.8,1036.0" fill="#a6cee3" stroke="#888" stroke-width="0.8"><title>LKIODPPM_03669 | catI | Thiolase/transferase | 3-oxoadipate CoA-transferase subunit A</title></polygon>
+<text x="746.4" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">catI</text>
+<polygon points="990.8,1014.0 838.2,1014.0 820.2,1025.0 838.2,1036.0 990.8,1036.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>LKIODPPM_03670 | pcaF | Thiolase/transferase | Beta-ketoadipyl-CoA thiolase | PANEL HIT: pcaF (Catechol-ortho; Protocatechuate / Protocatechuate) | pident=70.075000 qcovs=100.000000</title></polygon>
+<text x="905.5" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pcaF (pcaF)</text>
+<polygon points="1017.0,1014.0 1073.5,1014.0 1091.5,1025.0 1073.5,1036.0 1017.0,1036.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LKIODPPM_03671 | LKIODPPM_03671 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1054.3" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">LKIODPPM_03671</text>
+<polygon points="1126.9,1014.0 1157.5,1014.0 1172.6,1025.0 1157.5,1036.0 1126.9,1036.0" fill="#fb9a99" stroke="#888" stroke-width="0.8"><title>LKIODPPM_03672 | LKIODPPM_03672 | Electron transfer/redox | Ferredoxin 1</title></polygon>
+<text x="1149.8" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">LKIODPPM_03672</text>
+<polygon points="1335.0,1014.0 1218.0,1014.0 1200.0,1025.0 1218.0,1036.0 1335.0,1036.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>LKIODPPM_03673 | xerD | Accessory/other | Tyrosine recombinase XerD</title></polygon>
+<text x="1267.5" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">xerD</text>
+<polygon points="1371.5,1014.0 1464.9,1014.0 1482.9,1025.0 1464.9,1036.0 1371.5,1036.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>LKIODPPM_03674 | aas | Accessory/other | Bifunctional protein Aas</title></polygon>
+<text x="1427.2" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">aas</text>
+<polygon points="1498.1,1014.0 1646.0,1014.0 1664.0,1025.0 1646.0,1036.0 1498.1,1036.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>LKIODPPM_03675 | thlA | Thiolase/transferase | Acetyl-CoA acetyltransferase | PANEL HIT: atoB (Beta-oxidation / Beta-oxidation) | pident=50.384000 qcovs=99.000000</title></polygon>
+<text x="1581.0" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">thlA (atoB)</text>
+<text x="452.0" y="962.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">196,805 bp</text>
+<text x="1664.0" y="962.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">205,395 bp</text>
+<text x="24.0" y="1094.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="1104" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="1114.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="1104" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="1114.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="1104" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="1114.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="1104" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="1114.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="1126" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="1136.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="1126" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="1136.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="1126" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="1136.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="1126" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="1136.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="1148" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="1158.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="1148" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="1158.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="1148" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="1158.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="1148" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="1158.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="1170" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="1180.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

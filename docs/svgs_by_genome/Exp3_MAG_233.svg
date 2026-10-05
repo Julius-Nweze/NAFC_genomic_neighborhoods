@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="350" viewBox="0 0 1700 350">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<text x="24.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_233: reference-panel operon/cluster gene maps</text>
+<text x="24.0" y="56.0" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#555">1 shortlisted clusters (&gt;=3 independent panel gene hits) for this genome</text>
+<text x="24.0" y="74.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="start" fill="#555">Arrow direction shows CDS strand. Color shows enzyme class. Bold outline = reference-panel seed hit.</text>
+<rect x="18" y="82" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="82" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="100.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_233_panelcluster_6823</text>
+<text x="32.0" y="118.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_233 | MAGs/Exp3_MAG_233_c_000000000514 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="134.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: benA; benB; pnbA; xylC</text>
+<text x="32.0" y="146.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Benzoate; Plastics</text>
+<line x1="452" y1="173.0" x2="1664" y2="173.0" stroke="#d0d0d0"/>
+<polygon points="484.9,162.0 462.9,162.0 452.0,173.0 462.9,184.0 484.9,184.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>PODBCBBB_02943 | cbdB_2 | Oxygenase/dioxygenase | 2-halobenzoate 1,2-dioxygenase small subunit | PANEL HIT: benB (Aromatics; Benzoate / Benzene) | pident=36.709000 qcovs=92.000000</title></polygon>
+<text x="468.5" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 468.5 197.0)" fill="#111">cbdB_2 (benB)</text>
+<polygon points="573.5,162.0 502.7,162.0 484.7,173.0 502.7,184.0 573.5,184.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>PODBCBBB_02944 | cbdA_2 | Oxygenase/dioxygenase | 2-halobenzoate 1,2-dioxygenase large subunit | PANEL HIT: benA (Aromatics; Benzoate / Benzene) | pident=40.090000 qcovs=94.000000</title></polygon>
+<text x="529.1" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 529.1 197.0)" fill="#111">cbdA_2 (benA)</text>
+<polygon points="598.0,162.0 584.6,162.0 577.6,173.0 584.6,184.0 598.0,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>PODBCBBB_02945 | PODBCBBB_02945 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="587.8" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 587.8 197.0)" fill="#555">PODBCBBB_02945</text>
+<polygon points="632.5,162.0 616.0,162.0 607.9,173.0 616.0,184.0 632.5,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>PODBCBBB_02946 | PODBCBBB_02946 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="620.2" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 620.2 197.0)" fill="#555">PODBCBBB_02946</text>
+<polygon points="727.4,162.0 651.0,162.0 633.0,173.0 651.0,184.0 727.4,184.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>PODBCBBB_02947 | aldA | Dehydrogenase/oxidoreductase | Lactaldehyde dehydrogenase | PANEL HIT: xylC (Aromatics / Toluene) | pident=34.316000 qcovs=95.000000</title></polygon>
+<text x="680.2" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 680.2 197.0)" fill="#111">aldA (xylC)</text>
+<polygon points="749.8,162.0 760.8,162.0 767.8,173.0 760.8,184.0 749.8,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>PODBCBBB_02948 | PODBCBBB_02948 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="758.8" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 758.8 197.0)" fill="#555">PODBCBBB_02948</text>
+<polygon points="827.0,162.0 776.7,162.0 758.7,173.0 776.7,184.0 827.0,184.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>PODBCBBB_02949 | iolX | Dehydrogenase/oxidoreductase | scyllo-inositol 2-dehydrogenase (NAD(+))</title></polygon>
+<text x="792.8" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 792.8 197.0)" fill="#555">iolX</text>
+<polygon points="1007.2,162.0 846.9,162.0 828.9,173.0 846.9,184.0 1007.2,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>PODBCBBB_02950 | lacZ | Accessory/other | Beta-galactosidase</title></polygon>
+<text x="918.0" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 918.0 197.0)" fill="#555">lacZ</text>
+<polygon points="1024.3,162.0 1090.8,162.0 1108.8,173.0 1090.8,184.0 1024.3,184.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>PODBCBBB_02951 | exuT_2 | Transport/efflux | Hexuronate transporter</title></polygon>
+<text x="1066.6" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1066.6 197.0)" fill="#555">exuT_2</text>
+<polygon points="1163.0,162.0 1124.5,162.0 1106.5,173.0 1124.5,184.0 1163.0,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>PODBCBBB_02952 | kdgK_2 | Accessory/other | 2-dehydro-3-deoxygluconokinase</title></polygon>
+<text x="1134.8" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1134.8 197.0)" fill="#555">kdgK_2</text>
+<polygon points="1247.3,162.0 1185.3,162.0 1167.3,173.0 1185.3,184.0 1247.3,184.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>PODBCBBB_02953 | manD | Hydratase/dehydratase/isomerase | D-mannonate dehydratase</title></polygon>
+<text x="1207.3" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1207.3 197.0)" fill="#555">manD</text>
+<polygon points="1254.1,162.0 1287.4,162.0 1303.7,173.0 1287.4,184.0 1254.1,184.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>PODBCBBB_02954 | glcC | Regulator | Glc operon transcriptional activator</title></polygon>
+<text x="1278.9" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1278.9 197.0)" fill="#555">glcC</text>
+<polygon points="1303.9,162.0 1378.6,162.0 1396.6,173.0 1378.6,184.0 1303.9,184.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>PODBCBBB_02955 | uxaC | Hydratase/dehydratase/isomerase | Uronate isomerase</title></polygon>
+<text x="1350.2" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1350.2 197.0)" fill="#555">uxaC</text>
+<polygon points="1396.3,162.0 1469.1,162.0 1487.1,173.0 1469.1,184.0 1396.3,184.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>PODBCBBB_02956 | por | Dehydrogenase/oxidoreductase | Polyol:NADP oxidoreductase</title></polygon>
+<text x="1441.7" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1441.7 197.0)" fill="#555">por</text>
+<polygon points="1560.4,162.0 1512.5,162.0 1494.5,173.0 1512.5,184.0 1560.4,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>PODBCBBB_02957 | PODBCBBB_02957 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1527.5" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1527.5 197.0)" fill="#555">PODBCBBB_02957</text>
+<polygon points="1664.0,162.0 1579.1,162.0 1561.1,173.0 1579.1,184.0 1664.0,184.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>PODBCBBB_02958 | fumD_3 | Accessory/other | Fumonisin B1 esterase | PANEL HIT: pnbA (Plastics / PET) | pident=33.470000 qcovs=95.000000</title></polygon>
+<text x="1612.5" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1612.5 197.0)" fill="#111">fumD_3 (pnbA)</text>
+<text x="452.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">2,017 bp</text>
+<text x="1664.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">20,347 bp</text>
+<text x="24.0" y="242.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="252" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="262.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="252" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="262.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="252" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="262.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="252" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="262.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="274" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="284.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="274" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="284.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="274" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="284.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="274" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="284.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="296" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="306.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="296" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="306.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="296" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="306.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="296" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="306.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="318" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="328.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

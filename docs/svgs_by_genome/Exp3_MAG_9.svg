@@ -1,0 +1,268 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="1344" viewBox="0 0 1700 1344">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<text x="24.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_9: reference-panel operon/cluster gene maps</text>
+<text x="24.0" y="56.0" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#555">8 shortlisted clusters (&gt;=3 independent panel gene hits) for this genome</text>
+<text x="24.0" y="74.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="start" fill="#555">Arrow direction shows CDS strand. Color shows enzyme class. Bold outline = reference-panel seed hit.</text>
+<rect x="18" y="82" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="82" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="100.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_9_panelcluster_13447</text>
+<text x="32.0" y="118.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_9 | MAGs/Exp3_MAG_9_c_000000000002 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="134.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: dszC; ssuD</text>
+<text x="32.0" y="146.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Aromatics</text>
+<line x1="452" y1="173.0" x2="1664" y2="173.0" stroke="#d0d0d0"/>
+<polygon points="452.0,162.0 640.2,162.0 658.2,173.0 640.2,184.0 452.0,184.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>HOCKJBAH_00180 | msuD | Oxygenase/dioxygenase | Methanesulfonate monooxygenase | PANEL HIT: ssuD (Alkanes / Auxillary alkane pathway) | pident=63.733000 qcovs=98.000000</title></polygon>
+<text x="555.1" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">msuD (ssuD)</text>
+<polygon points="660.2,162.0 805.5,162.0 823.5,173.0 805.5,184.0 660.2,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_00181 | ssuA_1 | Accessory/other | Putative aliphatic sulfonates-binding protein</title></polygon>
+<text x="741.9" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">ssuA_1</text>
+<polygon points="908.8,162.0 992.3,162.0 1010.3,173.0 992.3,184.0 908.8,184.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_00182 | sfnF | Dehydrogenase/oxidoreductase | NADH-dependent FMN reductase SfnF</title></polygon>
+<text x="959.5" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">sfnF</text>
+<polygon points="1012.0,162.0 1187.6,162.0 1205.6,173.0 1187.6,184.0 1012.0,184.0" fill="#d73027" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_00183 | sfnG | Oxygenase/dioxygenase | FMNH(2)-dependent dimethylsulfone monooxygenase</title></polygon>
+<text x="1108.8" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">sfnG</text>
+<polygon points="1207.2,162.0 1406.9,162.0 1424.9,173.0 1406.9,184.0 1207.2,184.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>HOCKJBAH_00184 | sfnC | Oxygenase/dioxygenase | putative FMNH2-dependent monooxygenase SfnC | PANEL HIT: dszC (Aromatics / Dibenzofuran) | pident=31.450000 qcovs=96.000000</title></polygon>
+<text x="1316.0" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">sfnC (dszC)</text>
+<polygon points="1664.0,162.0 1460.7,162.0 1442.7,173.0 1460.7,184.0 1664.0,184.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>HOCKJBAH_00185 | soxC | Accessory/other | Dibenzothiophene desulfurization enzyme C | PANEL HIT: dszC (Aromatics / Dibenzofuran) | pident=31.840000 qcovs=99.000000</title></polygon>
+<text x="1553.3" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">soxC (dszC)</text>
+<text x="452.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">103,728 bp</text>
+<text x="1664.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">110,676 bp</text>
+<rect x="18" y="224" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="224" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="242.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_9_panelcluster_13448</text>
+<text x="32.0" y="260.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_9 | MAGs/Exp3_MAG_9_c_000000000003 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="276.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: ladA; mlaF; nagR</text>
+<text x="32.0" y="288.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Naphthalene; Transportation</text>
+<line x1="452" y1="315.0" x2="1664" y2="315.0" stroke="#d0d0d0"/>
+<polygon points="516.5,304.0 470.0,304.0 452.0,315.0 470.0,326.0 516.5,326.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>HOCKJBAH_00260 | nodD2_1 | Accessory/other | Nodulation protein D 2 | PANEL HIT: nagR (Naphthalene / Naphthalene) | pident=31.126000 qcovs=97.000000</title></polygon>
+<text x="484.2" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 484.2 339.0)" fill="#111">nodD2_1 (nagR)</text>
+<polygon points="527.9,304.0 592.8,304.0 610.8,315.0 592.8,326.0 527.9,326.0" fill="#b15928" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_00261 | HOCKJBAH_00261 | Hydrolase/decarboxylase/lyase | 2,6-dihydropseudooxynicotine hydrolase</title></polygon>
+<text x="569.3" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 569.3 339.0)" fill="#555">HOCKJBAH_00261</text>
+<polygon points="611.6,304.0 661.9,304.0 679.9,315.0 661.9,326.0 611.6,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_00262 | HOCKJBAH_00262 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="645.8" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 645.8 339.0)" fill="#555">HOCKJBAH_00262</text>
+<polygon points="679.3,304.0 695.6,304.0 703.6,315.0 695.6,326.0 679.3,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_00263 | HOCKJBAH_00263 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="691.5" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 691.5 339.0)" fill="#555">HOCKJBAH_00263</text>
+<polygon points="704.3,304.0 767.4,304.0 785.4,315.0 767.4,326.0 704.3,326.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_00264 | pqsH_1 | Accessory/other | 2-heptyl-3-hydroxy-4(1H)-quinolone synthase</title></polygon>
+<text x="744.8" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 744.8 339.0)" fill="#555">pqsH_1</text>
+<polygon points="786.8,304.0 852.2,304.0 870.2,315.0 852.2,326.0 786.8,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_00265 | HOCKJBAH_00265 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="828.5" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 828.5 339.0)" fill="#555">HOCKJBAH_00265</text>
+<polygon points="924.6,304.0 887.2,304.0 869.2,315.0 887.2,326.0 924.6,326.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_00266 | kynB | Accessory/other | Kynurenine formamidase</title></polygon>
+<text x="896.9" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 896.9 339.0)" fill="#555">kynB</text>
+<polygon points="994.1,304.0 942.7,304.0 924.7,315.0 942.7,326.0 994.1,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_00267 | HOCKJBAH_00267 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="959.4" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 959.4 339.0)" fill="#555">HOCKJBAH_00267</text>
+<polygon points="1038.8,304.0 1009.4,304.0 994.9,315.0 1009.4,326.0 1038.8,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_00268 | HOCKJBAH_00268 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1016.9" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1016.9 339.0)" fill="#555">HOCKJBAH_00268</text>
+<polygon points="1091.0,304.0 1057.3,304.0 1040.7,315.0 1057.3,326.0 1091.0,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_00269 | HOCKJBAH_00269 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1065.8" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1065.8 339.0)" fill="#555">HOCKJBAH_00269</text>
+<polygon points="1147.9,304.0 1115.8,304.0 1099.9,315.0 1115.8,326.0 1147.9,326.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>HOCKJBAH_00270 | cysA_1 | Accessory/other | Sulfate/thiosulfate import ATP-binding protein CysA | PANEL HIT: mlaF (Transportation / Transportation) | pident=40.598000 qcovs=83.000000</title></polygon>
+<text x="1123.9" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1123.9 339.0)" fill="#111">cysA_1 (mlaF)</text>
+<polygon points="1213.7,304.0 1171.3,304.0 1153.3,315.0 1171.3,326.0 1213.7,326.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_00271 | cysW_1 | Transport/efflux | Sulfate transport system permease protein CysW</title></polygon>
+<text x="1183.5" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1183.5 339.0)" fill="#555">cysW_1</text>
+<polygon points="1273.5,304.0 1231.1,304.0 1213.1,315.0 1231.1,326.0 1273.5,326.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_00272 | cysT_1 | Transport/efflux | Sulfate transport system permease protein CysT</title></polygon>
+<text x="1243.3" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1243.3 339.0)" fill="#555">cysT_1</text>
+<polygon points="1346.0,304.0 1291.2,304.0 1273.2,315.0 1291.2,326.0 1346.0,326.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_00273 | sbp_1 | Accessory/other | Sulfate-binding protein</title></polygon>
+<text x="1309.6" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1309.6 339.0)" fill="#555">sbp_1</text>
+<polygon points="1386.6,304.0 1360.4,304.0 1347.5,315.0 1360.4,326.0 1386.6,326.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_00274 | rutF | Dehydrogenase/oxidoreductase | FMN reductase (NADH) RutF</title></polygon>
+<text x="1367.0" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1367.0 339.0)" fill="#555">rutF</text>
+<polygon points="1404.3,304.0 1393.3,304.0 1386.3,315.0 1393.3,326.0 1404.3,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_00275 | HOCKJBAH_00275 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1395.3" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1395.3 339.0)" fill="#555">HOCKJBAH_00275</text>
+<polygon points="1466.2,304.0 1419.1,304.0 1401.1,315.0 1419.1,326.0 1466.2,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_00276 | HOCKJBAH_00276 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1433.6" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1433.6 339.0)" fill="#555">HOCKJBAH_00276</text>
+<polygon points="1535.9,304.0 1483.9,304.0 1465.9,315.0 1483.9,326.0 1535.9,326.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_00277 | srpG | Accessory/other | Cysteine synthase</title></polygon>
+<text x="1500.9" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1500.9 339.0)" fill="#555">srpG</text>
+<polygon points="1549.7,304.0 1560.7,304.0 1567.7,315.0 1560.7,326.0 1549.7,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_00278 | HOCKJBAH_00278 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1558.7" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1558.7 339.0)" fill="#555">HOCKJBAH_00278</text>
+<polygon points="1568.6,304.0 1646.0,304.0 1664.0,315.0 1646.0,326.0 1568.6,326.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>HOCKJBAH_00279 | ntaA | Oxygenase/dioxygenase | Nitrilotriacetate monooxygenase component A | PANEL HIT: ladA (Alkanes / Terminal/biterminal oxidation) | pident=36.142000 qcovs=98.000000</title></polygon>
+<text x="1616.3" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1616.3 339.0)" fill="#111">ntaA (ladA)</text>
+<text x="452.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">3,845 bp</text>
+<text x="1664.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">20,765 bp</text>
+<rect x="18" y="366" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="366" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="384.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_9_panelcluster_13462</text>
+<text x="32.0" y="402.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_9 | MAGs/Exp3_MAG_9_c_000000000014 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="418.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: mpdB; prmA; prmB; prmC</text>
+<text x="32.0" y="430.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Alkenes</text>
+<line x1="452" y1="457.0" x2="1664" y2="457.0" stroke="#d0d0d0"/>
+<polygon points="689.9,446.0 470.0,446.0 452.0,457.0 470.0,468.0 689.9,468.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>HOCKJBAH_01716 | prmC_1 | Oxygenase/dioxygenase | Propane 2-monooxygenase, hydroxylase component small subunit | PANEL HIT: prmC (Alkanes / Subterminal oxidation) | pident=44.343000 qcovs=89.000000</title></polygon>
+<text x="570.9" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">prmC_1 (prmC)</text>
+<polygon points="926.6,446.0 716.1,446.0 698.1,457.0 716.1,468.0 926.6,468.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>HOCKJBAH_01717 | prmB | Oxygenase/dioxygenase | Propane 2-monooxygenase, reductase component | PANEL HIT: prmB (Alkanes / Subterminal oxidation) | pident=45.000000 qcovs=91.000000</title></polygon>
+<text x="812.4" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">prmB (prmB)</text>
+<polygon points="1310.4,446.0 957.3,446.0 939.3,457.0 957.3,468.0 1310.4,468.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>HOCKJBAH_01718 | prmA | Oxygenase/dioxygenase | Propane 2-monooxygenase, hydroxylase component large subunit | PANEL HIT: prmA (Alkanes / Subterminal oxidation) | pident=63.842000 qcovs=97.000000</title></polygon>
+<text x="1124.9" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">prmA (prmA)</text>
+<polygon points="1664.0,446.0 1334.2,446.0 1316.2,457.0 1334.2,468.0 1664.0,468.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>HOCKJBAH_01719 | mpdB_1 | Dehydrogenase/oxidoreductase | 2-methyl-1,2-propanediol dehydrogenase | PANEL HIT: mpdB (Alkenes / 2-methylpropene) | pident=34.100000 qcovs=93.000000</title></polygon>
+<text x="1490.1" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">mpdB_1 (mpdB)</text>
+<text x="452.0" y="394.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">181,668 bp</text>
+<text x="1664.0" y="394.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">187,124 bp</text>
+<rect x="18" y="508" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="508" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="526.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_9_panelcluster_13464</text>
+<text x="32.0" y="544.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_9 | MAGs/Exp3_MAG_9_c_000000000014 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="560.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: chqB; pcaF; pcaI; pcaJ</text>
+<text x="32.0" y="572.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Catechol-ortho; Hydroxyquinol; Protocatechuate</text>
+<line x1="452" y1="599.0" x2="1664" y2="599.0" stroke="#d0d0d0"/>
+<polygon points="452.0,588.0 672.4,588.0 690.4,599.0 672.4,610.0 452.0,610.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>HOCKJBAH_01919 | npcC | Oxygenase/dioxygenase | Hydroxyquinol 1,2-dioxygenase | PANEL HIT: chqB (Hydroxyquinol / Hydroxyquinol) | pident=46.099000 qcovs=95.000000</title></polygon>
+<text x="571.2" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">npcC (chqB)</text>
+<polygon points="922.7,588.0 742.5,588.0 724.5,599.0 742.5,610.0 922.7,610.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_01920 | pcaR | Accessory/other | Pca regulon regulatory protein</title></polygon>
+<text x="823.6" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">pcaR</text>
+<polygon points="963.0,588.0 1143.1,588.0 1161.1,599.0 1143.1,610.0 963.0,610.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>HOCKJBAH_01921 | pcaI | Thiolase/transferase | 3-oxoadipate CoA-transferase subunit A | PANEL HIT: pcaI (Catechol-ortho / Catechol-ortho) | pident=58.222000 qcovs=95.000000</title></polygon>
+<text x="1062.0" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pcaI (pcaI)</text>
+<polygon points="1160.0,588.0 1322.5,588.0 1340.5,599.0 1322.5,610.0 1160.0,610.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>HOCKJBAH_01922 | pcaJ | Thiolase/transferase | 3-oxoadipate CoA-transferase subunit B | PANEL HIT: pcaJ (Catechol-ortho / Catechol-ortho) | pident=55.556000 qcovs=97.000000</title></polygon>
+<text x="1250.2" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pcaJ (pcaJ)</text>
+<polygon points="1341.0,588.0 1646.0,588.0 1664.0,599.0 1646.0,610.0 1341.0,610.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>HOCKJBAH_01923 | pcaF | Thiolase/transferase | Beta-ketoadipyl-CoA thiolase | PANEL HIT: pcaF (Catechol-ortho; Protocatechuate / Protocatechuate) | pident=68.579000 qcovs=100.000000</title></polygon>
+<text x="1502.5" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pcaF (pcaF)</text>
+<text x="452.0" y="536.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">399,374 bp</text>
+<text x="1664.0" y="536.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">403,887 bp</text>
+<rect x="18" y="650" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="650" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="668.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_9_panelcluster_13466</text>
+<text x="32.0" y="686.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_9 | MAGs/Exp3_MAG_9_c_000000000016 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="702.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: mlaF; pcaD; rdxR</text>
+<text x="32.0" y="714.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Catechol-ortho; Protocatechuate;</text>
+<text x="32.0" y="726.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Transportation</text>
+<line x1="452" y1="741.0" x2="1664" y2="741.0" stroke="#d0d0d0"/>
+<polygon points="452.0,730.0 599.7,730.0 617.7,741.0 599.7,752.0 452.0,752.0" fill="#fb9a99" stroke="#111" stroke-width="2.2"><title>HOCKJBAH_02079 | hcaD | Electron transfer/redox | 3-phenylpropionate/cinnamic acid dioxygenase ferredoxin--NAD(+) reductase component | PANEL HIT: rdxR (Alkanes / Terminal/biterminal oxidation) | pident=32.637000 qcovs=98.000000</title></polygon>
+<text x="534.9" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 534.9 765.0)" fill="#111">hcaD (rdxR)</text>
+<polygon points="617.5,730.0 660.8,730.0 678.8,741.0 660.8,752.0 617.5,752.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_02080 | ydbD | Accessory/other | putative manganese catalase</title></polygon>
+<text x="648.1" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 648.1 765.0)" fill="#555">ydbD</text>
+<polygon points="731.4,730.0 698.1,730.0 681.7,741.0 698.1,752.0 731.4,752.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_02081 | HOCKJBAH_02081 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="706.5" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 706.5 765.0)" fill="#555">HOCKJBAH_02081</text>
+<polygon points="740.4,730.0 770.6,730.0 785.5,741.0 770.6,752.0 740.4,752.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_02082 | HOCKJBAH_02082 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="763.0" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 763.0 765.0)" fill="#555">HOCKJBAH_02082</text>
+<polygon points="804.7,730.0 793.7,730.0 786.7,741.0 793.7,752.0 804.7,752.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_02083 | HOCKJBAH_02083 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="795.7" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 795.7 765.0)" fill="#555">HOCKJBAH_02083</text>
+<polygon points="797.6,730.0 812.6,730.0 820.0,741.0 812.6,752.0 797.6,752.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_02084 | HOCKJBAH_02084 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="808.8" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 808.8 765.0)" fill="#555">HOCKJBAH_02084</text>
+<polygon points="824.1,730.0 839.2,730.0 846.6,741.0 839.2,752.0 824.1,752.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_02085 | HOCKJBAH_02085 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="835.4" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 835.4 765.0)" fill="#555">HOCKJBAH_02085</text>
+<polygon points="857.3,730.0 931.8,730.0 949.8,741.0 931.8,752.0 857.3,752.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>HOCKJBAH_02086 | rutD_1 | Hydrolase/decarboxylase/lyase | Putative aminoacrylate hydrolase RutD | PANEL HIT: pcaD (Catechol-ortho; Protocatechuate / Protocatechuate) | pident=42.586000 qcovs=100.000000</title></polygon>
+<text x="903.5" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 903.5 765.0)" fill="#111">rutD_1 (pcaD)</text>
+<polygon points="952.0,730.0 1004.6,730.0 1022.6,741.0 1004.6,752.0 952.0,752.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_02087 | HOCKJBAH_02087 | Accessory/other | Leu/Ile/Val-binding protein </title></polygon>
+<text x="987.3" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 987.3 765.0)" fill="#555">HOCKJBAH_02087</text>
+<polygon points="1031.0,730.0 1103.4,730.0 1121.4,741.0 1103.4,752.0 1031.0,752.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_02088 | HOCKJBAH_02088 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1076.2" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1076.2 765.0)" fill="#555">HOCKJBAH_02088</text>
+<polygon points="1179.4,730.0 1139.4,730.0 1121.4,741.0 1139.4,752.0 1179.4,752.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_02089 | prmC_2 | Accessory/other | Release factor glutamine methyltransferase</title></polygon>
+<text x="1150.4" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1150.4 765.0)" fill="#555">prmC_2</text>
+<polygon points="1200.2,730.0 1211.2,730.0 1218.2,741.0 1211.2,752.0 1200.2,752.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_02090 | HOCKJBAH_02090 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1209.2" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1209.2 765.0)" fill="#555">HOCKJBAH_02090</text>
+<polygon points="1217.0,730.0 1261.6,730.0 1279.6,741.0 1261.6,752.0 1217.0,752.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_02091 | nlhH | Accessory/other | Carboxylesterase NlhH</title></polygon>
+<text x="1248.3" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1248.3 765.0)" fill="#555">nlhH</text>
+<polygon points="1285.0,730.0 1308.3,730.0 1319.8,741.0 1308.3,752.0 1285.0,752.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_02092 | bcpB | Accessory/other | Putative peroxiredoxin</title></polygon>
+<text x="1302.4" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1302.4 765.0)" fill="#555">bcpB</text>
+<polygon points="1324.1,730.0 1444.7,730.0 1462.7,741.0 1444.7,752.0 1324.1,752.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_02093 | HOCKJBAH_02093 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1393.4" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1393.4 765.0)" fill="#555">HOCKJBAH_02093</text>
+<polygon points="1461.6,730.0 1496.2,730.0 1513.3,741.0 1496.2,752.0 1461.6,752.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_02094 | HOCKJBAH_02094 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1487.5" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1487.5 765.0)" fill="#555">HOCKJBAH_02094</text>
+<polygon points="1532.9,730.0 1521.9,730.0 1514.9,741.0 1521.9,752.0 1532.9,752.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_02095 | HOCKJBAH_02095 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1523.9" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1523.9 765.0)" fill="#555">HOCKJBAH_02095</text>
+<polygon points="1545.3,730.0 1597.6,730.0 1615.6,741.0 1597.6,752.0 1545.3,752.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_02096 | HOCKJBAH_02096 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1580.4" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1580.4 765.0)" fill="#555">HOCKJBAH_02096</text>
+<polygon points="1615.5,730.0 1648.0,730.0 1664.0,741.0 1648.0,752.0 1615.5,752.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>HOCKJBAH_02097 | mlaF | Transport/efflux | Intermembrane phospholipid transport system ATP-binding protein MlaF | PANEL HIT: mlaF (Transportation / Transportation) | pident=36.929000 qcovs=88.000000</title></polygon>
+<text x="1639.8" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1639.8 765.0)" fill="#111">mlaF (mlaF)</text>
+<text x="452.0" y="678.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">44,182 bp</text>
+<text x="1664.0" y="678.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">63,465 bp</text>
+<rect x="18" y="792" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="792" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="810.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_9_panelcluster_13467</text>
+<text x="32.0" y="828.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_9 | MAGs/Exp3_MAG_9_c_000000000016 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="844.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: alkH_ald; mpdB; xylG</text>
+<text x="32.0" y="856.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Alkenes; Catechol-meta</text>
+<line x1="452" y1="883.0" x2="1664" y2="883.0" stroke="#d0d0d0"/>
+<polygon points="452.0,872.0 546.8,872.0 564.8,883.0 546.8,894.0 452.0,894.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>HOCKJBAH_02113 | mpdB_2 | Dehydrogenase/oxidoreductase | 2-methyl-1,2-propanediol dehydrogenase | PANEL HIT: mpdB (Alkenes / 2-methylpropene) | pident=30.092000 qcovs=96.000000</title></polygon>
+<text x="508.4" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 508.4 907.0)" fill="#111">mpdB_2 (mpdB)</text>
+<polygon points="565.8,872.0 616.7,872.0 634.7,883.0 616.7,894.0 565.8,894.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_02114 | HOCKJBAH_02114 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="600.2" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 600.2 907.0)" fill="#555">HOCKJBAH_02114</text>
+<polygon points="651.0,872.0 640.0,872.0 633.0,883.0 640.0,894.0 651.0,894.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_02115 | HOCKJBAH_02115 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="642.0" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 642.0 907.0)" fill="#555">HOCKJBAH_02115</text>
+<polygon points="742.8,872.0 675.4,872.0 657.4,883.0 675.4,894.0 742.8,894.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_02116 | COQ3 | Accessory/other | Ubiquinone biosynthesis O-methyltransferase, mitochondrial</title></polygon>
+<text x="700.1" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 700.1 907.0)" fill="#555">COQ3</text>
+<polygon points="756.6,872.0 838.6,872.0 856.6,883.0 838.6,894.0 756.6,894.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>HOCKJBAH_02117 | gbsA | Dehydrogenase/oxidoreductase | Betaine aldehyde dehydrogenase | PANEL HIT: xylG (Catechol-meta / Catechol-meta) | pident=43.568000 qcovs=98.000000</title></polygon>
+<text x="806.6" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 806.6 907.0)" fill="#111">gbsA (xylG)</text>
+<polygon points="980.5,872.0 874.1,872.0 856.1,883.0 874.1,894.0 980.5,894.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_02118 | clcB_2 | Accessory/other | Voltage-gated ClC-type chloride channel ClcB</title></polygon>
+<text x="918.3" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 918.3 907.0)" fill="#555">clcB_2</text>
+<polygon points="985.7,872.0 1006.6,872.0 1017.0,883.0 1006.6,894.0 985.7,894.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_02119 | HOCKJBAH_02119 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1001.3" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1001.3 907.0)" fill="#555">HOCKJBAH_02119</text>
+<polygon points="1100.9,872.0 1042.8,872.0 1024.8,883.0 1042.8,894.0 1100.9,894.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_02120 | HOCKJBAH_02120 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1062.8" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1062.8 907.0)" fill="#555">HOCKJBAH_02120</text>
+<polygon points="1159.1,872.0 1118.6,872.0 1100.6,883.0 1118.6,894.0 1159.1,894.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_02121 | HOCKJBAH_02121 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1129.9" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1129.9 907.0)" fill="#555">HOCKJBAH_02121</text>
+<polygon points="1259.6,872.0 1174.0,872.0 1156.0,883.0 1174.0,894.0 1259.6,894.0" fill="#d73027" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_02122 | crtNb | Oxygenase/dioxygenase | 4,4&#x27;-diapolycopene oxygenase</title></polygon>
+<text x="1207.8" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1207.8 907.0)" fill="#555">crtNb</text>
+<polygon points="1369.7,872.0 1278.7,872.0 1260.7,883.0 1278.7,894.0 1369.7,894.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_02123 | crtN | Hydratase/dehydratase/isomerase | 4,4&#x27;-diapophytoene desaturase (4,4&#x27;-diapolycopene-forming)</title></polygon>
+<text x="1315.2" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1315.2 907.0)" fill="#555">crtN</text>
+<polygon points="1379.5,872.0 1401.3,872.0 1412.0,883.0 1401.3,894.0 1379.5,894.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_02124 | HOCKJBAH_02124 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1395.8" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1395.8 907.0)" fill="#555">HOCKJBAH_02124</text>
+<polygon points="1495.3,872.0 1430.9,872.0 1412.9,883.0 1430.9,894.0 1495.3,894.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_02125 | lnrM | Transport/efflux | Linearmycin resistance permease protein LnrM</title></polygon>
+<text x="1454.1" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1454.1 907.0)" fill="#555">lnrM</text>
+<polygon points="1560.9,872.0 1513.0,872.0 1495.0,883.0 1513.0,894.0 1560.9,894.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_02126 | btuD_3 | Accessory/other | Vitamin B12 import ATP-binding protein BtuD</title></polygon>
+<text x="1527.9" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1527.9 907.0)" fill="#555">btuD_3</text>
+<polygon points="1664.0,872.0 1587.7,872.0 1569.7,883.0 1587.7,894.0 1664.0,894.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>HOCKJBAH_02127 | calB_1 | Dehydrogenase/oxidoreductase | Coniferyl aldehyde dehydrogenase | PANEL HIT: alkH_ald (Alkanes / Auxillary alkane pathway) | pident=39.243000 qcovs=86.000000</title></polygon>
+<text x="1616.8" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1616.8 907.0)" fill="#111">calB_1 (alkH_ald)</text>
+<text x="452.0" y="820.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">78,411 bp</text>
+<text x="1664.0" y="820.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">96,295 bp</text>
+<rect x="18" y="934" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="934" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="952.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_9_panelcluster_13479</text>
+<text x="32.0" y="970.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_9 | MAGs/Exp3_MAG_9_c_000000000026 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="986.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: acdB; almA; fadA; fadD</text>
+<text x="32.0" y="998.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Beta-oxidation</text>
+<line x1="452" y1="1025.0" x2="1664" y2="1025.0" stroke="#d0d0d0"/>
+<polygon points="635.1,1014.0 470.0,1014.0 452.0,1025.0 470.0,1036.0 635.1,1036.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>HOCKJBAH_02868 | ethA | Oxygenase/dioxygenase | FAD-containing monooxygenase EthA | PANEL HIT: almA (Alkanes / Terminal/biterminal oxidation) | pident=53.306000 qcovs=97.000000</title></polygon>
+<text x="543.5" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">ethA (almA)</text>
+<polygon points="732.7,1014.0 653.7,1014.0 635.7,1025.0 653.7,1036.0 732.7,1036.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_02869 | sadH | Dehydrogenase/oxidoreductase | Putative oxidoreductase SadH</title></polygon>
+<text x="684.2" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">sadH</text>
+<polygon points="756.6,1014.0 942.9,1014.0 960.9,1025.0 942.9,1036.0 756.6,1036.0" fill="#1f78b4" stroke="#111" stroke-width="2.2"><title>HOCKJBAH_02870 | lcfB_2 | CoA ligase/synthetase | Long-chain-fatty-acid--CoA ligase | PANEL HIT: fadD (Beta-oxidation / Beta-oxidation) | pident=37.726000 qcovs=96.000000</title></polygon>
+<text x="858.7" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">lcfB_2 (fadD)</text>
+<polygon points="960.4,1014.0 1002.6,1014.0 1020.6,1025.0 1002.6,1036.0 960.4,1036.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_02871 | HOCKJBAH_02871 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="990.5" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">HOCKJBAH_02871</text>
+<polygon points="1025.7,1014.0 1144.3,1014.0 1162.3,1025.0 1144.3,1036.0 1025.7,1036.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>HOCKJBAH_02872 | fadA | Thiolase/transferase | 3-ketoacyl-CoA thiolase | PANEL HIT: fadA (Beta-oxidation / Beta-oxidation) | pident=45.758000 qcovs=99.000000</title></polygon>
+<text x="1094.0" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">fadA (fadA)</text>
+<polygon points="1162.2,1014.0 1426.0,1014.0 1444.0,1025.0 1426.0,1036.0 1162.2,1036.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_02873 | fadN | Dehydrogenase/oxidoreductase | putative 3-hydroxyacyl-CoA dehydrogenase</title></polygon>
+<text x="1303.1" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">fadN</text>
+<polygon points="1449.2,1014.0 1646.0,1014.0 1664.0,1025.0 1646.0,1036.0 1449.2,1036.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>HOCKJBAH_02874 | dmdC | Dehydrogenase/oxidoreductase | 3-methylmercaptopropionyl-CoA dehydrogenase | PANEL HIT: acdB (Beta-oxidation / Beta-oxidation) | pident=48.662000 qcovs=99.000000</title></polygon>
+<text x="1556.6" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">dmdC (acdB)</text>
+<text x="452.0" y="962.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">65,302 bp</text>
+<text x="1664.0" y="962.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">75,389 bp</text>
+<rect x="18" y="1076" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="1076" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="1094.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_9_panelcluster_13482</text>
+<text x="32.0" y="1112.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_9 | MAGs/Exp3_MAG_9_c_000000000029 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="1128.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: AAE3; atoA; atoD</text>
+<text x="32.0" y="1140.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Cyclohexylacetate; Oxalate</text>
+<line x1="452" y1="1167.0" x2="1664" y2="1167.0" stroke="#d0d0d0"/>
+<polygon points="452.0,1156.0 681.4,1156.0 699.4,1167.0 681.4,1178.0 452.0,1178.0" fill="#1f78b4" stroke="#111" stroke-width="2.2"><title>HOCKJBAH_03093 | sauT | CoA ligase/synthetase | putative sulfoacetate--CoA ligase | PANEL HIT: AAE3 (Oxalate / Oxalate) | pident=34.827000 qcovs=81.000000</title></polygon>
+<text x="575.7" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">sauT (AAE3)</text>
+<polygon points="1043.0,1156.0 736.9,1156.0 718.9,1167.0 736.9,1178.0 1043.0,1178.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_03094 | HOCKJBAH_03094 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="881.0" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">HOCKJBAH_03094</text>
+<polygon points="1404.7,1156.0 1087.5,1156.0 1069.5,1167.0 1087.5,1178.0 1404.7,1178.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HOCKJBAH_03095 | HOCKJBAH_03095 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1237.1" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">HOCKJBAH_03095</text>
+<polygon points="1461.9,1156.0 1538.5,1156.0 1556.5,1167.0 1538.5,1178.0 1461.9,1178.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>HOCKJBAH_03096 | atoD | Thiolase/transferase | Acetate CoA-transferase subunit alpha | PANEL HIT: atoD (Cyclohexylacetate / Cyclohexylacetate) | pident=56.915000 qcovs=85.000000</title></polygon>
+<text x="1509.2" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">atoD (atoD)</text>
+<polygon points="1557.8,1156.0 1646.0,1156.0 1664.0,1167.0 1646.0,1178.0 1557.8,1178.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>HOCKJBAH_03097 | ctfB | Thiolase/transferase | Butyrate--acetoacetate CoA-transferase subunit B | PANEL HIT: atoA (Cyclohexylacetate / Cyclohexylacetate) | pident=53.521000 qcovs=97.000000</title></polygon>
+<text x="1610.9" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">ctfB (atoA)</text>
+<text x="452.0" y="1104.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">70,791 bp</text>
+<text x="1664.0" y="1104.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">78,286 bp</text>
+<text x="24.0" y="1236.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="1246" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="1256.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="1246" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="1256.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="1246" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="1256.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="1246" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="1256.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="1268" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="1278.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="1268" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="1278.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="1268" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="1278.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="1268" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="1278.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="1290" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="1300.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="1290" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="1300.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="1290" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="1300.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="1290" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="1300.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="1312" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="1322.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="492" viewBox="0 0 1700 492">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<text x="24.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_166: reference-panel operon/cluster gene maps</text>
+<text x="24.0" y="56.0" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#555">2 shortlisted clusters (&gt;=3 independent panel gene hits) for this genome</text>
+<text x="24.0" y="74.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="start" fill="#555">Arrow direction shows CDS strand. Color shows enzyme class. Bold outline = reference-panel seed hit.</text>
+<rect x="18" y="82" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="82" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="100.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_166_panelcluster_4142</text>
+<text x="32.0" y="118.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_166 | MAGs/Exp3_MAG_166_c_000000000140 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="134.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: bphJ; bphX3; catR; tomA1; tomA2; tomA3; tomA4; tomA5;</text>
+<text x="32.0" y="146.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">xylE; xylF; xylG; xylJ</text>
+<text x="32.0" y="158.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Catechol-meta; Catechol-ortho</text>
+<line x1="452" y1="173.0" x2="1664" y2="173.0" stroke="#d0d0d0"/>
+<polygon points="552.5,162.0 470.0,162.0 452.0,173.0 470.0,184.0 552.5,184.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>LMCHACNI_00944 | bphI | Hydrolase/decarboxylase/lyase | 4-hydroxy-2-oxovalerate aldolase 4 | PANEL HIT: bphX3 (Aromatics / Biphenyl) | pident=88.496000 qcovs=98.000000</title></polygon>
+<text x="502.3" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 502.3 197.0)" fill="#111">bphI (bphX3)</text>
+<polygon points="643.1,162.0 573.2,162.0 555.2,173.0 573.2,184.0 643.1,184.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>LMCHACNI_00945 | bphJ | Dehydrogenase/oxidoreductase | Acetaldehyde dehydrogenase 4 | PANEL HIT: bphJ (Aromatics / Biphenyl) | pident=86.755000 qcovs=99.000000</title></polygon>
+<text x="599.2" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 599.2 197.0)" fill="#111">bphJ (bphJ)</text>
+<polygon points="719.8,162.0 662.1,162.0 644.1,173.0 662.1,184.0 719.8,184.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>LMCHACNI_00946 | xylJ | Hydratase/dehydratase/isomerase | 2-hydroxypent-2,4-dienoate hydratase | PANEL HIT: xylJ (Catechol-meta / Catechol-meta) | pident=68.018000 qcovs=99.000000</title></polygon>
+<text x="682.0" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 682.0 197.0)" fill="#111">xylJ (xylJ)</text>
+<polygon points="807.3,162.0 740.6,162.0 722.6,173.0 740.6,184.0 807.3,184.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>LMCHACNI_00947 | xylF | Hydrolase/decarboxylase/lyase | 2-hydroxymuconate semialdehyde hydrolase | PANEL HIT: xylF (Catechol-meta / Catechol-meta) | pident=64.643000 qcovs=95.000000</title></polygon>
+<text x="764.9" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 764.9 197.0)" fill="#111">xylF (xylF)</text>
+<polygon points="948.5,162.0 826.3,162.0 808.3,173.0 826.3,184.0 948.5,184.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>LMCHACNI_00948 | xylG | Dehydrogenase/oxidoreductase | 2-hydroxymuconic semialdehyde dehydrogenase | PANEL HIT: xylG (Catechol-meta / Catechol-meta) | pident=68.219000 qcovs=100.000000</title></polygon>
+<text x="878.4" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 878.4 197.0)" fill="#111">xylG (xylG)</text>
+<polygon points="993.8,162.0 965.6,162.0 951.6,173.0 965.6,184.0 993.8,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LMCHACNI_00949 | LMCHACNI_00949 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="972.7" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 972.7 197.0)" fill="#555">LMCHACNI_00949</text>
+<polygon points="1083.8,162.0 1011.9,162.0 993.9,173.0 1011.9,184.0 1083.8,184.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>LMCHACNI_00950 | xylE | Accessory/other | Metapyrocatechase | PANEL HIT: xylE (Catechol-meta / Catechol-meta) | pident=57.329000 qcovs=99.000000</title></polygon>
+<text x="1038.8" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1038.8 197.0)" fill="#111">xylE (xylE)</text>
+<polygon points="1121.2,162.0 1098.0,162.0 1086.6,173.0 1098.0,184.0 1121.2,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LMCHACNI_00951 | LMCHACNI_00951 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1103.9" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1103.9 197.0)" fill="#555">LMCHACNI_00951</text>
+<polygon points="1135.0,162.0 1201.9,162.0 1219.9,173.0 1201.9,184.0 1135.0,184.0" fill="#fdbf6f" stroke="#111" stroke-width="2.2"><title>LMCHACNI_00952 | tfdR | Regulator | HTH-type transcriptional regulator TdfR | PANEL HIT: catR (Catechol-ortho / Catechol-ortho) | pident=36.897000 qcovs=98.000000</title></polygon>
+<text x="1177.5" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1177.5 197.0)" fill="#111">tfdR (catR)</text>
+<polygon points="1326.7,162.0 1241.6,162.0 1223.6,173.0 1241.6,184.0 1326.7,184.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>LMCHACNI_00953 | mphP | Oxygenase/dioxygenase | Phenol hydroxylase P5 protein | PANEL HIT: tomA5 (Aromatics / Toluene) | pident=59.551000 qcovs=100.000000</title></polygon>
+<text x="1275.2" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1275.2 197.0)" fill="#111">mphP (tomA5)</text>
+<polygon points="1363.5,162.0 1340.1,162.0 1328.6,173.0 1340.1,184.0 1363.5,184.0" fill="#d9d9d9" stroke="#111" stroke-width="2.2"><title>LMCHACNI_00954 | LMCHACNI_00954 | Hypothetical/accessory | hypothetical protein | PANEL HIT: tomA4 (Aromatics / Toluene) | pident=61.667000 qcovs=100.000000</title></polygon>
+<text x="1346.0" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1346.0 197.0)" fill="#111">LMCHACNI_00954 (tomA4)</text>
+<polygon points="1525.6,162.0 1389.3,162.0 1371.3,173.0 1389.3,184.0 1525.6,184.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>LMCHACNI_00955 | tmoA | Oxygenase/dioxygenase | Toluene-4-monooxygenase system, hydroxylase component subunit alpha | PANEL HIT: tomA3 (Aromatics / Toluene) | pident=68.493000 qcovs=98.000000</title></polygon>
+<text x="1448.5" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1448.5 197.0)" fill="#111">tmoA (tomA3)</text>
+<polygon points="1561.8,162.0 1543.0,162.0 1533.8,173.0 1543.0,184.0 1561.8,184.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>LMCHACNI_00956 | dmpM | Oxygenase/dioxygenase | Phenol hydroxylase P2 protein | PANEL HIT: tomA2 (Aromatics / Toluene) | pident=55.952000 qcovs=94.000000</title></polygon>
+<text x="1547.8" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1547.8 197.0)" fill="#111">dmpM (tomA2)</text>
+<polygon points="1664.0,162.0 1579.4,162.0 1561.4,173.0 1579.4,184.0 1664.0,184.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>LMCHACNI_00957 | mphL | Oxygenase/dioxygenase | Phenol hydroxylase P1 protein | PANEL HIT: tomA1 (Aromatics / Toluene) | pident=51.360000 qcovs=99.000000</title></polygon>
+<text x="1612.7" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1612.7 197.0)" fill="#111">mphL (tomA1)</text>
+<text x="452.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">562 bp</text>
+<text x="1664.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">13,146 bp</text>
+<rect x="18" y="224" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="224" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="242.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_166_panelcluster_4161</text>
+<text x="32.0" y="260.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_166 | MAGs/Exp3_MAG_166_c_000000000445 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="276.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: mlaD; mlaE; mlaF</text>
+<text x="32.0" y="288.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Transportation</text>
+<line x1="452" y1="315.0" x2="1664" y2="315.0" stroke="#d0d0d0"/>
+<polygon points="742.4,304.0 470.0,304.0 452.0,315.0 470.0,326.0 742.4,326.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>LMCHACNI_02938 | mlaD | Transport/efflux | Intermembrane phospholipid transport system binding protein MlaD | PANEL HIT: mlaD (Transportation / Transportation) | pident=44.828000 qcovs=95.000000</title></polygon>
+<text x="597.2" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">mlaD (mlaD)</text>
+<polygon points="1210.7,304.0 774.9,304.0 756.9,315.0 774.9,326.0 1210.7,326.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>LMCHACNI_02939 | mlaE | Transport/efflux | Intermembrane phospholipid transport system permease protein MlaE | PANEL HIT: mlaE (Transportation / Transportation) | pident=57.143000 qcovs=97.000000</title></polygon>
+<text x="983.8" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">mlaE (mlaE)</text>
+<polygon points="1664.0,304.0 1226.4,304.0 1208.4,315.0 1226.4,326.0 1664.0,326.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>LMCHACNI_02940 | mlaF | Transport/efflux | Intermembrane phospholipid transport system ATP-binding protein MlaF | PANEL HIT: mlaF (Transportation / Transportation) | pident=56.078000 qcovs=95.000000</title></polygon>
+<text x="1436.2" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">mlaF (mlaF)</text>
+<text x="452.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">14,464 bp</text>
+<text x="1664.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">16,554 bp</text>
+<text x="24.0" y="384.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="394" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="404.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="394" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="404.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="394" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="404.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="394" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="404.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="416" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="426.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="416" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="426.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="416" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="426.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="416" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="426.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="438" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="448.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="438" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="448.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="438" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="448.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="438" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="448.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="460" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="470.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

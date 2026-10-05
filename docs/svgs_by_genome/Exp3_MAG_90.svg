@@ -1,0 +1,285 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="1344" viewBox="0 0 1700 1344">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<text x="24.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_90: reference-panel operon/cluster gene maps</text>
+<text x="24.0" y="56.0" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#555">8 shortlisted clusters (&gt;=3 independent panel gene hits) for this genome</text>
+<text x="24.0" y="74.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="start" fill="#555">Arrow direction shows CDS strand. Color shows enzyme class. Bold outline = reference-panel seed hit.</text>
+<rect x="18" y="82" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="82" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="100.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_90_panelcluster_13499</text>
+<text x="32.0" y="118.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_90 | MAGs/Exp3_MAG_90_c_000000000004 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="134.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: PGRcl; pcaI; pcaJ</text>
+<text x="32.0" y="146.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Catechol-ortho; Pyrogallol</text>
+<line x1="452" y1="173.0" x2="1664" y2="173.0" stroke="#d0d0d0"/>
+<polygon points="722.9,162.0 470.0,162.0 452.0,173.0 470.0,184.0 722.9,184.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>MCJFCMLE_00330 | scoB | Thiolase/transferase | putative succinyl-CoA:3-ketoacid coenzyme A transferase subunit B | PANEL HIT: pcaJ (Catechol-ortho / Catechol-ortho) | pident=54.067000 qcovs=96.000000</title></polygon>
+<text x="587.4" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">scoB (pcaJ)</text>
+<polygon points="1022.4,162.0 748.3,162.0 730.3,173.0 748.3,184.0 1022.4,184.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>MCJFCMLE_00331 | scoA | Thiolase/transferase | putative succinyl-CoA:3-ketoacid coenzyme A transferase subunit A | PANEL HIT: pcaI (Catechol-ortho / Catechol-ortho) | pident=50.230000 qcovs=94.000000</title></polygon>
+<text x="876.4" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">scoA (pcaI)</text>
+<polygon points="1101.1,162.0 1292.8,162.0 1310.8,173.0 1292.8,184.0 1101.1,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_00332 | MCJFCMLE_00332 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1205.9" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">MCJFCMLE_00332</text>
+<polygon points="1664.0,162.0 1358.7,162.0 1340.7,173.0 1358.7,184.0 1664.0,184.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>MCJFCMLE_00333 | gno_1 | Dehydrogenase/oxidoreductase | Gluconate 5-dehydrogenase | PANEL HIT: PGRcl (Pyrogallol / Pyrogallol) | pident=32.806000 qcovs=93.000000</title></polygon>
+<text x="1502.4" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">gno_1 (PGRcl)</text>
+<text x="452.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">13,257 bp</text>
+<text x="1664.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">16,169 bp</text>
+<rect x="18" y="224" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="224" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="242.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_90_panelcluster_13500</text>
+<text x="32.0" y="260.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_90 | MAGs/Exp3_MAG_90_c_000000000004 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="276.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: dszC; ladA; ssuD</text>
+<text x="32.0" y="288.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Aromatics</text>
+<line x1="452" y1="315.0" x2="1664" y2="315.0" stroke="#d0d0d0"/>
+<polygon points="631.2,304.0 470.0,304.0 452.0,315.0 470.0,326.0 631.2,326.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>MCJFCMLE_00430 | msuD | Oxygenase/dioxygenase | Methanesulfonate monooxygenase | PANEL HIT: ssuD (Alkanes / Auxillary alkane pathway) | pident=68.912000 qcovs=99.000000</title></polygon>
+<text x="541.6" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">msuD (ssuD)</text>
+<polygon points="786.4,304.0 650.9,304.0 632.9,315.0 650.9,326.0 786.4,326.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_00431 | ssuA_1 | Accessory/other | Putative aliphatic sulfonates-binding protein</title></polygon>
+<text x="709.7" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">ssuA_1</text>
+<polygon points="880.4,304.0 806.9,304.0 788.9,315.0 806.9,326.0 880.4,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_00432 | MCJFCMLE_00432 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="834.6" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">MCJFCMLE_00432</text>
+<polygon points="910.7,304.0 1078.9,304.0 1096.9,315.0 1078.9,326.0 910.7,326.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>MCJFCMLE_00433 | sfnC | Oxygenase/dioxygenase | putative FMNH2-dependent monooxygenase SfnC | PANEL HIT: dszC (Aromatics / Dibenzofuran) | pident=42.172000 qcovs=95.000000</title></polygon>
+<text x="1003.8" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">sfnC (dszC)</text>
+<polygon points="1096.7,304.0 1205.2,304.0 1223.2,315.0 1205.2,326.0 1096.7,326.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_00434 | metN | Accessory/other | Methionine import ATP-binding protein MetN</title></polygon>
+<text x="1160.0" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">metN</text>
+<polygon points="1221.9,304.0 1311.7,304.0 1329.7,315.0 1311.7,326.0 1221.9,326.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_00435 | metI | Transport/efflux | D-methionine transport system permease protein MetI</title></polygon>
+<text x="1275.8" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">metI</text>
+<polygon points="1331.0,304.0 1440.4,304.0 1458.4,315.0 1440.4,326.0 1331.0,326.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_00436 | metQ | Accessory/other | D-methionine-binding lipoprotein MetQ</title></polygon>
+<text x="1394.7" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">metQ</text>
+<polygon points="1458.2,304.0 1646.0,304.0 1664.0,315.0 1646.0,326.0 1458.2,326.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>MCJFCMLE_00437 | dmoA | Oxygenase/dioxygenase | Dimethyl-sulfide monooxygenase | PANEL HIT: ladA (Alkanes / Terminal/biterminal oxidation) | pident=48.636000 qcovs=96.000000</title></polygon>
+<text x="1561.1" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">dmoA (ladA)</text>
+<text x="452.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">126,200 bp</text>
+<text x="1664.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">133,991 bp</text>
+<rect x="18" y="366" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="366" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="384.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_90_panelcluster_13510</text>
+<text x="32.0" y="402.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_90 | MAGs/Exp3_MAG_90_c_000000000011 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="418.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: nagR; pqiA; pqiB</text>
+<text x="32.0" y="430.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Naphthalene; Transportation</text>
+<line x1="452" y1="457.0" x2="1664" y2="457.0" stroke="#d0d0d0"/>
+<polygon points="452.0,446.0 640.0,446.0 658.0,457.0 640.0,468.0 452.0,468.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>MCJFCMLE_01128 | pqiA | Transport/efflux | Intermembrane transport protein PqiA | PANEL HIT: pqiA (Transportation / Transportation) | pident=33.500000 qcovs=93.000000</title></polygon>
+<text x="555.0" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pqiA (pqiA)</text>
+<polygon points="656.6,446.0 912.0,446.0 930.0,457.0 912.0,468.0 656.6,468.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>MCJFCMLE_01129 | pqiB | Transport/efflux | Intermembrane transport protein PqiB | PANEL HIT: pqiB (Transportation / Transportation) | pident=32.897000 qcovs=96.000000</title></polygon>
+<text x="793.3" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pqiB (pqiB)</text>
+<polygon points="929.8,446.0 1011.5,446.0 1029.5,457.0 1011.5,468.0 929.8,468.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_01130 | MCJFCMLE_01130 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="979.6" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">MCJFCMLE_01130</text>
+<polygon points="1076.7,446.0 1047.9,446.0 1033.7,457.0 1047.9,468.0 1076.7,468.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_01131 | MCJFCMLE_01131 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1055.2" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">MCJFCMLE_01131</text>
+<polygon points="1087.9,446.0 1129.1,446.0 1147.1,457.0 1129.1,468.0 1087.9,468.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_01132 | MCJFCMLE_01132 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1117.5" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">MCJFCMLE_01132</text>
+<polygon points="1307.2,446.0 1170.3,446.0 1152.3,457.0 1170.3,468.0 1307.2,468.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_01133 | dmlR_3 | Regulator | HTH-type transcriptional regulator DmlR</title></polygon>
+<text x="1229.7" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">dmlR_3</text>
+<polygon points="1312.1,446.0 1497.0,446.0 1515.0,457.0 1497.0,468.0 1312.1,468.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_01134 | pbuE_1 | Transport/efflux | Purine efflux pump PbuE</title></polygon>
+<text x="1413.6" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">pbuE_1</text>
+<polygon points="1664.0,446.0 1528.1,446.0 1510.1,457.0 1528.1,468.0 1664.0,468.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>MCJFCMLE_01135 | pcpR_1 | Accessory/other | PCP degradation transcriptional activation protein | PANEL HIT: nagR (Naphthalene / Naphthalene) | pident=32.877000 qcovs=97.000000</title></polygon>
+<text x="1587.1" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pcpR_1 (nagR)</text>
+<text x="452.0" y="394.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">181,683 bp</text>
+<text x="1664.0" y="394.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">188,866 bp</text>
+<rect x="18" y="508" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="508" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="526.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_90_panelcluster_13527</text>
+<text x="32.0" y="544.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_90 | MAGs/Exp3_MAG_90_c_000000000036 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="560.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: est; paaA; paaB; paaC; paaD; paaE; paaG; paaH; paaI;</text>
+<text x="32.0" y="572.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">paaK; paaX; paaY; paaZ; pcaF</text>
+<text x="32.0" y="584.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Catechol-ortho; Phenylacetate; Plastics;</text>
+<text x="32.0" y="596.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Protocatechuate</text>
+<line x1="452" y1="599.0" x2="1664" y2="599.0" stroke="#d0d0d0"/>
+<polygon points="579.0,588.0 470.0,588.0 452.0,599.0 470.0,610.0 579.0,610.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>MCJFCMLE_02608 | paaZ | Hydrolase/decarboxylase/lyase | Bifunctional protein PaaZ | PANEL HIT: paaZ (Phenylacetate / Phenylacetate) | pident=56.637000 qcovs=99.000000</title></polygon>
+<text x="515.5" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 515.5 623.0)" fill="#111">paaZ (paaZ)</text>
+<polygon points="621.2,588.0 595.8,588.0 583.3,599.0 595.8,610.0 621.2,610.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>MCJFCMLE_02609 | caiE | Accessory/other | Carnitine operon protein CaiE | PANEL HIT: paaY (Phenylacetate / Phenylacetate) | pident=58.421000 qcovs=97.000000</title></polygon>
+<text x="602.3" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 602.3 623.0)" fill="#111">caiE (paaY)</text>
+<polygon points="700.9,588.0 644.2,588.0 626.2,599.0 644.2,610.0 700.9,610.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>MCJFCMLE_02610 | pcaF | Thiolase/transferase | Beta-ketoadipyl-CoA thiolase | PANEL HIT: pcaF (Catechol-ortho; Protocatechuate / Protocatechuate) | pident=69.576000 qcovs=100.000000</title></polygon>
+<text x="663.6" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 663.6 623.0)" fill="#111">pcaF (pcaF)</text>
+<polygon points="782.6,588.0 719.5,588.0 701.5,599.0 719.5,610.0 782.6,610.0" fill="#1f78b4" stroke="#111" stroke-width="2.2"><title>MCJFCMLE_02611 | paaK | CoA ligase/synthetase | Phenylacetate-coenzyme A ligase | PANEL HIT: paaK (Phenylacetate / Phenylacetate) | pident=67.366000 qcovs=98.000000</title></polygon>
+<text x="742.1" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 742.1 623.0)" fill="#111">paaK (paaK)</text>
+<polygon points="810.2,588.0 792.3,588.0 783.4,599.0 792.3,610.0 810.2,610.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>MCJFCMLE_02612 | paaI | Hydrolase/decarboxylase/lyase | Acyl-coenzyme A thioesterase PaaI | PANEL HIT: paaI (Phenylacetate / Phenylacetate) | pident=50.000000 qcovs=90.000000</title></polygon>
+<text x="796.8" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 796.8 623.0)" fill="#111">paaI (paaI)</text>
+<polygon points="907.5,588.0 827.7,588.0 809.7,599.0 827.7,610.0 907.5,610.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>MCJFCMLE_02613 | paaH | Dehydrogenase/oxidoreductase | 3-hydroxyadipyl-CoA dehydrogenase | PANEL HIT: paaH (Phenylacetate / Phenylacetate) | pident=54.577000 qcovs=60.000000</title></polygon>
+<text x="858.6" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 858.6 623.0)" fill="#111">paaH (paaH)</text>
+<polygon points="957.7,588.0 924.1,588.0 907.6,599.0 924.1,610.0 957.7,610.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>MCJFCMLE_02614 | paaG_1 | Hydratase/dehydratase/isomerase | 1,2-epoxyphenylacetyl-CoA isomerase | PANEL HIT: paaG (Phenylacetate / Phenylacetate) | pident=54.545000 qcovs=98.000000</title></polygon>
+<text x="932.7" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 932.7 623.0)" fill="#111">paaG_1 (paaG)</text>
+<polygon points="1025.1,588.0 976.5,588.0 958.5,599.0 976.5,610.0 1025.1,610.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>MCJFCMLE_02615 | paaE | Accessory/other | 1,2-phenylacetyl-CoA epoxidase, subunit E | PANEL HIT: paaE (Phenylacetate / Phenylacetate) | pident=47.042000 qcovs=99.000000</title></polygon>
+<text x="991.8" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 991.8 623.0)" fill="#111">paaE (paaE)</text>
+<polygon points="1066.9,588.0 1039.1,588.0 1025.4,599.0 1039.1,610.0 1066.9,610.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>MCJFCMLE_02616 | paaD | Accessory/other | Putative 1,2-phenylacetyl-CoA epoxidase, subunit D | PANEL HIT: paaD (Phenylacetate / Phenylacetate) | pident=46.591000 qcovs=90.000000</title></polygon>
+<text x="1046.1" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1046.1 623.0)" fill="#111">paaD (paaD)</text>
+<polygon points="1114.3,588.0 1083.0,588.0 1067.7,599.0 1083.0,610.0 1114.3,610.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>MCJFCMLE_02617 | paaC | Accessory/other | 1,2-phenylacetyl-CoA epoxidase, subunit C | PANEL HIT: paaC (Phenylacetate / Phenylacetate) | pident=45.306000 qcovs=97.000000</title></polygon>
+<text x="1091.0" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1091.0 623.0)" fill="#111">paaC (paaC)</text>
+<polygon points="1132.8,588.0 1121.8,588.0 1114.8,599.0 1121.8,610.0 1132.8,610.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>MCJFCMLE_02618 | paaB | Accessory/other | 1,2-phenylacetyl-CoA epoxidase, subunit B | PANEL HIT: paaB (Phenylacetate / Phenylacetate) | pident=79.121000 qcovs=97.000000</title></polygon>
+<text x="1123.8" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1123.8 623.0)" fill="#111">paaB (paaB)</text>
+<polygon points="1198.9,588.0 1156.2,588.0 1138.2,599.0 1156.2,610.0 1198.9,610.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>MCJFCMLE_02619 | paaA | Accessory/other | 1,2-phenylacetyl-CoA epoxidase, subunit A | PANEL HIT: paaA (Phenylacetate / Phenylacetate) | pident=37.367000 qcovs=89.000000</title></polygon>
+<text x="1168.5" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1168.5 623.0)" fill="#111">paaA (paaA)</text>
+<polygon points="1208.0,588.0 1249.6,588.0 1267.6,599.0 1249.6,610.0 1208.0,610.0" fill="#fdbf6f" stroke="#111" stroke-width="2.2"><title>MCJFCMLE_02620 | paaX_2 | Regulator | Transcriptional repressor PaaX | PANEL HIT: paaX (Phenylacetate / Phenylacetate) | pident=36.066000 qcovs=91.000000</title></polygon>
+<text x="1237.8" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1237.8 623.0)" fill="#111">paaX_2 (paaX)</text>
+<polygon points="1275.1,588.0 1327.3,588.0 1345.3,599.0 1327.3,610.0 1275.1,610.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_02621 | MCJFCMLE_02621 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1310.2" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1310.2 623.0)" fill="#555">MCJFCMLE_02621</text>
+<polygon points="1351.1,588.0 1402.0,588.0 1420.0,599.0 1402.0,610.0 1351.1,610.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_02622 | MCJFCMLE_02622 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1385.6" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1385.6 623.0)" fill="#555">MCJFCMLE_02622</text>
+<polygon points="1430.6,588.0 1448.5,588.0 1457.3,599.0 1448.5,610.0 1430.6,610.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_02623 | MCJFCMLE_02623 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1444.0" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1444.0 623.0)" fill="#555">MCJFCMLE_02623</text>
+<polygon points="1540.8,588.0 1475.1,588.0 1457.1,599.0 1475.1,610.0 1540.8,610.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_02624 | pmbA | Accessory/other | Metalloprotease PmbA</title></polygon>
+<text x="1499.0" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1499.0 623.0)" fill="#555">pmbA</text>
+<polygon points="1546.6,588.0 1571.8,588.0 1584.2,599.0 1571.8,610.0 1546.6,610.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_02625 | MCJFCMLE_02625 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1565.4" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1565.4 623.0)" fill="#555">MCJFCMLE_02625</text>
+<polygon points="1581.2,588.0 1609.2,588.0 1623.0,599.0 1609.2,610.0 1581.2,610.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_02626 | mog | Accessory/other | Molybdopterin adenylyltransferase</title></polygon>
+<text x="1602.1" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1602.1 623.0)" fill="#555">mog</text>
+<polygon points="1622.8,588.0 1650.4,588.0 1664.0,599.0 1650.4,610.0 1622.8,610.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>MCJFCMLE_02627 | estB_1 | Accessory/other | Carboxylesterase 2 | PANEL HIT: est (Plastics / PET) | pident=38.424000 qcovs=92.000000</title></polygon>
+<text x="1643.4" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1643.4 623.0)" fill="#111">estB_1 (est)</text>
+<text x="452.0" y="536.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">66,234 bp</text>
+<text x="1664.0" y="536.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">85,815 bp</text>
+<rect x="18" y="650" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="650" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="668.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_90_panelcluster_13530</text>
+<text x="32.0" y="686.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_90 | MAGs/Exp3_MAG_90_c_000000000044 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="702.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: Rru_A1969; hpcC; phaZCac</text>
+<text x="32.0" y="714.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Plastics</text>
+<line x1="452" y1="741.0" x2="1664" y2="741.0" stroke="#d0d0d0"/>
+<polygon points="452.0,730.0 548.9,730.0 566.9,741.0 548.9,752.0 452.0,752.0" fill="#d9d9d9" stroke="#111" stroke-width="2.2"><title>MCJFCMLE_02977 | MCJFCMLE_02977 | Hypothetical/accessory | hypothetical protein | PANEL HIT: Rru_A1969 (Plastics / PHA/PHB) | pident=53.169000 qcovs=76.000000</title></polygon>
+<text x="509.4" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 509.4 765.0)" fill="#111">MCJFCMLE_02977 (Rru_A...</text>
+<polygon points="605.2,730.0 579.5,730.0 566.9,741.0 579.5,752.0 605.2,752.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_02978 | MCJFCMLE_02978 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="586.1" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 586.1 765.0)" fill="#555">MCJFCMLE_02978</text>
+<polygon points="642.3,730.0 716.0,730.0 734.0,741.0 716.0,752.0 642.3,752.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_02979 | argB_1 | Accessory/other | Acetylglutamate kinase</title></polygon>
+<text x="688.2" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 688.2 765.0)" fill="#555">argB_1</text>
+<polygon points="838.9,730.0 766.5,730.0 748.5,741.0 766.5,752.0 838.9,752.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_02981 | MCJFCMLE_02981 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="793.7" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 793.7 765.0)" fill="#555">MCJFCMLE_02981</text>
+<polygon points="839.1,730.0 895.5,730.0 913.5,741.0 895.5,752.0 839.1,752.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_02982 | MCJFCMLE_02982 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="876.3" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 876.3 765.0)" fill="#555">MCJFCMLE_02982</text>
+<polygon points="916.5,730.0 955.6,730.0 973.6,741.0 955.6,752.0 916.5,752.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_02983 | slmA | Accessory/other | Nucleoid occlusion factor SlmA</title></polygon>
+<text x="945.1" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 945.1 765.0)" fill="#555">slmA</text>
+<polygon points="973.8,730.0 1140.0,730.0 1158.0,741.0 1140.0,752.0 973.8,752.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_02984 | menF | Accessory/other | Isochorismate synthase MenF</title></polygon>
+<text x="1065.9" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1065.9 765.0)" fill="#555">menF</text>
+<polygon points="1193.3,730.0 1169.4,730.0 1157.6,741.0 1169.4,752.0 1193.3,752.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_02985 | ybaA | Accessory/other | putative protein YbaA</title></polygon>
+<text x="1175.5" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1175.5 765.0)" fill="#555">ybaA</text>
+<polygon points="1290.5,730.0 1213.8,730.0 1195.8,741.0 1213.8,752.0 1290.5,752.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_02986 | cdhR_7 | Regulator | HTH-type transcriptional regulator CdhR</title></polygon>
+<text x="1243.1" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1243.1 765.0)" fill="#555">cdhR_7</text>
+<polygon points="1299.5,730.0 1325.6,730.0 1338.5,741.0 1325.6,752.0 1299.5,752.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_02987 | MCJFCMLE_02987 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1319.0" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1319.0 765.0)" fill="#555">MCJFCMLE_02987</text>
+<polygon points="1399.7,730.0 1357.8,730.0 1339.8,741.0 1357.8,752.0 1399.7,752.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_02988 | btuE | Accessory/other | Thioredoxin/glutathione peroxidase BtuE</title></polygon>
+<text x="1369.8" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1369.8 765.0)" fill="#555">btuE</text>
+<polygon points="1419.6,730.0 1504.6,730.0 1522.6,741.0 1504.6,752.0 1419.6,752.0" fill="#d9d9d9" stroke="#111" stroke-width="2.2"><title>MCJFCMLE_02989 | MCJFCMLE_02989 | Hypothetical/accessory | hypothetical protein | PANEL HIT: phaZCac (Plastics / P3HP/P4HB/PEA/PES/PHA/PHB) | pident=49.379000 qcovs=62.000000</title></polygon>
+<text x="1471.1" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1471.1 765.0)" fill="#111">MCJFCMLE_02989 (phaZCac)</text>
+<polygon points="1664.0,730.0 1537.7,730.0 1519.7,741.0 1537.7,752.0 1664.0,752.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>MCJFCMLE_02990 | davD | Dehydrogenase/oxidoreductase | Glutarate-semialdehyde dehydrogenase | PANEL HIT: hpcC (Aromatics / Homoprotocatechuate) | pident=38.043000 qcovs=97.000000</title></polygon>
+<text x="1591.8" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1591.8 765.0)" fill="#111">davD (hpcC)</text>
+<text x="452.0" y="678.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">3,705 bp</text>
+<text x="1664.0" y="678.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">15,923 bp</text>
+<rect x="18" y="792" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="792" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="810.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_90_panelcluster_13541</text>
+<text x="32.0" y="828.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_90 | MAGs/Exp3_MAG_90_c_000000000063 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="844.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: alkJ_adh; nagR; phaZ</text>
+<text x="32.0" y="856.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Naphthalene; Plastics</text>
+<line x1="452" y1="883.0" x2="1664" y2="883.0" stroke="#d0d0d0"/>
+<polygon points="452.0,872.0 498.8,872.0 516.8,883.0 498.8,894.0 452.0,894.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>MCJFCMLE_03602 | pcpR_2 | Accessory/other | PCP degradation transcriptional activation protein | PANEL HIT: nagR (Naphthalene / Naphthalene) | pident=33.110000 qcovs=97.000000</title></polygon>
+<text x="484.4" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 484.4 907.0)" fill="#111">pcpR_2 (nagR)</text>
+<polygon points="627.8,872.0 541.9,872.0 523.9,883.0 541.9,894.0 627.8,894.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_03603 | MCJFCMLE_03603 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="575.8" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 575.8 907.0)" fill="#555">MCJFCMLE_03603</text>
+<polygon points="660.5,872.0 640.3,872.0 630.3,883.0 640.3,894.0 660.5,894.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_03604 | lrp_3 | Accessory/other | Leucine-responsive regulatory protein</title></polygon>
+<text x="645.4" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 645.4 907.0)" fill="#555">lrp_3</text>
+<polygon points="674.5,872.0 897.7,872.0 915.7,883.0 897.7,894.0 674.5,894.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_03605 | putA | Accessory/other | Bifunctional protein PutA</title></polygon>
+<text x="795.1" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 795.1 907.0)" fill="#555">putA</text>
+<polygon points="963.9,872.0 933.5,872.0 918.6,883.0 933.5,894.0 963.9,894.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_03606 | mtnN | Accessory/other | 5&#x27;-methylthioadenosine/S-adenosylhomocysteine nucleosidase</title></polygon>
+<text x="941.2" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 941.2 907.0)" fill="#555">mtnN</text>
+<polygon points="1035.4,872.0 1086.0,872.0 1104.0,883.0 1086.0,894.0 1035.4,894.0" fill="#d73027" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_03607 | pnoA_2 | Oxygenase/dioxygenase | Nitronate monooxygenase</title></polygon>
+<text x="1069.7" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1069.7 907.0)" fill="#555">pnoA_2</text>
+<polygon points="1105.0,872.0 1193.5,872.0 1211.5,883.0 1193.5,894.0 1105.0,894.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>MCJFCMLE_03608 | alkJ | Dehydrogenase/oxidoreductase | Alcohol dehydrogenase [acceptor] | PANEL HIT: alkJ_adh (Alkanes / Auxillary alkane pathway) | pident=41.055000 qcovs=94.000000</title></polygon>
+<text x="1158.2" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1158.2 907.0)" fill="#111">alkJ (alkJ_adh)</text>
+<polygon points="1218.5,872.0 1252.6,872.0 1269.4,883.0 1252.6,894.0 1218.5,894.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_03609 | lptB_3 | Accessory/other | Lipopolysaccharide export system ATP-binding protein LptB</title></polygon>
+<text x="1243.9" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1243.9 907.0)" fill="#555">lptB_3</text>
+<polygon points="1269.3,872.0 1300.7,872.0 1316.1,883.0 1300.7,894.0 1269.3,894.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_03610 | livF_5 | Transport/efflux | High-affinity branched-chain amino acid transport ATP-binding protein LivF</title></polygon>
+<text x="1292.7" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1292.7 907.0)" fill="#555">livF_5</text>
+<polygon points="1318.0,872.0 1379.9,872.0 1397.9,883.0 1379.9,894.0 1318.0,894.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_03611 | MCJFCMLE_03611 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1357.9" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1357.9 907.0)" fill="#555">MCJFCMLE_03611</text>
+<polygon points="1404.3,872.0 1444.8,872.0 1462.8,883.0 1444.8,894.0 1404.3,894.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_03612 | livH_4 | Transport/efflux | High-affinity branched-chain amino acid transport system permease protein LivH</title></polygon>
+<text x="1433.6" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1433.6 907.0)" fill="#555">livH_4</text>
+<polygon points="1462.7,872.0 1509.2,872.0 1527.2,883.0 1509.2,894.0 1462.7,894.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_03613 | MCJFCMLE_03613 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1494.9" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1494.9 907.0)" fill="#555">MCJFCMLE_03613</text>
+<polygon points="1527.6,872.0 1646.0,872.0 1664.0,883.0 1646.0,894.0 1527.6,894.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>MCJFCMLE_03614 | phaZ2 | Hydrolase/decarboxylase/lyase | D-(-)-3-hydroxybutyrate oligomer hydrolase | PANEL HIT: phaZ (Plastics / PHA/PHB) | pident=48.472000 qcovs=97.000000</title></polygon>
+<text x="1595.8" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1595.8 907.0)" fill="#111">phaZ2 (phaZ)</text>
+<text x="452.0" y="820.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">16,859 bp</text>
+<text x="1664.0" y="820.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">35,201 bp</text>
+<rect x="18" y="934" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="934" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="952.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_90_panelcluster_13551</text>
+<text x="32.0" y="970.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_90 | MAGs/Exp3_MAG_90_c_000000000096 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="986.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: acdB; fadA; fadJ</text>
+<text x="32.0" y="998.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Beta-oxidation</text>
+<line x1="452" y1="1025.0" x2="1664" y2="1025.0" stroke="#d0d0d0"/>
+<polygon points="674.8,1014.0 470.0,1014.0 452.0,1025.0 470.0,1036.0 674.8,1036.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>MCJFCMLE_04773 | dmdC_1 | Dehydrogenase/oxidoreductase | 3-methylmercaptopropionyl-CoA dehydrogenase | PANEL HIT: acdB (Beta-oxidation / Beta-oxidation) | pident=33.871000 qcovs=98.000000</title></polygon>
+<text x="563.4" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">dmdC_1 (acdB)</text>
+<polygon points="817.7,1014.0 693.1,1014.0 675.1,1025.0 693.1,1036.0 817.7,1036.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>MCJFCMLE_04774 | fadA_4 | Thiolase/transferase | 3-ketoacyl-CoA thiolase | PANEL HIT: fadA (Beta-oxidation / Beta-oxidation) | pident=46.447000 qcovs=99.000000</title></polygon>
+<text x="746.4" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">fadA_4 (fadA)</text>
+<polygon points="842.1,1014.0 1029.5,1014.0 1047.5,1025.0 1029.5,1036.0 842.1,1036.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_04775 | nanT | Transport/efflux | Sialic acid transporter NanT</title></polygon>
+<text x="944.8" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">nanT</text>
+<polygon points="1271.8,1014.0 1123.6,1014.0 1105.6,1025.0 1123.6,1036.0 1271.8,1036.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_04776 | MCJFCMLE_04776 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1188.7" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">MCJFCMLE_04776</text>
+<polygon points="1390.2,1014.0 1327.3,1014.0 1309.3,1025.0 1327.3,1036.0 1390.2,1036.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_04777 | MCJFCMLE_04777 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1349.8" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">MCJFCMLE_04777</text>
+<polygon points="1664.0,1014.0 1430.2,1014.0 1412.2,1025.0 1430.2,1036.0 1664.0,1036.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>MCJFCMLE_04778 | fadB | Hydratase/dehydratase/isomerase | Fatty acid oxidation complex subunit alpha | PANEL HIT: fadJ (Beta-oxidation / Beta-oxidation) | pident=33.522000 qcovs=97.000000</title></polygon>
+<text x="1538.1" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">fadB (fadJ)</text>
+<text x="452.0" y="962.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">17,098 bp</text>
+<text x="1664.0" y="962.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">27,119 bp</text>
+<rect x="18" y="1076" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="1076" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="1094.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_90_panelcluster_13560</text>
+<text x="32.0" y="1112.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_90 | MAGs/Exp3_MAG_90_c_000000000119 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="1128.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: catR; tphA1I; uctC</text>
+<text x="32.0" y="1140.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Catechol-ortho; Oxalate</text>
+<line x1="452" y1="1167.0" x2="1664" y2="1167.0" stroke="#d0d0d0"/>
+<polygon points="452.0,1156.0 521.8,1156.0 539.8,1167.0 521.8,1178.0 452.0,1178.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>MCJFCMLE_05297 | uctC | Thiolase/transferase | Acetyl-CoA:oxalate CoA-transferase | PANEL HIT: uctC (Oxalate / Oxalate) | pident=36.313000 qcovs=88.000000</title></polygon>
+<text x="495.9" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 495.9 1191.0)" fill="#111">uctC (uctC)</text>
+<polygon points="572.0,1156.0 556.2,1156.0 548.5,1167.0 556.2,1178.0 572.0,1178.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_05298 | MCJFCMLE_05298 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="560.2" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 560.2 1191.0)" fill="#555">MCJFCMLE_05298</text>
+<polygon points="586.9,1156.0 744.4,1156.0 762.4,1167.0 744.4,1178.0 586.9,1178.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_05299 | MCJFCMLE_05299 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="674.6" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 674.6 1191.0)" fill="#555">MCJFCMLE_05299</text>
+<polygon points="849.1,1156.0 780.4,1156.0 762.4,1167.0 780.4,1178.0 849.1,1178.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_05300 | ynfM | Transport/efflux | Inner membrane transport protein YnfM</title></polygon>
+<text x="805.8" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 805.8 1191.0)" fill="#555">ynfM</text>
+<polygon points="855.8,1156.0 903.1,1156.0 921.1,1167.0 903.1,1178.0 855.8,1178.0" fill="#fdbf6f" stroke="#111" stroke-width="2.2"><title>MCJFCMLE_05301 | benM_4 | Regulator | HTH-type transcriptional regulator BenM | PANEL HIT: catR (Catechol-ortho / Catechol-ortho) | pident=38.462000 qcovs=96.000000</title></polygon>
+<text x="888.5" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 888.5 1191.0)" fill="#111">benM_4 (catR)</text>
+<polygon points="986.0,1156.0 941.7,1156.0 923.7,1167.0 941.7,1178.0 986.0,1178.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_05302 | MCJFCMLE_05302 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="954.9" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 954.9 1191.0)" fill="#555">MCJFCMLE_05302</text>
+<polygon points="1042.1,1156.0 1005.0,1156.0 987.0,1167.0 1005.0,1178.0 1042.1,1178.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_05303 | MCJFCMLE_05303 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1014.5" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1014.5 1191.0)" fill="#555">MCJFCMLE_05303</text>
+<polygon points="1077.9,1156.0 1054.0,1156.0 1042.2,1167.0 1054.0,1178.0 1077.9,1178.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_05304 | MCJFCMLE_05304 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1060.1" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1060.1 1191.0)" fill="#555">MCJFCMLE_05304</text>
+<polygon points="1100.8,1156.0 1086.8,1156.0 1079.8,1167.0 1086.8,1178.0 1100.8,1178.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_05305 | dnaJ_3 | Accessory/other | Chaperone protein DnaJ</title></polygon>
+<text x="1090.3" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1090.3 1191.0)" fill="#555">dnaJ_3</text>
+<polygon points="1110.3,1156.0 1218.4,1156.0 1236.4,1167.0 1218.4,1178.0 1110.3,1178.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_05306 | glnS | Accessory/other | Glutamine--tRNA ligase</title></polygon>
+<text x="1173.4" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1173.4 1191.0)" fill="#555">glnS</text>
+<polygon points="1246.2,1156.0 1358.8,1156.0 1376.8,1167.0 1358.8,1178.0 1246.2,1178.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_05307 | MCJFCMLE_05307 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1311.5" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1311.5 1191.0)" fill="#555">MCJFCMLE_05307</text>
+<polygon points="1384.6,1156.0 1414.7,1156.0 1429.5,1167.0 1414.7,1178.0 1384.6,1178.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_05308 | MCJFCMLE_05308 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1407.0" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1407.0 1191.0)" fill="#555">MCJFCMLE_05308</text>
+<polygon points="1434.6,1156.0 1445.6,1156.0 1452.6,1167.0 1445.6,1178.0 1434.6,1178.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_05309 | MCJFCMLE_05309 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1443.6" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1443.6 1191.0)" fill="#555">MCJFCMLE_05309</text>
+<polygon points="1472.3,1156.0 1461.3,1156.0 1454.3,1167.0 1461.3,1178.0 1472.3,1178.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_05310 | MCJFCMLE_05310 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1463.3" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1463.3 1191.0)" fill="#555">MCJFCMLE_05310</text>
+<polygon points="1508.0,1156.0 1497.0,1156.0 1490.0,1167.0 1497.0,1178.0 1508.0,1178.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_05311 | MCJFCMLE_05311 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1499.0" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1499.0 1191.0)" fill="#555">MCJFCMLE_05311</text>
+<polygon points="1581.2,1156.0 1536.7,1156.0 1518.7,1167.0 1536.7,1178.0 1581.2,1178.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MCJFCMLE_05312 | MCJFCMLE_05312 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1550.0" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1550.0 1191.0)" fill="#555">MCJFCMLE_05312</text>
+<polygon points="1590.8,1156.0 1646.0,1156.0 1664.0,1167.0 1646.0,1178.0 1590.8,1178.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>MCJFCMLE_05313 | ascD | Dehydrogenase/oxidoreductase | CDP-6-deoxy-L-threo-D-glycero-4-hexulose-3-dehydrase reductase | PANEL HIT: tphA1I (Aromatics / Terephthalate) | pident=33.432000 qcovs=99.000000</title></polygon>
+<text x="1627.4" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1627.4 1191.0)" fill="#111">ascD (tphA1I)</text>
+<text x="452.0" y="1104.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">4,991 bp</text>
+<text x="1664.0" y="1104.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">21,975 bp</text>
+<text x="24.0" y="1236.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="1246" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="1256.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="1246" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="1256.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="1246" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="1256.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="1246" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="1256.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="1268" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="1278.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="1268" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="1278.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="1268" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="1278.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="1268" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="1278.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="1290" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="1300.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="1290" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="1300.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="1290" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="1300.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="1290" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="1300.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="1312" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="1322.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

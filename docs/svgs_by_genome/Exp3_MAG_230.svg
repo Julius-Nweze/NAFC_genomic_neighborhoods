@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="492" viewBox="0 0 1700 492">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<text x="24.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_230: reference-panel operon/cluster gene maps</text>
+<text x="24.0" y="56.0" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#555">2 shortlisted clusters (&gt;=3 independent panel gene hits) for this genome</text>
+<text x="24.0" y="74.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="start" fill="#555">Arrow direction shows CDS strand. Color shows enzyme class. Bold outline = reference-panel seed hit.</text>
+<rect x="18" y="82" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="82" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="100.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_230_panelcluster_6545</text>
+<text x="32.0" y="118.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_230 | MAGs/Exp3_MAG_230_c_000000000211 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="134.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: acdA; est; fadK</text>
+<text x="32.0" y="146.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Beta-oxidation; Plastics</text>
+<line x1="452" y1="173.0" x2="1664" y2="173.0" stroke="#d0d0d0"/>
+<polygon points="452.0,162.0 562.2,162.0 580.2,173.0 562.2,184.0 452.0,184.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>LMFEIIOM_03812 | mmgC | Dehydrogenase/oxidoreductase | Acyl-CoA dehydrogenase | PANEL HIT: acdA (Beta-oxidation / Beta-oxidation) | pident=42.440000 qcovs=99.000000</title></polygon>
+<text x="516.1" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">mmgC (acdA)</text>
+<polygon points="581.8,162.0 652.3,162.0 670.3,173.0 652.3,184.0 581.8,184.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>LMFEIIOM_03813 | carD_2 | Dehydrogenase/oxidoreductase | Caffeyl-CoA reductase-Etf complex subunit CarD</title></polygon>
+<text x="626.1" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">carD_2</text>
+<polygon points="672.1,162.0 767.6,162.0 785.6,173.0 767.6,184.0 672.1,184.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>LMFEIIOM_03814 | carE_2 | Dehydrogenase/oxidoreductase | Caffeyl-CoA reductase-Etf complex subunit CarE</title></polygon>
+<text x="728.9" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">carE_2</text>
+<polygon points="790.2,162.0 955.6,162.0 973.6,173.0 955.6,184.0 790.2,184.0" fill="#1f78b4" stroke="#111" stroke-width="2.2"><title>LMFEIIOM_03815 | fadK | CoA ligase/synthetase | Medium-chain fatty-acid--CoA ligase | PANEL HIT: fadK (Beta-oxidation / Beta-oxidation) | pident=42.565000 qcovs=95.000000</title></polygon>
+<text x="881.9" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">fadK (fadK)</text>
+<polygon points="974.3,162.0 1018.6,162.0 1036.6,173.0 1018.6,184.0 974.3,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LMFEIIOM_03816 | LMFEIIOM_03816 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1005.4" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">LMFEIIOM_03816</text>
+<polygon points="1042.1,162.0 1169.8,162.0 1187.8,173.0 1169.8,184.0 1042.1,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LMFEIIOM_03817 | LMFEIIOM_03817 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1114.9" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">LMFEIIOM_03817</text>
+<polygon points="1218.6,162.0 1203.5,162.0 1196.0,173.0 1203.5,184.0 1218.6,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LMFEIIOM_03818 | LMFEIIOM_03818 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1207.3" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">LMFEIIOM_03818</text>
+<polygon points="1332.0,162.0 1250.7,162.0 1232.7,173.0 1250.7,184.0 1332.0,184.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>LMFEIIOM_03819 | gltC_4 | Regulator | HTH-type transcriptional regulator GltC</title></polygon>
+<text x="1282.3" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">gltC_4</text>
+<polygon points="1374.6,162.0 1466.0,162.0 1484.0,173.0 1466.0,184.0 1374.6,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>LMFEIIOM_03820 | LMFEIIOM_03820 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1429.3" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">LMFEIIOM_03820</text>
+<polygon points="1547.3,162.0 1511.2,162.0 1493.5,173.0 1511.2,184.0 1547.3,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>LMFEIIOM_03821 | rlmH | Accessory/other | Ribosomal RNA large subunit methyltransferase H</title></polygon>
+<text x="1520.4" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">rlmH</text>
+<polygon points="1664.0,162.0 1566.5,162.0 1548.5,173.0 1566.5,184.0 1664.0,184.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>LMFEIIOM_03822 | aes | Accessory/other | Acetyl esterase | PANEL HIT: est (Plastics / PBAT) | pident=37.879000 qcovs=86.000000</title></polygon>
+<text x="1606.3" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">aes (est)</text>
+<text x="452.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">16,832 bp</text>
+<text x="1664.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">27,633 bp</text>
+<rect x="18" y="224" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="224" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="242.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_230_panelcluster_6548</text>
+<text x="32.0" y="260.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_230 | MAGs/Exp3_MAG_230_c_000000000284 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="276.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: atoA; atoB; atoD</text>
+<text x="32.0" y="288.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Beta-oxidation; Cyclohexylacetate</text>
+<line x1="452" y1="315.0" x2="1664" y2="315.0" stroke="#d0d0d0"/>
+<polygon points="452.0,304.0 870.0,304.0 888.0,315.0 870.0,326.0 452.0,326.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>LMFEIIOM_04638 | thlA | Thiolase/transferase | Acetyl-CoA acetyltransferase | PANEL HIT: atoB (Beta-oxidation / Beta-oxidation) | pident=54.987000 qcovs=99.000000</title></polygon>
+<text x="670.0" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">thlA (atoB)</text>
+<polygon points="898.7,304.0 1154.4,304.0 1172.4,315.0 1154.4,326.0 898.7,326.0" fill="#6a3d9a" stroke="#888" stroke-width="0.8"><title>LMFEIIOM_04639 | adc | Carboxylase | putative acetoacetate decarboxylase</title></polygon>
+<text x="1035.6" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">adc</text>
+<polygon points="1178.7,304.0 1403.5,304.0 1421.5,315.0 1403.5,326.0 1178.7,326.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>LMFEIIOM_04640 | atoD | Thiolase/transferase | Acetate CoA-transferase subunit alpha | PANEL HIT: atoD (Cyclohexylacetate / Cyclohexylacetate) | pident=48.372000 qcovs=97.000000</title></polygon>
+<text x="1300.1" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">atoD (atoD)</text>
+<polygon points="1422.3,304.0 1646.0,304.0 1664.0,315.0 1646.0,326.0 1422.3,326.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>LMFEIIOM_04641 | ctfB | Thiolase/transferase | Butyrate--acetoacetate CoA-transferase subunit B | PANEL HIT: atoA (Cyclohexylacetate / Cyclohexylacetate) | pident=52.582000 qcovs=97.000000</title></polygon>
+<text x="1543.1" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">ctfB (atoA)</text>
+<text x="452.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">3,223 bp</text>
+<text x="1664.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">6,516 bp</text>
+<text x="24.0" y="384.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="394" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="404.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="394" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="404.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="394" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="404.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="394" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="404.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="416" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="426.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="416" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="426.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="416" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="426.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="416" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="426.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="438" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="448.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="438" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="448.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="438" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="448.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="438" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="448.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="460" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="470.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

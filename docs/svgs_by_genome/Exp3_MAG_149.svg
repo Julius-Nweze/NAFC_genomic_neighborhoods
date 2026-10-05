@@ -1,0 +1,184 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="918" viewBox="0 0 1700 918">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<text x="24.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_149: reference-panel operon/cluster gene maps</text>
+<text x="24.0" y="56.0" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#555">5 shortlisted clusters (&gt;=3 independent panel gene hits) for this genome</text>
+<text x="24.0" y="74.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="start" fill="#555">Arrow direction shows CDS strand. Color shows enzyme class. Bold outline = reference-panel seed hit.</text>
+<rect x="18" y="82" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="82" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="100.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_149_panelcluster_3184</text>
+<text x="32.0" y="118.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_149 | MAGs/Exp3_MAG_149_c_000000000033 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="134.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: DPGC; bthL</text>
+<text x="32.0" y="146.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Pyrogallol</text>
+<line x1="452" y1="173.0" x2="1664" y2="173.0" stroke="#d0d0d0"/>
+<polygon points="452.0,162.0 580.7,162.0 598.7,173.0 580.7,184.0 452.0,184.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>FBFIGLLI_00404 | bthL_1 | Accessory/other | Pyrogallol hydroxytransferase small subunit | PANEL HIT: bthL (Pyrogallol / Pyrogallol) | pident=43.972000 qcovs=99.000000</title></polygon>
+<text x="525.4" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">bthL_1 (bthL)</text>
+<polygon points="834.2,162.0 628.1,162.0 610.1,173.0 628.1,184.0 834.2,184.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>FBFIGLLI_00405 | dctM_1 | Transport/efflux | C4-dicarboxylate TRAP transporter large permease protein DctM</title></polygon>
+<text x="722.2" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">dctM_1</text>
+<polygon points="916.0,162.0 850.9,162.0 832.9,173.0 850.9,184.0 916.0,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>FBFIGLLI_00406 | FBFIGLLI_00406 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="874.5" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">FBFIGLLI_00406</text>
+<polygon points="1106.3,162.0 947.1,162.0 929.1,173.0 947.1,184.0 1106.3,184.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>FBFIGLLI_00407 | FBFIGLLI_00407 | Transport/efflux | Solute-binding protein</title></polygon>
+<text x="1017.7" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">FBFIGLLI_00407</text>
+<polygon points="1250.1,162.0 1141.5,162.0 1123.5,173.0 1141.5,184.0 1250.1,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>FBFIGLLI_00408 | FBFIGLLI_00408 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1186.8" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">FBFIGLLI_00408</text>
+<polygon points="1334.1,162.0 1304.3,162.0 1289.7,173.0 1304.3,184.0 1334.1,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>FBFIGLLI_00409 | FBFIGLLI_00409 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1311.9" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">FBFIGLLI_00409</text>
+<polygon points="1518.5,162.0 1401.7,162.0 1383.7,173.0 1401.7,184.0 1518.5,184.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>FBFIGLLI_00410 | kynB_1 | Accessory/other | Kynurenine formamidase | PANEL HIT: DPGC (Pyrogallol / Pyrogallol) | pident=48.473000 qcovs=99.000000</title></polygon>
+<text x="1451.1" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">kynB_1 (DPGC)</text>
+<polygon points="1664.0,162.0 1542.0,162.0 1524.0,173.0 1542.0,184.0 1664.0,184.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>FBFIGLLI_00411 | kynB_2 | Accessory/other | Kynurenine formamidase | PANEL HIT: DPGC (Pyrogallol / Pyrogallol) | pident=46.154000 qcovs=99.000000</title></polygon>
+<text x="1594.0" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">kynB_2 (DPGC)</text>
+<text x="452.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">397 bp</text>
+<text x="1664.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">7,435 bp</text>
+<rect x="18" y="224" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="224" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="242.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_149_panelcluster_3189</text>
+<text x="32.0" y="260.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_149 | MAGs/Exp3_MAG_149_c_000000000083 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="276.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: bthL; crt; sdgB; xecE1</text>
+<text x="32.0" y="288.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkenes; Aromatics; Beta-oxidation; Pyrogallol</text>
+<line x1="452" y1="315.0" x2="1664" y2="315.0" stroke="#d0d0d0"/>
+<polygon points="452.0,304.0 586.2,304.0 604.2,315.0 586.2,326.0 452.0,326.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>FBFIGLLI_01034 | bthL_2 | Accessory/other | Pyrogallol hydroxytransferase small subunit | PANEL HIT: bthL (Pyrogallol / Pyrogallol) | pident=40.394000 qcovs=72.000000</title></polygon>
+<text x="528.1" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">bthL_2 (bthL)</text>
+<polygon points="624.8,304.0 689.7,304.0 707.7,315.0 689.7,326.0 624.8,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>FBFIGLLI_01035 | FBFIGLLI_01035 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="666.3" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">FBFIGLLI_01035</text>
+<polygon points="719.8,304.0 894.7,304.0 912.7,315.0 894.7,326.0 719.8,326.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>FBFIGLLI_01036 | cpnA | Dehydrogenase/oxidoreductase | Cyclopentanol dehydrogenase | PANEL HIT: xecE1 (Alkenes / Propene) | pident=41.339000 qcovs=99.000000</title></polygon>
+<text x="816.2" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">cpnA (xecE1)</text>
+<polygon points="928.3,304.0 1086.6,304.0 1104.6,315.0 1086.6,326.0 928.3,326.0" fill="#1f78b4" stroke="#888" stroke-width="0.8"><title>FBFIGLLI_01037 | FCS1_1 | CoA ligase/synthetase | Trans-feruloyl-CoA synthase FCS1</title></polygon>
+<text x="1016.4" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">FCS1_1</text>
+<polygon points="1118.2,304.0 1447.6,304.0 1465.6,315.0 1447.6,326.0 1118.2,326.0" fill="#1f78b4" stroke="#111" stroke-width="2.2"><title>FBFIGLLI_01038 | FCS1_2 | CoA ligase/synthetase | Trans-feruloyl-CoA synthase FCS1 | PANEL HIT: sdgB (Aromatics / Salicylate) | pident=32.033000 qcovs=51.000000</title></polygon>
+<text x="1291.9" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">FCS1_2 (sdgB)</text>
+<polygon points="1471.1,304.0 1646.0,304.0 1664.0,315.0 1646.0,326.0 1471.1,326.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>FBFIGLLI_01039 | FBFIGLLI_01039 | Hydratase/dehydratase/isomerase | Crotonyl-CoA hydratase | PANEL HIT: crt (Beta-oxidation / Beta-oxidation) | pident=53.360000 qcovs=97.000000</title></polygon>
+<text x="1567.5" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">FBFIGLLI_01039 (crt)</text>
+<text x="452.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">41 bp</text>
+<text x="1664.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">4,865 bp</text>
+<rect x="18" y="366" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="366" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="384.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_149_panelcluster_3198</text>
+<text x="32.0" y="402.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_149 | MAGs/Exp3_MAG_149_c_000000000149 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="418.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: acdA; mlaE; mlaF</text>
+<text x="32.0" y="430.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Beta-oxidation; Transportation</text>
+<line x1="452" y1="457.0" x2="1664" y2="457.0" stroke="#d0d0d0"/>
+<polygon points="642.3,446.0 470.0,446.0 452.0,457.0 470.0,468.0 642.3,468.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>FBFIGLLI_01803 | FBFIGLLI_01803 | Dehydrogenase/oxidoreductase | putative acyl-CoA dehydrogenase fadE25 | PANEL HIT: acdA (Beta-oxidation / Beta-oxidation) | pident=48.677000 qcovs=99.000000</title></polygon>
+<text x="547.1" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">FBFIGLLI_01803 (acdA)</text>
+<polygon points="806.0,446.0 662.6,446.0 644.6,457.0 662.6,468.0 806.0,468.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>FBFIGLLI_01804 | fabH_1 | Accessory/other | 3-oxoacyl-[acyl-carrier-protein] synthase 3</title></polygon>
+<text x="725.3" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">fabH_1</text>
+<polygon points="974.8,446.0 823.9,446.0 805.9,457.0 823.9,468.0 974.8,468.0" fill="#a6cee3" stroke="#888" stroke-width="0.8"><title>FBFIGLLI_01805 | plsX | Thiolase/transferase | Phosphate acyltransferase</title></polygon>
+<text x="890.3" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">plsX</text>
+<polygon points="1115.5,446.0 1047.6,446.0 1029.6,457.0 1047.6,468.0 1115.5,468.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>FBFIGLLI_01806 | FBFIGLLI_01806 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1072.6" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">FBFIGLLI_01806</text>
+<polygon points="1219.7,446.0 1163.2,446.0 1145.2,457.0 1163.2,468.0 1219.7,468.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>FBFIGLLI_01807 | FBFIGLLI_01807 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1182.4" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">FBFIGLLI_01807</text>
+<polygon points="1323.5,446.0 1238.7,446.0 1220.7,457.0 1238.7,468.0 1323.5,468.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>FBFIGLLI_01808 | FBFIGLLI_01808 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1272.1" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">FBFIGLLI_01808</text>
+<polygon points="1404.0,446.0 1347.5,446.0 1329.5,457.0 1347.5,468.0 1404.0,468.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>FBFIGLLI_01809 | mlaD | Transport/efflux | Intermembrane phospholipid transport system binding protein MlaD</title></polygon>
+<text x="1366.8" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">mlaD</text>
+<polygon points="1533.0,446.0 1421.4,446.0 1403.4,457.0 1421.4,468.0 1533.0,468.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>FBFIGLLI_01810 | mkl | Transport/efflux | putative ribonucleotide transport ATP-binding protein mkl | PANEL HIT: mlaF (Transportation / Transportation) | pident=33.610000 qcovs=88.000000</title></polygon>
+<text x="1468.2" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">mkl (mlaF)</text>
+<polygon points="1664.0,446.0 1550.8,446.0 1532.8,457.0 1550.8,468.0 1664.0,468.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>FBFIGLLI_01811 | mlaE | Transport/efflux | Intermembrane phospholipid transport system permease protein MlaE | PANEL HIT: mlaE (Transportation / Transportation) | pident=43.511000 qcovs=98.000000</title></polygon>
+<text x="1598.4" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">mlaE (mlaE)</text>
+<text x="452.0" y="394.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">657 bp</text>
+<text x="1664.0" y="394.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">7,975 bp</text>
+<rect x="18" y="508" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="508" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="526.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_149_panelcluster_3203</text>
+<text x="32.0" y="544.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_149 | MAGs/Exp3_MAG_149_c_000000000196 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="560.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: GMET_RS16560; acsA; paaY; tphB</text>
+<text x="32.0" y="572.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Beta-oxidation; Phenylacetate</text>
+<line x1="452" y1="599.0" x2="1664" y2="599.0" stroke="#d0d0d0"/>
+<polygon points="494.5,588.0 466.0,588.0 452.0,599.0 466.0,610.0 494.5,610.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>FBFIGLLI_02284 | pdxA2 | Dehydrogenase/oxidoreductase | D-threonate 4-phosphate dehydrogenase | PANEL HIT: tphB (Aromatics / Terephthalate) | pident=30.211000 qcovs=100.000000</title></polygon>
+<text x="473.3" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 473.3 623.0)" fill="#111">pdxA2 (tphB)</text>
+<polygon points="515.0,588.0 504.0,588.0 497.0,599.0 504.0,610.0 515.0,610.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>FBFIGLLI_02285 | FBFIGLLI_02285 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="506.0" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 506.0 623.0)" fill="#555">FBFIGLLI_02285</text>
+<polygon points="539.5,588.0 521.3,588.0 512.3,599.0 521.3,610.0 539.5,610.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>FBFIGLLI_02286 | rnhB | Accessory/other | Ribonuclease HII</title></polygon>
+<text x="525.9" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 525.9 623.0)" fill="#555">rnhB</text>
+<polygon points="564.2,588.0 553.2,588.0 546.2,599.0 553.2,610.0 564.2,610.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>FBFIGLLI_02287 | rplS | Accessory/other | 50S ribosomal protein L19</title></polygon>
+<text x="555.2" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 555.2 623.0)" fill="#555">rplS</text>
+<polygon points="588.1,588.0 571.9,588.0 563.9,599.0 571.9,610.0 588.1,610.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>FBFIGLLI_02288 | FBFIGLLI_02288 | Accessory/other | putative protein</title></polygon>
+<text x="576.0" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 576.0 623.0)" fill="#555">FBFIGLLI_02288</text>
+<polygon points="620.7,588.0 599.1,588.0 588.5,599.0 599.1,610.0 620.7,610.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>FBFIGLLI_02289 | trmD | Accessory/other | tRNA (guanine-N(1)-)-methyltransferase</title></polygon>
+<text x="604.6" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 604.6 623.0)" fill="#555">trmD</text>
+<polygon points="645.0,588.0 629.3,588.0 621.5,599.0 629.3,610.0 645.0,610.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>FBFIGLLI_02290 | rimM | Accessory/other | Ribosome maturation factor RimM</title></polygon>
+<text x="633.3" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 633.3 623.0)" fill="#555">rimM</text>
+<polygon points="663.9,588.0 652.9,588.0 645.9,599.0 652.9,610.0 663.9,610.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>FBFIGLLI_02291 | FBFIGLLI_02291 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="654.9" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 654.9 623.0)" fill="#555">FBFIGLLI_02291</text>
+<polygon points="673.8,588.0 662.8,588.0 655.8,599.0 662.8,610.0 673.8,610.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>FBFIGLLI_02292 | rpsP | Accessory/other | 30S ribosomal protein S16</title></polygon>
+<text x="664.8" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 664.8 623.0)" fill="#555">rpsP</text>
+<polygon points="726.8,588.0 687.0,588.0 669.0,599.0 687.0,610.0 726.8,610.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>FBFIGLLI_02293 | ffh | Accessory/other | Signal recognition particle protein</title></polygon>
+<text x="697.9" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 697.9 623.0)" fill="#555">ffh</text>
+<polygon points="753.2,588.0 742.2,588.0 735.2,599.0 742.2,610.0 753.2,610.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>FBFIGLLI_02294 | FBFIGLLI_02294 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="744.2" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 744.2 623.0)" fill="#555">FBFIGLLI_02294</text>
+<polygon points="776.0,588.0 813.8,588.0 831.8,599.0 813.8,610.0 776.0,610.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>FBFIGLLI_02295 | FBFIGLLI_02295 | Transport/efflux | L-lactate transporter</title></polygon>
+<text x="803.9" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 803.9 623.0)" fill="#555">FBFIGLLI_02295</text>
+<polygon points="836.1,588.0 904.6,588.0 922.6,599.0 904.6,610.0 836.1,610.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>FBFIGLLI_02296 | acsA_2 | Accessory/other | Acetyl-coenzyme A synthetase | PANEL HIT: acsA (Beta-oxidation / Beta-oxidation) | pident=44.279000 qcovs=85.000000</title></polygon>
+<text x="879.4" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 879.4 623.0)" fill="#111">acsA_2 (acsA)</text>
+<polygon points="928.8,588.0 947.5,588.0 956.7,599.0 947.5,610.0 928.8,610.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>FBFIGLLI_02297 | FBFIGLLI_02297 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="942.7" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 942.7 623.0)" fill="#555">FBFIGLLI_02297</text>
+<polygon points="1041.2,588.0 978.9,588.0 960.9,599.0 978.9,610.0 1041.2,610.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>FBFIGLLI_02298 | FBFIGLLI_02298 | Accessory/other | butyrate:acetyl-CoA coenzyme A-transferase | PANEL HIT: GMET_RS16560 (Beta-oxidation / Beta-oxidation) | pident=34.813000 qcovs=96.000000</title></polygon>
+<text x="1001.0" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1001.0 623.0)" fill="#111">FBFIGLLI_02298 (GMET_...</text>
+<polygon points="1085.0,588.0 1067.4,588.0 1058.8,599.0 1067.4,610.0 1085.0,610.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>FBFIGLLI_02299 | satP_3 | Transport/efflux | Succinate-acetate/proton symporter SatP</title></polygon>
+<text x="1071.9" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1071.9 623.0)" fill="#555">satP_3</text>
+<polygon points="1156.1,588.0 1113.8,588.0 1095.8,599.0 1113.8,610.0 1156.1,610.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>FBFIGLLI_02300 | atoC_8 | Accessory/other | Regulatory protein AtoC</title></polygon>
+<text x="1125.9" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1125.9 623.0)" fill="#555">atoC_8</text>
+<polygon points="1240.5,588.0 1173.9,588.0 1155.9,599.0 1173.9,610.0 1240.5,610.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>FBFIGLLI_02301 | sasA_21 | Accessory/other | Adaptive-response sensory-kinase SasA</title></polygon>
+<text x="1198.2" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1198.2 623.0)" fill="#555">sasA_21</text>
+<polygon points="1265.7,588.0 1328.4,588.0 1346.4,599.0 1328.4,610.0 1265.7,610.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>FBFIGLLI_02302 | acsA_3 | Accessory/other | Acetyl-coenzyme A synthetase | PANEL HIT: acsA (Beta-oxidation / Beta-oxidation) | pident=36.180000 qcovs=92.000000</title></polygon>
+<text x="1306.0" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1306.0 623.0)" fill="#111">acsA_3 (acsA)</text>
+<polygon points="1350.7,588.0 1383.8,588.0 1400.1,599.0 1383.8,610.0 1350.7,610.0" fill="#1f78b4" stroke="#888" stroke-width="0.8"><title>FBFIGLLI_02303 | sucC | CoA ligase/synthetase | Succinate--CoA ligase [ADP-forming] subunit beta</title></polygon>
+<text x="1375.4" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1375.4 623.0)" fill="#555">sucC</text>
+<polygon points="1411.3,588.0 1436.2,588.0 1448.5,599.0 1436.2,610.0 1411.3,610.0" fill="#1f78b4" stroke="#888" stroke-width="0.8"><title>FBFIGLLI_02304 | sucD | CoA ligase/synthetase | Succinate--CoA ligase [ADP-forming] subunit alpha</title></polygon>
+<text x="1429.9" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1429.9 623.0)" fill="#555">sucD</text>
+<polygon points="1454.3,588.0 1502.3,588.0 1520.3,599.0 1502.3,610.0 1454.3,610.0" fill="#6a3d9a" stroke="#888" stroke-width="0.8"><title>FBFIGLLI_02305 | pccB_2 | Carboxylase | Propionyl-CoA carboxylase beta chain</title></polygon>
+<text x="1487.3" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1487.3 623.0)" fill="#555">pccB_2</text>
+<polygon points="1521.5,588.0 1532.5,588.0 1539.5,599.0 1532.5,610.0 1521.5,610.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>FBFIGLLI_02306 | FBFIGLLI_02306 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1530.5" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1530.5 623.0)" fill="#555">FBFIGLLI_02306</text>
+<polygon points="1535.8,588.0 1546.8,588.0 1553.8,599.0 1546.8,610.0 1535.8,610.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>FBFIGLLI_02307 | FBFIGLLI_02307 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1544.8" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1544.8 623.0)" fill="#555">FBFIGLLI_02307</text>
+<polygon points="1549.5,588.0 1615.0,588.0 1633.0,599.0 1615.0,610.0 1549.5,610.0" fill="#6a3d9a" stroke="#888" stroke-width="0.8"><title>FBFIGLLI_02308 | oadA_1 | Carboxylase | Oxaloacetate decarboxylase alpha chain</title></polygon>
+<text x="1591.3" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1591.3 623.0)" fill="#555">oadA_1</text>
+<polygon points="1641.4,588.0 1656.5,588.0 1664.0,599.0 1656.5,610.0 1641.4,610.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>FBFIGLLI_02309 | yrdA | Accessory/other | Protein YrdA | PANEL HIT: paaY (Phenylacetate / Phenylacetate) | pident=39.310000 qcovs=73.000000</title></polygon>
+<text x="1652.7" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1652.7 623.0)" fill="#111">yrdA (paaY)</text>
+<text x="452.0" y="536.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">6,764 bp</text>
+<text x="1664.0" y="536.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">35,228 bp</text>
+<rect x="18" y="650" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="650" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="668.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_149_panelcluster_3209</text>
+<text x="32.0" y="686.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_149 | MAGs/Exp3_MAG_149_c_000000000249 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="702.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: GI:23664434; acdA; atoB; paaH</text>
+<text x="32.0" y="714.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Beta-oxidation; Phenylacetate</text>
+<line x1="452" y1="741.0" x2="1664" y2="741.0" stroke="#d0d0d0"/>
+<polygon points="634.8,730.0 470.0,730.0 452.0,741.0 470.0,752.0 634.8,752.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>FBFIGLLI_02934 | mmgB | Dehydrogenase/oxidoreductase | putative 3-hydroxybutyryl-CoA dehydrogenase | PANEL HIT: paaH (Phenylacetate / Phenylacetate) | pident=42.403000 qcovs=60.000000</title></polygon>
+<text x="543.4" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">mmgB (paaH)</text>
+<polygon points="892.0,730.0 656.7,730.0 638.7,741.0 656.7,752.0 892.0,752.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>FBFIGLLI_02935 | thlA_1 | Thiolase/transferase | Acetyl-CoA acetyltransferase | PANEL HIT: atoB (Beta-oxidation / Beta-oxidation) | pident=50.382000 qcovs=99.000000</title></polygon>
+<text x="765.3" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">thlA_1 (atoB)</text>
+<polygon points="1007.2,730.0 1371.6,730.0 1389.6,741.0 1371.6,752.0 1007.2,752.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>FBFIGLLI_02936 | acsA_5 | Accessory/other | Acetyl-coenzyme A synthetase | PANEL HIT: GI:23664434 (Aromatics / Benzene) | pident=30.524000 qcovs=96.000000</title></polygon>
+<text x="1198.4" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">acsA_5 (GI:23664434)</text>
+<polygon points="1417.2,730.0 1646.0,730.0 1664.0,741.0 1646.0,752.0 1417.2,752.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>FBFIGLLI_02937 | acdA_4 | Dehydrogenase/oxidoreductase | Acyl-CoA dehydrogenase | PANEL HIT: acdA (Beta-oxidation / Beta-oxidation) | pident=66.227000 qcovs=99.000000</title></polygon>
+<text x="1540.6" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">acdA_4 (acdA)</text>
+<text x="452.0" y="678.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">905 bp</text>
+<text x="1664.0" y="678.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">6,532 bp</text>
+<text x="24.0" y="810.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="820" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="830.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="820" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="830.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="820" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="830.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="820" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="830.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="842" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="852.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="842" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="852.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="842" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="852.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="842" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="852.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="864" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="874.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="864" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="874.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="864" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="874.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="864" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="874.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="886" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="896.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

@@ -1,0 +1,375 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="1628" viewBox="0 0 1700 1628">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<text x="24.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="start" fill="#222">GCF_002009335.2: reference-panel operon/cluster gene maps</text>
+<text x="24.0" y="56.0" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#555">10 shortlisted clusters (&gt;=3 independent panel gene hits) for this genome</text>
+<text x="24.0" y="74.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="start" fill="#555">Arrow direction shows CDS strand. Color shows enzyme class. Bold outline = reference-panel seed hit.</text>
+<rect x="18" y="82" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="82" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="100.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GCF_002009335.2_panelcluster_14799</text>
+<text x="32.0" y="118.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GCF_002009335.2 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="134.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: acdA; acdB; atoB; hmgL</text>
+<text x="32.0" y="146.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Beta-oxidation; Cyclohexylacetate</text>
+<line x1="452" y1="173.0" x2="1664" y2="173.0" stroke="#d0d0d0"/>
+<polygon points="507.8,162.0 470.0,162.0 452.0,173.0 470.0,184.0 507.8,184.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>MMCHPEPF_00084 | MMCHPEPF_00084 | Accessory/other | Acetyl-CoA acetyltransferase | PANEL HIT: atoB (Beta-oxidation / Beta-oxidation) | pident=44.737000 qcovs=99.000000</title></polygon>
+<text x="479.9" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 479.9 197.0)" fill="#111">MMCHPEPF_00084 (atoB)</text>
+<polygon points="594.4,162.0 531.4,162.0 513.4,173.0 531.4,184.0 594.4,184.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>MMCHPEPF_00085 | dmdC_1 | Dehydrogenase/oxidoreductase | 3-methylmercaptopropionyl-CoA dehydrogenase | PANEL HIT: acdB (Beta-oxidation / Beta-oxidation) | pident=38.907000 qcovs=99.000000</title></polygon>
+<text x="553.9" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 553.9 197.0)" fill="#111">dmdC_1 (acdB)</text>
+<polygon points="669.3,162.0 614.0,162.0 596.0,173.0 614.0,184.0 669.3,184.0" fill="#1f78b4" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_00086 | MMCHPEPF_00086 | CoA ligase/synthetase | Long-chain-fatty-acid--CoA ligase</title></polygon>
+<text x="632.7" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 632.7 197.0)" fill="#555">MMCHPEPF_00086</text>
+<polygon points="692.7,162.0 681.7,162.0 674.7,173.0 681.7,184.0 692.7,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_00087 | MMCHPEPF_00087 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="683.7" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 683.7 197.0)" fill="#555">MMCHPEPF_00087</text>
+<polygon points="706.5,162.0 695.5,162.0 688.5,173.0 695.5,184.0 706.5,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_00088 | MMCHPEPF_00088 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="697.5" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 697.5 197.0)" fill="#555">MMCHPEPF_00088</text>
+<polygon points="697.6,162.0 749.2,162.0 767.2,173.0 749.2,184.0 697.6,184.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_00089 | norR_1 | Regulator | Anaerobic nitric oxide reductase transcription regulator NorR</title></polygon>
+<text x="732.4" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 732.4 197.0)" fill="#555">norR_1</text>
+<polygon points="791.7,162.0 775.1,162.0 766.9,173.0 775.1,184.0 791.7,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_00090 | MMCHPEPF_00090 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="779.3" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 779.3 197.0)" fill="#555">MMCHPEPF_00090</text>
+<polygon points="854.9,162.0 808.3,162.0 790.3,173.0 808.3,184.0 854.9,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_00091 | hoxH | Accessory/other | NAD-reducing hydrogenase HoxS subunit beta</title></polygon>
+<text x="822.6" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 822.6 197.0)" fill="#555">hoxH</text>
+<polygon points="887.8,162.0 871.2,162.0 863.0,173.0 871.2,184.0 887.8,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_00092 | hoxY | Accessory/other | NAD-reducing hydrogenase HoxS subunit delta</title></polygon>
+<text x="875.4" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 875.4 197.0)" fill="#555">hoxY</text>
+<polygon points="920.1,162.0 898.5,162.0 887.8,173.0 898.5,184.0 920.1,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_00093 | hndD_1 | Accessory/other | NADP-reducing hydrogenase subunit HndD</title></polygon>
+<text x="903.9" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 903.9 197.0)" fill="#555">hndD_1</text>
+<polygon points="997.2,162.0 940.6,162.0 922.6,173.0 940.6,184.0 997.2,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_00094 | MMCHPEPF_00094 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="959.9" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 959.9 197.0)" fill="#555">MMCHPEPF_00094</text>
+<polygon points="1023.2,162.0 1007.6,162.0 999.9,173.0 1007.6,184.0 1023.2,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_00095 | hndA_1 | Accessory/other | NADP-reducing hydrogenase subunit HndA</title></polygon>
+<text x="1011.6" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1011.6 197.0)" fill="#555">hndA_1</text>
+<polygon points="1110.6,162.0 1055.1,162.0 1037.1,173.0 1055.1,184.0 1110.6,184.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_00096 | norR_2 | Regulator | Anaerobic nitric oxide reductase transcription regulator NorR</title></polygon>
+<text x="1073.8" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1073.8 197.0)" fill="#555">norR_2</text>
+<polygon points="1123.9,162.0 1158.1,162.0 1174.9,173.0 1158.1,184.0 1123.9,184.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>MMCHPEPF_00097 | MMCHPEPF_00097 | Dehydrogenase/oxidoreductase | Cyclohexane-1-carbonyl-CoA dehydrogenase | PANEL HIT: acdA (Beta-oxidation / Beta-oxidation) | pident=42.781000 qcovs=98.000000</title></polygon>
+<text x="1149.4" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1149.4 197.0)" fill="#111">MMCHPEPF_00097 (acdA)</text>
+<polygon points="1176.5,162.0 1210.7,162.0 1227.5,173.0 1210.7,184.0 1176.5,184.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>MMCHPEPF_00098 | MMCHPEPF_00098 | Dehydrogenase/oxidoreductase | Cyclohex-1-ene-1-carbonyl-CoA dehydrogenase | PANEL HIT: acdA (Beta-oxidation / Beta-oxidation) | pident=48.021000 qcovs=99.000000</title></polygon>
+<text x="1202.0" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1202.0 197.0)" fill="#111">MMCHPEPF_00098 (acdA)</text>
+<polygon points="1230.5,162.0 1287.0,162.0 1305.0,173.0 1287.0,184.0 1230.5,184.0" fill="#1f78b4" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_00099 | lcfB_1 | CoA ligase/synthetase | Long-chain-fatty-acid--CoA ligase</title></polygon>
+<text x="1267.7" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1267.7 197.0)" fill="#555">lcfB_1</text>
+<polygon points="1310.1,162.0 1381.0,162.0 1399.0,173.0 1381.0,184.0 1310.1,184.0" fill="#fb9a99" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_00100 | MMCHPEPF_00100 | Electron transfer/redox | EtfAB:quinone oxidoreductase</title></polygon>
+<text x="1354.5" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1354.5 197.0)" fill="#555">MMCHPEPF_00100</text>
+<polygon points="1400.3,162.0 1423.4,162.0 1434.8,173.0 1423.4,184.0 1400.3,184.0" fill="#fb9a99" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_00101 | etfB_1 | Electron transfer/redox | Electron transfer flavoprotein subunit beta</title></polygon>
+<text x="1417.5" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1417.5 197.0)" fill="#555">etfB_1</text>
+<polygon points="1436.2,162.0 1463.7,162.0 1477.3,173.0 1463.7,184.0 1436.2,184.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_00102 | carE_1 | Dehydrogenase/oxidoreductase | Caffeyl-CoA reductase-Etf complex subunit CarE</title></polygon>
+<text x="1456.8" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1456.8 197.0)" fill="#555">carE_1</text>
+<polygon points="1501.9,162.0 1490.9,162.0 1483.9,173.0 1490.9,184.0 1501.9,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_00103 | MMCHPEPF_00103 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1492.9" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1492.9 197.0)" fill="#555">MMCHPEPF_00103</text>
+<polygon points="1510.6,162.0 1499.6,162.0 1492.6,173.0 1499.6,184.0 1510.6,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_00104 | MMCHPEPF_00104 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1501.6" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1501.6 197.0)" fill="#555">MMCHPEPF_00104</text>
+<polygon points="1518.9,162.0 1563.6,162.0 1581.6,173.0 1563.6,184.0 1518.9,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_00105 | MMCHPEPF_00105 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1550.2" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1550.2 197.0)" fill="#555">MMCHPEPF_00105</text>
+<polygon points="1606.9,162.0 1595.9,162.0 1588.9,173.0 1595.9,184.0 1606.9,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_00106 | MMCHPEPF_00106 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1597.9" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1597.9 197.0)" fill="#555">MMCHPEPF_00106</text>
+<polygon points="1624.9,162.0 1613.9,162.0 1606.9,173.0 1613.9,184.0 1624.9,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_00107 | MMCHPEPF_00107 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1615.9" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1615.9 197.0)" fill="#555">MMCHPEPF_00107</text>
+<polygon points="1664.0,162.0 1636.0,162.0 1622.2,173.0 1636.0,184.0 1664.0,184.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>MMCHPEPF_00108 | yngG_1 | Hydrolase/decarboxylase/lyase | Hydroxymethylglutaryl-CoA lyase YngG | PANEL HIT: hmgL (Cyclohexylacetate / Cyclohexylacetate) | pident=47.842000 qcovs=93.000000</title></polygon>
+<text x="1643.1" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1643.1 197.0)" fill="#111">yngG_1 (hmgL)</text>
+<text x="452.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">97,433 bp</text>
+<text x="1664.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">124,600 bp</text>
+<rect x="18" y="224" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="224" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="242.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GCF_002009335.2_panelcluster_14802</text>
+<text x="32.0" y="260.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GCF_002009335.2 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="276.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: acdB; atoB; fadD; paaH</text>
+<text x="32.0" y="288.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Beta-oxidation; Phenylacetate</text>
+<line x1="452" y1="315.0" x2="1664" y2="315.0" stroke="#d0d0d0"/>
+<polygon points="452.0,304.0 615.9,304.0 633.9,315.0 615.9,326.0 452.0,326.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>MMCHPEPF_00355 | hbd_1 | Dehydrogenase/oxidoreductase | 3-hydroxybutyryl-CoA dehydrogenase | PANEL HIT: paaH (Phenylacetate / Phenylacetate) | pident=40.559000 qcovs=60.000000</title></polygon>
+<text x="543.0" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">hbd_1 (paaH)</text>
+<polygon points="656.2,304.0 1023.0,304.0 1041.0,315.0 1023.0,326.0 656.2,326.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>MMCHPEPF_00356 | dmdC_2 | Dehydrogenase/oxidoreductase | 3-methylmercaptopropionyl-CoA dehydrogenase | PANEL HIT: acdB (Beta-oxidation / Beta-oxidation) | pident=38.072000 qcovs=99.000000</title></polygon>
+<text x="848.6" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">dmdC_2 (acdB)</text>
+<polygon points="1044.2,304.0 1291.5,304.0 1309.5,315.0 1291.5,326.0 1044.2,326.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>MMCHPEPF_00357 | MMCHPEPF_00357 | Accessory/other | Acetyl-CoA acetyltransferase | PANEL HIT: atoB (Beta-oxidation / Beta-oxidation) | pident=45.455000 qcovs=99.000000</title></polygon>
+<text x="1176.8" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">MMCHPEPF_00357 (atoB)</text>
+<polygon points="1313.5,304.0 1646.0,304.0 1664.0,315.0 1646.0,326.0 1313.5,326.0" fill="#1f78b4" stroke="#111" stroke-width="2.2"><title>MMCHPEPF_00358 | lcfB_2 | CoA ligase/synthetase | Long-chain-fatty-acid--CoA ligase | PANEL HIT: fadD (Beta-oxidation / Beta-oxidation) | pident=31.589000 qcovs=94.000000</title></polygon>
+<text x="1488.8" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">lcfB_2 (fadD)</text>
+<text x="452.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">404,053 bp</text>
+<text x="1664.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">409,768 bp</text>
+<rect x="18" y="366" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="366" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="384.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GCF_002009335.2_panelcluster_14806</text>
+<text x="32.0" y="402.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GCF_002009335.2 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="418.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: fadA; mlaE; mlaF</text>
+<text x="32.0" y="430.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Beta-oxidation; Transportation</text>
+<line x1="452" y1="457.0" x2="1664" y2="457.0" stroke="#d0d0d0"/>
+<polygon points="614.1,446.0 470.0,446.0 452.0,457.0 470.0,468.0 614.1,468.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>MMCHPEPF_00888 | fadA | Thiolase/transferase | 3-ketoacyl-CoA thiolase | PANEL HIT: fadA (Beta-oxidation / Beta-oxidation) | pident=49.114000 qcovs=100.000000</title></polygon>
+<text x="533.1" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">fadA (fadA)</text>
+<polygon points="947.3,446.0 636.1,446.0 618.1,457.0 636.1,468.0 947.3,468.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_00889 | fadN | Dehydrogenase/oxidoreductase | putative 3-hydroxyacyl-CoA dehydrogenase</title></polygon>
+<text x="782.7" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">fadN</text>
+<polygon points="1107.2,446.0 1023.8,446.0 1005.8,457.0 1023.8,468.0 1107.2,468.0" fill="#a6cee3" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_00890 | plsC | Thiolase/transferase | 1-acyl-sn-glycerol-3-phosphate acyltransferase</title></polygon>
+<text x="1056.5" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">plsC</text>
+<polygon points="1211.6,446.0 1127.8,446.0 1109.8,457.0 1127.8,468.0 1211.6,468.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_00891 | MMCHPEPF_00891 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1160.7" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">MMCHPEPF_00891</text>
+<polygon points="1310.5,446.0 1243.1,446.0 1225.1,457.0 1243.1,468.0 1310.5,468.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_00892 | MMCHPEPF_00892 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1267.8" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">MMCHPEPF_00892</text>
+<polygon points="1385.0,446.0 1339.0,446.0 1321.0,457.0 1339.0,468.0 1385.0,468.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_00893 | mlaD | Transport/efflux | Intermembrane phospholipid transport system binding protein MlaD</title></polygon>
+<text x="1353.0" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">mlaD</text>
+<polygon points="1552.9,446.0 1405.1,446.0 1387.1,457.0 1405.1,468.0 1552.9,468.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>MMCHPEPF_00894 | btuD_2 | Accessory/other | Vitamin B12 import ATP-binding protein BtuD | PANEL HIT: mlaF (Transportation / Transportation) | pident=37.603000 qcovs=90.000000</title></polygon>
+<text x="1470.0" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">btuD_2 (mlaF)</text>
+<polygon points="1664.0,446.0 1572.0,446.0 1554.0,457.0 1572.0,468.0 1664.0,468.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>MMCHPEPF_00895 | mlaE | Transport/efflux | Intermembrane phospholipid transport system permease protein MlaE | PANEL HIT: mlaE (Transportation / Transportation) | pident=40.458000 qcovs=99.000000</title></polygon>
+<text x="1609.0" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">mlaE (mlaE)</text>
+<text x="452.0" y="394.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">1,029,939 bp</text>
+<text x="1664.0" y="394.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">1,038,797 bp</text>
+<rect x="18" y="508" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="508" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="526.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GCF_002009335.2_panelcluster_14809</text>
+<text x="32.0" y="544.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GCF_002009335.2 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="560.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: acsA; paaK</text>
+<text x="32.0" y="572.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Beta-oxidation; Phenylacetate</text>
+<line x1="452" y1="599.0" x2="1664" y2="599.0" stroke="#d0d0d0"/>
+<polygon points="452.0,588.0 565.2,588.0 583.2,599.0 565.2,610.0 452.0,610.0" fill="#1f78b4" stroke="#111" stroke-width="2.2"><title>MMCHPEPF_01077 | paaK_1 | CoA ligase/synthetase | Phenylacetate-coenzyme A ligase | PANEL HIT: paaK (Phenylacetate / Phenylacetate) | pident=41.943000 qcovs=95.000000</title></polygon>
+<text x="517.6" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">paaK_1 (paaK)</text>
+<polygon points="585.9,588.0 698.7,588.0 716.7,599.0 698.7,610.0 585.9,610.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_01078 | pepP | Accessory/other | Xaa-Pro aminopeptidase</title></polygon>
+<text x="651.3" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">pepP</text>
+<polygon points="728.5,588.0 747.6,588.0 757.0,599.0 747.6,610.0 728.5,610.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_01079 | MMCHPEPF_01079 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="742.7" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">MMCHPEPF_01079</text>
+<polygon points="785.6,588.0 900.9,588.0 918.9,599.0 900.9,610.0 785.6,610.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_01080 | dapL_1 | Accessory/other | LL-diaminopimelate aminotransferase</title></polygon>
+<text x="852.2" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">dapL_1</text>
+<polygon points="923.0,588.0 1087.0,588.0 1105.0,599.0 1087.0,610.0 923.0,610.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_01081 | clcB_1 | Accessory/other | Voltage-gated ClC-type chloride channel ClcB</title></polygon>
+<text x="1014.0" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">clcB_1</text>
+<polygon points="1104.6,588.0 1152.8,588.0 1170.8,599.0 1152.8,610.0 1104.6,610.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_01082 | MMCHPEPF_01082 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1137.7" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">MMCHPEPF_01082</text>
+<polygon points="1219.9,588.0 1392.9,588.0 1410.9,599.0 1392.9,610.0 1219.9,610.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>MMCHPEPF_01083 | acsA_1 | Accessory/other | Acetyl-coenzyme A synthetase | PANEL HIT: acsA (Beta-oxidation / Beta-oxidation) | pident=35.950000 qcovs=92.000000</title></polygon>
+<text x="1315.4" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">acsA_1 (acsA)</text>
+<polygon points="1472.7,588.0 1646.0,588.0 1664.0,599.0 1646.0,610.0 1472.7,610.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>MMCHPEPF_01084 | acs_1 | Accessory/other | Acetyl-coenzyme A synthetase | PANEL HIT: acsA (Beta-oxidation / Beta-oxidation) | pident=36.364000 qcovs=92.000000</title></polygon>
+<text x="1568.3" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">acs_1 (acsA)</text>
+<text x="452.0" y="536.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">1,236,878 bp</text>
+<text x="1664.0" y="536.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">1,248,964 bp</text>
+<rect x="18" y="650" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="650" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="668.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GCF_002009335.2_panelcluster_14810</text>
+<text x="32.0" y="686.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GCF_002009335.2 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="702.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: GI:23664434; aliA; fadK</text>
+<text x="32.0" y="714.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Beta-oxidation</text>
+<line x1="452" y1="741.0" x2="1664" y2="741.0" stroke="#d0d0d0"/>
+<polygon points="452.0,730.0 724.1,730.0 742.1,741.0 724.1,752.0 452.0,752.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>MMCHPEPF_01101 | acsA_2 | Accessory/other | Acetyl-coenzyme A synthetase | PANEL HIT: GI:23664434 (Aromatics / Benzene) | pident=31.358000 qcovs=96.000000</title></polygon>
+<text x="597.1" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">acsA_2 (GI:23664434)</text>
+<polygon points="757.9,730.0 975.1,730.0 993.1,741.0 975.1,752.0 757.9,752.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_01102 | MMCHPEPF_01102 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="875.5" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">MMCHPEPF_01102</text>
+<polygon points="1009.5,730.0 1032.3,730.0 1043.6,741.0 1032.3,752.0 1009.5,752.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_01103 | MMCHPEPF_01103 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1026.5" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">MMCHPEPF_01103</text>
+<polygon points="1046.6,730.0 1315.0,730.0 1333.0,741.0 1315.0,752.0 1046.6,752.0" fill="#1f78b4" stroke="#111" stroke-width="2.2"><title>MMCHPEPF_01104 | MMCHPEPF_01104 | CoA ligase/synthetase | Long-chain-fatty-acid--CoA ligase | PANEL HIT: aliA (Beta-oxidation / Beta-oxidation) | pident=30.326000 qcovs=89.000000</title></polygon>
+<text x="1189.8" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">MMCHPEPF_01104 (aliA)</text>
+<polygon points="1365.4,730.0 1646.0,730.0 1664.0,741.0 1646.0,752.0 1365.4,752.0" fill="#1f78b4" stroke="#111" stroke-width="2.2"><title>MMCHPEPF_01105 | fadD3_1 | CoA ligase/synthetase | 3-[(3aS,4S,7aS)-7a-methyl-1,5-dioxo-octahydro-1H-inden-4-yl]propanoyl:CoA ligase | PANEL HIT: fadK (Beta-oxidation / Beta-oxidation) | pident=30.813000 qcovs=89.000000</title></polygon>
+<text x="1514.7" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">fadD3_1 (fadK)</text>
+<text x="452.0" y="678.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">1,263,806 bp</text>
+<text x="1664.0" y="678.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">1,270,623 bp</text>
+<rect x="18" y="792" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="792" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="810.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GCF_002009335.2_panelcluster_14811</text>
+<text x="32.0" y="828.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GCF_002009335.2 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="844.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: acdA; atoB; paaH</text>
+<text x="32.0" y="856.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Beta-oxidation; Phenylacetate</text>
+<line x1="452" y1="883.0" x2="1664" y2="883.0" stroke="#d0d0d0"/>
+<polygon points="452.0,872.0 786.5,872.0 804.5,883.0 786.5,894.0 452.0,894.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>MMCHPEPF_01124 | thlA | Thiolase/transferase | Acetyl-CoA acetyltransferase | PANEL HIT: atoB (Beta-oxidation / Beta-oxidation) | pident=51.654000 qcovs=99.000000</title></polygon>
+<text x="628.3" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">thlA (atoB)</text>
+<polygon points="821.6,872.0 1059.0,872.0 1077.0,883.0 1059.0,894.0 821.6,894.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>MMCHPEPF_01125 | mmgB | Dehydrogenase/oxidoreductase | putative 3-hydroxybutyryl-CoA dehydrogenase | PANEL HIT: paaH (Phenylacetate / Phenylacetate) | pident=40.845000 qcovs=60.000000</title></polygon>
+<text x="949.3" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">mmgB (paaH)</text>
+<polygon points="1131.9,872.0 1275.8,872.0 1293.8,883.0 1275.8,894.0 1131.9,894.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_01126 | MMCHPEPF_01126 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1212.8" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">MMCHPEPF_01126</text>
+<polygon points="1316.9,872.0 1646.0,872.0 1664.0,883.0 1646.0,894.0 1316.9,894.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>MMCHPEPF_01127 | bcd_1 | Dehydrogenase/oxidoreductase | Acyl-CoA dehydrogenase, short-chain specific | PANEL HIT: acdA (Beta-oxidation / Beta-oxidation) | pident=50.400000 qcovs=99.000000</title></polygon>
+<text x="1490.4" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">bcd_1 (acdA)</text>
+<text x="452.0" y="820.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">1,291,158 bp</text>
+<text x="1664.0" y="820.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">1,295,200 bp</text>
+<rect x="18" y="934" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="934" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="952.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GCF_002009335.2_panelcluster_14827</text>
+<text x="32.0" y="970.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GCF_002009335.2 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="986.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: crt; paaK</text>
+<text x="32.0" y="998.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Beta-oxidation; Phenylacetate</text>
+<line x1="452" y1="1025.0" x2="1664" y2="1025.0" stroke="#d0d0d0"/>
+<polygon points="452.0,1014.0 542.1,1014.0 560.1,1025.0 542.1,1036.0 452.0,1036.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>MMCHPEPF_02265 | MMCHPEPF_02265 | Hydratase/dehydratase/isomerase | Crotonyl-CoA hydratase | PANEL HIT: crt (Beta-oxidation / Beta-oxidation) | pident=49.042000 qcovs=100.000000</title></polygon>
+<text x="506.1" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">MMCHPEPF_02265 (crt)</text>
+<polygon points="611.6,1014.0 772.0,1014.0 790.0,1025.0 772.0,1036.0 611.6,1036.0" fill="#1f78b4" stroke="#111" stroke-width="2.2"><title>MMCHPEPF_02266 | paaK_2 | CoA ligase/synthetase | Phenylacetate-coenzyme A ligase | PANEL HIT: paaK (Phenylacetate / Phenylacetate) | pident=54.098000 qcovs=97.000000</title></polygon>
+<text x="700.8" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">paaK_2 (paaK)</text>
+<polygon points="802.9,1014.0 844.1,1014.0 862.1,1025.0 844.1,1036.0 802.9,1036.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_02267 | MMCHPEPF_02267 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="832.5" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">MMCHPEPF_02267</text>
+<polygon points="872.3,1014.0 1013.3,1014.0 1031.3,1025.0 1013.3,1036.0 872.3,1036.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_02268 | braC_3 | Accessory/other | Leucine-, isoleucine-, valine-, threonine-, and alanine-binding protein</title></polygon>
+<text x="951.8" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">braC_3</text>
+<polygon points="1031.3,1014.0 1133.4,1014.0 1151.4,1025.0 1133.4,1036.0 1031.3,1036.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_02269 | livH_3 | Transport/efflux | High-affinity branched-chain amino acid transport system permease protein LivH</title></polygon>
+<text x="1091.4" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">livH_3</text>
+<polygon points="1155.1,1014.0 1268.2,1014.0 1286.2,1025.0 1268.2,1036.0 1155.1,1036.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_02270 | MMCHPEPF_02270 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1220.7" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">MMCHPEPF_02270</text>
+<polygon points="1284.7,1014.0 1372.4,1014.0 1390.4,1025.0 1372.4,1036.0 1284.7,1036.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_02271 | lptB_5 | Accessory/other | Lipopolysaccharide export system ATP-binding protein LptB</title></polygon>
+<text x="1337.5" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">lptB_5</text>
+<polygon points="1390.9,1014.0 1474.9,1014.0 1492.9,1025.0 1474.9,1036.0 1390.9,1036.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_02272 | livF_3 | Transport/efflux | High-affinity branched-chain amino acid transport ATP-binding protein LivF</title></polygon>
+<text x="1441.9" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">livF_3</text>
+<polygon points="1493.0,1014.0 1646.0,1014.0 1664.0,1025.0 1646.0,1036.0 1493.0,1036.0" fill="#1f78b4" stroke="#111" stroke-width="2.2"><title>MMCHPEPF_02273 | MMCHPEPF_02273 | CoA ligase/synthetase | Phenylacetate-coenzyme A ligase | PANEL HIT: paaK (Phenylacetate / Phenylacetate) | pident=32.274000 qcovs=92.000000</title></polygon>
+<text x="1578.5" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">MMCHPEPF_02273 (paaK)</text>
+<text x="452.0" y="962.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">2,570,449 bp</text>
+<text x="1664.0" y="962.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">2,579,293 bp</text>
+<rect x="18" y="1076" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="1076" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="1094.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GCF_002009335.2_panelcluster_14829</text>
+<text x="32.0" y="1112.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GCF_002009335.2 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="1128.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: acdB; bamB; bamC; fadD; fadJ; paaH</text>
+<text x="32.0" y="1140.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Benzoyl-CoA; Beta-oxidation; Phenylacetate</text>
+<line x1="452" y1="1167.0" x2="1664" y2="1167.0" stroke="#d0d0d0"/>
+<polygon points="494.1,1156.0 465.9,1156.0 452.0,1167.0 465.9,1178.0 494.1,1178.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>MMCHPEPF_02401 | MMCHPEPF_02401 | Dehydrogenase/oxidoreductase | Butyryl-CoA dehydrogenase | PANEL HIT: acdB (Beta-oxidation / Beta-oxidation) | pident=36.982000 qcovs=99.000000</title></polygon>
+<text x="473.1" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 473.1 1191.0)" fill="#111">MMCHPEPF_02401 (acdB)</text>
+<polygon points="516.3,1156.0 502.5,1156.0 495.5,1167.0 502.5,1178.0 516.3,1178.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>MMCHPEPF_02402 | hbd_2 | Dehydrogenase/oxidoreductase | 3-hydroxybutyryl-CoA dehydrogenase | PANEL HIT: paaH (Phenylacetate / Phenylacetate) | pident=42.308000 qcovs=60.000000</title></polygon>
+<text x="505.9" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 505.9 1191.0)" fill="#111">hbd_2 (paaH)</text>
+<polygon points="533.9,1156.0 522.9,1156.0 515.9,1167.0 522.9,1178.0 533.9,1178.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_02403 | MMCHPEPF_02403 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="524.9" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 524.9 1191.0)" fill="#555">MMCHPEPF_02403</text>
+<polygon points="553.3,1156.0 537.9,1156.0 530.4,1167.0 537.9,1178.0 553.3,1178.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_02404 | fixB_1 | Accessory/other | Protein FixB</title></polygon>
+<text x="541.8" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 541.8 1191.0)" fill="#555">fixB_1</text>
+<polygon points="572.4,1156.0 560.2,1156.0 553.2,1167.0 560.2,1178.0 572.4,1178.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_02405 | carD_1 | Dehydrogenase/oxidoreductase | Caffeyl-CoA reductase-Etf complex subunit CarD</title></polygon>
+<text x="562.8" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 562.8 1191.0)" fill="#555">carD_1</text>
+<polygon points="584.1,1156.0 598.5,1156.0 605.6,1167.0 598.5,1178.0 584.1,1178.0" fill="#a6cee3" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_02406 | catI | Thiolase/transferase | 3-oxoadipate CoA-transferase subunit A</title></polygon>
+<text x="594.9" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 594.9 1191.0)" fill="#555">catI</text>
+<polygon points="605.4,1156.0 616.6,1156.0 623.6,1167.0 616.6,1178.0 605.4,1178.0" fill="#a6cee3" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_02407 | catJ | Thiolase/transferase | 3-oxoadipate CoA-transferase subunit B</title></polygon>
+<text x="614.5" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 614.5 1191.0)" fill="#555">catJ</text>
+<polygon points="624.4,1156.0 635.4,1156.0 642.4,1167.0 635.4,1178.0 624.4,1178.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_02408 | MMCHPEPF_02408 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="633.4" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 633.4 1191.0)" fill="#555">MMCHPEPF_02408</text>
+<polygon points="650.1,1156.0 639.1,1156.0 632.1,1167.0 639.1,1178.0 650.1,1178.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_02409 | ypeA | Accessory/other | Acetyltransferase YpeA</title></polygon>
+<text x="641.1" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 641.1 1191.0)" fill="#555">ypeA</text>
+<polygon points="661.1,1156.0 650.1,1156.0 643.1,1167.0 650.1,1178.0 661.1,1178.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_02410 | MMCHPEPF_02410 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="652.1" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 652.1 1191.0)" fill="#555">MMCHPEPF_02410</text>
+<polygon points="666.0,1156.0 655.0,1156.0 648.0,1167.0 655.0,1178.0 666.0,1178.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_02411 | MMCHPEPF_02411 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="657.0" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 657.0 1191.0)" fill="#555">MMCHPEPF_02411</text>
+<polygon points="694.3,1156.0 666.7,1156.0 653.2,1167.0 666.7,1178.0 694.3,1178.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_02412 | adeC | Accessory/other | Adenine deaminase</title></polygon>
+<text x="673.7" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 673.7 1191.0)" fill="#555">adeC</text>
+<polygon points="746.3,1156.0 713.0,1156.0 696.6,1167.0 713.0,1178.0 746.3,1178.0" fill="#fb9a99" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_02413 | fadF_1 | Electron transfer/redox | putative iron-sulfur-binding oxidoreductase FadF</title></polygon>
+<text x="721.4" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 721.4 1191.0)" fill="#555">fadF_1</text>
+<polygon points="768.2,1156.0 757.2,1156.0 750.2,1167.0 757.2,1178.0 768.2,1178.0" fill="#d9d9d9" stroke="#111" stroke-width="2.2"><title>MMCHPEPF_02414 | MMCHPEPF_02414 | Hypothetical/accessory | hypothetical protein | PANEL HIT: bamC (Benzoyl-CoA / Benzoyl-CoA) | pident=48.466000 qcovs=90.000000</title></polygon>
+<text x="759.2" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 759.2 1191.0)" fill="#111">MMCHPEPF_02414 (bamC)</text>
+<polygon points="808.8,1156.0 777.3,1156.0 761.7,1167.0 777.3,1178.0 808.8,1178.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>MMCHPEPF_02415 | ydhV_1 | Dehydrogenase/oxidoreductase | putative oxidoreductase YdhV | PANEL HIT: bamB (Benzoyl-CoA / Benzoyl-CoA) | pident=64.679000 qcovs=100.000000</title></polygon>
+<text x="785.3" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 785.3 1191.0)" fill="#111">ydhV_1 (bamB)</text>
+<polygon points="834.6,1156.0 819.5,1156.0 812.0,1167.0 819.5,1178.0 834.6,1178.0" fill="#fb9a99" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_02416 | etfA_3 | Electron transfer/redox | Electron transfer flavoprotein subunit alpha</title></polygon>
+<text x="823.3" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 823.3 1191.0)" fill="#555">etfA_3</text>
+<polygon points="854.6,1156.0 843.2,1156.0 836.2,1167.0 843.2,1178.0 854.6,1178.0" fill="#fb9a99" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_02417 | etfB_3 | Electron transfer/redox | Electron transfer flavoprotein subunit beta</title></polygon>
+<text x="845.4" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 845.4 1191.0)" fill="#555">etfB_3</text>
+<polygon points="873.5,1156.0 862.5,1156.0 855.5,1167.0 862.5,1178.0 873.5,1178.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_02418 | rsxB_8 | Dehydrogenase/oxidoreductase | Ion-translocating oxidoreductase complex subunit B</title></polygon>
+<text x="864.5" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 864.5 1191.0)" fill="#555">rsxB_8</text>
+<polygon points="943.2,1156.0 895.4,1156.0 877.4,1167.0 895.4,1178.0 943.2,1178.0" fill="#fb9a99" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_02419 | napF_3 | Electron transfer/redox | Ferredoxin-type protein NapF</title></polygon>
+<text x="910.3" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 910.3 1191.0)" fill="#555">napF_3</text>
+<polygon points="962.9,1156.0 951.9,1156.0 944.9,1167.0 951.9,1178.0 962.9,1178.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_02420 | MMCHPEPF_02420 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="953.9" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 953.9 1191.0)" fill="#555">MMCHPEPF_02420</text>
+<polygon points="978.0,1156.0 959.8,1156.0 950.8,1167.0 959.8,1178.0 978.0,1178.0" fill="#fb9a99" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_02421 | fadF_2 | Electron transfer/redox | putative iron-sulfur-binding oxidoreductase FadF</title></polygon>
+<text x="964.4" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 964.4 1191.0)" fill="#555">fadF_2</text>
+<polygon points="996.8,1156.0 985.8,1156.0 978.8,1167.0 985.8,1178.0 996.8,1178.0" fill="#d9d9d9" stroke="#111" stroke-width="2.2"><title>MMCHPEPF_02422 | MMCHPEPF_02422 | Hypothetical/accessory | hypothetical protein | PANEL HIT: bamC (Benzoyl-CoA / Benzoyl-CoA) | pident=55.495000 qcovs=99.000000</title></polygon>
+<text x="987.8" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 987.8 1191.0)" fill="#111">MMCHPEPF_02422 (bamC)</text>
+<polygon points="1039.3,1156.0 1007.6,1156.0 992.1,1167.0 1007.6,1178.0 1039.3,1178.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>MMCHPEPF_02423 | ydhV_2 | Dehydrogenase/oxidoreductase | putative oxidoreductase YdhV | PANEL HIT: bamB (Benzoyl-CoA / Benzoyl-CoA) | pident=81.413000 qcovs=99.000000</title></polygon>
+<text x="1015.7" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1015.7 1191.0)" fill="#111">ydhV_2 (bamB)</text>
+<polygon points="1063.6,1156.0 1052.6,1156.0 1045.6,1167.0 1052.6,1178.0 1063.6,1178.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_02424 | MMCHPEPF_02424 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1054.6" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1054.6 1191.0)" fill="#555">MMCHPEPF_02424</text>
+<polygon points="1066.0,1156.0 1082.8,1156.0 1091.1,1167.0 1082.8,1178.0 1066.0,1178.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_02425 | MMCHPEPF_02425 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1078.6" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1078.6 1191.0)" fill="#555">MMCHPEPF_02425</text>
+<polygon points="1091.6,1156.0 1102.6,1156.0 1109.6,1167.0 1102.6,1178.0 1091.6,1178.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_02426 | MMCHPEPF_02426 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1100.6" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1100.6 1191.0)" fill="#555">MMCHPEPF_02426</text>
+<polygon points="1099.9,1156.0 1132.1,1156.0 1147.9,1167.0 1132.1,1178.0 1099.9,1178.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_02427 | MMCHPEPF_02427 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1123.9" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1123.9 1191.0)" fill="#555">MMCHPEPF_02427</text>
+<polygon points="1151.5,1156.0 1174.0,1156.0 1185.0,1167.0 1174.0,1178.0 1151.5,1178.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_02428 | MMCHPEPF_02428 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1168.3" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1168.3 1191.0)" fill="#555">MMCHPEPF_02428</text>
+<polygon points="1187.5,1156.0 1200.7,1156.0 1207.7,1167.0 1200.7,1178.0 1187.5,1178.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_02429 | MMCHPEPF_02429 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1197.6" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1197.6 1191.0)" fill="#555">MMCHPEPF_02429</text>
+<polygon points="1213.9,1156.0 1256.8,1156.0 1274.8,1167.0 1256.8,1178.0 1213.9,1178.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_02430 | MMCHPEPF_02430 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1244.3" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1244.3 1191.0)" fill="#555">MMCHPEPF_02430</text>
+<polygon points="1275.1,1156.0 1286.1,1156.0 1293.1,1167.0 1286.1,1178.0 1275.1,1178.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_02431 | nreC_4 | Accessory/other | Oxygen regulatory protein NreC</title></polygon>
+<text x="1284.1" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1284.1 1191.0)" fill="#555">nreC_4</text>
+<polygon points="1292.7,1156.0 1303.7,1156.0 1310.7,1167.0 1303.7,1178.0 1292.7,1178.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_02432 | MMCHPEPF_02432 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1301.7" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1301.7 1191.0)" fill="#555">MMCHPEPF_02432</text>
+<polygon points="1303.8,1156.0 1327.5,1156.0 1339.2,1167.0 1327.5,1178.0 1303.8,1178.0" fill="#1f78b4" stroke="#111" stroke-width="2.2"><title>MMCHPEPF_02433 | lcfB_5 | CoA ligase/synthetase | Long-chain-fatty-acid--CoA ligase | PANEL HIT: fadD (Beta-oxidation / Beta-oxidation) | pident=35.206000 qcovs=94.000000</title></polygon>
+<text x="1321.5" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1321.5 1191.0)" fill="#111">lcfB_5 (fadD)</text>
+<polygon points="1342.5,1156.0 1371.3,1156.0 1385.5,1167.0 1371.3,1178.0 1342.5,1178.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>MMCHPEPF_02434 | dmdC_3 | Dehydrogenase/oxidoreductase | 3-methylmercaptopropionyl-CoA dehydrogenase | PANEL HIT: acdB (Beta-oxidation / Beta-oxidation) | pident=37.171000 qcovs=98.000000</title></polygon>
+<text x="1364.0" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1364.0 1191.0)" fill="#111">dmdC_3 (acdB)</text>
+<polygon points="1386.9,1156.0 1405.7,1156.0 1414.9,1167.0 1405.7,1178.0 1386.9,1178.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_02435 | MMCHPEPF_02435 | Accessory/other | Acetyl-CoA acetyltransferase</title></polygon>
+<text x="1400.9" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1400.9 1191.0)" fill="#555">MMCHPEPF_02435</text>
+<polygon points="1416.4,1156.0 1434.2,1156.0 1442.9,1167.0 1434.2,1178.0 1416.4,1178.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_02436 | fadB | Hydratase/dehydratase/isomerase | Fatty acid oxidation complex subunit alpha</title></polygon>
+<text x="1429.7" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1429.7 1191.0)" fill="#555">fadB</text>
+<polygon points="1446.8,1156.0 1457.8,1156.0 1464.8,1167.0 1457.8,1178.0 1446.8,1178.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_02437 | MMCHPEPF_02437 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1455.8" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1455.8 1191.0)" fill="#555">MMCHPEPF_02437</text>
+<polygon points="1464.3,1156.0 1496.6,1156.0 1512.4,1167.0 1496.6,1178.0 1464.3,1178.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>MMCHPEPF_02438 | fadJ_2 | Accessory/other | Fatty acid oxidation complex subunit alpha | PANEL HIT: fadJ (Beta-oxidation / Beta-oxidation) | pident=31.842000 qcovs=53.000000</title></polygon>
+<text x="1488.4" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1488.4 1191.0)" fill="#111">fadJ_2 (fadJ)</text>
+<polygon points="1529.4,1156.0 1518.4,1156.0 1511.4,1167.0 1518.4,1178.0 1529.4,1178.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_02439 | MMCHPEPF_02439 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1520.4" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1520.4 1191.0)" fill="#555">MMCHPEPF_02439</text>
+<polygon points="1546.3,1156.0 1529.8,1156.0 1521.7,1167.0 1529.8,1178.0 1546.3,1178.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_02440 | MMCHPEPF_02440 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1534.0" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1534.0 1191.0)" fill="#555">MMCHPEPF_02440</text>
+<polygon points="1562.0,1156.0 1573.0,1156.0 1580.0,1167.0 1573.0,1178.0 1562.0,1178.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_02441 | MMCHPEPF_02441 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1571.0" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1571.0 1191.0)" fill="#555">MMCHPEPF_02441</text>
+<polygon points="1592.3,1156.0 1581.3,1156.0 1574.3,1167.0 1581.3,1178.0 1592.3,1178.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_02442 | MMCHPEPF_02442 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1583.3" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1583.3 1191.0)" fill="#555">MMCHPEPF_02442</text>
+<polygon points="1583.6,1156.0 1596.7,1156.0 1603.7,1167.0 1596.7,1178.0 1583.6,1178.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>MMCHPEPF_02443 | hbd_3 | Dehydrogenase/oxidoreductase | 3-hydroxybutyryl-CoA dehydrogenase | PANEL HIT: paaH (Phenylacetate / Phenylacetate) | pident=39.716000 qcovs=59.000000</title></polygon>
+<text x="1593.6" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1593.6 1191.0)" fill="#111">hbd_3 (paaH)</text>
+<polygon points="1615.9,1156.0 1648.1,1156.0 1664.0,1167.0 1648.1,1178.0 1615.9,1178.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>MMCHPEPF_02444 | fadJ_3 | Accessory/other | Fatty acid oxidation complex subunit alpha | PANEL HIT: fadJ (Beta-oxidation / Beta-oxidation) | pident=31.579000 qcovs=53.000000</title></polygon>
+<text x="1639.9" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1639.9 1191.0)" fill="#111">fadJ_3 (fadJ)</text>
+<text x="452.0" y="1104.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">2,727,353 bp</text>
+<text x="1664.0" y="1104.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">2,778,826 bp</text>
+<rect x="18" y="1218" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="1218" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="1236.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GCF_002009335.2_panelcluster_14830</text>
+<text x="32.0" y="1254.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GCF_002009335.2 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="1270.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: GI:23664434; GMET_RS16560; badH; dch; oah</text>
+<text x="32.0" y="1282.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Benzoyl-CoA; Beta-oxidation</text>
+<line x1="452" y1="1309.0" x2="1664" y2="1309.0" stroke="#d0d0d0"/>
+<polygon points="618.1,1298.0 470.0,1298.0 452.0,1309.0 470.0,1320.0 618.1,1320.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>MMCHPEPF_02461 | MMCHPEPF_02461 | Accessory/other | butyrate:acetyl-CoA coenzyme A-transferase | PANEL HIT: GMET_RS16560 (Beta-oxidation / Beta-oxidation) | pident=36.085000 qcovs=95.000000</title></polygon>
+<text x="535.1" y="1333.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">MMCHPEPF_02461 (GMET_...</text>
+<polygon points="645.1,1298.0 733.8,1298.0 751.8,1309.0 733.8,1320.0 645.1,1320.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_02462 | ypdF | Accessory/other | Aminopeptidase YpdF</title></polygon>
+<text x="698.5" y="1333.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">ypdF</text>
+<polygon points="765.3,1298.0 814.9,1298.0 832.9,1309.0 814.9,1320.0 765.3,1320.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>MMCHPEPF_02463 | dch | Hydratase/dehydratase/isomerase | Cyclohexa-1,5-dienecarbonyl-CoA hydratase | PANEL HIT: dch (Benzoyl-CoA / Benzoyl-CoA) | pident=35.743000 qcovs=96.000000</title></polygon>
+<text x="799.1" y="1333.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">dch (dch)</text>
+<polygon points="857.8,1298.0 939.6,1298.0 957.6,1309.0 939.6,1320.0 857.8,1320.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>MMCHPEPF_02464 | bamA_2 | Hydrolase/decarboxylase/lyase | 6-oxocyclohex-1-ene-1-carbonyl-CoA hydrolase | PANEL HIT: oah (Benzoyl-CoA / Benzoyl-CoA) | pident=51.099000 qcovs=95.000000</title></polygon>
+<text x="907.7" y="1333.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">bamA_2 (oah)</text>
+<polygon points="958.7,1298.0 1006.7,1298.0 1024.7,1309.0 1006.7,1320.0 958.7,1320.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>MMCHPEPF_02465 | fabG_3 | Dehydrogenase/oxidoreductase | 3-oxoacyl-[acyl-carrier-protein] reductase FabG | PANEL HIT: badH (Beta-oxidation / Beta-oxidation) | pident=35.484000 qcovs=97.000000</title></polygon>
+<text x="991.7" y="1333.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">fabG_3 (badH)</text>
+<polygon points="1030.1,1298.0 1114.9,1298.0 1132.9,1309.0 1114.9,1320.0 1030.1,1320.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_02466 | MMCHPEPF_02466 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1081.5" y="1333.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">MMCHPEPF_02466</text>
+<polygon points="1134.0,1298.0 1160.0,1298.0 1172.8,1309.0 1160.0,1320.0 1134.0,1320.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_02467 | MMCHPEPF_02467 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1153.4" y="1333.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">MMCHPEPF_02467</text>
+<polygon points="1184.4,1298.0 1218.9,1298.0 1235.9,1309.0 1218.9,1320.0 1184.4,1320.0" fill="#b15928" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_02468 | rutB | Hydrolase/decarboxylase/lyase | Peroxyureidoacrylate/ureidoacrylate amidohydrolase RutB</title></polygon>
+<text x="1210.2" y="1333.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">rutB</text>
+<polygon points="1250.2,1298.0 1361.9,1298.0 1379.9,1309.0 1361.9,1320.0 1250.2,1320.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_02469 | sasA_19 | Accessory/other | Adaptive-response sensory-kinase SasA</title></polygon>
+<text x="1315.0" y="1333.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">sasA_19</text>
+<polygon points="1377.8,1298.0 1479.2,1298.0 1497.2,1309.0 1479.2,1320.0 1377.8,1320.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_02470 | atoC_8 | Accessory/other | Regulatory protein AtoC</title></polygon>
+<text x="1437.5" y="1333.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">atoC_8</text>
+<polygon points="1500.0,1298.0 1511.5,1298.0 1518.5,1309.0 1511.5,1320.0 1500.0,1320.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_02471 | MMCHPEPF_02471 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1509.3" y="1333.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">MMCHPEPF_02471</text>
+<polygon points="1527.5,1298.0 1646.0,1298.0 1664.0,1309.0 1646.0,1320.0 1527.5,1320.0" fill="#1f78b4" stroke="#111" stroke-width="2.2"><title>MMCHPEPF_02472 | bclA | CoA ligase/synthetase | Benzoate--CoA ligase | PANEL HIT: GI:23664434 (Aromatics / Benzene) | pident=48.649000 qcovs=97.000000</title></polygon>
+<text x="1595.7" y="1333.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">bclA (GI:23664434)</text>
+<text x="452.0" y="1246.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">2,798,662 bp</text>
+<text x="1664.0" y="1246.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">2,812,430 bp</text>
+<rect x="18" y="1360" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="1360" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="1378.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GCF_002009335.2_panelcluster_14835</text>
+<text x="32.0" y="1396.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GCF_002009335.2 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="1412.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: acdA; crt; mlaF</text>
+<text x="32.0" y="1424.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Beta-oxidation; Transportation</text>
+<line x1="452" y1="1451.0" x2="1664" y2="1451.0" stroke="#d0d0d0"/>
+<polygon points="608.3,1440.0 470.0,1440.0 452.0,1451.0 470.0,1462.0 608.3,1462.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>MMCHPEPF_02811 | MMCHPEPF_02811 | Hydratase/dehydratase/isomerase | Crotonyl-CoA hydratase | PANEL HIT: crt (Beta-oxidation / Beta-oxidation) | pident=45.382000 qcovs=95.000000</title></polygon>
+<text x="530.1" y="1475.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">MMCHPEPF_02811 (crt)</text>
+<polygon points="845.0,1440.0 633.6,1440.0 615.6,1451.0 633.6,1462.0 845.0,1462.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>MMCHPEPF_02812 | bcd_2 | Dehydrogenase/oxidoreductase | Acyl-CoA dehydrogenase, short-chain specific | PANEL HIT: acdA (Beta-oxidation / Beta-oxidation) | pident=48.168000 qcovs=99.000000</title></polygon>
+<text x="730.3" y="1475.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">bcd_2 (acdA)</text>
+<polygon points="1045.1,1440.0 938.0,1440.0 920.0,1451.0 938.0,1462.0 1045.1,1462.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_02813 | kstR2 | Regulator | HTH-type transcriptional repressor KstR2</title></polygon>
+<text x="982.6" y="1475.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">kstR2</text>
+<polygon points="1197.4,1440.0 1133.4,1440.0 1115.4,1451.0 1133.4,1462.0 1197.4,1462.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_02814 | MMCHPEPF_02814 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1156.4" y="1475.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">MMCHPEPF_02814</text>
+<polygon points="1332.5,1440.0 1238.0,1440.0 1220.0,1451.0 1238.0,1462.0 1332.5,1462.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_02815 | MMCHPEPF_02815 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1276.2" y="1475.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">MMCHPEPF_02815</text>
+<polygon points="1448.7,1440.0 1467.9,1440.0 1477.4,1451.0 1467.9,1462.0 1448.7,1462.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>MMCHPEPF_02816 | MMCHPEPF_02816 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1463.0" y="1475.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">MMCHPEPF_02816</text>
+<polygon points="1511.3,1440.0 1646.0,1440.0 1664.0,1451.0 1646.0,1462.0 1511.3,1462.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>MMCHPEPF_02817 | mkl | Transport/efflux | putative ribonucleotide transport ATP-binding protein mkl | PANEL HIT: mlaF (Transportation / Transportation) | pident=40.084000 qcovs=87.000000</title></polygon>
+<text x="1587.7" y="1475.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">mkl (mlaF)</text>
+<text x="452.0" y="1388.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">3,213,183 bp</text>
+<text x="1664.0" y="1388.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">3,219,255 bp</text>
+<text x="24.0" y="1520.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="1530" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="1540.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="1530" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="1540.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="1530" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="1540.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="1530" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="1540.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="1552" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="1562.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="1552" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="1562.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="1552" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="1562.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="1552" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="1562.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="1574" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="1584.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="1574" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="1584.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="1574" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="1584.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="1574" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="1584.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="1596" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="1606.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="350" viewBox="0 0 1700 350">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<text x="24.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_26: reference-panel operon/cluster gene maps</text>
+<text x="24.0" y="56.0" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#555">1 shortlisted clusters (&gt;=3 independent panel gene hits) for this genome</text>
+<text x="24.0" y="74.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="start" fill="#555">Arrow direction shows CDS strand. Color shows enzyme class. Bold outline = reference-panel seed hit.</text>
+<rect x="18" y="82" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="82" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="100.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_26_panelcluster_8507</text>
+<text x="32.0" y="118.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_26 | MAGs/Exp3_MAG_26_c_000000000088 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="134.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: mlaE; mlaF; paaA; paaC; paaD</text>
+<text x="32.0" y="146.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Phenylacetate; Transportation</text>
+<line x1="452" y1="173.0" x2="1664" y2="173.0" stroke="#d0d0d0"/>
+<polygon points="509.4,162.0 470.0,162.0 452.0,173.0 470.0,184.0 509.4,184.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>OMBLECOP_05164 | paaD_1 | Accessory/other | Putative 1,2-phenylacetyl-CoA epoxidase, subunit D | PANEL HIT: paaD (Phenylacetate / Phenylacetate) | pident=52.229000 qcovs=88.000000</title></polygon>
+<text x="480.7" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">paaD_1 (paaD)</text>
+<polygon points="535.6,162.0 518.6,162.0 510.2,173.0 518.6,184.0 535.6,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>OMBLECOP_05165 | OMBLECOP_05165 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="522.9" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">OMBLECOP_05165</text>
+<polygon points="671.9,162.0 553.5,162.0 535.5,173.0 553.5,184.0 671.9,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>OMBLECOP_05166 | rlhA_2 | Accessory/other | 23S rRNA 5-hydroxycytidine synthase</title></polygon>
+<text x="603.7" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">rlhA_2</text>
+<polygon points="759.3,162.0 694.0,162.0 676.0,173.0 694.0,184.0 759.3,184.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>OMBLECOP_05167 | paaC_2 | Accessory/other | 1,2-phenylacetyl-CoA epoxidase, subunit C | PANEL HIT: paaC (Phenylacetate / Phenylacetate) | pident=44.980000 qcovs=98.000000</title></polygon>
+<text x="717.7" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">paaC_2 (paaC)</text>
+<polygon points="793.3,162.0 771.2,162.0 760.3,173.0 771.2,184.0 793.3,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>OMBLECOP_05168 | paaB_2 | Accessory/other | 1,2-phenylacetyl-CoA epoxidase, subunit B</title></polygon>
+<text x="776.8" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">paaB_2</text>
+<polygon points="898.4,162.0 813.3,162.0 795.3,173.0 813.3,184.0 898.4,184.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>OMBLECOP_05169 | paaA_2 | Accessory/other | 1,2-phenylacetyl-CoA epoxidase, subunit A | PANEL HIT: paaA (Phenylacetate / Phenylacetate) | pident=36.332000 qcovs=91.000000</title></polygon>
+<text x="846.9" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">paaA_2 (paaA)</text>
+<polygon points="1242.6,162.0 976.2,162.0 958.2,173.0 976.2,184.0 1242.6,184.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>OMBLECOP_05170 | OMBLECOP_05170 | Transport/efflux | Calcium-transporting ATPase 1</title></polygon>
+<text x="1100.4" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">OMBLECOP_05170</text>
+<polygon points="1350.7,162.0 1265.0,162.0 1247.0,173.0 1265.0,184.0 1350.7,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>OMBLECOP_05171 | OMBLECOP_05171 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1298.8" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">OMBLECOP_05171</text>
+<polygon points="1380.3,162.0 1475.4,162.0 1493.4,173.0 1475.4,184.0 1380.3,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>OMBLECOP_05172 | OMBLECOP_05172 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1436.9" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">OMBLECOP_05172</text>
+<polygon points="1494.3,162.0 1561.6,162.0 1579.6,173.0 1561.6,184.0 1494.3,184.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>OMBLECOP_05173 | mlaE_3 | Transport/efflux | Intermembrane phospholipid transport system permease protein MlaE | PANEL HIT: mlaE (Transportation / Transportation) | pident=30.275000 qcovs=83.000000</title></polygon>
+<text x="1537.0" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">mlaE_3 (mlaE)</text>
+<polygon points="1581.3,162.0 1646.0,162.0 1664.0,173.0 1646.0,184.0 1581.3,184.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>OMBLECOP_05174 | mkl_3 | Transport/efflux | putative ribonucleotide transport ATP-binding protein mkl | PANEL HIT: mlaF (Transportation / Transportation) | pident=36.475000 qcovs=90.000000</title></polygon>
+<text x="1622.7" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">mkl_3 (mlaF)</text>
+<text x="452.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">25,076 bp</text>
+<text x="1664.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">35,979 bp</text>
+<text x="24.0" y="242.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="252" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="262.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="252" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="262.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="252" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="262.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="252" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="262.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="274" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="284.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="274" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="284.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="274" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="284.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="274" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="284.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="296" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="306.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="296" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="306.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="296" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="306.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="296" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="306.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="318" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="328.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

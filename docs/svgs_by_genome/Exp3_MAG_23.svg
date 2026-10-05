@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="776" viewBox="0 0 1700 776">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<text x="24.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_23: reference-panel operon/cluster gene maps</text>
+<text x="24.0" y="56.0" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#555">4 shortlisted clusters (&gt;=3 independent panel gene hits) for this genome</text>
+<text x="24.0" y="74.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="start" fill="#555">Arrow direction shows CDS strand. Color shows enzyme class. Bold outline = reference-panel seed hit.</text>
+<rect x="18" y="82" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="82" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="100.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_23_panelcluster_6495</text>
+<text x="32.0" y="118.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_23 | MAGs/Exp3_MAG_23_c_000000000142 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="134.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: abmA; hbd; paaF; paaH</text>
+<text x="32.0" y="146.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Phenylacetate; Plastics</text>
+<line x1="452" y1="173.0" x2="1664" y2="173.0" stroke="#d0d0d0"/>
+<polygon points="722.1,162.0 470.0,162.0 452.0,173.0 470.0,184.0 722.1,184.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>PIJCDEKB_01167 | fadJ_2 | Accessory/other | Fatty acid oxidation complex subunit alpha | PANEL HIT: paaH (Phenylacetate / Phenylacetate) | pident=41.463000 qcovs=60.000000</title></polygon>
+<text x="587.1" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">fadJ_2 (paaH)</text>
+<polygon points="906.1,162.0 739.9,162.0 721.9,173.0 739.9,184.0 906.1,184.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>PIJCDEKB_01168 | paaF | Hydratase/dehydratase/isomerase | 2,3-dehydroadipyl-CoA hydratase | PANEL HIT: paaF (Phenylacetate / Phenylacetate) | pident=47.059000 qcovs=100.000000</title></polygon>
+<text x="814.0" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">paaF (paaF)</text>
+<polygon points="931.1,162.0 1467.1,162.0 1485.1,173.0 1467.1,184.0 931.1,184.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>PIJCDEKB_01169 | namA | Dehydrogenase/oxidoreductase | NADPH dehydrogenase | PANEL HIT: abmA (Aromatics / Anthranilate) | pident=54.204000 qcovs=99.000000</title></polygon>
+<text x="1208.1" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">namA (abmA)</text>
+<polygon points="1484.2,162.0 1646.0,162.0 1664.0,173.0 1646.0,184.0 1484.2,184.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>PIJCDEKB_01170 | bacC | Dehydrogenase/oxidoreductase | Dihydroanticapsin 7-dehydrogenase | PANEL HIT: hbd (Plastics / P3HV/PHA/PHBV) | pident=37.698000 qcovs=97.000000</title></polygon>
+<text x="1574.1" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">bacC (hbd)</text>
+<text x="452.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">14,815 bp</text>
+<text x="1664.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">19,808 bp</text>
+<rect x="18" y="224" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="224" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="242.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_23_panelcluster_6500</text>
+<text x="32.0" y="260.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_23 | MAGs/Exp3_MAG_23_c_000000000177 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="276.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: alkJ_adh; echA1; xylB</text>
+<text x="32.0" y="288.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Aromatics; Beta-oxidation</text>
+<line x1="452" y1="315.0" x2="1664" y2="315.0" stroke="#d0d0d0"/>
+<polygon points="683.6,304.0 470.0,304.0 452.0,315.0 470.0,326.0 683.6,326.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>PIJCDEKB_01441 | flhA_2 | Dehydrogenase/oxidoreductase | S-(hydroxymethyl)glutathione dehydrogenase | PANEL HIT: xylB (Aromatics / Toluene) | pident=30.159000 qcovs=99.000000</title></polygon>
+<text x="567.8" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">flhA_2 (xylB)</text>
+<polygon points="719.0,304.0 766.4,304.0 784.4,315.0 766.4,326.0 719.0,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>PIJCDEKB_01442 | PIJCDEKB_01442 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="751.7" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">PIJCDEKB_01442</text>
+<polygon points="788.2,304.0 828.3,304.0 846.3,315.0 828.3,326.0 788.2,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>PIJCDEKB_01443 | PIJCDEKB_01443 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="817.3" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">PIJCDEKB_01443</text>
+<polygon points="947.9,304.0 876.1,304.0 858.1,315.0 876.1,326.0 947.9,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>PIJCDEKB_01444 | PIJCDEKB_01444 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="903.0" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">PIJCDEKB_01444</text>
+<polygon points="1299.4,304.0 988.7,304.0 970.7,315.0 988.7,326.0 1299.4,326.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>PIJCDEKB_01445 | alkJ_1 | Dehydrogenase/oxidoreductase | Alcohol dehydrogenase [acceptor] | PANEL HIT: alkJ_adh (Alkanes / Auxillary alkane pathway) | pident=41.231000 qcovs=95.000000</title></polygon>
+<text x="1135.1" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">alkJ_1 (alkJ_adh)</text>
+<polygon points="1344.9,304.0 1392.2,304.0 1410.2,315.0 1392.2,326.0 1344.9,326.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>PIJCDEKB_01446 | gdx | Accessory/other | Guanidinium exporter</title></polygon>
+<text x="1377.5" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">gdx</text>
+<polygon points="1421.2,304.0 1480.2,304.0 1498.2,315.0 1480.2,326.0 1421.2,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>PIJCDEKB_01447 | PIJCDEKB_01447 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1459.7" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">PIJCDEKB_01447</text>
+<polygon points="1664.0,304.0 1520.1,304.0 1502.1,315.0 1520.1,326.0 1664.0,326.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>PIJCDEKB_01448 | caiD_2 | Hydratase/dehydratase/isomerase | Carnitinyl-CoA dehydratase | PANEL HIT: echA1 (Beta-oxidation / Beta-oxidation) | pident=38.554000 qcovs=92.000000</title></polygon>
+<text x="1583.0" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">caiD_2 (echA1)</text>
+<text x="452.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">31 bp</text>
+<text x="1664.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">5,981 bp</text>
+<rect x="18" y="366" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="366" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="384.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_23_panelcluster_6510</text>
+<text x="32.0" y="402.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_23 | MAGs/Exp3_MAG_23_c_000000000280 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="418.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: acdA; alkJ_adh; crt</text>
+<text x="32.0" y="430.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Beta-oxidation</text>
+<line x1="452" y1="457.0" x2="1664" y2="457.0" stroke="#d0d0d0"/>
+<polygon points="600.9,446.0 470.0,446.0 452.0,457.0 470.0,468.0 600.9,468.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>PIJCDEKB_02255 | carC | Dehydrogenase/oxidoreductase | Caffeyl-CoA reductase-Etf complex subunit CarC | PANEL HIT: acdA (Beta-oxidation / Beta-oxidation) | pident=45.845000 qcovs=98.000000</title></polygon>
+<text x="526.5" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">carC (acdA)</text>
+<polygon points="621.1,446.0 735.6,446.0 753.6,457.0 735.6,468.0 621.1,468.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>PIJCDEKB_02256 | pld1_1 | Dehydrogenase/oxidoreductase | Pyridoxal 4-dehydrogenase</title></polygon>
+<text x="687.4" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">pld1_1</text>
+<polygon points="940.5,446.0 795.5,446.0 777.5,457.0 795.5,468.0 940.5,468.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>PIJCDEKB_02257 | ttuD | Dehydrogenase/oxidoreductase | Putative hydroxypyruvate reductase</title></polygon>
+<text x="859.0" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">ttuD</text>
+<polygon points="980.6,446.0 953.4,446.0 940.0,457.0 953.4,468.0 980.6,468.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>PIJCDEKB_02258 | PIJCDEKB_02258 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="960.3" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">PIJCDEKB_02258</text>
+<polygon points="1083.5,446.0 1001.9,446.0 983.9,457.0 1001.9,468.0 1083.5,468.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>PIJCDEKB_02259 | crt_1 | Hydratase/dehydratase/isomerase | Short-chain-enoyl-CoA hydratase | PANEL HIT: crt (Beta-oxidation / Beta-oxidation) | pident=34.630000 qcovs=98.000000</title></polygon>
+<text x="1033.7" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">crt_1 (crt)</text>
+<polygon points="1287.8,446.0 1101.0,446.0 1083.0,457.0 1101.0,468.0 1287.8,468.0" fill="#a6cee3" stroke="#888" stroke-width="0.8"><title>PIJCDEKB_02260 | carA_3 | Thiolase/transferase | Caffeate CoA-transferase</title></polygon>
+<text x="1185.4" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">carA_3</text>
+<polygon points="1303.2,446.0 1391.9,446.0 1409.9,457.0 1391.9,468.0 1303.2,468.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>PIJCDEKB_02261 | dkgB_1 | Dehydrogenase/oxidoreductase | 2,5-diketo-D-gluconic acid reductase B</title></polygon>
+<text x="1356.6" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">dkgB_1</text>
+<polygon points="1664.0,446.0 1472.1,446.0 1454.1,457.0 1472.1,468.0 1664.0,468.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>PIJCDEKB_02262 | alkJ_2 | Dehydrogenase/oxidoreductase | Alcohol dehydrogenase [acceptor] | PANEL HIT: alkJ_adh (Alkanes / Auxillary alkane pathway) | pident=42.803000 qcovs=95.000000</title></polygon>
+<text x="1559.0" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">alkJ_2 (alkJ_adh)</text>
+<text x="452.0" y="394.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">462 bp</text>
+<text x="1664.0" y="394.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">9,763 bp</text>
+<rect x="18" y="508" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="508" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="526.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_23_panelcluster_6529</text>
+<text x="32.0" y="544.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_23 | MAGs/Exp3_MAG_23_c_000000000462 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="560.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: hmgA; mhbl; pcaF</text>
+<text x="32.0" y="572.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Catechol-ortho; Gentisate;</text>
+<text x="32.0" y="584.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Protocatechuate</text>
+<line x1="452" y1="599.0" x2="1664" y2="599.0" stroke="#d0d0d0"/>
+<polygon points="788.5,588.0 470.0,588.0 452.0,599.0 470.0,610.0 788.5,610.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>PIJCDEKB_03805 | hmgA | Oxygenase/dioxygenase | Homogentisate 1,2-dioxygenase | PANEL HIT: hmgA (Aromatics / Homogentisate) | pident=68.539000 qcovs=98.000000</title></polygon>
+<text x="620.3" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">hmgA (hmgA)</text>
+<polygon points="1091.7,588.0 836.9,588.0 818.9,599.0 836.9,610.0 1091.7,610.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>PIJCDEKB_03806 | PIJCDEKB_03806 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="955.3" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">PIJCDEKB_03806</text>
+<polygon points="1119.4,588.0 1206.7,588.0 1224.7,599.0 1206.7,610.0 1119.4,610.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>PIJCDEKB_03807 | PIJCDEKB_03807 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1172.0" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">PIJCDEKB_03807</text>
+<polygon points="1223.7,588.0 1356.9,588.0 1374.9,599.0 1356.9,610.0 1223.7,610.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>PIJCDEKB_03808 | nagL | Hydratase/dehydratase/isomerase | Maleylpyruvate isomerase | PANEL HIT: mhbl (Gentisate / Gentisate) | pident=40.000000 qcovs=97.000000</title></polygon>
+<text x="1299.3" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">nagL (mhbl)</text>
+<polygon points="1377.1,588.0 1646.0,588.0 1664.0,599.0 1646.0,610.0 1377.1,610.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>PIJCDEKB_03809 | bktB | Thiolase/transferase | Beta-ketothiolase BktB | PANEL HIT: pcaF (Catechol-ortho; Protocatechuate / Protocatechuate) | pident=46.766000 qcovs=99.000000</title></polygon>
+<text x="1520.6" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">bktB (pcaF)</text>
+<text x="452.0" y="536.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">6,864 bp</text>
+<text x="1664.0" y="536.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">11,768 bp</text>
+<text x="24.0" y="668.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="678" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="688.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="678" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="688.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="678" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="688.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="678" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="688.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="700" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="710.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="700" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="710.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="700" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="710.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="700" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="710.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="722" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="732.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="722" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="732.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="722" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="732.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="722" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="732.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="744" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="754.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

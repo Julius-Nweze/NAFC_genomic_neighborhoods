@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="776" viewBox="0 0 1700 776">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<text x="24.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="start" fill="#222">GCF_029269265.1: reference-panel operon/cluster gene maps</text>
+<text x="24.0" y="56.0" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#555">4 shortlisted clusters (&gt;=3 independent panel gene hits) for this genome</text>
+<text x="24.0" y="74.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="start" fill="#555">Arrow direction shows CDS strand. Color shows enzyme class. Bold outline = reference-panel seed hit.</text>
+<rect x="18" y="82" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="82" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="100.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GCF_029269265.1_panelcluster_15996</text>
+<text x="32.0" y="118.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GCF_029269265.1 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="134.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: mlaD; mlaE; mlaF</text>
+<text x="32.0" y="146.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Transportation</text>
+<line x1="452" y1="173.0" x2="1664" y2="173.0" stroke="#d0d0d0"/>
+<polygon points="452.0,162.0 908.4,162.0 926.4,173.0 908.4,184.0 452.0,184.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>HEDKEPNO_00188 | mlaF | Transport/efflux | Intermembrane phospholipid transport system ATP-binding protein MlaF | PANEL HIT: mlaF (Transportation / Transportation) | pident=61.776000 qcovs=96.000000</title></polygon>
+<text x="689.2" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">mlaF (mlaF)</text>
+<polygon points="924.1,162.0 1368.1,162.0 1386.1,173.0 1368.1,184.0 924.1,184.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>HEDKEPNO_00189 | mlaE | Transport/efflux | Intermembrane phospholipid transport system permease protein MlaE | PANEL HIT: mlaE (Transportation / Transportation) | pident=69.615000 qcovs=100.000000</title></polygon>
+<text x="1155.1" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">mlaE (mlaE)</text>
+<polygon points="1387.8,162.0 1646.0,162.0 1664.0,173.0 1646.0,184.0 1387.8,184.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>HEDKEPNO_00190 | mlaD | Transport/efflux | Intermembrane phospholipid transport system binding protein MlaD | PANEL HIT: mlaD (Transportation / Transportation) | pident=54.605000 qcovs=83.000000</title></polygon>
+<text x="1525.9" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">mlaD (mlaD)</text>
+<text x="452.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">210,800 bp</text>
+<text x="1664.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">212,853 bp</text>
+<rect x="18" y="224" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="224" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="242.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GCF_029269265.1_panelcluster_16002</text>
+<text x="32.0" y="260.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GCF_029269265.1 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="276.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: pqiA; pqiB; pqiC</text>
+<text x="32.0" y="288.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Transportation</text>
+<line x1="452" y1="315.0" x2="1664" y2="315.0" stroke="#d0d0d0"/>
+<polygon points="452.0,304.0 866.4,304.0 884.4,315.0 866.4,326.0 452.0,326.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>HEDKEPNO_00678 | pqiA | Transport/efflux | Intermembrane transport protein PqiA | PANEL HIT: pqiA (Transportation / Transportation) | pident=48.515000 qcovs=97.000000</title></polygon>
+<text x="668.2" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pqiA (pqiA)</text>
+<polygon points="881.7,304.0 1456.0,304.0 1474.0,315.0 1456.0,326.0 881.7,326.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>HEDKEPNO_00679 | pqiB | Transport/efflux | Intermembrane transport protein PqiB | PANEL HIT: pqiB (Transportation / Transportation) | pident=45.312000 qcovs=98.000000</title></polygon>
+<text x="1177.8" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pqiB (pqiB)</text>
+<polygon points="1473.6,304.0 1646.0,304.0 1664.0,315.0 1646.0,326.0 1473.6,326.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>HEDKEPNO_00680 | pqiC | Transport/efflux | Intermembrane transport lipoprotein PqiC | PANEL HIT: pqiC (Transportation / Transportation) | pident=37.433000 qcovs=100.000000</title></polygon>
+<text x="1568.8" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pqiC (pqiC)</text>
+<text x="452.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">756,524 bp</text>
+<text x="1664.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">760,114 bp</text>
+<rect x="18" y="366" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="366" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="384.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GCF_029269265.1_panelcluster_16008</text>
+<text x="32.0" y="402.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GCF_029269265.1 | c_000000000005 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="418.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: acdA; atoA; atoB; crt; hmgL; pcaI</text>
+<text x="32.0" y="430.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Beta-oxidation; Catechol-ortho; Cyclohexylacetate</text>
+<line x1="452" y1="457.0" x2="1664" y2="457.0" stroke="#d0d0d0"/>
+<polygon points="519.6,446.0 470.0,446.0 452.0,457.0 470.0,468.0 519.6,468.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>HEDKEPNO_01201 | crt | Hydratase/dehydratase/isomerase | Short-chain-enoyl-CoA hydratase | PANEL HIT: crt (Beta-oxidation / Beta-oxidation) | pident=38.462000 qcovs=95.000000</title></polygon>
+<text x="485.8" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">crt (crt)</text>
+<polygon points="630.0,446.0 546.9,446.0 528.9,457.0 546.9,468.0 630.0,468.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>HEDKEPNO_01202 | acdA | Dehydrogenase/oxidoreductase | Acyl-CoA dehydrogenase | PANEL HIT: acdA (Beta-oxidation / Beta-oxidation) | pident=43.684000 qcovs=100.000000</title></polygon>
+<text x="579.5" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">acdA (acdA)</text>
+<polygon points="775.6,446.0 662.9,446.0 644.9,457.0 662.9,468.0 775.6,468.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>HEDKEPNO_01203 | mmsA | Dehydrogenase/oxidoreductase | Methylmalonate-semialdehyde dehydrogenase [acylating]</title></polygon>
+<text x="710.2" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">mmsA</text>
+<polygon points="890.5,446.0 805.0,446.0 787.0,457.0 805.0,468.0 890.5,468.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>HEDKEPNO_01204 | thlA | Thiolase/transferase | Acetyl-CoA acetyltransferase | PANEL HIT: atoB (Beta-oxidation / Beta-oxidation) | pident=52.591000 qcovs=98.000000</title></polygon>
+<text x="838.8" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">thlA (atoB)</text>
+<polygon points="914.0,446.0 939.2,446.0 951.7,457.0 939.2,468.0 914.0,468.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HEDKEPNO_01205 | HEDKEPNO_01205 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="932.8" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">HEDKEPNO_01205</text>
+<polygon points="960.5,446.0 1044.7,446.0 1062.7,457.0 1044.7,468.0 960.5,468.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>HEDKEPNO_01206 | mmgC | Dehydrogenase/oxidoreductase | Acyl-CoA dehydrogenase | PANEL HIT: acdA (Beta-oxidation / Beta-oxidation) | pident=42.440000 qcovs=99.000000</title></polygon>
+<text x="1011.6" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">mmgC (acdA)</text>
+<polygon points="1072.0,446.0 1194.4,446.0 1212.4,457.0 1194.4,468.0 1072.0,468.0" fill="#6a3d9a" stroke="#888" stroke-width="0.8"><title>HEDKEPNO_01207 | HEDKEPNO_01207 | Carboxylase | Methylmalonyl-CoA carboxyltransferase 12S subunit</title></polygon>
+<text x="1142.2" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">HEDKEPNO_01207</text>
+<polygon points="1214.0,446.0 1265.7,446.0 1283.7,457.0 1265.7,468.0 1214.0,468.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>HEDKEPNO_01208 | menB_2 | Hydratase/dehydratase/isomerase | 1,4-dihydroxy-2-naphthoyl-CoA synthase</title></polygon>
+<text x="1248.8" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">menB_2</text>
+<polygon points="1284.9,446.0 1439.5,446.0 1457.5,457.0 1439.5,468.0 1284.9,468.0" fill="#6a3d9a" stroke="#888" stroke-width="0.8"><title>HEDKEPNO_01209 | accA1 | Carboxylase | Acetyl-/propionyl-coenzyme A carboxylase alpha chain</title></polygon>
+<text x="1371.2" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">accA1</text>
+<polygon points="1459.8,446.0 1523.8,446.0 1541.8,457.0 1523.8,468.0 1459.8,468.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>HEDKEPNO_01210 | liuE | Hydrolase/decarboxylase/lyase | 3-hydroxy-3-isohexenylglutaryl-CoA/hydroxy-methylglutaryl-CoA lyase | PANEL HIT: hmgL (Cyclohexylacetate / Cyclohexylacetate) | pident=66.892000 qcovs=99.000000</title></polygon>
+<text x="1500.8" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">liuE (hmgL)</text>
+<polygon points="1544.3,446.0 1587.6,446.0 1605.6,457.0 1587.6,468.0 1544.3,468.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>HEDKEPNO_01211 | scoA | Thiolase/transferase | putative succinyl-CoA:3-ketoacid coenzyme A transferase subunit A | PANEL HIT: pcaI (Catechol-ortho / Catechol-ortho) | pident=46.575000 qcovs=95.000000</title></polygon>
+<text x="1574.9" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">scoA (pcaI)</text>
+<polygon points="1606.6,446.0 1646.0,446.0 1664.0,457.0 1646.0,468.0 1606.6,468.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>HEDKEPNO_01212 | scoB | Thiolase/transferase | putative succinyl-CoA:3-ketoacid coenzyme A transferase subunit B | PANEL HIT: atoA (Cyclohexylacetate / Cyclohexylacetate) | pident=49.524000 qcovs=96.000000</title></polygon>
+<text x="1635.3" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">scoB (atoA)</text>
+<text x="452.0" y="394.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">21,238 bp</text>
+<text x="1664.0" y="394.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">35,118 bp</text>
+<rect x="18" y="508" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="508" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="526.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GCF_029269265.1_panelcluster_16020</text>
+<text x="32.0" y="544.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GCF_029269265.1 | c_000000000018 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="560.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: hmgL; pchA; uctC</text>
+<text x="32.0" y="572.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Cyclohexylacetate; Oxalate</text>
+<line x1="452" y1="599.0" x2="1664" y2="599.0" stroke="#d0d0d0"/>
+<polygon points="527.2,588.0 470.0,588.0 452.0,599.0 470.0,610.0 527.2,610.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>HEDKEPNO_02379 | ccl | Hydrolase/decarboxylase/lyase | (R)-citramalyl-CoA lyase | PANEL HIT: hmgL (Cyclohexylacetate / Cyclohexylacetate) | pident=43.116000 qcovs=91.000000</title></polygon>
+<text x="489.6" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 489.6 623.0)" fill="#111">ccl (hmgL)</text>
+<polygon points="626.9,588.0 547.0,588.0 529.0,599.0 547.0,610.0 626.9,610.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>HEDKEPNO_02380 | uctC | Thiolase/transferase | Acetyl-CoA:oxalate CoA-transferase | PANEL HIT: uctC (Oxalate / Oxalate) | pident=35.556000 qcovs=89.000000</title></polygon>
+<text x="577.9" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 577.9 623.0)" fill="#111">uctC (uctC)</text>
+<polygon points="721.5,588.0 657.0,588.0 639.0,599.0 657.0,610.0 721.5,610.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HEDKEPNO_02381 | HEDKEPNO_02381 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="680.2" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 680.2 623.0)" fill="#555">HEDKEPNO_02381</text>
+<polygon points="789.5,588.0 744.1,588.0 726.1,599.0 744.1,610.0 789.5,610.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>HEDKEPNO_02382 | maiA_2 | Hydratase/dehydratase/isomerase | Maleate isomerase</title></polygon>
+<text x="757.8" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 757.8 623.0)" fill="#555">maiA_2</text>
+<polygon points="822.5,588.0 867.6,588.0 885.6,599.0 867.6,610.0 822.5,610.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>HEDKEPNO_02383 | nagR | Regulator | HTH-type transcriptional repressor NagR</title></polygon>
+<text x="854.1" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 854.1 623.0)" fill="#555">nagR</text>
+<polygon points="891.3,588.0 916.2,588.0 928.5,599.0 916.2,610.0 891.3,610.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HEDKEPNO_02384 | HEDKEPNO_02384 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="909.9" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 909.9 623.0)" fill="#555">HEDKEPNO_02384</text>
+<polygon points="1040.2,588.0 951.7,588.0 933.7,599.0 951.7,610.0 1040.2,610.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>HEDKEPNO_02385 | mamZ_2 | Accessory/other | Magnetosome protein MamZ</title></polygon>
+<text x="987.0" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 987.0 623.0)" fill="#555">mamZ_2</text>
+<polygon points="1098.9,588.0 1058.9,588.0 1040.9,599.0 1058.9,610.0 1098.9,610.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HEDKEPNO_02386 | HEDKEPNO_02386 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1069.9" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1069.9 623.0)" fill="#555">HEDKEPNO_02386</text>
+<polygon points="1112.3,588.0 1231.6,588.0 1249.6,599.0 1231.6,610.0 1112.3,610.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>HEDKEPNO_02387 | amiF | Accessory/other | Formamidase</title></polygon>
+<text x="1180.9" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1180.9 623.0)" fill="#555">amiF</text>
+<polygon points="1253.9,588.0 1297.1,588.0 1315.1,599.0 1297.1,610.0 1253.9,610.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HEDKEPNO_02388 | HEDKEPNO_02388 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1284.5" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1284.5 623.0)" fill="#555">HEDKEPNO_02388</text>
+<polygon points="1321.4,588.0 1407.0,588.0 1425.0,599.0 1407.0,610.0 1321.4,610.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>HEDKEPNO_02389 | ydbM | Dehydrogenase/oxidoreductase | Putative acyl-CoA dehydrogenase YdbM</title></polygon>
+<text x="1373.2" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1373.2 623.0)" fill="#555">ydbM</text>
+<polygon points="1426.3,588.0 1525.6,588.0 1543.6,599.0 1525.6,610.0 1426.3,610.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>HEDKEPNO_02390 | HEDKEPNO_02390 | Dehydrogenase/oxidoreductase | Putative aldehyde dehydrogenase</title></polygon>
+<text x="1484.9" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1484.9 623.0)" fill="#555">HEDKEPNO_02390</text>
+<polygon points="1544.8,588.0 1646.0,588.0 1664.0,599.0 1646.0,610.0 1544.8,610.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>HEDKEPNO_02391 | yfmT | Dehydrogenase/oxidoreductase | Benzaldehyde dehydrogenase YfmT | PANEL HIT: pchA (Aromatics / Toluene) | pident=35.684000 qcovs=94.000000</title></polygon>
+<text x="1604.4" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1604.4 623.0)" fill="#111">yfmT (pchA)</text>
+<text x="452.0" y="536.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">423,888 bp</text>
+<text x="1664.0" y="536.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">438,739 bp</text>
+<text x="24.0" y="668.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="678" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="688.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="678" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="688.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="678" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="688.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="678" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="688.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="700" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="710.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="700" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="710.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="700" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="710.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="700" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="710.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="722" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="732.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="722" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="732.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="722" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="732.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="722" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="732.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="744" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="754.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="776" viewBox="0 0 1700 776">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<text x="24.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="start" fill="#222">GROW_73_consensus: reference-panel operon/cluster gene maps</text>
+<text x="24.0" y="56.0" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#555">4 shortlisted clusters (&gt;=3 independent panel gene hits) for this genome</text>
+<text x="24.0" y="74.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="start" fill="#555">Arrow direction shows CDS strand. Color shows enzyme class. Bold outline = reference-panel seed hit.</text>
+<rect x="18" y="82" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="82" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="100.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GROW_73_consensus_panelcluster_17562</text>
+<text x="32.0" y="118.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GROW_73_consensus | 1 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="134.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: fadI; fadJ; fadL</text>
+<text x="32.0" y="146.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Beta-oxidation; Catechol-ortho; Transportation</text>
+<line x1="452" y1="173.0" x2="1664" y2="173.0" stroke="#d0d0d0"/>
+<polygon points="721.6,162.0 470.0,162.0 452.0,173.0 470.0,184.0 721.6,184.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>COLLAGROW73CONSE_01412 | fadL | Transport/efflux | Long-chain fatty acid transport protein | PANEL HIT: fadL (Transportation / Transportation) | pident=64.901000 qcovs=100.000000</title></polygon>
+<text x="586.8" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">fadL (fadL)</text>
+<polygon points="809.3,162.0 861.6,162.0 879.6,173.0 861.6,184.0 809.3,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>COLLAGROW73CONSE_01413 | COLLAGROW73CONSE_01413 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="844.4" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">COLLAGROW73CONSE_01413</text>
+<polygon points="923.2,162.0 1182.4,162.0 1200.4,173.0 1182.4,184.0 923.2,184.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>COLLAGROW73CONSE_01414 | fadI | Thiolase/transferase | 3-ketoacyl-CoA thiolase FadI | PANEL HIT: fadI (Catechol-ortho / Catechol-ortho) | pident=79.080000 qcovs=99.000000</title></polygon>
+<text x="1061.8" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">fadI (fadI)</text>
+<polygon points="1199.5,162.0 1646.0,162.0 1664.0,173.0 1646.0,184.0 1199.5,184.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>COLLAGROW73CONSE_01415 | fadJ | Accessory/other | Fatty acid oxidation complex subunit alpha | PANEL HIT: fadJ (Beta-oxidation / Beta-oxidation) | pident=66.948000 qcovs=99.000000</title></polygon>
+<text x="1431.8" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">fadJ (fadJ)</text>
+<text x="452.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">1,348,739 bp</text>
+<text x="1664.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">1,354,484 bp</text>
+<rect x="18" y="224" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="224" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="242.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GROW_73_consensus_panelcluster_17569</text>
+<text x="32.0" y="260.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GROW_73_consensus | 1 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="276.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: pqiA; pqiB; pqiC; ssuD</text>
+<text x="32.0" y="288.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Transportation</text>
+<line x1="452" y1="315.0" x2="1664" y2="315.0" stroke="#d0d0d0"/>
+<polygon points="554.3,304.0 470.0,304.0 452.0,315.0 470.0,326.0 554.3,326.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>COLLAGROW73CONSE_01697 | ssuD | Oxygenase/dioxygenase | Alkanesulfonate monooxygenase | PANEL HIT: ssuD (Alkanes / Auxillary alkane pathway) | pident=81.102000 qcovs=99.000000</title></polygon>
+<text x="503.2" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">ssuD (ssuD)</text>
+<polygon points="645.9,304.0 577.5,304.0 559.5,315.0 577.5,326.0 645.9,326.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>COLLAGROW73CONSE_01698 | ssuA_1 | Accessory/other | Putative aliphatic sulfonates-binding protein</title></polygon>
+<text x="602.7" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">ssuA_1</text>
+<polygon points="699.1,304.0 664.5,304.0 647.5,315.0 664.5,326.0 699.1,326.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>COLLAGROW73CONSE_01699 | ssuE | Dehydrogenase/oxidoreductase | FMN reductase (NADPH)</title></polygon>
+<text x="673.3" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">ssuE</text>
+<polygon points="727.0,304.0 798.5,304.0 816.5,315.0 798.5,326.0 727.0,326.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>COLLAGROW73CONSE_01700 | pyrD | Dehydrogenase/oxidoreductase | Dihydroorotate dehydrogenase (quinone)</title></polygon>
+<text x="771.8" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">pyrD</text>
+<polygon points="832.8,304.0 865.4,304.0 881.5,315.0 865.4,326.0 832.8,326.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>COLLAGROW73CONSE_01701 | zapC | Accessory/other | Cell division protein ZapC</title></polygon>
+<text x="857.2" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">zapC</text>
+<polygon points="981.9,304.0 902.1,304.0 884.1,315.0 902.1,326.0 981.9,326.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>COLLAGROW73CONSE_01702 | ycbX_2 | Accessory/other | putative protein YcbX</title></polygon>
+<text x="933.0" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">ycbX_2</text>
+<polygon points="991.7,304.0 1161.6,304.0 1179.6,315.0 1161.6,326.0 991.7,326.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>COLLAGROW73CONSE_01703 | rlmL | Accessory/other | Ribosomal RNA large subunit methyltransferase K/L</title></polygon>
+<text x="1085.6" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">rlmL</text>
+<polygon points="1180.0,304.0 1330.8,304.0 1348.8,315.0 1330.8,326.0 1180.0,326.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>COLLAGROW73CONSE_01704 | uup | Transport/efflux | ABC transporter ATP-binding protein uup</title></polygon>
+<text x="1264.4" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">uup</text>
+<polygon points="1356.0,304.0 1450.7,304.0 1468.7,315.0 1450.7,326.0 1356.0,326.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>COLLAGROW73CONSE_01705 | pqiA_1 | Transport/efflux | Intermembrane transport protein PqiA | PANEL HIT: pqiA (Transportation / Transportation) | pident=67.626000 qcovs=99.000000</title></polygon>
+<text x="1412.3" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pqiA_1 (pqiA)</text>
+<polygon points="1467.4,304.0 1595.9,304.0 1613.9,315.0 1595.9,326.0 1467.4,326.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>COLLAGROW73CONSE_01706 | pqiB_1 | Transport/efflux | Intermembrane transport protein PqiB | PANEL HIT: pqiB (Transportation / Transportation) | pident=67.339000 qcovs=99.000000</title></polygon>
+<text x="1540.6" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pqiB_1 (pqiB)</text>
+<polygon points="1613.8,304.0 1647.4,304.0 1664.0,315.0 1647.4,326.0 1613.8,326.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>COLLAGROW73CONSE_01707 | pqiC | Transport/efflux | Intermembrane transport lipoprotein PqiC | PANEL HIT: pqiC (Transportation / Transportation) | pident=52.910000 qcovs=98.000000</title></polygon>
+<text x="1638.9" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pqiC (pqiC)</text>
+<text x="452.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">1,707,940 bp</text>
+<text x="1664.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">1,721,620 bp</text>
+<rect x="18" y="366" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="366" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="384.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GROW_73_consensus_panelcluster_17573</text>
+<text x="32.0" y="402.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GROW_73_consensus | 1 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="418.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: galA; galB; galC; galD; galR; galT</text>
+<text x="32.0" y="430.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Gallate</text>
+<line x1="452" y1="457.0" x2="1664" y2="457.0" stroke="#d0d0d0"/>
+<polygon points="578.1,446.0 470.0,446.0 452.0,457.0 470.0,468.0 578.1,468.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>COLLAGROW73CONSE_02158 | galD | Accessory/other | 4-oxalomesaconate tautomerase | PANEL HIT: galD (Gallate / Gallate) | pident=66.942000 qcovs=99.000000</title></polygon>
+<text x="515.1" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">galD (galD)</text>
+<polygon points="660.6,446.0 597.2,446.0 579.2,457.0 597.2,468.0 660.6,468.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>COLLAGROW73CONSE_02159 | galC | Hydrolase/decarboxylase/lyase | 4-carboxy-4-hydroxy-2-oxoadipic acid aldolase | PANEL HIT: galC (Gallate / Gallate) | pident=70.513000 qcovs=98.000000</title></polygon>
+<text x="619.9" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">galC (galC)</text>
+<polygon points="743.9,446.0 678.1,446.0 660.1,457.0 678.1,468.0 743.9,468.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>COLLAGROW73CONSE_02160 | galB | Hydratase/dehydratase/isomerase | 4-oxalmesaconate hydratase | PANEL HIT: galB (Gallate / Gallate) | pident=85.774000 qcovs=93.000000</title></polygon>
+<text x="702.0" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">galB (galB)</text>
+<polygon points="760.7,446.0 880.6,446.0 898.6,457.0 880.6,468.0 760.7,468.0" fill="#fdbf6f" stroke="#111" stroke-width="2.2"><title>COLLAGROW73CONSE_02161 | hdfR_5 | Regulator | HTH-type transcriptional regulator HdfR | PANEL HIT: galR (Gallate / Gallate) | pident=59.848000 qcovs=97.000000</title></polygon>
+<text x="829.6" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">hdfR_5 (galR)</text>
+<polygon points="939.1,446.0 1045.9,446.0 1063.9,457.0 1045.9,468.0 939.1,468.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>COLLAGROW73CONSE_02162 | rfaB | Accessory/other | Lipopolysaccharide 1,6-galactosyltransferase</title></polygon>
+<text x="1001.5" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">rfaB</text>
+<polygon points="1063.0,446.0 1185.6,446.0 1203.6,457.0 1185.6,468.0 1063.0,468.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>COLLAGROW73CONSE_02163 | rfaL_1 | Accessory/other | O-antigen ligase</title></polygon>
+<text x="1133.3" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">rfaL_1</text>
+<polygon points="1261.0,446.0 1227.9,446.0 1211.6,457.0 1227.9,468.0 1261.0,468.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>COLLAGROW73CONSE_02164 | aroQ_2 | Hydratase/dehydratase/isomerase | 3-dehydroquinate dehydratase</title></polygon>
+<text x="1236.3" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">aroQ_2</text>
+<polygon points="1356.3,446.0 1280.8,446.0 1262.8,457.0 1280.8,468.0 1356.3,468.0" fill="#b15928" stroke="#888" stroke-width="0.8"><title>COLLAGROW73CONSE_02165 | COLLAGROW73CONSE_02165 | Hydrolase/decarboxylase/lyase | 4-sulfomuconolactone hydrolase</title></polygon>
+<text x="1309.6" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">COLLAGROW73CONSE_02165</text>
+<polygon points="1497.5,446.0 1373.9,446.0 1355.9,457.0 1373.9,468.0 1497.5,468.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>COLLAGROW73CONSE_02166 | galA | Oxygenase/dioxygenase | Gallate dioxygenase | PANEL HIT: galA (Gallate / Gallate) | pident=73.373000 qcovs=99.000000</title></polygon>
+<text x="1426.7" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">galA (galA)</text>
+<polygon points="1664.0,446.0 1527.3,446.0 1509.3,457.0 1527.3,468.0 1664.0,468.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>COLLAGROW73CONSE_02167 | pcaK | Transport/efflux | 4-hydroxybenzoate transporter PcaK | PANEL HIT: galT (Gallate / Gallate) | pident=54.348000 qcovs=92.000000</title></polygon>
+<text x="1586.6" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pcaK (galT)</text>
+<text x="452.0" y="394.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">2,176,146 bp</text>
+<text x="1664.0" y="394.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">2,186,954 bp</text>
+<rect x="18" y="508" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="508" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="526.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">GROW_73_consensus_panelcluster_17589</text>
+<text x="32.0" y="544.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">GROW_73_consensus | 1 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="560.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: mlaD; mlaE; mlaF</text>
+<text x="32.0" y="572.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Transportation</text>
+<line x1="452" y1="599.0" x2="1664" y2="599.0" stroke="#d0d0d0"/>
+<polygon points="768.4,588.0 470.0,588.0 452.0,599.0 470.0,610.0 768.4,610.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>COLLAGROW73CONSE_04371 | mlaD | Transport/efflux | Intermembrane phospholipid transport system binding protein MlaD | PANEL HIT: mlaD (Transportation / Transportation) | pident=70.130000 qcovs=84.000000</title></polygon>
+<text x="610.2" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">mlaD (mlaD)</text>
+<polygon points="1207.0,588.0 788.1,588.0 770.1,599.0 788.1,610.0 1207.0,610.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>COLLAGROW73CONSE_04372 | mlaE | Transport/efflux | Intermembrane phospholipid transport system permease protein MlaE | PANEL HIT: mlaE (Transportation / Transportation) | pident=83.846000 qcovs=100.000000</title></polygon>
+<text x="988.5" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">mlaE (mlaE)</text>
+<polygon points="1664.0,588.0 1233.4,588.0 1215.4,599.0 1233.4,610.0 1664.0,610.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>COLLAGROW73CONSE_04373 | mlaF | Transport/efflux | Intermembrane phospholipid transport system ATP-binding protein MlaF | PANEL HIT: mlaF (Transportation / Transportation) | pident=75.940000 qcovs=99.000000</title></polygon>
+<text x="1439.7" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">mlaF (mlaF)</text>
+<text x="452.0" y="536.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">4,535,731 bp</text>
+<text x="1664.0" y="536.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">4,537,902 bp</text>
+<text x="24.0" y="668.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="678" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="688.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="678" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="688.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="678" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="688.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="678" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="688.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="700" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="710.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="700" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="710.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="700" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="710.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="700" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="710.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="722" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="732.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="722" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="732.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="722" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="732.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="722" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="732.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="744" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="754.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

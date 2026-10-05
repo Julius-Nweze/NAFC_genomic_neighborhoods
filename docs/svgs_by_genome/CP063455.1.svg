@@ -1,0 +1,791 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="4042" viewBox="0 0 1700 4042">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<text x="24.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="start" fill="#222">CP063455.1: reference-panel operon/cluster gene maps</text>
+<text x="24.0" y="56.0" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#555">27 shortlisted clusters (&gt;=3 independent panel gene hits) for this genome</text>
+<text x="24.0" y="74.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="start" fill="#555">Arrow direction shows CDS strand. Color shows enzyme class. Bold outline = reference-panel seed hit.</text>
+<rect x="18" y="82" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="82" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="100.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">CP063455.1_panelcluster_363</text>
+<text x="32.0" y="118.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">CP063455.1 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="134.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: dszC; ladA</text>
+<text x="32.0" y="146.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Aromatics</text>
+<line x1="452" y1="173.0" x2="1664" y2="173.0" stroke="#d0d0d0"/>
+<polygon points="882.9,162.0 470.0,162.0 452.0,173.0 470.0,184.0 882.9,184.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>KOALHHAE_00435 | dmoA_1 | Oxygenase/dioxygenase | Dimethyl-sulfide monooxygenase | PANEL HIT: ladA (Alkanes / Terminal/biterminal oxidation) | pident=51.786000 qcovs=98.000000</title></polygon>
+<text x="667.4" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">dmoA_1 (ladA)</text>
+<polygon points="1260.5,162.0 900.6,162.0 882.6,173.0 900.6,184.0 1260.5,184.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>KOALHHAE_00436 | soxC_1 | Accessory/other | Dibenzothiophene desulfurization enzyme C | PANEL HIT: dszC (Aromatics / Dibenzofuran) | pident=33.000000 qcovs=95.000000</title></polygon>
+<text x="1071.5" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">soxC_1 (dszC)</text>
+<polygon points="1664.0,162.0 1290.8,162.0 1272.8,173.0 1290.8,184.0 1664.0,184.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>KOALHHAE_00437 | soxC_2 | Accessory/other | Dibenzothiophene desulfurization enzyme C | PANEL HIT: dszC (Aromatics / Dibenzofuran) | pident=32.514000 qcovs=88.000000</title></polygon>
+<text x="1468.4" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">soxC_2 (dszC)</text>
+<text x="452.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">466,665 bp</text>
+<text x="1664.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">470,512 bp</text>
+<rect x="18" y="224" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="224" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="242.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">CP063455.1_panelcluster_369</text>
+<text x="32.0" y="260.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">CP063455.1 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="276.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: acdB; alkN_mcp</text>
+<text x="32.0" y="288.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Beta-oxidation</text>
+<line x1="452" y1="315.0" x2="1664" y2="315.0" stroke="#d0d0d0"/>
+<polygon points="682.9,304.0 470.0,304.0 452.0,315.0 470.0,326.0 682.9,326.0" fill="#d9d9d9" stroke="#111" stroke-width="2.2"><title>KOALHHAE_00676 | KOALHHAE_00676 | Hypothetical/accessory | hypothetical protein | PANEL HIT: alkN_mcp (Alkanes / Hydrocarbon uptake) | pident=31.420000 qcovs=66.000000</title></polygon>
+<text x="567.5" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">KOALHHAE_00676 (alkN_...</text>
+<polygon points="945.6,304.0 730.6,304.0 712.6,315.0 730.6,326.0 945.6,326.0" fill="#d9d9d9" stroke="#111" stroke-width="2.2"><title>KOALHHAE_00677 | KOALHHAE_00677 | Hypothetical/accessory | hypothetical protein | PANEL HIT: alkN_mcp (Alkanes / Hydrocarbon uptake) | pident=31.861000 qcovs=64.000000</title></polygon>
+<text x="829.1" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">KOALHHAE_00677 (alkN_...</text>
+<polygon points="990.2,304.0 1012.4,304.0 1023.3,315.0 1012.4,326.0 990.2,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KOALHHAE_00678 | KOALHHAE_00678 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1006.8" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">KOALHHAE_00678</text>
+<polygon points="1022.7,304.0 1051.8,304.0 1066.2,315.0 1051.8,326.0 1022.7,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KOALHHAE_00679 | KOALHHAE_00679 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1044.5" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">KOALHHAE_00679</text>
+<polygon points="1083.1,304.0 1342.9,304.0 1360.9,315.0 1342.9,326.0 1083.1,326.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KOALHHAE_00680 | mcpH_1 | Accessory/other | Methyl-accepting chemotaxis protein McpH</title></polygon>
+<text x="1222.0" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">mcpH_1</text>
+<polygon points="1664.0,304.0 1401.6,304.0 1383.6,315.0 1401.6,326.0 1664.0,326.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>KOALHHAE_00681 | dmdC_1 | Dehydrogenase/oxidoreductase | 3-methylmercaptopropionyl-CoA dehydrogenase | PANEL HIT: acdB (Beta-oxidation / Beta-oxidation) | pident=37.521000 qcovs=98.000000</title></polygon>
+<text x="1523.8" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">dmdC_1 (acdB)</text>
+<text x="452.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">735,865 bp</text>
+<text x="1664.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">744,320 bp</text>
+<rect x="18" y="366" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="366" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="384.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">CP063455.1_panelcluster_373</text>
+<text x="32.0" y="402.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">CP063455.1 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="418.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: antA; antB; antC</text>
+<text x="32.0" y="430.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics</text>
+<line x1="452" y1="457.0" x2="1664" y2="457.0" stroke="#d0d0d0"/>
+<polygon points="876.0,446.0 470.0,446.0 452.0,457.0 470.0,468.0 876.0,468.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>KOALHHAE_00941 | antC | Oxygenase/dioxygenase | Anthranilate 1,2-dioxygenase electron transfer component | PANEL HIT: antC (Aromatics / Anthranilate) | pident=59.292000 qcovs=99.000000</title></polygon>
+<text x="664.0" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">antC (antC)</text>
+<polygon points="1087.4,446.0 901.5,446.0 883.5,457.0 901.5,468.0 1087.4,468.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>KOALHHAE_00942 | antB | Oxygenase/dioxygenase | Anthranilate 1,2-dioxygenase small subunit | PANEL HIT: antB (Aromatics / Anthranilate) | pident=52.147000 qcovs=100.000000</title></polygon>
+<text x="985.5" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">antB (antB)</text>
+<polygon points="1664.0,446.0 1106.3,446.0 1088.3,457.0 1106.3,468.0 1664.0,468.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>KOALHHAE_00943 | antA | Oxygenase/dioxygenase | Anthranilate 1,2-dioxygenase large subunit | PANEL HIT: antA (Aromatics / Anthranilate) | pident=75.163000 qcovs=97.000000</title></polygon>
+<text x="1376.1" y="481.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">antA (antA)</text>
+<text x="452.0" y="394.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">1,040,951 bp</text>
+<text x="1664.0" y="394.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">1,043,874 bp</text>
+<rect x="18" y="508" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="508" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="526.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">CP063455.1_panelcluster_377</text>
+<text x="32.0" y="544.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">CP063455.1 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="560.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: mlaD; mlaE; mlaF</text>
+<text x="32.0" y="572.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Transportation</text>
+<line x1="452" y1="599.0" x2="1664" y2="599.0" stroke="#d0d0d0"/>
+<polygon points="452.0,588.0 907.3,588.0 925.3,599.0 907.3,610.0 452.0,610.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>KOALHHAE_01101 | mlaF | Transport/efflux | Intermembrane phospholipid transport system ATP-binding protein MlaF | PANEL HIT: mlaF (Transportation / Transportation) | pident=57.895000 qcovs=99.000000</title></polygon>
+<text x="688.7" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">mlaF (mlaF)</text>
+<polygon points="924.8,588.0 1373.1,588.0 1391.1,599.0 1373.1,610.0 924.8,610.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>KOALHHAE_01102 | mlaE | Transport/efflux | Intermembrane phospholipid transport system permease protein MlaE | PANEL HIT: mlaE (Transportation / Transportation) | pident=62.698000 qcovs=97.000000</title></polygon>
+<text x="1157.9" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">mlaE (mlaE)</text>
+<polygon points="1390.5,588.0 1646.0,588.0 1664.0,599.0 1646.0,610.0 1390.5,610.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>KOALHHAE_01103 | mlaD | Transport/efflux | Intermembrane phospholipid transport system binding protein MlaD | PANEL HIT: mlaD (Transportation / Transportation) | pident=46.250000 qcovs=87.000000</title></polygon>
+<text x="1527.3" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">mlaD (mlaD)</text>
+<text x="452.0" y="536.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">1,210,825 bp</text>
+<text x="1664.0" y="536.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">1,212,898 bp</text>
+<rect x="18" y="650" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="650" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="668.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">CP063455.1_panelcluster_379</text>
+<text x="32.0" y="686.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">CP063455.1 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="702.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: galT; hmgA; mhbl</text>
+<text x="32.0" y="714.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Gallate; Gentisate</text>
+<line x1="452" y1="741.0" x2="1664" y2="741.0" stroke="#d0d0d0"/>
+<polygon points="452.0,730.0 765.6,730.0 783.6,741.0 765.6,752.0 452.0,752.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>KOALHHAE_01146 | hmgA | Oxygenase/dioxygenase | Homogentisate 1,2-dioxygenase | PANEL HIT: hmgA (Aromatics / Homogentisate) | pident=81.336000 qcovs=100.000000</title></polygon>
+<text x="617.8" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">hmgA (hmgA)</text>
+<polygon points="784.3,730.0 1097.2,730.0 1115.2,741.0 1097.2,752.0 784.3,752.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KOALHHAE_01147 | KOALHHAE_01147 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="949.8" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">KOALHHAE_01147</text>
+<polygon points="1118.2,730.0 1262.6,730.0 1280.6,741.0 1262.6,752.0 1118.2,752.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>KOALHHAE_01148 | nagL | Hydratase/dehydratase/isomerase | Maleylpyruvate isomerase | PANEL HIT: mhbl (Gentisate / Gentisate) | pident=44.186000 qcovs=99.000000</title></polygon>
+<text x="1199.4" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">nagL (mhbl)</text>
+<polygon points="1315.6,730.0 1646.0,730.0 1664.0,741.0 1646.0,752.0 1315.6,752.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>KOALHHAE_01149 | pcaK_1 | Transport/efflux | 4-hydroxybenzoate transporter PcaK | PANEL HIT: galT (Gallate / Gallate) | pident=40.000000 qcovs=93.000000</title></polygon>
+<text x="1489.8" y="765.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pcaK_1 (galT)</text>
+<text x="452.0" y="678.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">1,255,078 bp</text>
+<text x="1664.0" y="678.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">1,259,847 bp</text>
+<rect x="18" y="792" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="792" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="810.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">CP063455.1_panelcluster_385</text>
+<text x="32.0" y="828.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">CP063455.1 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="844.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: galP; pcaB; pcaC; pcaD; pcaF; pcaG; pcaH; pcaK</text>
+<text x="32.0" y="856.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Catechol-ortho; Gallate; Protocatechuate;</text>
+<text x="32.0" y="868.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Transportation</text>
+<line x1="452" y1="883.0" x2="1664" y2="883.0" stroke="#d0d0d0"/>
+<polygon points="452.0,872.0 579.9,872.0 597.9,883.0 579.9,894.0 452.0,894.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>KOALHHAE_01512 | pcaK_2 | Transport/efflux | 4-hydroxybenzoate transporter PcaK | PANEL HIT: pcaK (Transportation / Transportation) | pident=86.130000 qcovs=99.000000</title></polygon>
+<text x="524.9" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pcaK_2 (pcaK)</text>
+<polygon points="618.4,872.0 693.3,872.0 711.3,883.0 693.3,894.0 618.4,894.0" fill="#a6cee3" stroke="#888" stroke-width="0.8"><title>KOALHHAE_01513 | catI | Thiolase/transferase | 3-oxoadipate CoA-transferase subunit A</title></polygon>
+<text x="664.9" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">catI</text>
+<polygon points="711.2,872.0 777.7,872.0 795.7,883.0 777.7,894.0 711.2,894.0" fill="#a6cee3" stroke="#888" stroke-width="0.8"><title>KOALHHAE_01514 | catJ | Thiolase/transferase | 3-oxoadipate CoA-transferase subunit B</title></polygon>
+<text x="753.5" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">catJ</text>
+<polygon points="795.6,872.0 907.8,872.0 925.8,883.0 907.8,894.0 795.6,894.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>KOALHHAE_01515 | pcaF | Thiolase/transferase | Beta-ketoadipyl-CoA thiolase | PANEL HIT: pcaF (Catechol-ortho; Protocatechuate / Protocatechuate) | pident=91.500000 qcovs=100.000000</title></polygon>
+<text x="860.7" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pcaF (pcaF)</text>
+<polygon points="929.8,872.0 988.2,872.0 1006.2,883.0 988.2,894.0 929.8,894.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>KOALHHAE_01516 | pcaH_1 | Oxygenase/dioxygenase | Protocatechuate 3,4-dioxygenase beta chain | PANEL HIT: pcaH (Protocatechuate / Protocatechuate) | pident=50.901000 qcovs=93.000000</title></polygon>
+<text x="968.0" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pcaH_1 (pcaH)</text>
+<polygon points="1006.3,872.0 1049.7,872.0 1067.7,883.0 1049.7,894.0 1006.3,894.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>KOALHHAE_01517 | pcaG_1 | Oxygenase/dioxygenase | Protocatechuate 3,4-dioxygenase alpha chain | PANEL HIT: pcaG (Protocatechuate / Protocatechuate) | pident=40.000000 qcovs=98.000000</title></polygon>
+<text x="1037.0" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pcaG_1 (pcaG)</text>
+<polygon points="1094.9,872.0 1217.2,872.0 1235.2,883.0 1217.2,894.0 1094.9,894.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>KOALHHAE_01518 | kgtP_1 | Transport/efflux | Alpha-ketoglutarate permease</title></polygon>
+<text x="1165.0" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">kgtP_1</text>
+<polygon points="1240.4,872.0 1370.2,872.0 1388.2,883.0 1370.2,894.0 1240.4,894.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>KOALHHAE_01519 | pcaB | Hydratase/dehydratase/isomerase | 3-carboxy-cis,cis-muconate cycloisomerase | PANEL HIT: pcaB (Protocatechuate / Protocatechuate) | pident=77.435000 qcovs=99.000000</title></polygon>
+<text x="1314.3" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pcaB (pcaB)</text>
+<polygon points="1389.4,872.0 1456.8,872.0 1474.8,883.0 1456.8,894.0 1389.4,894.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>KOALHHAE_01520 | catD_2 | Hydrolase/decarboxylase/lyase | 3-oxoadipate enol-lactonase 2 | PANEL HIT: pcaD (Catechol-ortho; Protocatechuate / Protocatechuate) | pident=68.702000 qcovs=99.000000</title></polygon>
+<text x="1432.1" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">catD_2 (pcaD)</text>
+<polygon points="1477.2,872.0 1505.7,872.0 1519.8,883.0 1505.7,894.0 1477.2,894.0" fill="#d9d9d9" stroke="#111" stroke-width="2.2"><title>KOALHHAE_01521 | KOALHHAE_01521 | Hypothetical/accessory | hypothetical protein | PANEL HIT: pcaC (Protocatechuate / Protocatechuate) | pident=55.200000 qcovs=93.000000</title></polygon>
+<text x="1498.5" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">KOALHHAE_01521 (pcaC)</text>
+<polygon points="1664.0,872.0 1545.2,872.0 1527.2,883.0 1545.2,894.0 1664.0,894.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>KOALHHAE_01522 | nicP_2 | Transport/efflux | Porin-like protein NicP | PANEL HIT: galP (Gallate / Gallate) | pident=67.506000 qcovs=95.000000</title></polygon>
+<text x="1595.6" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">nicP_2 (galP)</text>
+<text x="452.0" y="820.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">1,655,766 bp</text>
+<text x="1664.0" y="820.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">1,666,958 bp</text>
+<rect x="18" y="934" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="934" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="952.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">CP063455.1_panelcluster_387</text>
+<text x="32.0" y="970.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">CP063455.1 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="986.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: fadA; fadJ; nagR; pimC/aabA; pimD</text>
+<text x="32.0" y="998.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Beta-oxidation; Cyclohexanecarboxylate;</text>
+<text x="32.0" y="1010.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Naphthalene</text>
+<line x1="452" y1="1025.0" x2="1664" y2="1025.0" stroke="#d0d0d0"/>
+<polygon points="513.6,1014.0 470.0,1014.0 452.0,1025.0 470.0,1036.0 513.6,1036.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>KOALHHAE_01630 | KOALHHAE_01630 | Dehydrogenase/oxidoreductase | Acyl-CoA dehydrogenase fadE12 | PANEL HIT: pimD (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=40.849000 qcovs=99.000000</title></polygon>
+<text x="482.8" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 482.8 1049.0)" fill="#111">KOALHHAE_01630 (pimD)</text>
+<polygon points="578.1,1014.0 532.1,1014.0 514.1,1025.0 532.1,1036.0 578.1,1036.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>KOALHHAE_01631 | KOALHHAE_01631 | Dehydrogenase/oxidoreductase | Putative acyl-CoA dehydrogenase FadE17 | PANEL HIT: pimC/aabA (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=50.500000 qcovs=100.000000</title></polygon>
+<text x="546.1" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 546.1 1049.0)" fill="#111">KOALHHAE_01631 (pimC/...</text>
+<polygon points="642.5,1014.0 596.6,1014.0 578.6,1025.0 596.6,1036.0 642.5,1036.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>KOALHHAE_01632 | fadA_1 | Thiolase/transferase | 3-ketoacyl-CoA thiolase | PANEL HIT: fadA (Beta-oxidation / Beta-oxidation) | pident=44.020000 qcovs=99.000000</title></polygon>
+<text x="610.5" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 610.5 1049.0)" fill="#111">fadA_1 (fadA)</text>
+<polygon points="757.6,1014.0 661.3,1014.0 643.3,1025.0 661.3,1036.0 757.6,1036.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>KOALHHAE_01633 | fadJ_1 | Accessory/other | Fatty acid oxidation complex subunit alpha | PANEL HIT: fadJ (Beta-oxidation / Beta-oxidation) | pident=35.653000 qcovs=97.000000</title></polygon>
+<text x="700.4" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 700.4 1049.0)" fill="#111">fadJ_1 (fadJ)</text>
+<polygon points="774.2,1014.0 800.6,1014.0 813.6,1025.0 800.6,1036.0 774.2,1036.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>KOALHHAE_01634 | mcbR_1 | Regulator | HTH-type transcriptional regulator McbR</title></polygon>
+<text x="793.9" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 793.9 1049.0)" fill="#555">mcbR_1</text>
+<polygon points="813.4,1014.0 841.8,1014.0 855.9,1025.0 841.8,1036.0 813.4,1036.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>KOALHHAE_01635 | bacC_1 | Dehydrogenase/oxidoreductase | Dihydroanticapsin 7-dehydrogenase</title></polygon>
+<text x="834.6" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 834.6 1049.0)" fill="#555">bacC_1</text>
+<polygon points="861.2,1014.0 894.9,1014.0 911.5,1025.0 894.9,1036.0 861.2,1036.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KOALHHAE_01636 | kce_1 | Accessory/other | 3-keto-5-aminohexanoate cleavage enzyme</title></polygon>
+<text x="886.3" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 886.3 1049.0)" fill="#555">kce_1</text>
+<polygon points="915.7,1014.0 970.4,1014.0 988.4,1025.0 970.4,1036.0 915.7,1036.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>KOALHHAE_01637 | ttuB_1 | Transport/efflux | Putative tartrate transporter</title></polygon>
+<text x="952.1" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 952.1 1049.0)" fill="#555">ttuB_1</text>
+<polygon points="1017.7,1014.0 1038.7,1014.0 1049.1,1025.0 1038.7,1036.0 1017.7,1036.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KOALHHAE_01638 | lpfA | Accessory/other | putative major fimbrial subunit LpfA</title></polygon>
+<text x="1033.4" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1033.4 1049.0)" fill="#555">lpfA</text>
+<polygon points="1050.6,1014.0 1077.9,1014.0 1091.3,1025.0 1077.9,1036.0 1050.6,1036.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KOALHHAE_01639 | yadV_1 | Accessory/other | putative fimbrial chaperone YadV</title></polygon>
+<text x="1071.0" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1071.0 1049.0)" fill="#555">yadV_1</text>
+<polygon points="1094.9,1014.0 1222.5,1014.0 1240.5,1025.0 1222.5,1036.0 1094.9,1036.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KOALHHAE_01640 | htrE_1 | Accessory/other | Outer membrane usher protein HtrE</title></polygon>
+<text x="1167.7" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1167.7 1049.0)" fill="#555">htrE_1</text>
+<polygon points="1240.2,1014.0 1267.3,1014.0 1280.6,1025.0 1267.3,1036.0 1240.2,1036.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KOALHHAE_01641 | yadV_2 | Accessory/other | putative fimbrial chaperone YadV</title></polygon>
+<text x="1260.4" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1260.4 1049.0)" fill="#555">yadV_2</text>
+<polygon points="1279.2,1014.0 1356.3,1014.0 1374.3,1025.0 1356.3,1036.0 1279.2,1036.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>KOALHHAE_01642 | hxuB_2 | Transport/efflux | Heme/hemopexin transporter protein HuxB</title></polygon>
+<text x="1326.8" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1326.8 1049.0)" fill="#555">hxuB_2</text>
+<polygon points="1378.4,1014.0 1521.6,1014.0 1539.6,1025.0 1521.6,1036.0 1378.4,1036.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KOALHHAE_01643 | KOALHHAE_01643 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1459.0" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1459.0 1049.0)" fill="#555">KOALHHAE_01643</text>
+<polygon points="1546.8,1014.0 1591.5,1014.0 1609.5,1025.0 1591.5,1036.0 1546.8,1036.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KOALHHAE_01644 | KOALHHAE_01644 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1578.2" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1578.2 1049.0)" fill="#555">KOALHHAE_01644</text>
+<polygon points="1614.4,1014.0 1647.6,1014.0 1664.0,1025.0 1647.6,1036.0 1614.4,1036.0" fill="#fdbf6f" stroke="#111" stroke-width="2.2"><title>KOALHHAE_01645 | leuO_2 | Regulator | HTH-type transcriptional regulator LeuO | PANEL HIT: nagR (Naphthalene / Naphthalene) | pident=33.110000 qcovs=99.000000</title></polygon>
+<text x="1639.2" y="1049.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1639.2 1049.0)" fill="#111">leuO_2 (nagR)</text>
+<text x="452.0" y="962.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">1,772,340 bp</text>
+<text x="1664.0" y="962.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">1,794,840 bp</text>
+<rect x="18" y="1076" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="1076" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="1094.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">CP063455.1_panelcluster_388</text>
+<text x="32.0" y="1112.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">CP063455.1 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="1128.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: benD; bphX3; xylQ</text>
+<text x="32.0" y="1140.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Benzoate; Catechol-meta</text>
+<line x1="452" y1="1167.0" x2="1664" y2="1167.0" stroke="#d0d0d0"/>
+<polygon points="452.0,1156.0 575.6,1156.0 593.6,1167.0 575.6,1178.0 452.0,1178.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>KOALHHAE_01702 | KOALHHAE_01702 | Hydrolase/decarboxylase/lyase | 4-hydroxy-2-oxovalerate aldolase | PANEL HIT: bphX3 (Aromatics / Biphenyl) | pident=38.973000 qcovs=96.000000</title></polygon>
+<text x="522.8" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">KOALHHAE_01702 (bphX3)</text>
+<polygon points="598.7,1156.0 701.9,1156.0 719.9,1167.0 701.9,1178.0 598.7,1178.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>KOALHHAE_01703 | bphJ | Dehydrogenase/oxidoreductase | Acetaldehyde dehydrogenase 4 | PANEL HIT: xylQ (Catechol-meta / Catechol-meta) | pident=42.807000 qcovs=97.000000</title></polygon>
+<text x="659.3" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">bphJ (xylQ)</text>
+<polygon points="725.7,1156.0 1012.4,1156.0 1030.4,1167.0 1012.4,1178.0 725.7,1178.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KOALHHAE_01704 | tobZ_2 | Accessory/other | nebramycin 5&#x27; synthase</title></polygon>
+<text x="878.1" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">tobZ_2</text>
+<polygon points="1035.3,1156.0 1190.2,1156.0 1208.2,1167.0 1190.2,1178.0 1035.3,1178.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KOALHHAE_01705 | kbl | Accessory/other | 2-amino-3-ketobutyrate coenzyme A ligase</title></polygon>
+<text x="1121.7" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">kbl</text>
+<polygon points="1212.1,1156.0 1316.2,1156.0 1334.2,1167.0 1316.2,1178.0 1212.1,1178.0" fill="#b15928" stroke="#888" stroke-width="0.8"><title>KOALHHAE_01706 | citE | Hydrolase/decarboxylase/lyase | Citrate lyase subunit beta</title></polygon>
+<text x="1273.2" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">citE</text>
+<polygon points="1333.7,1156.0 1390.3,1156.0 1408.3,1167.0 1390.3,1178.0 1333.7,1178.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>KOALHHAE_01707 | mch | Hydratase/dehydratase/isomerase | Beta-methylmalyl-CoA dehydratase</title></polygon>
+<text x="1371.0" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">mch</text>
+<polygon points="1407.7,1156.0 1529.6,1156.0 1547.6,1167.0 1529.6,1178.0 1407.7,1178.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>KOALHHAE_01708 | KOALHHAE_01708 | Dehydrogenase/oxidoreductase | Delta(1)-pyrroline-2-carboxylate reductase</title></polygon>
+<text x="1477.6" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">KOALHHAE_01708</text>
+<polygon points="1555.5,1156.0 1646.0,1156.0 1664.0,1167.0 1646.0,1178.0 1555.5,1178.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>KOALHHAE_01709 | ycdF | Dehydrogenase/oxidoreductase | Glucose 1-dehydrogenase 2 | PANEL HIT: benD (Benzoate / Benzoate) | pident=31.923000 qcovs=98.000000</title></polygon>
+<text x="1609.7" y="1191.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">ycdF (benD)</text>
+<text x="452.0" y="1104.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">1,851,883 bp</text>
+<text x="1664.0" y="1104.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">1,860,460 bp</text>
+<rect x="18" y="1218" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="1218" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="1236.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">CP063455.1_panelcluster_399</text>
+<text x="32.0" y="1254.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">CP063455.1 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="1270.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: acdB; aliA; paaH</text>
+<text x="32.0" y="1282.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Beta-oxidation; Phenylacetate</text>
+<line x1="452" y1="1309.0" x2="1664" y2="1309.0" stroke="#d0d0d0"/>
+<polygon points="729.5,1298.0 470.0,1298.0 452.0,1309.0 470.0,1320.0 729.5,1320.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>KOALHHAE_02345 | dmdC_2 | Dehydrogenase/oxidoreductase | 3-methylmercaptopropionyl-CoA dehydrogenase | PANEL HIT: acdB (Beta-oxidation / Beta-oxidation) | pident=47.659000 qcovs=99.000000</title></polygon>
+<text x="590.7" y="1333.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">dmdC_2 (acdB)</text>
+<polygon points="1014.2,1298.0 778.2,1298.0 760.2,1309.0 778.2,1320.0 1014.2,1320.0" fill="#1f78b4" stroke="#111" stroke-width="2.2"><title>KOALHHAE_02346 | KOALHHAE_02346 | CoA ligase/synthetase | Long-chain-fatty-acid--CoA ligase | PANEL HIT: aliA (Beta-oxidation / Beta-oxidation) | pident=34.043000 qcovs=88.000000</title></polygon>
+<text x="887.2" y="1333.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">KOALHHAE_02346 (aliA)</text>
+<polygon points="1042.3,1298.0 1320.1,1298.0 1338.1,1309.0 1320.1,1320.0 1042.3,1320.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KOALHHAE_02347 | sasA_6 | Accessory/other | Adaptive-response sensory-kinase SasA</title></polygon>
+<text x="1190.2" y="1333.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">sasA_6</text>
+<polygon points="1337.5,1298.0 1419.1,1298.0 1437.1,1309.0 1419.1,1320.0 1337.5,1320.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>KOALHHAE_02348 | tmoT | Regulator | Response regulator protein TmoT</title></polygon>
+<text x="1387.3" y="1333.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">tmoT</text>
+<polygon points="1531.9,1298.0 1456.5,1298.0 1438.5,1309.0 1456.5,1320.0 1531.9,1320.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KOALHHAE_02349 | KOALHHAE_02349 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1485.2" y="1333.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">KOALHHAE_02349</text>
+<polygon points="1664.0,1298.0 1548.7,1298.0 1530.7,1309.0 1548.7,1320.0 1664.0,1320.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>KOALHHAE_02350 | KOALHHAE_02350 | Dehydrogenase/oxidoreductase | 3-hydroxybutyryl-CoA dehydrogenase | PANEL HIT: paaH (Phenylacetate / Phenylacetate) | pident=40.283000 qcovs=60.000000</title></polygon>
+<text x="1597.3" y="1333.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">KOALHHAE_02350 (paaH)</text>
+<text x="452.0" y="1246.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">2,560,804 bp</text>
+<text x="1664.0" y="1246.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">2,568,547 bp</text>
+<rect x="18" y="1360" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="1360" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="1378.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">CP063455.1_panelcluster_401</text>
+<text x="32.0" y="1396.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">CP063455.1 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="1412.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: amnC; amnD; mhpD; mhpF; opdK; pcaK; xylI; xylK</text>
+<text x="32.0" y="1424.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Catechol-meta; Transportation</text>
+<line x1="452" y1="1451.0" x2="1664" y2="1451.0" stroke="#d0d0d0"/>
+<polygon points="452.0,1440.0 596.5,1440.0 614.5,1451.0 596.5,1462.0 452.0,1462.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>KOALHHAE_02465 | oprD_3 | Transport/efflux | Porin D | PANEL HIT: opdK (Transportation / Transportation) | pident=35.952000 qcovs=94.000000</title></polygon>
+<text x="533.2" y="1475.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">oprD_3 (opdK)</text>
+<polygon points="789.6,1440.0 642.5,1440.0 624.5,1451.0 642.5,1462.0 789.6,1462.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>KOALHHAE_02466 | mhbT | Transport/efflux | 3-hydroxybenzoate transporter MhbT | PANEL HIT: pcaK (Transportation / Transportation) | pident=42.299000 qcovs=97.000000</title></polygon>
+<text x="707.0" y="1475.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">mhbT (pcaK)</text>
+<polygon points="922.8,1440.0 820.0,1440.0 802.0,1451.0 820.0,1462.0 922.8,1462.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KOALHHAE_02467 | KOALHHAE_02467 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="862.4" y="1475.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">KOALHHAE_02467</text>
+<polygon points="992.2,1440.0 940.3,1440.0 922.3,1451.0 940.3,1462.0 992.2,1462.0" fill="#d73027" stroke="#888" stroke-width="0.8"><title>KOALHHAE_02468 | nbaC | Oxygenase/dioxygenase | 3-hydroxyanthranilate 3,4-dioxygenase</title></polygon>
+<text x="957.2" y="1475.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">nbaC</text>
+<polygon points="1045.5,1440.0 1009.9,1440.0 992.4,1451.0 1009.9,1462.0 1045.5,1462.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>KOALHHAE_02469 | amnD | Dehydrogenase/oxidoreductase | 2-aminomuconate deaminase | PANEL HIT: amnD (Aromatics / 2-Aminophenol) | pident=68.382000 qcovs=96.000000</title></polygon>
+<text x="1019.0" y="1475.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">amnD (amnD)</text>
+<polygon points="1141.6,1440.0 1063.0,1440.0 1045.0,1451.0 1063.0,1462.0 1141.6,1462.0" fill="#6a3d9a" stroke="#111" stroke-width="2.2"><title>KOALHHAE_02470 | amnE | Carboxylase | 4-oxalocrotonate decarboxylase | PANEL HIT: xylI (Catechol-meta / Catechol-meta) | pident=38.645000 qcovs=94.000000</title></polygon>
+<text x="1093.3" y="1475.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">amnE (xylI)</text>
+<polygon points="1267.4,1440.0 1159.1,1440.0 1141.1,1451.0 1159.1,1462.0 1267.4,1462.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>KOALHHAE_02471 | mhpE | Hydrolase/decarboxylase/lyase | 4-hydroxy-2-oxovalerate aldolase | PANEL HIT: xylK (Catechol-meta / Catechol-meta) | pident=83.382000 qcovs=99.000000</title></polygon>
+<text x="1204.3" y="1475.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">mhpE (xylK)</text>
+<polygon points="1383.4,1440.0 1286.9,1440.0 1268.9,1451.0 1286.9,1462.0 1383.4,1462.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>KOALHHAE_02472 | dmpF | Dehydrogenase/oxidoreductase | Acetaldehyde dehydrogenase | PANEL HIT: mhpF (Catechol-meta / Catechol-meta) | pident=77.199000 qcovs=97.000000</title></polygon>
+<text x="1326.1" y="1475.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">dmpF (mhpF)</text>
+<polygon points="1484.2,1440.0 1403.0,1440.0 1385.0,1451.0 1403.0,1462.0 1484.2,1462.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>KOALHHAE_02473 | amnF | Dehydrogenase/oxidoreductase | 2-oxopent-4-enoate hydratase | PANEL HIT: mhpD (Catechol-meta / Catechol-meta) | pident=60.547000 qcovs=95.000000</title></polygon>
+<text x="1434.6" y="1475.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">amnF (mhpD)</text>
+<polygon points="1664.0,1440.0 1503.8,1440.0 1485.8,1451.0 1503.8,1462.0 1664.0,1462.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>KOALHHAE_02474 | amnC | Dehydrogenase/oxidoreductase | 2-aminomuconic 6-semialdehyde dehydrogenase | PANEL HIT: amnC (Aromatics / 2-Aminophenol) | pident=61.088000 qcovs=97.000000</title></polygon>
+<text x="1574.9" y="1475.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">amnC (amnC)</text>
+<text x="452.0" y="1388.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">2,700,279 bp</text>
+<text x="1664.0" y="1388.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">2,710,213 bp</text>
+<rect x="18" y="1502" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="1502" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="1520.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">CP063455.1_panelcluster_402</text>
+<text x="32.0" y="1538.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">CP063455.1 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="1554.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: atoA; atoB; nagR; pcaI</text>
+<text x="32.0" y="1566.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Beta-oxidation; Catechol-ortho; Cyclohexylacetate;</text>
+<text x="32.0" y="1578.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Naphthalene</text>
+<line x1="452" y1="1593.0" x2="1664" y2="1593.0" stroke="#d0d0d0"/>
+<polygon points="573.1,1582.0 470.0,1582.0 452.0,1593.0 470.0,1604.0 573.1,1604.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>KOALHHAE_02504 | pcpR_3 | Accessory/other | PCP degradation transcriptional activation protein | PANEL HIT: nagR (Naphthalene / Naphthalene) | pident=32.746000 qcovs=93.000000</title></polygon>
+<text x="512.6" y="1617.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pcpR_3 (nagR)</text>
+<polygon points="589.9,1582.0 760.2,1582.0 778.2,1593.0 760.2,1604.0 589.9,1604.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>KOALHHAE_02505 | ribZ | Transport/efflux | Riboflavin transporter RibZ</title></polygon>
+<text x="684.1" y="1617.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">ribZ</text>
+<polygon points="783.0,1582.0 991.0,1582.0 1009.0,1593.0 991.0,1604.0 783.0,1604.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KOALHHAE_02506 | KOALHHAE_02506 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="896.0" y="1617.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">KOALHHAE_02506</text>
+<polygon points="1171.6,1582.0 1028.0,1582.0 1010.0,1593.0 1028.0,1604.0 1171.6,1604.0" fill="#6a3d9a" stroke="#888" stroke-width="0.8"><title>KOALHHAE_02507 | lysA | Carboxylase | Diaminopimelate decarboxylase</title></polygon>
+<text x="1090.8" y="1617.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">lysA</text>
+<polygon points="1188.5,1582.0 1290.4,1582.0 1308.4,1593.0 1290.4,1604.0 1188.5,1604.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KOALHHAE_02508 | occR | Accessory/other | Octopine catabolism/uptake operon regulatory protein OccR</title></polygon>
+<text x="1248.4" y="1617.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">occR</text>
+<polygon points="1479.7,1582.0 1343.2,1582.0 1325.2,1593.0 1343.2,1604.0 1479.7,1604.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>KOALHHAE_02509 | phaA | Accessory/other | Acetyl-CoA acetyltransferase | PANEL HIT: atoB (Beta-oxidation / Beta-oxidation) | pident=59.542000 qcovs=99.000000</title></polygon>
+<text x="1402.5" y="1617.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">phaA (atoB)</text>
+<polygon points="1567.7,1582.0 1499.2,1582.0 1481.2,1593.0 1499.2,1604.0 1567.7,1604.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>KOALHHAE_02510 | scoB | Thiolase/transferase | putative succinyl-CoA:3-ketoacid coenzyme A transferase subunit B | PANEL HIT: atoA (Cyclohexylacetate / Cyclohexylacetate) | pident=47.805000 qcovs=94.000000</title></polygon>
+<text x="1524.4" y="1617.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">scoB (atoA)</text>
+<polygon points="1664.0,1582.0 1590.4,1582.0 1572.4,1593.0 1590.4,1604.0 1664.0,1604.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>KOALHHAE_02511 | scoA | Thiolase/transferase | putative succinyl-CoA:3-ketoacid coenzyme A transferase subunit A | PANEL HIT: pcaI (Catechol-ortho / Catechol-ortho) | pident=44.700000 qcovs=94.000000</title></polygon>
+<text x="1618.2" y="1617.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">scoA (pcaI)</text>
+<text x="452.0" y="1530.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">2,745,017 bp</text>
+<text x="1664.0" y="1530.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">2,754,263 bp</text>
+<rect x="18" y="1644" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="1644" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="1662.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">CP063455.1_panelcluster_406</text>
+<text x="32.0" y="1680.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">CP063455.1 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="1696.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: alkJ_adh; atdA1; hpcC</text>
+<text x="32.0" y="1708.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Aromatics</text>
+<line x1="452" y1="1735.0" x2="1664" y2="1735.0" stroke="#d0d0d0"/>
+<polygon points="452.0,1724.0 545.0,1724.0 563.0,1735.0 545.0,1746.0 452.0,1746.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>KOALHHAE_02648 | davD_2 | Dehydrogenase/oxidoreductase | Glutarate-semialdehyde dehydrogenase | PANEL HIT: hpcC (Aromatics / Homoprotocatechuate) | pident=39.270000 qcovs=98.000000</title></polygon>
+<text x="507.5" y="1759.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">davD_2 (hpcC)</text>
+<polygon points="573.2,1724.0 660.6,1724.0 678.6,1735.0 660.6,1746.0 573.2,1746.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>KOALHHAE_02649 | ygcS | Transport/efflux | Inner membrane metabolite transport protein YgcS</title></polygon>
+<text x="625.9" y="1759.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">ygcS</text>
+<polygon points="749.0,1724.0 699.2,1724.0 681.2,1735.0 699.2,1746.0 749.0,1746.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>KOALHHAE_02650 | gcvA_9 | Regulator | Glycine cleavage system transcriptional activator</title></polygon>
+<text x="715.1" y="1759.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">gcvA_9</text>
+<polygon points="860.5,1724.0 787.8,1724.0 769.8,1735.0 787.8,1746.0 860.5,1746.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KOALHHAE_02651 | KOALHHAE_02651 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="815.2" y="1759.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">KOALHHAE_02651</text>
+<polygon points="882.4,1724.0 940.3,1724.0 958.3,1735.0 940.3,1746.0 882.4,1746.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>KOALHHAE_02652 | gcvA_10 | Regulator | Glycine cleavage system transcriptional activator</title></polygon>
+<text x="920.3" y="1759.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">gcvA_10</text>
+<polygon points="990.7,1724.0 1083.0,1724.0 1101.0,1735.0 1083.0,1746.0 990.7,1746.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>KOALHHAE_02653 | aldA | Dehydrogenase/oxidoreductase | Lactaldehyde dehydrogenase</title></polygon>
+<text x="1045.8" y="1759.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">aldA</text>
+<polygon points="1111.5,1724.0 1195.9,1724.0 1213.9,1735.0 1195.9,1746.0 1111.5,1746.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KOALHHAE_02654 | yqcE | Accessory/other | Inner membrane protein YqcE</title></polygon>
+<text x="1162.7" y="1759.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">yqcE</text>
+<polygon points="1214.0,1724.0 1290.2,1724.0 1308.2,1735.0 1290.2,1746.0 1214.0,1746.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>KOALHHAE_02655 | dgoD | Hydratase/dehydratase/isomerase | D-galactonate dehydratase</title></polygon>
+<text x="1261.1" y="1759.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">dgoD</text>
+<polygon points="1314.3,1724.0 1421.4,1724.0 1439.4,1735.0 1421.4,1746.0 1314.3,1746.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>KOALHHAE_02656 | betA_1 | Dehydrogenase/oxidoreductase | Oxygen-dependent choline dehydrogenase | PANEL HIT: alkJ_adh (Alkanes / Auxillary alkane pathway) | pident=41.713000 qcovs=95.000000</title></polygon>
+<text x="1376.8" y="1759.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">betA_1 (alkJ_adh)</text>
+<polygon points="1546.2,1724.0 1462.5,1724.0 1444.5,1735.0 1462.5,1746.0 1546.2,1746.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>KOALHHAE_02657 | puuB_5 | Dehydrogenase/oxidoreductase | Gamma-glutamylputrescine oxidoreductase</title></polygon>
+<text x="1495.4" y="1759.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">puuB_5</text>
+<polygon points="1664.0,1724.0 1576.4,1724.0 1558.4,1735.0 1576.4,1746.0 1664.0,1746.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>KOALHHAE_02658 | puuA_2 | Accessory/other | Gamma-glutamylputrescine synthetase PuuA | PANEL HIT: atdA1 (Aromatics / Aniline) | pident=30.396000 qcovs=89.000000</title></polygon>
+<text x="1611.2" y="1759.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">puuA_2 (atdA1)</text>
+<text x="452.0" y="1672.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">2,890,795 bp</text>
+<text x="1664.0" y="1672.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">2,906,455 bp</text>
+<rect x="18" y="1786" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="1786" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="1804.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">CP063455.1_panelcluster_414</text>
+<text x="32.0" y="1822.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">CP063455.1 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="1838.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: mdlD; pueA; pueB</text>
+<text x="32.0" y="1850.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Plastics</text>
+<line x1="452" y1="1877.0" x2="1664" y2="1877.0" stroke="#d0d0d0"/>
+<polygon points="452.0,1866.0 513.1,1866.0 531.1,1877.0 513.1,1888.0 452.0,1888.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>KOALHHAE_03045 | styD_1 | Dehydrogenase/oxidoreductase | Phenylacetaldehyde dehydrogenase | PANEL HIT: mdlD (Aromatics / Toluene) | pident=32.653000 qcovs=76.000000</title></polygon>
+<text x="491.6" y="1901.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 491.6 1901.0)" fill="#111">styD_1 (mdlD)</text>
+<polygon points="543.9,1866.0 606.8,1866.0 624.8,1877.0 606.8,1888.0 543.9,1888.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03046 | KOALHHAE_03046 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="584.3" y="1901.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 584.3 1901.0)" fill="#555">KOALHHAE_03046</text>
+<polygon points="622.9,1866.0 644.1,1866.0 654.5,1877.0 644.1,1888.0 622.9,1888.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03047 | KOALHHAE_03047 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="638.7" y="1901.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 638.7 1901.0)" fill="#555">KOALHHAE_03047</text>
+<polygon points="662.4,1866.0 695.9,1866.0 712.3,1877.0 695.9,1888.0 662.4,1888.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03048 | feaR | Regulator | Transcriptional activator FeaR</title></polygon>
+<text x="687.4" y="1901.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 687.4 1901.0)" fill="#555">feaR</text>
+<polygon points="763.9,1866.0 736.2,1866.0 722.5,1877.0 736.2,1888.0 763.9,1888.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03049 | KOALHHAE_03049 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="743.2" y="1901.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 743.2 1901.0)" fill="#555">KOALHHAE_03049</text>
+<polygon points="776.2,1866.0 830.8,1866.0 848.8,1877.0 830.8,1888.0 776.2,1888.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03050 | steT_1 | Accessory/other | Serine/threonine exchanger SteT</title></polygon>
+<text x="812.5" y="1901.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 812.5 1901.0)" fill="#555">steT_1</text>
+<polygon points="849.2,1866.0 889.8,1866.0 907.8,1877.0 889.8,1888.0 849.2,1888.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03051 | KOALHHAE_03051 | Accessory/other | Beta-peptidyl aminopeptidase BapA</title></polygon>
+<text x="878.5" y="1901.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 878.5 1901.0)" fill="#555">KOALHHAE_03051</text>
+<polygon points="923.7,1866.0 982.7,1866.0 1000.7,1877.0 982.7,1888.0 923.7,1888.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03052 | aprA_2 | Accessory/other | Metallopeptidase AprA</title></polygon>
+<text x="962.2" y="1901.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 962.2 1901.0)" fill="#555">aprA_2</text>
+<polygon points="1005.7,1866.0 1019.1,1866.0 1026.1,1877.0 1019.1,1888.0 1005.7,1888.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03053 | inh | Accessory/other | Alkaline proteinase inhibitor</title></polygon>
+<text x="1015.9" y="1901.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1015.9 1901.0)" fill="#555">inh</text>
+<polygon points="1037.6,1866.0 1115.0,1866.0 1133.0,1877.0 1115.0,1888.0 1037.6,1888.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03054 | prsD_1 | Accessory/other | Type I secretion system ATP-binding protein PrsD</title></polygon>
+<text x="1085.3" y="1901.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1085.3 1901.0)" fill="#555">prsD_1</text>
+<polygon points="1132.8,1866.0 1185.7,1866.0 1203.7,1877.0 1185.7,1888.0 1132.8,1888.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03055 | prsE_3 | Accessory/other | Type I secretion system membrane fusion protein PrsE</title></polygon>
+<text x="1168.3" y="1901.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1168.3 1901.0)" fill="#555">prsE_3</text>
+<polygon points="1204.5,1866.0 1258.3,1866.0 1276.3,1877.0 1258.3,1888.0 1204.5,1888.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03056 | tolC_2 | Accessory/other | Outer membrane protein TolC</title></polygon>
+<text x="1240.4" y="1901.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1240.4 1901.0)" fill="#555">tolC_2</text>
+<polygon points="1277.9,1866.0 1349.4,1866.0 1367.4,1877.0 1349.4,1888.0 1277.9,1888.0" fill="#d9d9d9" stroke="#111" stroke-width="2.2"><title>KOALHHAE_03057 | KOALHHAE_03057 | Hypothetical/accessory | hypothetical protein | PANEL HIT: pueB (Plastics / PU) | pident=88.948000 qcovs=100.000000</title></polygon>
+<text x="1322.6" y="1901.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1322.6 1901.0)" fill="#111">KOALHHAE_03057 (pueB)</text>
+<polygon points="1390.8,1866.0 1541.6,1866.0 1559.6,1877.0 1541.6,1888.0 1390.8,1888.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03058 | KOALHHAE_03058 | Accessory/other | Extracellular serine protease</title></polygon>
+<text x="1475.2" y="1901.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1475.2 1901.0)" fill="#555">KOALHHAE_03058</text>
+<polygon points="1565.4,1866.0 1646.0,1866.0 1664.0,1877.0 1646.0,1888.0 1565.4,1888.0" fill="#d9d9d9" stroke="#111" stroke-width="2.2"><title>KOALHHAE_03059 | KOALHHAE_03059 | Hypothetical/accessory | hypothetical protein | PANEL HIT: pueA (Plastics / PU) | pident=91.572000 qcovs=100.000000</title></polygon>
+<text x="1614.7" y="1901.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1614.7 1901.0)" fill="#111">KOALHHAE_03059 (pueA)</text>
+<text x="452.0" y="1814.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">3,345,786 bp</text>
+<text x="1664.0" y="1814.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">3,368,579 bp</text>
+<rect x="18" y="1928" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="1928" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="1946.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">CP063455.1_panelcluster_415</text>
+<text x="32.0" y="1964.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">CP063455.1 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="1980.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: BVMO; alkB; fadD; fadE; fadI</text>
+<text x="32.0" y="1992.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Beta-oxidation; Catechol-ortho</text>
+<line x1="452" y1="2019.0" x2="1664" y2="2019.0" stroke="#d0d0d0"/>
+<polygon points="575.3,2008.0 470.0,2008.0 452.0,2019.0 470.0,2030.0 575.3,2030.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>KOALHHAE_03084 | KOALHHAE_03084 | Oxygenase/dioxygenase | Baeyer-Villiger monooxygenase | PANEL HIT: BVMO (Alkanes / Subterminal oxidation) | pident=55.556000 qcovs=94.000000</title></polygon>
+<text x="513.6" y="2043.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">KOALHHAE_03084 (BVMO)</text>
+<polygon points="596.1,2008.0 656.4,2008.0 674.4,2019.0 656.4,2030.0 596.1,2030.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03085 | KOALHHAE_03085 | Accessory/other | putative protein</title></polygon>
+<text x="635.2" y="2043.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">KOALHHAE_03085</text>
+<polygon points="697.4,2008.0 779.8,2008.0 797.8,2019.0 779.8,2030.0 697.4,2030.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>KOALHHAE_03086 | alkB_1 | Oxygenase/dioxygenase | Alkane 1-monooxygenase | PANEL HIT: alkB (Alkanes / Terminal/biterminal oxidation) | pident=95.294000 qcovs=99.000000</title></polygon>
+<text x="747.6" y="2043.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">alkB_1 (alkB)</text>
+<polygon points="809.2,2008.0 835.1,2008.0 847.9,2019.0 835.1,2030.0 809.2,2030.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03087 | KOALHHAE_03087 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="828.5" y="2043.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">KOALHHAE_03087</text>
+<polygon points="864.1,2008.0 890.0,2008.0 902.8,2019.0 890.0,2030.0 864.1,2030.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03088 | KOALHHAE_03088 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="883.5" y="2043.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">KOALHHAE_03088</text>
+<polygon points="912.5,2008.0 1007.4,2008.0 1025.4,2019.0 1007.4,2030.0 912.5,2030.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03089 | KOALHHAE_03089 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="968.9" y="2043.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">KOALHHAE_03089</text>
+<polygon points="1047.3,2008.0 1229.7,2008.0 1247.7,2019.0 1229.7,2030.0 1047.3,2030.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>KOALHHAE_03090 | fadE_2 | Dehydrogenase/oxidoreductase | Acyl-coenzyme A dehydrogenase | PANEL HIT: fadE (Beta-oxidation / Beta-oxidation) | pident=51.678000 qcovs=90.000000</title></polygon>
+<text x="1147.5" y="2043.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">fadE_2 (fadE)</text>
+<polygon points="1250.0,2008.0 1338.4,2008.0 1356.4,2019.0 1338.4,2030.0 1250.0,2030.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03091 | hcaB_1 | Dehydrogenase/oxidoreductase | 3-phenylpropionate-dihydrodiol/cinnamic acid-dihydrodiol dehydrogenase</title></polygon>
+<text x="1303.2" y="2043.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">hcaB_1</text>
+<polygon points="1356.6,2008.0 1408.8,2008.0 1426.8,2019.0 1408.8,2030.0 1356.6,2030.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03092 | KOALHHAE_03092 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1391.7" y="2043.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">KOALHHAE_03092</text>
+<polygon points="1426.5,2008.0 1510.6,2008.0 1528.6,2019.0 1510.6,2030.0 1426.5,2030.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>KOALHHAE_03093 | fadI_2 | Thiolase/transferase | 3-ketoacyl-CoA thiolase FadI | PANEL HIT: fadI (Catechol-ortho / Catechol-ortho) | pident=39.110000 qcovs=97.000000</title></polygon>
+<text x="1477.6" y="2043.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">fadI_2 (fadI)</text>
+<polygon points="1530.1,2008.0 1646.0,2008.0 1664.0,2019.0 1646.0,2030.0 1530.1,2030.0" fill="#1f78b4" stroke="#111" stroke-width="2.2"><title>KOALHHAE_03094 | fadD_1 | CoA ligase/synthetase | Long-chain-fatty-acid--CoA ligase | PANEL HIT: fadD (Beta-oxidation / Beta-oxidation) | pident=54.643000 qcovs=98.000000</title></polygon>
+<text x="1597.1" y="2043.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">fadD_1 (fadD)</text>
+<text x="452.0" y="1956.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">3,395,345 bp</text>
+<text x="1664.0" y="1956.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">3,410,768 bp</text>
+<rect x="18" y="2070" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="2070" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="2088.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">CP063455.1_panelcluster_417</text>
+<text x="32.0" y="2106.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">CP063455.1 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="2122.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: GI:23664434; acdA; atoB; badK; opdK</text>
+<text x="32.0" y="2134.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Beta-oxidation; Cyclohexanecarboxylate;</text>
+<text x="32.0" y="2146.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Transportation</text>
+<line x1="452" y1="2161.0" x2="1664" y2="2161.0" stroke="#d0d0d0"/>
+<polygon points="452.0,2150.0 493.7,2150.0 511.7,2161.0 493.7,2172.0 452.0,2172.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>KOALHHAE_03226 | mmgC_3 | Dehydrogenase/oxidoreductase | Acyl-CoA dehydrogenase | PANEL HIT: acdA (Beta-oxidation / Beta-oxidation) | pident=49.468000 qcovs=99.000000</title></polygon>
+<text x="481.8" y="2185.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 481.8 2185.0)" fill="#111">mmgC_3 (acdA)</text>
+<polygon points="538.4,2150.0 527.4,2150.0 520.4,2161.0 527.4,2172.0 538.4,2172.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03227 | KOALHHAE_03227 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="529.4" y="2185.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 529.4 2185.0)" fill="#555">KOALHHAE_03227</text>
+<polygon points="588.3,2150.0 550.3,2150.0 532.3,2161.0 550.3,2172.0 588.3,2172.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03228 | KOALHHAE_03228 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="560.3" y="2185.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 560.3 2185.0)" fill="#555">KOALHHAE_03228</text>
+<polygon points="727.3,2150.0 633.0,2150.0 615.0,2161.0 633.0,2172.0 727.3,2172.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03229 | KOALHHAE_03229 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="671.1" y="2185.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 671.1 2185.0)" fill="#555">KOALHHAE_03229</text>
+<polygon points="741.4,2150.0 768.0,2150.0 781.1,2161.0 768.0,2172.0 741.4,2172.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03230 | gdhI_2 | Dehydrogenase/oxidoreductase | Glucose 1-dehydrogenase 1</title></polygon>
+<text x="761.2" y="2185.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 761.2 2185.0)" fill="#555">gdhI_2</text>
+<polygon points="827.4,2150.0 800.5,2150.0 787.3,2161.0 800.5,2172.0 827.4,2172.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>KOALHHAE_03231 | echA8_1 | Hydratase/dehydratase/isomerase | putative enoyl-CoA hydratase echA8 | PANEL HIT: badK (Cyclohexanecarboxylate / Cyclohexanecarboxylate) | pident=52.326000 qcovs=100.000000</title></polygon>
+<text x="807.3" y="2185.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 807.3 2185.0)" fill="#111">echA8_1 (badK)</text>
+<polygon points="886.9,2150.0 846.4,2150.0 828.4,2161.0 846.4,2172.0 886.9,2172.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>KOALHHAE_03232 | mmgC_4 | Dehydrogenase/oxidoreductase | Acyl-CoA dehydrogenase | PANEL HIT: acdA (Beta-oxidation / Beta-oxidation) | pident=50.269000 qcovs=98.000000</title></polygon>
+<text x="857.6" y="2185.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 857.6 2185.0)" fill="#111">mmgC_4 (acdA)</text>
+<polygon points="949.2,2150.0 905.5,2150.0 887.5,2161.0 905.5,2172.0 949.2,2172.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>KOALHHAE_03233 | thlA_1 | Thiolase/transferase | Acetyl-CoA acetyltransferase | PANEL HIT: atoB (Beta-oxidation / Beta-oxidation) | pident=49.487000 qcovs=99.000000</title></polygon>
+<text x="918.3" y="2185.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 918.3 2185.0)" fill="#111">thlA_1 (atoB)</text>
+<polygon points="989.5,2150.0 962.9,2150.0 949.8,2161.0 962.9,2172.0 989.5,2172.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03234 | KOALHHAE_03234 | Dehydrogenase/oxidoreductase | putative oxidoreductase</title></polygon>
+<text x="969.6" y="2185.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 969.6 2185.0)" fill="#555">KOALHHAE_03234</text>
+<polygon points="1076.3,2150.0 1008.0,2150.0 990.0,2161.0 1008.0,2172.0 1076.3,2172.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>KOALHHAE_03235 | acsA_1 | Accessory/other | Acetyl-coenzyme A synthetase | PANEL HIT: GI:23664434 (Aromatics / Benzene) | pident=30.390000 qcovs=90.000000</title></polygon>
+<text x="1033.2" y="2185.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1033.2 2185.0)" fill="#111">acsA_1 (GI:23664434)</text>
+<polygon points="1140.0,2150.0 1104.5,2150.0 1087.0,2161.0 1104.5,2172.0 1140.0,2172.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03236 | KOALHHAE_03236 | Regulator | putative HTH-type transcriptional regulator</title></polygon>
+<text x="1113.5" y="2185.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1113.5 2185.0)" fill="#555">KOALHHAE_03236</text>
+<polygon points="1158.1,2150.0 1208.0,2150.0 1226.0,2161.0 1208.0,2172.0 1158.1,2172.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03237 | KOALHHAE_03237 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1192.1" y="2185.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1192.1 2185.0)" fill="#555">KOALHHAE_03237</text>
+<polygon points="1234.2,2150.0 1266.3,2150.0 1282.2,2161.0 1266.3,2172.0 1234.2,2172.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03238 | lacF | Transport/efflux | Lactose transport system permease protein LacF</title></polygon>
+<text x="1258.2" y="2185.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1258.2 2185.0)" fill="#555">lacF</text>
+<polygon points="1282.7,2150.0 1311.6,2150.0 1325.8,2161.0 1311.6,2172.0 1282.7,2172.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03239 | dasC | Transport/efflux | Diacetylchitobiose uptake system permease protein DasC</title></polygon>
+<text x="1304.2" y="2185.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1304.2 2185.0)" fill="#555">dasC</text>
+<polygon points="1327.0,2150.0 1366.2,2150.0 1384.2,2161.0 1366.2,2172.0 1327.0,2172.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03240 | ugpC | Accessory/other | sn-glycerol-3-phosphate import ATP-binding protein UgpC</title></polygon>
+<text x="1355.6" y="2185.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1355.6 2185.0)" fill="#555">ugpC</text>
+<polygon points="1385.8,2150.0 1445.6,2150.0 1463.6,2161.0 1445.6,2172.0 1385.8,2172.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03241 | por | Dehydrogenase/oxidoreductase | Polyol:NADP oxidoreductase</title></polygon>
+<text x="1424.7" y="2185.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1424.7 2185.0)" fill="#555">por</text>
+<polygon points="1463.4,2150.0 1522.8,2150.0 1540.8,2161.0 1522.8,2172.0 1463.4,2172.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03242 | xylB_1 | Accessory/other | Xylulose kinase</title></polygon>
+<text x="1502.1" y="2185.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1502.1 2185.0)" fill="#555">xylB_1</text>
+<polygon points="1541.5,2150.0 1574.3,2150.0 1590.5,2161.0 1574.3,2172.0 1541.5,2172.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03243 | pfkB_2 | Accessory/other | ATP-dependent 6-phosphofructokinase</title></polygon>
+<text x="1566.0" y="2185.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1566.0 2185.0)" fill="#555">pfkB_2</text>
+<polygon points="1664.0,2150.0 1614.5,2150.0 1596.5,2161.0 1614.5,2172.0 1664.0,2172.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>KOALHHAE_03244 | nicP_4 | Transport/efflux | Porin-like protein NicP | PANEL HIT: opdK (Transportation / Transportation) | pident=43.198000 qcovs=97.000000</title></polygon>
+<text x="1630.3" y="2185.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1630.3 2185.0)" fill="#111">nicP_4 (opdK)</text>
+<text x="452.0" y="2098.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">3,588,743 bp</text>
+<text x="1664.0" y="2098.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">3,612,134 bp</text>
+<rect x="18" y="2212" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="2212" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="2230.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">CP063455.1_panelcluster_419</text>
+<text x="32.0" y="2248.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">CP063455.1 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="2264.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: paaA; paaB; paaC; paaD; paaE; paaG; paaK; paaX; paaY;</text>
+<text x="32.0" y="2276.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">paaZ</text>
+<text x="32.0" y="2288.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Phenylacetate</text>
+<line x1="452" y1="2303.0" x2="1664" y2="2303.0" stroke="#d0d0d0"/>
+<polygon points="542.8,2292.0 470.0,2292.0 452.0,2303.0 470.0,2314.0 542.8,2314.0" fill="#fdbf6f" stroke="#111" stroke-width="2.2"><title>KOALHHAE_03295 | paaX | Regulator | Transcriptional repressor PaaX | PANEL HIT: paaX (Phenylacetate / Phenylacetate) | pident=43.092000 qcovs=96.000000</title></polygon>
+<text x="497.4" y="2327.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">paaX (paaX)</text>
+<polygon points="607.5,2292.0 567.1,2292.0 549.1,2303.0 567.1,2314.0 607.5,2314.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>KOALHHAE_03296 | yrdA_2 | Accessory/other | Protein YrdA | PANEL HIT: paaY (Phenylacetate / Phenylacetate) | pident=56.923000 qcovs=99.000000</title></polygon>
+<text x="578.3" y="2327.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">yrdA_2 (paaY)</text>
+<polygon points="649.7,2292.0 711.3,2292.0 729.3,2303.0 711.3,2314.0 649.7,2314.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>KOALHHAE_03297 | paaG | Hydratase/dehydratase/isomerase | 1,2-epoxyphenylacetyl-CoA isomerase | PANEL HIT: paaG (Phenylacetate / Phenylacetate) | pident=65.504000 qcovs=98.000000</title></polygon>
+<text x="689.5" y="2327.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">paaG (paaG)</text>
+<polygon points="747.8,2292.0 859.5,2292.0 877.5,2303.0 859.5,2314.0 747.8,2314.0" fill="#1f78b4" stroke="#111" stroke-width="2.2"><title>KOALHHAE_03298 | paaK | CoA ligase/synthetase | Phenylacetate-coenzyme A ligase | PANEL HIT: paaK (Phenylacetate / Phenylacetate) | pident=66.204000 qcovs=99.000000</title></polygon>
+<text x="812.6" y="2327.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">paaK (paaK)</text>
+<polygon points="895.0,2292.0 975.4,2292.0 993.4,2303.0 975.4,2314.0 895.0,2314.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>KOALHHAE_03299 | paaA | Accessory/other | 1,2-phenylacetyl-CoA epoxidase, subunit A | PANEL HIT: paaA (Phenylacetate / Phenylacetate) | pident=35.540000 qcovs=91.000000</title></polygon>
+<text x="944.2" y="2327.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">paaA (paaA)</text>
+<polygon points="996.4,2292.0 1015.0,2292.0 1024.1,2303.0 1015.0,2314.0 996.4,2314.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>KOALHHAE_03300 | paaB | Accessory/other | 1,2-phenylacetyl-CoA epoxidase, subunit B | PANEL HIT: paaB (Phenylacetate / Phenylacetate) | pident=59.783000 qcovs=98.000000</title></polygon>
+<text x="1010.2" y="2327.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">paaB (paaB)</text>
+<polygon points="1024.9,2292.0 1081.8,2292.0 1099.8,2303.0 1081.8,2314.0 1024.9,2314.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>KOALHHAE_03301 | paaC | Accessory/other | 1,2-phenylacetyl-CoA epoxidase, subunit C | PANEL HIT: paaC (Phenylacetate / Phenylacetate) | pident=46.154000 qcovs=98.000000</title></polygon>
+<text x="1062.3" y="2327.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">paaC (paaC)</text>
+<polygon points="1098.4,2292.0 1133.3,2292.0 1150.6,2303.0 1133.3,2314.0 1098.4,2314.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>KOALHHAE_03302 | paaD | Accessory/other | Putative 1,2-phenylacetyl-CoA epoxidase, subunit D | PANEL HIT: paaD (Phenylacetate / Phenylacetate) | pident=49.112000 qcovs=95.000000</title></polygon>
+<text x="1124.5" y="2327.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">paaD (paaD)</text>
+<polygon points="1153.4,2292.0 1241.2,2292.0 1259.2,2303.0 1241.2,2314.0 1153.4,2314.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>KOALHHAE_03303 | paaE | Accessory/other | 1,2-phenylacetyl-CoA epoxidase, subunit E | PANEL HIT: paaE (Phenylacetate / Phenylacetate) | pident=50.000000 qcovs=99.000000</title></polygon>
+<text x="1206.3" y="2327.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">paaE (paaE)</text>
+<polygon points="1264.1,2292.0 1284.4,2292.0 1294.4,2303.0 1284.4,2314.0 1264.1,2314.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03304 | yjcH_2 | Accessory/other | Inner membrane protein YjcH</title></polygon>
+<text x="1279.2" y="2327.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">yjcH_2</text>
+<polygon points="1294.0,2292.0 1437.9,2292.0 1455.9,2303.0 1437.9,2314.0 1294.0,2314.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03305 | actP_2 | Transport/efflux | Cation/acetate symporter ActP</title></polygon>
+<text x="1375.0" y="2327.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">actP_2</text>
+<polygon points="1462.1,2292.0 1646.0,2292.0 1664.0,2303.0 1646.0,2314.0 1462.1,2314.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>KOALHHAE_03306 | paaZ | Hydrolase/decarboxylase/lyase | Bifunctional protein PaaZ | PANEL HIT: paaZ (Phenylacetate / Phenylacetate) | pident=58.789000 qcovs=99.000000</title></polygon>
+<text x="1563.0" y="2327.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">paaZ (paaZ)</text>
+<text x="452.0" y="2240.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">3,664,202 bp</text>
+<text x="1664.0" y="2240.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">3,676,535 bp</text>
+<rect x="18" y="2354" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="2354" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="2372.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">CP063455.1_panelcluster_422</text>
+<text x="32.0" y="2390.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">CP063455.1 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="2406.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: alkJ_adh; alkN_mcp; hpaB; hpaC; hpcB; hpcC; hpcD; hpcE;</text>
+<text x="32.0" y="2418.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">hpcG; hpcH</text>
+<text x="32.0" y="2430.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Aromatics</text>
+<line x1="452" y1="2445.0" x2="1664" y2="2445.0" stroke="#d0d0d0"/>
+<polygon points="531.6,2434.0 470.0,2434.0 452.0,2445.0 470.0,2456.0 531.6,2456.0" fill="#d9d9d9" stroke="#111" stroke-width="2.2"><title>KOALHHAE_03533 | KOALHHAE_03533 | Hypothetical/accessory | hypothetical protein | PANEL HIT: alkN_mcp (Alkanes / Hydrocarbon uptake) | pident=33.704000 qcovs=55.000000</title></polygon>
+<text x="491.8" y="2469.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 491.8 2469.0)" fill="#111">KOALHHAE_03533 (alkN_...</text>
+<polygon points="548.0,2434.0 604.8,2434.0 622.8,2445.0 604.8,2456.0 548.0,2456.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>KOALHHAE_03534 | hpaB | Oxygenase/dioxygenase | 4-hydroxyphenylacetate 3-monooxygenase oxygenase component | PANEL HIT: hpaB (Aromatics / 4-Hydroxyphenylacetate) | pident=87.308000 qcovs=100.000000</title></polygon>
+<text x="585.4" y="2469.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 585.4 2469.0)" fill="#111">hpaB (hpaB)</text>
+<polygon points="630.2,2434.0 646.6,2434.0 654.8,2445.0 646.6,2456.0 630.2,2456.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>KOALHHAE_03535 | hpaC | Oxygenase/dioxygenase | 4-hydroxyphenylacetate 3-monooxygenase reductase component | PANEL HIT: hpaC (Aromatics / 4-Hydroxyphenylacetate) | pident=77.647000 qcovs=100.000000</title></polygon>
+<text x="642.5" y="2469.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 642.5 2469.0)" fill="#111">hpaC (hpaC)</text>
+<polygon points="664.4,2434.0 695.8,2434.0 711.2,2445.0 695.8,2456.0 664.4,2456.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03536 | KOALHHAE_03536 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="687.8" y="2469.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 687.8 2469.0)" fill="#555">KOALHHAE_03536</text>
+<polygon points="717.8,2434.0 745.8,2434.0 759.5,2445.0 745.8,2456.0 717.8,2456.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03537 | KOALHHAE_03537 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="738.7" y="2469.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 738.7 2469.0)" fill="#555">KOALHHAE_03537</text>
+<polygon points="760.7,2434.0 799.7,2434.0 817.7,2445.0 799.7,2456.0 760.7,2456.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03538 | KOALHHAE_03538 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="789.2" y="2469.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 789.2 2469.0)" fill="#555">KOALHHAE_03538</text>
+<polygon points="820.7,2434.0 856.7,2434.0 874.4,2445.0 856.7,2456.0 820.7,2456.0" fill="#b15928" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03539 | KOALHHAE_03539 | Hydrolase/decarboxylase/lyase | Histone deacetylase-like amidohydrolase</title></polygon>
+<text x="847.5" y="2469.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 847.5 2469.0)" fill="#555">KOALHHAE_03539</text>
+<polygon points="893.2,2434.0 904.2,2434.0 911.2,2445.0 904.2,2456.0 893.2,2456.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03540 | KOALHHAE_03540 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="902.2" y="2469.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 902.2 2469.0)" fill="#555">KOALHHAE_03540</text>
+<polygon points="953.2,2434.0 922.1,2434.0 906.8,2445.0 922.1,2456.0 953.2,2456.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03541 | nphR | Regulator | Transcriptional activator NphR</title></polygon>
+<text x="930.0" y="2469.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 930.0 2469.0)" fill="#555">nphR</text>
+<polygon points="967.9,2434.0 985.0,2434.0 993.4,2445.0 985.0,2456.0 967.9,2456.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03542 | KOALHHAE_03542 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="980.6" y="2469.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 980.6 2469.0)" fill="#555">KOALHHAE_03542</text>
+<polygon points="995.0,2434.0 1037.6,2434.0 1055.6,2445.0 1037.6,2456.0 995.0,2456.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03543 | exuT_2 | Transport/efflux | Hexuronate transporter</title></polygon>
+<text x="1025.3" y="2469.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1025.3 2469.0)" fill="#555">exuT_2</text>
+<polygon points="1055.4,2434.0 1089.6,2434.0 1106.4,2445.0 1089.6,2456.0 1055.4,2456.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03544 | gutB | Dehydrogenase/oxidoreductase | Sorbitol dehydrogenase</title></polygon>
+<text x="1080.9" y="2469.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1080.9 2469.0)" fill="#555">gutB</text>
+<polygon points="1108.8,2434.0 1153.2,2434.0 1171.2,2445.0 1153.2,2456.0 1108.8,2456.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03545 | oprB_1 | Transport/efflux | Porin B</title></polygon>
+<text x="1140.0" y="2469.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1140.0 2469.0)" fill="#555">oprB_1</text>
+<polygon points="1172.9,2434.0 1234.4,2434.0 1252.4,2445.0 1234.4,2456.0 1172.9,2456.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>KOALHHAE_03546 | alkJ_2 | Dehydrogenase/oxidoreductase | Alcohol dehydrogenase [acceptor] | PANEL HIT: alkJ_adh (Alkanes / Auxillary alkane pathway) | pident=44.299000 qcovs=95.000000</title></polygon>
+<text x="1212.6" y="2469.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1212.6 2469.0)" fill="#111">alkJ_2 (alkJ_adh)</text>
+<polygon points="1297.5,2434.0 1267.5,2434.0 1252.8,2445.0 1267.5,2456.0 1297.5,2456.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03547 | KOALHHAE_03547 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1275.1" y="2469.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1275.1 2469.0)" fill="#555">KOALHHAE_03547</text>
+<polygon points="1307.4,2434.0 1328.6,2434.0 1339.0,2445.0 1328.6,2456.0 1307.4,2456.0" fill="#6a3d9a" stroke="#111" stroke-width="2.2"><title>KOALHHAE_03548 | hpcE_1 | Carboxylase | Homoprotocatechuate catabolism bifunctional isomerase/decarboxylase | PANEL HIT: hpcE (Aromatics / Homoprotocatechuate) | pident=43.541000 qcovs=96.000000</title></polygon>
+<text x="1323.2" y="2469.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1323.2 2469.0)" fill="#111">hpcE_1 (hpcE)</text>
+<polygon points="1339.4,2434.0 1365.1,2434.0 1377.8,2445.0 1365.1,2456.0 1339.4,2456.0" fill="#6a3d9a" stroke="#111" stroke-width="2.2"><title>KOALHHAE_03549 | hpcE_2 | Carboxylase | Homoprotocatechuate catabolism bifunctional isomerase/decarboxylase | PANEL HIT: hpcE (Aromatics / Homoprotocatechuate) | pident=73.077000 qcovs=98.000000</title></polygon>
+<text x="1358.6" y="2469.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1358.6 2469.0)" fill="#111">hpcE_2 (hpcE)</text>
+<polygon points="1377.8,2434.0 1429.7,2434.0 1447.7,2445.0 1429.7,2456.0 1377.8,2456.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>KOALHHAE_03550 | betB_1 | Dehydrogenase/oxidoreductase | NAD/NADP-dependent betaine aldehyde dehydrogenase | PANEL HIT: hpcC (Aromatics / Homoprotocatechuate) | pident=77.657000 qcovs=98.000000</title></polygon>
+<text x="1412.7" y="2469.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1412.7 2469.0)" fill="#111">betB_1 (hpcC)</text>
+<polygon points="1450.3,2434.0 1477.6,2434.0 1491.1,2445.0 1477.6,2456.0 1450.3,2456.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>KOALHHAE_03551 | hpcB | Oxygenase/dioxygenase | 3,4-dihydroxyphenylacetate 2,3-dioxygenase | PANEL HIT: hpcB (Aromatics / Homoprotocatechuate) | pident=58.759000 qcovs=98.000000</title></polygon>
+<text x="1470.7" y="2469.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1470.7 2469.0)" fill="#111">hpcB (hpcB)</text>
+<polygon points="1497.5,2434.0 1509.2,2434.0 1516.2,2445.0 1509.2,2456.0 1497.5,2456.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>KOALHHAE_03552 | hpcD | Hydratase/dehydratase/isomerase | 5-carboxymethyl-2-hydroxymuconate Delta-isomerase | PANEL HIT: hpcD (Aromatics / Homoprotocatechuate) | pident=62.698000 qcovs=100.000000</title></polygon>
+<text x="1506.9" y="2469.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1506.9 2469.0)" fill="#111">hpcD (hpcD)</text>
+<polygon points="1524.0,2434.0 1568.6,2434.0 1586.6,2445.0 1568.6,2456.0 1524.0,2456.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03553 | nicT_1 | Transport/efflux | Putative metabolite transport protein NicT</title></polygon>
+<text x="1555.3" y="2469.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1555.3 2469.0)" fill="#555">nicT_1</text>
+<polygon points="1586.7,2434.0 1612.5,2434.0 1625.2,2445.0 1612.5,2456.0 1586.7,2456.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>KOALHHAE_03554 | hpcG | Hydratase/dehydratase/isomerase | 2-oxo-hept-4-ene-1,7-dioate hydratase | PANEL HIT: hpcG (Aromatics / Homoprotocatechuate) | pident=71.984000 qcovs=96.000000</title></polygon>
+<text x="1605.9" y="2469.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1605.9 2469.0)" fill="#111">hpcG (hpcG)</text>
+<polygon points="1625.7,2434.0 1651.3,2434.0 1664.0,2445.0 1651.3,2456.0 1625.7,2456.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>KOALHHAE_03555 | hpcH | Hydrolase/decarboxylase/lyase | 4-hydroxy-2-oxo-heptane-1,7-dioate aldolase | PANEL HIT: hpcH (Aromatics / Homoprotocatechuate) | pident=62.069000 qcovs=99.000000</title></polygon>
+<text x="1644.8" y="2469.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1644.8 2469.0)" fill="#111">hpcH (hpcH)</text>
+<text x="452.0" y="2382.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">3,955,841 bp</text>
+<text x="1664.0" y="2382.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">3,981,156 bp</text>
+<rect x="18" y="2496" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="2496" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="2514.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">CP063455.1_panelcluster_424</text>
+<text x="32.0" y="2532.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">CP063455.1 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="2548.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: acdB; galP; galT; nagF; nagR; opdK; pchA; pht2</text>
+<text x="32.0" y="2560.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Beta-oxidation; Gallate; Naphthalene;</text>
+<text x="32.0" y="2572.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Transportation</text>
+<line x1="452" y1="2587.0" x2="1664" y2="2587.0" stroke="#d0d0d0"/>
+<polygon points="452.0,2576.0 485.6,2576.0 502.2,2587.0 485.6,2598.0 452.0,2598.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>KOALHHAE_03659 | pht2 | Oxygenase/dioxygenase | Phthalate 4,5-dioxygenase oxygenase reductase subunit | PANEL HIT: pht2 (Aromatics / Phthalate) | pident=42.812000 qcovs=95.000000</title></polygon>
+<text x="477.1" y="2611.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 477.1 2611.0)" fill="#111">pht2 (pht2)</text>
+<polygon points="540.2,2576.0 515.0,2576.0 502.5,2587.0 515.0,2598.0 540.2,2598.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03660 | KOALHHAE_03660 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="521.4" y="2611.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 521.4 2611.0)" fill="#555">KOALHHAE_03660</text>
+<polygon points="618.7,2576.0 570.3,2576.0 552.3,2587.0 570.3,2598.0 618.7,2598.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>KOALHHAE_03661 | nicP_5 | Transport/efflux | Porin-like protein NicP | PANEL HIT: opdK (Transportation / Transportation) | pident=70.743000 qcovs=99.000000</title></polygon>
+<text x="585.5" y="2611.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 585.5 2611.0)" fill="#111">nicP_5 (opdK)</text>
+<polygon points="703.0,2576.0 643.1,2576.0 625.1,2587.0 643.1,2598.0 703.0,2598.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>KOALHHAE_03662 | pchA_1 | Dehydrogenase/oxidoreductase | 4-hydroxybenzaldehyde dehydrogenase (NADP(+)) | PANEL HIT: pchA (Aromatics / Toluene) | pident=73.320000 qcovs=100.000000</title></polygon>
+<text x="664.0" y="2611.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 664.0 2611.0)" fill="#111">pchA_1 (pchA)</text>
+<polygon points="759.9,2576.0 727.2,2576.0 711.1,2587.0 727.2,2598.0 759.9,2598.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03663 | panE_1 | Dehydrogenase/oxidoreductase | 2-dehydropantoate 2-reductase</title></polygon>
+<text x="735.5" y="2611.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 735.5 2611.0)" fill="#555">panE_1</text>
+<polygon points="835.4,2576.0 779.9,2576.0 761.9,2587.0 779.9,2598.0 835.4,2598.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>KOALHHAE_03664 | pcaK_3 | Transport/efflux | 4-hydroxybenzoate transporter PcaK | PANEL HIT: galT (Gallate / Gallate) | pident=33.494000 qcovs=92.000000</title></polygon>
+<text x="798.6" y="2611.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 798.6 2611.0)" fill="#111">pcaK_3 (galT)</text>
+<polygon points="923.5,2576.0 857.7,2576.0 839.7,2587.0 857.7,2598.0 923.5,2598.0" fill="#6a3d9a" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03665 | mdlC | Carboxylase | Benzoylformate decarboxylase</title></polygon>
+<text x="881.6" y="2611.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 881.6 2611.0)" fill="#555">mdlC</text>
+<polygon points="929.6,2576.0 961.3,2576.0 977.0,2587.0 961.3,2598.0 929.6,2598.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>KOALHHAE_03666 | pcpR_4 | Accessory/other | PCP degradation transcriptional activation protein | PANEL HIT: nagR (Naphthalene / Naphthalene) | pident=35.540000 qcovs=95.000000</title></polygon>
+<text x="953.3" y="2611.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 953.3 2611.0)" fill="#111">pcpR_4 (nagR)</text>
+<polygon points="1048.7,2576.0 996.7,2576.0 978.7,2587.0 996.7,2598.0 1048.7,2598.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>KOALHHAE_03667 | pcaK_4 | Transport/efflux | 4-hydroxybenzoate transporter PcaK | PANEL HIT: galT (Gallate / Gallate) | pident=33.947000 qcovs=83.000000</title></polygon>
+<text x="1013.7" y="2611.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1013.7 2611.0)" fill="#111">pcaK_4 (galT)</text>
+<polygon points="1171.4,2576.0 1096.7,2576.0 1078.7,2587.0 1096.7,2598.0 1171.4,2598.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>KOALHHAE_03668 | dmdC_3 | Dehydrogenase/oxidoreductase | 3-methylmercaptopropionyl-CoA dehydrogenase | PANEL HIT: acdB (Beta-oxidation / Beta-oxidation) | pident=44.123000 qcovs=97.000000</title></polygon>
+<text x="1125.1" y="2611.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1125.1 2611.0)" fill="#111">dmdC_3 (acdB)</text>
+<polygon points="1240.1,2576.0 1192.5,2576.0 1174.5,2587.0 1192.5,2598.0 1240.1,2598.0" fill="#a6cee3" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03669 | thlA_2 | Thiolase/transferase | Acetyl-CoA acetyltransferase</title></polygon>
+<text x="1207.3" y="2611.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1207.3 2611.0)" fill="#555">thlA_2</text>
+<polygon points="1340.1,2576.0 1257.9,2576.0 1239.9,2587.0 1257.9,2598.0 1340.1,2598.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03670 | car | Dehydrogenase/oxidoreductase | Carboxylic acid reductase</title></polygon>
+<text x="1290.0" y="2611.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1290.0 2611.0)" fill="#555">car</text>
+<polygon points="1423.5,2576.0 1365.0,2576.0 1347.0,2587.0 1365.0,2598.0 1423.5,2598.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>KOALHHAE_03671 | vdh | Dehydrogenase/oxidoreductase | Vanillin dehydrogenase | PANEL HIT: nagF (Naphthalene / Naphthalene) | pident=50.311000 qcovs=100.000000</title></polygon>
+<text x="1385.2" y="2611.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1385.2 2611.0)" fill="#111">vdh (nagF)</text>
+<polygon points="1472.4,2576.0 1443.0,2576.0 1428.5,2587.0 1443.0,2598.0 1472.4,2598.0" fill="#ff7f00" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03672 | KOALHHAE_03672 | Hydratase/dehydratase/isomerase | Hydroxycinnamoyl-CoA hydratase-lyase</title></polygon>
+<text x="1450.5" y="2611.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1450.5 2611.0)" fill="#555">KOALHHAE_03672</text>
+<polygon points="1483.4,2576.0 1500.7,2576.0 1509.2,2587.0 1500.7,2598.0 1483.4,2598.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>KOALHHAE_03673 | slyA_3 | Regulator | Transcriptional regulator SlyA</title></polygon>
+<text x="1496.3" y="2611.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1496.3 2611.0)" fill="#555">slyA_3</text>
+<polygon points="1582.5,2576.0 1530.7,2576.0 1512.7,2587.0 1530.7,2598.0 1582.5,2598.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>KOALHHAE_03674 | nicP_6 | Transport/efflux | Porin-like protein NicP | PANEL HIT: galP (Gallate / Gallate) | pident=37.471000 qcovs=99.000000</title></polygon>
+<text x="1547.6" y="2611.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1547.6 2611.0)" fill="#111">nicP_6 (galP)</text>
+<polygon points="1600.0,2576.0 1646.0,2576.0 1664.0,2587.0 1646.0,2598.0 1600.0,2598.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>KOALHHAE_03675 | mhpT | Transport/efflux | 3-(3-hydroxy-phenyl)propionate transporter | PANEL HIT: galT (Gallate / Gallate) | pident=38.333000 qcovs=93.000000</title></polygon>
+<text x="1632.0" y="2611.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1632.0 2611.0)" fill="#111">mhpT (galT)</text>
+<text x="452.0" y="2524.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">4,073,124 bp</text>
+<text x="1664.0" y="2524.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">4,096,081 bp</text>
+<rect x="18" y="2638" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="2638" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="2656.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">CP063455.1_panelcluster_430</text>
+<text x="32.0" y="2674.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">CP063455.1 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="2690.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: catA; catB; catC; catR; xylL; xylX; xylY; xylZ</text>
+<text x="32.0" y="2702.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics; Catechol-ortho</text>
+<line x1="452" y1="2729.0" x2="1664" y2="2729.0" stroke="#d0d0d0"/>
+<polygon points="559.4,2718.0 470.0,2718.0 452.0,2729.0 470.0,2740.0 559.4,2740.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>KOALHHAE_04034 | lvr | Dehydrogenase/oxidoreductase | Levodione reductase | PANEL HIT: xylL (Aromatics / Benzene) | pident=76.357000 qcovs=96.000000</title></polygon>
+<text x="505.7" y="2753.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">lvr (xylL)</text>
+<polygon points="719.8,2718.0 597.1,2718.0 579.1,2729.0 597.1,2740.0 719.8,2740.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>KOALHHAE_04035 | benC | Oxygenase/dioxygenase | Benzoate 1,2-dioxygenase electron transfer component | PANEL HIT: xylZ (Aromatics / Benzene) | pident=80.655000 qcovs=100.000000</title></polygon>
+<text x="649.4" y="2753.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">benC (xylZ)</text>
+<polygon points="789.0,2718.0 739.1,2718.0 721.1,2729.0 739.1,2740.0 789.0,2740.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>KOALHHAE_04036 | cbdB | Oxygenase/dioxygenase | 2-halobenzoate 1,2-dioxygenase small subunit | PANEL HIT: xylY (Aromatics / Benzene) | pident=80.247000 qcovs=100.000000</title></polygon>
+<text x="755.1" y="2753.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">cbdB (xylY)</text>
+<polygon points="977.8,2718.0 806.4,2718.0 788.4,2729.0 806.4,2740.0 977.8,2740.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>KOALHHAE_04037 | cbdA | Oxygenase/dioxygenase | 2-halobenzoate 1,2-dioxygenase large subunit | PANEL HIT: xylX (Aromatics / Benzene) | pident=72.406000 qcovs=99.000000</title></polygon>
+<text x="883.1" y="2753.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">cbdA (xylX)</text>
+<polygon points="1162.1,2718.0 1047.3,2718.0 1029.3,2729.0 1047.3,2740.0 1162.1,2740.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>KOALHHAE_04038 | rhaS_7 | Regulator | HTH-type transcriptional activator RhaS</title></polygon>
+<text x="1095.7" y="2753.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">rhaS_7</text>
+<polygon points="1312.3,2718.0 1201.3,2718.0 1183.3,2729.0 1201.3,2740.0 1312.3,2740.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>KOALHHAE_04039 | catA | Oxygenase/dioxygenase | Catechol 1,2-dioxygenase | PANEL HIT: catA (Catechol-ortho / Catechol-ortho) | pident=59.633000 qcovs=99.000000</title></polygon>
+<text x="1247.8" y="2753.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">catA (catA)</text>
+<polygon points="1359.8,2718.0 1332.7,2718.0 1319.4,2729.0 1332.7,2740.0 1359.8,2740.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>KOALHHAE_04040 | catC | Hydratase/dehydratase/isomerase | Muconolactone Delta-isomerase | PANEL HIT: catC (Catechol-ortho / Catechol-ortho) | pident=79.167000 qcovs=100.000000</title></polygon>
+<text x="1339.6" y="2753.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">catC (catC)</text>
+<polygon points="1535.1,2718.0 1379.1,2718.0 1361.1,2729.0 1379.1,2740.0 1535.1,2740.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>KOALHHAE_04041 | catB | Hydratase/dehydratase/isomerase | Muconate cycloisomerase 1 | PANEL HIT: catB (Catechol-ortho / Catechol-ortho) | pident=75.936000 qcovs=99.000000</title></polygon>
+<text x="1448.1" y="2753.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">catB (catB)</text>
+<polygon points="1537.9,2718.0 1646.0,2718.0 1664.0,2729.0 1646.0,2740.0 1537.9,2740.0" fill="#fdbf6f" stroke="#111" stroke-width="2.2"><title>KOALHHAE_04042 | benM_4 | Regulator | HTH-type transcriptional regulator BenM | PANEL HIT: catR (Catechol-ortho / Catechol-ortho) | pident=69.896000 qcovs=99.000000</title></polygon>
+<text x="1600.9" y="2753.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">benM_4 (catR)</text>
+<text x="452.0" y="2666.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">4,517,800 bp</text>
+<text x="1664.0" y="2666.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">4,526,535 bp</text>
+<rect x="18" y="2780" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="2780" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="2798.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">CP063455.1_panelcluster_432</text>
+<text x="32.0" y="2816.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">CP063455.1 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="2832.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: acdA; fadK; hmgL; nagR</text>
+<text x="32.0" y="2844.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Beta-oxidation; Cyclohexylacetate; Naphthalene</text>
+<line x1="452" y1="2871.0" x2="1664" y2="2871.0" stroke="#d0d0d0"/>
+<polygon points="452.0,2860.0 618.7,2860.0 636.7,2871.0 618.7,2882.0 452.0,2882.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>KOALHHAE_04106 | pcpR_5 | Accessory/other | PCP degradation transcriptional activation protein | PANEL HIT: nagR (Naphthalene / Naphthalene) | pident=33.444000 qcovs=99.000000</title></polygon>
+<text x="544.3" y="2895.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pcpR_5 (nagR)</text>
+<polygon points="661.1,2860.0 723.0,2860.0 741.0,2871.0 723.0,2882.0 661.1,2882.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>KOALHHAE_04107 | cueR | Regulator | HTH-type transcriptional regulator CueR</title></polygon>
+<text x="701.1" y="2895.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">cueR</text>
+<polygon points="753.3,2860.0 912.8,2860.0 930.8,2871.0 912.8,2882.0 753.3,2882.0" fill="#b15928" stroke="#111" stroke-width="2.2"><title>KOALHHAE_04108 | liuE | Hydrolase/decarboxylase/lyase | 3-hydroxy-3-isohexenylglutaryl-CoA/hydroxy-methylglutaryl-CoA lyase | PANEL HIT: hmgL (Cyclohexylacetate / Cyclohexylacetate) | pident=78.261000 qcovs=100.000000</title></polygon>
+<text x="842.1" y="2895.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">liuE (hmgL)</text>
+<polygon points="1389.4,2860.0 1071.2,2860.0 1053.2,2871.0 1071.2,2882.0 1389.4,2882.0" fill="#1f78b4" stroke="#111" stroke-width="2.2"><title>KOALHHAE_04109 | fadD3 | CoA ligase/synthetase | 3-[(3aS,4S,7aS)-7a-methyl-1,5-dioxo-octahydro-1H-inden-4-yl]propanoyl:CoA ligase | PANEL HIT: fadK (Beta-oxidation / Beta-oxidation) | pident=30.203000 qcovs=92.000000</title></polygon>
+<text x="1221.3" y="2895.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">fadD3 (fadK)</text>
+<polygon points="1434.3,2860.0 1646.0,2860.0 1664.0,2871.0 1646.0,2882.0 1434.3,2882.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>KOALHHAE_04110 | mmgC_5 | Dehydrogenase/oxidoreductase | Acyl-CoA dehydrogenase | PANEL HIT: acdA (Beta-oxidation / Beta-oxidation) | pident=42.971000 qcovs=99.000000</title></polygon>
+<text x="1549.2" y="2895.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">mmgC_5 (acdA)</text>
+<text x="452.0" y="2808.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">4,596,009 bp</text>
+<text x="1664.0" y="2808.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">4,602,151 bp</text>
+<rect x="18" y="2922" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="2922" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="2940.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">CP063455.1_panelcluster_433</text>
+<text x="32.0" y="2958.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">CP063455.1 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="2974.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: BVMO; alkN_mcp</text>
+<text x="32.0" y="2986.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes</text>
+<line x1="452" y1="3013.0" x2="1664" y2="3013.0" stroke="#d0d0d0"/>
+<polygon points="452.0,3002.0 654.4,3002.0 672.4,3013.0 654.4,3024.0 452.0,3024.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>KOALHHAE_04173 | aes | Accessory/other | Acetyl esterase | PANEL HIT: BVMO (Alkanes / Subterminal oxidation) | pident=46.016000 qcovs=95.000000</title></polygon>
+<text x="562.2" y="3037.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">aes (BVMO)</text>
+<polygon points="691.8,3002.0 730.7,3002.0 748.7,3013.0 730.7,3024.0 691.8,3024.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KOALHHAE_04174 | KOALHHAE_04174 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="720.2" y="3037.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">KOALHHAE_04174</text>
+<polygon points="823.8,3002.0 770.1,3002.0 752.1,3013.0 770.1,3024.0 823.8,3024.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>KOALHHAE_04175 | sdhL | Dehydrogenase/oxidoreductase | Shikimate dehydrogenase-like protein</title></polygon>
+<text x="788.0" y="3037.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">sdhL</text>
+<polygon points="846.1,3002.0 867.2,3002.0 877.6,3013.0 867.2,3024.0 846.1,3024.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KOALHHAE_04176 | KOALHHAE_04176 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="861.8" y="3037.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">KOALHHAE_04176</text>
+<polygon points="892.6,3002.0 908.4,3002.0 916.2,3013.0 908.4,3024.0 892.6,3024.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KOALHHAE_04177 | KOALHHAE_04177 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="904.4" y="3037.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">KOALHHAE_04177</text>
+<polygon points="925.7,3002.0 936.7,3002.0 943.7,3013.0 936.7,3024.0 925.7,3024.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KOALHHAE_04178 | KOALHHAE_04178 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="934.7" y="3037.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">KOALHHAE_04178</text>
+<polygon points="1034.2,3002.0 959.3,3002.0 941.3,3013.0 959.3,3024.0 1034.2,3024.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>KOALHHAE_04179 | ydiK_2 | Transport/efflux | Putative transport protein YdiK</title></polygon>
+<text x="987.8" y="3037.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">ydiK_2</text>
+<polygon points="1048.1,3002.0 1146.1,3002.0 1164.1,3013.0 1146.1,3024.0 1048.1,3024.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KOALHHAE_04180 | rlhA_2 | Accessory/other | 23S rRNA 5-hydroxycytidine synthase</title></polygon>
+<text x="1106.1" y="3037.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">rlhA_2</text>
+<polygon points="1315.2,3002.0 1186.3,3002.0 1168.3,3013.0 1186.3,3024.0 1315.2,3024.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>KOALHHAE_04181 | mcpP_2 | Accessory/other | Methyl-accepting chemotaxis protein McpP | PANEL HIT: alkN_mcp (Alkanes / Hydrocarbon uptake) | pident=30.323000 qcovs=63.000000</title></polygon>
+<text x="1241.7" y="3037.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">mcpP_2 (alkN_mcp)</text>
+<polygon points="1446.0,3002.0 1348.5,3002.0 1330.5,3013.0 1348.5,3024.0 1446.0,3024.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KOALHHAE_04182 | KOALHHAE_04182 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1388.3" y="3037.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">KOALHHAE_04182</text>
+<polygon points="1476.1,3002.0 1646.0,3002.0 1664.0,3013.0 1646.0,3024.0 1476.1,3024.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>KOALHHAE_04183 | mcpU_1 | Accessory/other | Methyl-accepting chemotaxis protein McpU | PANEL HIT: alkN_mcp (Alkanes / Hydrocarbon uptake) | pident=31.457000 qcovs=61.000000</title></polygon>
+<text x="1570.0" y="3037.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">mcpU_1 (alkN_mcp)</text>
+<text x="452.0" y="2950.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">4,667,950 bp</text>
+<text x="1664.0" y="2950.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">4,681,804 bp</text>
+<rect x="18" y="3064" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="3064" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="3082.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">CP063455.1_panelcluster_435</text>
+<text x="32.0" y="3100.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">CP063455.1 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="3116.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: dszC; ssuD</text>
+<text x="32.0" y="3128.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Aromatics</text>
+<line x1="452" y1="3155.0" x2="1664" y2="3155.0" stroke="#d0d0d0"/>
+<polygon points="452.0,3144.0 627.8,3144.0 645.8,3155.0 627.8,3166.0 452.0,3166.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>KOALHHAE_04312 | msuD | Oxygenase/dioxygenase | Methanesulfonate monooxygenase | PANEL HIT: ssuD (Alkanes / Auxillary alkane pathway) | pident=70.635000 qcovs=98.000000</title></polygon>
+<text x="548.9" y="3179.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">msuD (ssuD)</text>
+<polygon points="668.6,3144.0 852.6,3144.0 870.6,3155.0 852.6,3166.0 668.6,3166.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>KOALHHAE_04313 | sfnC_2 | Oxygenase/dioxygenase | putative FMNH2-dependent monooxygenase SfnC | PANEL HIT: dszC (Aromatics / Dibenzofuran) | pident=40.250000 qcovs=95.000000</title></polygon>
+<text x="769.6" y="3179.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">sfnC_2 (dszC)</text>
+<polygon points="874.6,3144.0 1043.8,3144.0 1061.8,3155.0 1043.8,3166.0 874.6,3166.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>KOALHHAE_04314 | sfnR_2 | Regulator | Sigma54-dependent transcriptional activator SfnR</title></polygon>
+<text x="968.2" y="3179.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">sfnR_2</text>
+<polygon points="1122.9,3144.0 1079.1,3144.0 1061.1,3155.0 1079.1,3166.0 1122.9,3166.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KOALHHAE_04315 | KOALHHAE_04315 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1092.0" y="3179.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">KOALHHAE_04315</text>
+<polygon points="1141.2,3144.0 1202.8,3144.0 1220.8,3155.0 1202.8,3166.0 1141.2,3166.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>KOALHHAE_04316 | soxR | Regulator | Redox-sensitive transcriptional activator SoxR</title></polygon>
+<text x="1181.0" y="3179.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">soxR</text>
+<polygon points="1381.6,3144.0 1268.5,3144.0 1250.5,3155.0 1268.5,3166.0 1381.6,3166.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KOALHHAE_04317 | KOALHHAE_04317 | Accessory/other | Membrane lipoprotein TpN32</title></polygon>
+<text x="1316.1" y="3179.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">KOALHHAE_04317</text>
+<polygon points="1451.7,3144.0 1414.6,3144.0 1396.6,3155.0 1414.6,3166.0 1451.7,3166.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KOALHHAE_04318 | KOALHHAE_04318 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1424.1" y="3179.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">KOALHHAE_04318</text>
+<polygon points="1664.0,3144.0 1470.3,3144.0 1452.3,3155.0 1470.3,3166.0 1664.0,3166.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>KOALHHAE_04319 | sfnC_3 | Oxygenase/dioxygenase | putative FMNH2-dependent monooxygenase SfnC | PANEL HIT: dszC (Aromatics / Dibenzofuran) | pident=33.661000 qcovs=96.000000</title></polygon>
+<text x="1558.2" y="3179.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">sfnC_3 (dszC)</text>
+<text x="452.0" y="3092.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">4,857,729 bp</text>
+<text x="1664.0" y="3092.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">4,864,857 bp</text>
+<rect x="18" y="3206" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="3206" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="3224.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">CP063455.1_panelcluster_441</text>
+<text x="32.0" y="3242.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">CP063455.1 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="3258.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: fadD; plaM9</text>
+<text x="32.0" y="3270.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Beta-oxidation; Plastics</text>
+<line x1="452" y1="3297.0" x2="1664" y2="3297.0" stroke="#d0d0d0"/>
+<polygon points="871.9,3286.0 470.0,3286.0 452.0,3297.0 470.0,3308.0 871.9,3308.0" fill="#1f78b4" stroke="#111" stroke-width="2.2"><title>KOALHHAE_04767 | fadD_3 | CoA ligase/synthetase | Long-chain-fatty-acid--CoA ligase | PANEL HIT: fadD (Beta-oxidation / Beta-oxidation) | pident=55.062000 qcovs=99.000000</title></polygon>
+<text x="662.0" y="3321.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">fadD_3 (fadD)</text>
+<polygon points="1376.1,3286.0 974.2,3286.0 956.2,3297.0 974.2,3308.0 1376.1,3308.0" fill="#1f78b4" stroke="#111" stroke-width="2.2"><title>KOALHHAE_04768 | fadD_4 | CoA ligase/synthetase | Long-chain-fatty-acid--CoA ligase | PANEL HIT: fadD (Beta-oxidation / Beta-oxidation) | pident=53.047000 qcovs=98.000000</title></polygon>
+<text x="1166.1" y="3321.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">fadD_4 (fadD)</text>
+<polygon points="1429.1,3286.0 1646.0,3286.0 1664.0,3297.0 1646.0,3308.0 1429.1,3308.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>KOALHHAE_04769 | KOALHHAE_04769 | Accessory/other | Monoacylglycerol lipase | PANEL HIT: plaM9 (Plastics / PBS/PBSA/PCL/PES/PHA/PLA) | pident=34.891000 qcovs=95.000000</title></polygon>
+<text x="1546.5" y="3321.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">KOALHHAE_04769 (plaM9)</text>
+<text x="452.0" y="3234.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">5,335,491 bp</text>
+<text x="1664.0" y="3234.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">5,340,365 bp</text>
+<rect x="18" y="3348" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="3348" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="3366.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">CP063455.1_panelcluster_448</text>
+<text x="32.0" y="3384.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">CP063455.1 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="3400.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: pchA; pchC; pchF; pobA</text>
+<text x="32.0" y="3412.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics</text>
+<line x1="452" y1="3439.0" x2="1664" y2="3439.0" stroke="#d0d0d0"/>
+<polygon points="596.4,3428.0 470.0,3428.0 452.0,3439.0 470.0,3450.0 596.4,3450.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>KOALHHAE_05224 | pobA | Oxygenase/dioxygenase | p-hydroxybenzoate hydroxylase | PANEL HIT: pobA (Aromatics / Toluene) | pident=85.823000 qcovs=100.000000</title></polygon>
+<text x="524.2" y="3463.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pobA (pobA)</text>
+<polygon points="619.6,3428.0 709.9,3428.0 727.9,3439.0 709.9,3450.0 619.6,3450.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KOALHHAE_05225 | araC_1 | Accessory/other | Arabinose operon regulatory protein</title></polygon>
+<text x="673.8" y="3463.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">araC_1</text>
+<polygon points="754.5,3428.0 850.3,3428.0 868.3,3439.0 850.3,3450.0 754.5,3450.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KOALHHAE_05226 | KOALHHAE_05226 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="811.4" y="3463.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">KOALHHAE_05226</text>
+<polygon points="1097.4,3428.0 892.3,3428.0 874.3,3439.0 892.3,3450.0 1097.4,3450.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>KOALHHAE_05227 | mopR | Regulator | Phenol regulator MopR</title></polygon>
+<text x="985.9" y="3463.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">mopR</text>
+<polygon points="1160.5,3428.0 1321.9,3428.0 1339.9,3439.0 1321.9,3450.0 1160.5,3450.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>KOALHHAE_05228 | pchA_3 | Dehydrogenase/oxidoreductase | 4-hydroxybenzaldehyde dehydrogenase (NADP(+)) | PANEL HIT: pchA (Aromatics / Toluene) | pident=78.615000 qcovs=100.000000</title></polygon>
+<text x="1250.2" y="3463.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pchA_3 (pchA)</text>
+<polygon points="1345.8,3428.0 1373.1,3428.0 1386.6,3439.0 1373.1,3450.0 1345.8,3450.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>KOALHHAE_05229 | pchC | Dehydrogenase/oxidoreductase | 4-cresol dehydrogenase [hydroxylating] cytochrome c subunit | PANEL HIT: pchC (Aromatics / Toluene) | pident=53.097000 qcovs=100.000000</title></polygon>
+<text x="1366.2" y="3463.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pchC (pchC)</text>
+<polygon points="1387.8,3428.0 1453.7,3428.0 1471.7,3439.0 1453.7,3450.0 1387.8,3450.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KOALHHAE_05230 | KOALHHAE_05230 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1429.8" y="3463.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">KOALHHAE_05230</text>
+<polygon points="1473.3,3428.0 1646.0,3428.0 1664.0,3439.0 1646.0,3450.0 1473.3,3450.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>KOALHHAE_05231 | pchF | Dehydrogenase/oxidoreductase | 4-cresol dehydrogenase [hydroxylating] flavoprotein subunit | PANEL HIT: pchF (Aromatics / Toluene) | pident=79.119000 qcovs=100.000000</title></polygon>
+<text x="1568.6" y="3463.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pchF (pchF)</text>
+<text x="452.0" y="3376.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">5,824,760 bp</text>
+<text x="1664.0" y="3376.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">5,834,730 bp</text>
+<rect x="18" y="3490" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="3490" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="3508.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">CP063455.1_panelcluster_452</text>
+<text x="32.0" y="3526.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">CP063455.1 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="3542.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: alkN_mcp; pcaG; pcaH</text>
+<text x="32.0" y="3554.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Protocatechuate</text>
+<line x1="452" y1="3581.0" x2="1664" y2="3581.0" stroke="#d0d0d0"/>
+<polygon points="452.0,3570.0 711.9,3570.0 729.9,3581.0 711.9,3592.0 452.0,3592.0" fill="#d9d9d9" stroke="#111" stroke-width="2.2"><title>KOALHHAE_05441 | KOALHHAE_05441 | Hypothetical/accessory | hypothetical protein | PANEL HIT: alkN_mcp (Alkanes / Hydrocarbon uptake) | pident=33.333000 qcovs=59.000000</title></polygon>
+<text x="590.9" y="3605.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">KOALHHAE_05441 (alkN_...</text>
+<polygon points="881.4,3570.0 748.9,3570.0 730.9,3581.0 748.9,3592.0 881.4,3592.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>KOALHHAE_05442 | ribN_2 | Transport/efflux | Riboflavin transporter</title></polygon>
+<text x="806.1" y="3605.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">ribN_2</text>
+<polygon points="1038.6,3570.0 916.9,3570.0 898.9,3581.0 916.9,3592.0 1038.6,3592.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KOALHHAE_05443 | KOALHHAE_05443 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="968.7" y="3605.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">KOALHHAE_05443</text>
+<polygon points="1220.1,3570.0 1057.8,3570.0 1039.8,3581.0 1057.8,3592.0 1220.1,3592.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>KOALHHAE_05444 | iolX | Dehydrogenase/oxidoreductase | scyllo-inositol 2-dehydrogenase (NAD(+))</title></polygon>
+<text x="1129.9" y="3605.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">iolX</text>
+<polygon points="1398.3,3570.0 1282.7,3570.0 1264.7,3581.0 1282.7,3592.0 1398.3,3592.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>KOALHHAE_05445 | iclR_2 | Regulator | Transcriptional repressor IclR</title></polygon>
+<text x="1331.5" y="3605.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">iclR_2</text>
+<polygon points="1539.0,3570.0 1453.3,3570.0 1435.3,3581.0 1453.3,3592.0 1539.0,3592.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>KOALHHAE_05446 | pcaG_2 | Oxygenase/dioxygenase | Protocatechuate 3,4-dioxygenase alpha chain | PANEL HIT: pcaG (Protocatechuate / Protocatechuate) | pident=83.085000 qcovs=100.000000</title></polygon>
+<text x="1487.1" y="3605.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pcaG_2 (pcaG)</text>
+<polygon points="1664.0,3570.0 1558.7,3570.0 1540.7,3581.0 1558.7,3592.0 1664.0,3592.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>KOALHHAE_05447 | pcaH_2 | Oxygenase/dioxygenase | Protocatechuate 3,4-dioxygenase beta chain | PANEL HIT: pcaH (Protocatechuate / Protocatechuate) | pident=88.703000 qcovs=100.000000</title></polygon>
+<text x="1602.4" y="3605.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pcaH_2 (pcaH)</text>
+<text x="452.0" y="3518.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">6,058,188 bp</text>
+<text x="1664.0" y="3518.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">6,065,266 bp</text>
+<rect x="18" y="3632" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="3632" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="3650.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">CP063455.1_panelcluster_457</text>
+<text x="32.0" y="3668.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">CP063455.1 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="3684.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: acdB</text>
+<text x="32.0" y="3696.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Beta-oxidation</text>
+<line x1="452" y1="3723.0" x2="1664" y2="3723.0" stroke="#d0d0d0"/>
+<polygon points="752.6,3712.0 470.0,3712.0 452.0,3723.0 470.0,3734.0 752.6,3734.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>KOALHHAE_05711 | dmdC_4 | Dehydrogenase/oxidoreductase | 3-methylmercaptopropionyl-CoA dehydrogenase | PANEL HIT: acdB (Beta-oxidation / Beta-oxidation) | pident=49.167000 qcovs=99.000000</title></polygon>
+<text x="602.3" y="3747.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">dmdC_4 (acdB)</text>
+<polygon points="1087.9,3712.0 802.2,3712.0 784.2,3723.0 802.2,3734.0 1087.9,3734.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>KOALHHAE_05712 | dmdC_5 | Dehydrogenase/oxidoreductase | 3-methylmercaptopropionyl-CoA dehydrogenase | PANEL HIT: acdB (Beta-oxidation / Beta-oxidation) | pident=57.000000 qcovs=100.000000</title></polygon>
+<text x="936.1" y="3747.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">dmdC_5 (acdB)</text>
+<polygon points="1321.8,3712.0 1121.3,3712.0 1103.3,3723.0 1121.3,3734.0 1321.8,3734.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KOALHHAE_05713 | KOALHHAE_05713 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1212.5" y="3747.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">KOALHHAE_05713</text>
+<polygon points="1664.0,3712.0 1376.8,3712.0 1358.8,3723.0 1376.8,3734.0 1664.0,3734.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>KOALHHAE_05714 | dmdC_6 | Dehydrogenase/oxidoreductase | 3-methylmercaptopropionyl-CoA dehydrogenase | PANEL HIT: acdB (Beta-oxidation / Beta-oxidation) | pident=59.667000 qcovs=100.000000</title></polygon>
+<text x="1511.4" y="3747.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">dmdC_6 (acdB)</text>
+<text x="452.0" y="3660.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">6,347,232 bp</text>
+<text x="1664.0" y="3660.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">6,354,403 bp</text>
+<rect x="18" y="3774" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="3774" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="3792.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">CP063455.1_panelcluster_461</text>
+<text x="32.0" y="3810.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">CP063455.1 | c_000000000001 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="3826.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: atdA1; galP; ssuD</text>
+<text x="32.0" y="3838.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Aromatics; Gallate</text>
+<line x1="452" y1="3865.0" x2="1664" y2="3865.0" stroke="#d0d0d0"/>
+<polygon points="579.5,3854.0 470.0,3854.0 452.0,3865.0 470.0,3876.0 579.5,3876.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>KOALHHAE_05964 | puuA_4 | Accessory/other | Gamma-glutamylputrescine synthetase PuuA | PANEL HIT: atdA1 (Aromatics / Aniline) | pident=30.000000 qcovs=74.000000</title></polygon>
+<text x="515.7" y="3889.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 515.7 3889.0)" fill="#111">puuA_4 (atdA1)</text>
+<polygon points="656.5,3854.0 601.1,3854.0 583.1,3865.0 601.1,3876.0 656.5,3876.0" fill="#b15928" stroke="#888" stroke-width="0.8"><title>KOALHHAE_05965 | puuD_2 | Hydrolase/decarboxylase/lyase | Gamma-glutamyl-gamma-aminobutyrate hydrolase PuuD</title></polygon>
+<text x="619.8" y="3889.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 619.8 3889.0)" fill="#555">puuD_2</text>
+<polygon points="682.6,3854.0 793.8,3854.0 811.8,3865.0 793.8,3876.0 682.6,3876.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KOALHHAE_05966 | puuA_5 | Accessory/other | Gamma-glutamylputrescine synthetase PuuA</title></polygon>
+<text x="747.2" y="3889.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 747.2 3889.0)" fill="#555">puuA_5</text>
+<polygon points="824.4,3854.0 866.4,3854.0 884.4,3865.0 866.4,3876.0 824.4,3876.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KOALHHAE_05967 | KOALHHAE_05967 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="854.4" y="3889.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 854.4 3889.0)" fill="#555">KOALHHAE_05967</text>
+<polygon points="963.3,3854.0 902.8,3854.0 884.8,3865.0 902.8,3876.0 963.3,3876.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KOALHHAE_05968 | coaA | Accessory/other | Pantothenate kinase</title></polygon>
+<text x="924.0" y="3889.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 924.0 3889.0)" fill="#555">coaA</text>
+<polygon points="1002.4,3854.0 989.2,3854.0 982.2,3865.0 989.2,3876.0 1002.4,3876.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>KOALHHAE_05969 | KOALHHAE_05969 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="992.3" y="3889.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 992.3 3889.0)" fill="#555">KOALHHAE_05969</text>
+<polygon points="1081.4,3854.0 1023.7,3854.0 1005.7,3865.0 1023.7,3876.0 1081.4,3876.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KOALHHAE_05970 | ssuB | Accessory/other | Aliphatic sulfonates import ATP-binding protein SsuB</title></polygon>
+<text x="1043.6" y="3889.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1043.6 3889.0)" fill="#555">ssuB</text>
+<polygon points="1155.1,3854.0 1099.0,3854.0 1081.0,3865.0 1099.0,3876.0 1155.1,3876.0" fill="#cab2d6" stroke="#888" stroke-width="0.8"><title>KOALHHAE_05971 | ssuC_2 | Transport/efflux | Putative aliphatic sulfonates transport permease protein SsuC</title></polygon>
+<text x="1118.0" y="3889.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1118.0 3889.0)" fill="#555">ssuC_2</text>
+<polygon points="1263.7,3854.0 1173.9,3854.0 1155.9,3865.0 1173.9,3876.0 1263.7,3876.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>KOALHHAE_05972 | ssuD | Oxygenase/dioxygenase | Alkanesulfonate monooxygenase | PANEL HIT: ssuD (Alkanes / Auxillary alkane pathway) | pident=89.267000 qcovs=100.000000</title></polygon>
+<text x="1209.8" y="3889.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1209.8 3889.0)" fill="#111">ssuD (ssuD)</text>
+<polygon points="1356.6,3854.0 1283.9,3854.0 1265.9,3865.0 1283.9,3876.0 1356.6,3876.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KOALHHAE_05973 | ssuA | Accessory/other | Putative aliphatic sulfonates-binding protein</title></polygon>
+<text x="1311.3" y="3889.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1311.3 3889.0)" fill="#555">ssuA</text>
+<polygon points="1420.7,3854.0 1383.0,3854.0 1365.0,3865.0 1383.0,3876.0 1420.7,3876.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>KOALHHAE_05974 | ssuE | Dehydrogenase/oxidoreductase | FMN reductase (NADPH)</title></polygon>
+<text x="1392.9" y="3889.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1392.9 3889.0)" fill="#555">ssuE</text>
+<polygon points="1510.0,3854.0 1468.0,3854.0 1450.0,3865.0 1468.0,3876.0 1510.0,3876.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>KOALHHAE_05975 | KOALHHAE_05975 | Accessory/other | Peroxiredoxin</title></polygon>
+<text x="1480.0" y="3889.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1480.0 3889.0)" fill="#555">KOALHHAE_05975</text>
+<polygon points="1664.0,3854.0 1553.7,3854.0 1535.7,3865.0 1553.7,3876.0 1664.0,3876.0" fill="#cab2d6" stroke="#111" stroke-width="2.2"><title>KOALHHAE_05976 | nicP_7 | Transport/efflux | Porin-like protein NicP | PANEL HIT: galP (Gallate / Gallate) | pident=36.947000 qcovs=97.000000</title></polygon>
+<text x="1599.8" y="3889.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1599.8 3889.0)" fill="#111">nicP_7 (galP)</text>
+<text x="452.0" y="3802.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">6,622,681 bp</text>
+<text x="1664.0" y="3802.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">6,635,599 bp</text>
+<text x="24.0" y="3934.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="3944" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="3954.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="3944" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="3954.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="3944" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="3954.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="3944" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="3954.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="3966" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="3976.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="3966" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="3976.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="3966" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="3976.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="3966" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="3976.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="3988" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="3998.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="3988" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="3998.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="3988" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="3998.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="3988" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="3998.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="4010" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="4020.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

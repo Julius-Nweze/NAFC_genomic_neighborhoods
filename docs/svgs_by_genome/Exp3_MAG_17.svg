@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="492" viewBox="0 0 1700 492">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<text x="24.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_17: reference-panel operon/cluster gene maps</text>
+<text x="24.0" y="56.0" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#555">2 shortlisted clusters (&gt;=3 independent panel gene hits) for this genome</text>
+<text x="24.0" y="74.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="start" fill="#555">Arrow direction shows CDS strand. Color shows enzyme class. Bold outline = reference-panel seed hit.</text>
+<rect x="18" y="82" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="82" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="100.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_17_panelcluster_4283</text>
+<text x="32.0" y="118.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_17 | MAGs/Exp3_MAG_17_c_000000000081 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="134.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: GMET_RS16560; atoB; fadA; pnbA</text>
+<text x="32.0" y="146.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Beta-oxidation; Plastics</text>
+<line x1="452" y1="173.0" x2="1664" y2="173.0" stroke="#d0d0d0"/>
+<polygon points="452.0,162.0 585.8,162.0 603.8,173.0 585.8,184.0 452.0,184.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>HOGCCFCP_04627 | pnbA_3 | Accessory/other | Para-nitrobenzyl esterase | PANEL HIT: pnbA (Plastics / PET) | pident=37.687000 qcovs=92.000000</title></polygon>
+<text x="527.9" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">pnbA_3 (pnbA)</text>
+<polygon points="603.7,162.0 731.1,162.0 749.1,173.0 731.1,184.0 603.7,184.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>HOGCCFCP_04628 | fumD_4 | Accessory/other | Fumonisin B1 esterase | PANEL HIT: pnbA (Plastics / PET) | pident=34.426000 qcovs=97.000000</title></polygon>
+<text x="676.4" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">fumD_4 (pnbA)</text>
+<polygon points="817.1,162.0 768.2,162.0 750.2,173.0 768.2,184.0 817.1,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HOGCCFCP_04629 | HOGCCFCP_04629 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="783.6" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">HOGCCFCP_04629</text>
+<polygon points="966.0,162.0 858.0,162.0 840.0,173.0 858.0,184.0 966.0,184.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>HOGCCFCP_04630 | HOGCCFCP_04630 | Thiolase/transferase | Butyryl-CoA:acetate CoA-transferase | PANEL HIT: GMET_RS16560 (Beta-oxidation / Beta-oxidation) | pident=40.233000 qcovs=96.000000</title></polygon>
+<text x="903.0" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">HOGCCFCP_04630 (GMET_...</text>
+<polygon points="1098.9,162.0 990.9,162.0 972.9,173.0 990.9,184.0 1098.9,184.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>HOGCCFCP_04631 | HOGCCFCP_04631 | Thiolase/transferase | Butyryl-CoA:acetate CoA-transferase | PANEL HIT: GMET_RS16560 (Beta-oxidation / Beta-oxidation) | pident=41.135000 qcovs=95.000000</title></polygon>
+<text x="1035.9" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">HOGCCFCP_04631 (GMET_...</text>
+<polygon points="1333.9,162.0 1131.6,162.0 1113.6,173.0 1131.6,184.0 1333.9,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HOGCCFCP_04632 | HOGCCFCP_04632 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1223.7" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">HOGCCFCP_04632</text>
+<polygon points="1355.4,162.0 1419.5,162.0 1437.5,173.0 1419.5,184.0 1355.4,184.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>HOGCCFCP_04633 | HOGCCFCP_04633 | Dehydrogenase/oxidoreductase | Putative short-chain type dehydrogenase/reductase</title></polygon>
+<text x="1396.5" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">HOGCCFCP_04633</text>
+<polygon points="1437.6,162.0 1528.0,162.0 1546.0,173.0 1528.0,184.0 1437.6,184.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>HOGCCFCP_04634 | fadA_1 | Thiolase/transferase | 3-ketoacyl-CoA thiolase | PANEL HIT: fadA (Beta-oxidation / Beta-oxidation) | pident=44.501000 qcovs=99.000000</title></polygon>
+<text x="1491.8" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">fadA_1 (fadA)</text>
+<polygon points="1555.6,162.0 1646.0,162.0 1664.0,173.0 1646.0,184.0 1555.6,184.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>HOGCCFCP_04635 | phaA | Accessory/other | Acetyl-CoA acetyltransferase | PANEL HIT: atoB (Beta-oxidation / Beta-oxidation) | pident=58.824000 qcovs=99.000000</title></polygon>
+<text x="1609.8" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">phaA (atoB)</text>
+<text x="452.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">51,235 bp</text>
+<text x="1664.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">64,388 bp</text>
+<rect x="18" y="224" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="224" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="242.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_17_panelcluster_4284</text>
+<text x="32.0" y="260.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_17 | MAGs/Exp3_MAG_17_c_000000000081 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="276.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: acdB; atoA; fadA; fadD; mhbl; pcaI</text>
+<text x="32.0" y="288.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Beta-oxidation; Catechol-ortho; Cyclohexylacetate;</text>
+<text x="32.0" y="300.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Gentisate</text>
+<line x1="452" y1="315.0" x2="1664" y2="315.0" stroke="#d0d0d0"/>
+<polygon points="452.0,304.0 576.5,304.0 594.5,315.0 576.5,326.0 452.0,326.0" fill="#1f78b4" stroke="#111" stroke-width="2.2"><title>HOGCCFCP_04653 | fadD | CoA ligase/synthetase | Long-chain-fatty-acid--CoA ligase | PANEL HIT: fadD (Beta-oxidation / Beta-oxidation) | pident=37.640000 qcovs=94.000000</title></polygon>
+<text x="523.2" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 523.2 339.0)" fill="#111">fadD (fadD)</text>
+<polygon points="604.3,304.0 626.1,304.0 636.9,315.0 626.1,326.0 604.3,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HOGCCFCP_04654 | HOGCCFCP_04654 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="620.6" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 620.6 339.0)" fill="#555">HOGCCFCP_04654</text>
+<polygon points="641.6,304.0 717.0,304.0 735.0,315.0 717.0,326.0 641.6,326.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>HOGCCFCP_04655 | fadA_2 | Thiolase/transferase | 3-ketoacyl-CoA thiolase | PANEL HIT: fadA (Beta-oxidation / Beta-oxidation) | pident=45.501000 qcovs=99.000000</title></polygon>
+<text x="688.3" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 688.3 339.0)" fill="#111">fadA_2 (fadA)</text>
+<polygon points="735.0,304.0 907.0,304.0 925.0,315.0 907.0,326.0 735.0,326.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>HOGCCFCP_04656 | fadN | Dehydrogenase/oxidoreductase | putative 3-hydroxyacyl-CoA dehydrogenase</title></polygon>
+<text x="830.0" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 830.0 339.0)" fill="#555">fadN</text>
+<polygon points="926.0,304.0 1055.1,304.0 1073.1,315.0 1055.1,326.0 926.0,326.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>HOGCCFCP_04657 | dmdC_2 | Dehydrogenase/oxidoreductase | 3-methylmercaptopropionyl-CoA dehydrogenase | PANEL HIT: acdB (Beta-oxidation / Beta-oxidation) | pident=50.334000 qcovs=99.000000</title></polygon>
+<text x="999.5" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 999.5 339.0)" fill="#111">dmdC_2 (acdB)</text>
+<polygon points="1074.3,304.0 1105.6,304.0 1121.1,315.0 1105.6,326.0 1074.3,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HOGCCFCP_04658 | HOGCCFCP_04658 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1097.7" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1097.7 339.0)" fill="#555">HOGCCFCP_04658</text>
+<polygon points="1120.8,304.0 1164.4,304.0 1182.4,315.0 1164.4,326.0 1120.8,326.0" fill="#fb9a99" stroke="#888" stroke-width="0.8"><title>HOGCCFCP_04659 | etfB_2 | Electron transfer/redox | Electron transfer flavoprotein subunit beta</title></polygon>
+<text x="1151.6" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1151.6 339.0)" fill="#555">etfB_2</text>
+<polygon points="1182.5,304.0 1241.6,304.0 1259.6,315.0 1241.6,326.0 1182.5,326.0" fill="#fb9a99" stroke="#888" stroke-width="0.8"><title>HOGCCFCP_04660 | etfA_2 | Electron transfer/redox | Electron transfer flavoprotein subunit alpha</title></polygon>
+<text x="1221.0" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1221.0 339.0)" fill="#555">etfA_2</text>
+<polygon points="1259.9,304.0 1373.7,304.0 1391.7,315.0 1373.7,326.0 1259.9,326.0" fill="#fb9a99" stroke="#888" stroke-width="0.8"><title>HOGCCFCP_04661 | HOGCCFCP_04661 | Electron transfer/redox | Electron transfer flavoprotein-ubiquinone oxidoreductase</title></polygon>
+<text x="1325.8" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1325.8 339.0)" fill="#555">HOGCCFCP_04661</text>
+<polygon points="1463.4,304.0 1409.9,304.0 1391.9,315.0 1409.9,326.0 1463.4,326.0" fill="#d73027" stroke="#888" stroke-width="0.8"><title>HOGCCFCP_04662 | phhA | Oxygenase/dioxygenase | Phenylalanine-4-hydroxylase</title></polygon>
+<text x="1427.6" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1427.6 339.0)" fill="#555">phhA</text>
+<polygon points="1515.2,304.0 1480.5,304.0 1463.5,315.0 1480.5,326.0 1515.2,326.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>HOGCCFCP_04663 | scoB | Thiolase/transferase | putative succinyl-CoA:3-ketoacid coenzyme A transferase subunit B | PANEL HIT: atoA (Cyclohexylacetate / Cyclohexylacetate) | pident=52.970000 qcovs=92.000000</title></polygon>
+<text x="1489.3" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1489.3 339.0)" fill="#111">scoB (atoA)</text>
+<polygon points="1573.5,304.0 1533.3,304.0 1515.3,315.0 1533.3,326.0 1573.5,326.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>HOGCCFCP_04664 | scoA | Thiolase/transferase | putative succinyl-CoA:3-ketoacid coenzyme A transferase subunit A | PANEL HIT: pcaI (Catechol-ortho / Catechol-ortho) | pident=49.309000 qcovs=94.000000</title></polygon>
+<text x="1544.4" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1544.4 339.0)" fill="#111">scoA (pcaI)</text>
+<polygon points="1612.4,304.0 1586.3,304.0 1573.5,315.0 1586.3,326.0 1612.4,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>HOGCCFCP_04665 | HOGCCFCP_04665 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1592.9" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1592.9 339.0)" fill="#555">HOGCCFCP_04665</text>
+<polygon points="1664.0,304.0 1628.8,304.0 1611.5,315.0 1628.8,326.0 1664.0,326.0" fill="#ff7f00" stroke="#111" stroke-width="2.2"><title>HOGCCFCP_04666 | nagL | Hydratase/dehydratase/isomerase | Maleylpyruvate isomerase | PANEL HIT: mhbl (Gentisate / Gentisate) | pident=48.815000 qcovs=99.000000</title></polygon>
+<text x="1637.8" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1637.8 339.0)" fill="#111">nagL (mhbl)</text>
+<text x="452.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">86,903 bp</text>
+<text x="1664.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">101,654 bp</text>
+<text x="24.0" y="384.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="394" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="404.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="394" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="404.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="394" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="404.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="394" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="404.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="416" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="426.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="416" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="426.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="416" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="426.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="416" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="426.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="438" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="448.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="438" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="448.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="438" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="448.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="438" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="448.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="460" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="470.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

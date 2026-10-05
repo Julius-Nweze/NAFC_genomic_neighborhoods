@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="350" viewBox="0 0 1700 350">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<text x="24.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_185: reference-panel operon/cluster gene maps</text>
+<text x="24.0" y="56.0" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#555">1 shortlisted clusters (&gt;=3 independent panel gene hits) for this genome</text>
+<text x="24.0" y="74.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="start" fill="#555">Arrow direction shows CDS strand. Color shows enzyme class. Bold outline = reference-panel seed hit.</text>
+<rect x="18" y="82" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="82" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="100.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_185_panelcluster_4928</text>
+<text x="32.0" y="118.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_185 | MAGs/Exp3_MAG_185_c_000000000021 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="134.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: PROK; ahpF; fadD</text>
+<text x="32.0" y="146.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Alkanes; Beta-oxidation; Plastics</text>
+<line x1="452" y1="173.0" x2="1664" y2="173.0" stroke="#d0d0d0"/>
+<polygon points="494.8,162.0 466.1,162.0 452.0,173.0 466.1,184.0 494.8,184.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>ILOLPGOP_00983 | trxB_2 | Dehydrogenase/oxidoreductase | Thioredoxin reductase | PANEL HIT: ahpF (Alkanes / Finnerty pathway) | pident=31.849000 qcovs=55.000000</title></polygon>
+<text x="473.4" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 473.4 197.0)" fill="#111">trxB_2 (ahpF)</text>
+<polygon points="521.3,162.0 506.4,162.0 499.1,173.0 506.4,184.0 521.3,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>ILOLPGOP_00984 | ILOLPGOP_00984 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="510.2" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 510.2 197.0)" fill="#555">ILOLPGOP_00984</text>
+<polygon points="524.4,162.0 547.5,162.0 558.9,173.0 547.5,184.0 524.4,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>ILOLPGOP_00985 | ILOLPGOP_00985 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="541.6" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 541.6 197.0)" fill="#555">ILOLPGOP_00985</text>
+<polygon points="617.6,162.0 577.0,162.0 559.0,173.0 577.0,184.0 617.6,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>ILOLPGOP_00986 | ILOLPGOP_00986 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="588.3" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 588.3 197.0)" fill="#555">ILOLPGOP_00986</text>
+<polygon points="623.0,162.0 646.4,162.0 658.0,173.0 646.4,184.0 623.0,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>ILOLPGOP_00987 | yaaA | Accessory/other | Peroxide stress resistance protein YaaA</title></polygon>
+<text x="640.5" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 640.5 197.0)" fill="#555">yaaA</text>
+<polygon points="657.8,162.0 681.2,162.0 692.7,173.0 681.2,184.0 657.8,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>ILOLPGOP_00988 | COQ5_2 | Accessory/other | 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial</title></polygon>
+<text x="675.3" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 675.3 197.0)" fill="#555">COQ5_2</text>
+<polygon points="750.9,162.0 714.4,162.0 696.5,173.0 714.4,184.0 750.9,184.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>ILOLPGOP_00989 | glpC | Dehydrogenase/oxidoreductase | Anaerobic glycerol-3-phosphate dehydrogenase subunit C</title></polygon>
+<text x="723.7" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 723.7 197.0)" fill="#555">glpC</text>
+<polygon points="806.3,162.0 768.8,162.0 750.8,173.0 768.8,184.0 806.3,184.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>ILOLPGOP_00990 | glpB | Dehydrogenase/oxidoreductase | Anaerobic glycerol-3-phosphate dehydrogenase subunit B</title></polygon>
+<text x="778.5" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 778.5 197.0)" fill="#555">glpB</text>
+<polygon points="875.9,162.0 824.1,162.0 806.1,173.0 824.1,184.0 875.9,184.0" fill="#33a02c" stroke="#888" stroke-width="0.8"><title>ILOLPGOP_00991 | glpA | Dehydrogenase/oxidoreductase | Anaerobic glycerol-3-phosphate dehydrogenase subunit A</title></polygon>
+<text x="841.0" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 841.0 197.0)" fill="#555">glpA</text>
+<polygon points="931.4,162.0 902.4,162.0 888.1,173.0 902.4,184.0 931.4,184.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>ILOLPGOP_00992 | deoR | Regulator | Deoxyribonucleoside regulator</title></polygon>
+<text x="909.7" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 909.7 197.0)" fill="#555">deoR</text>
+<polygon points="953.5,162.0 975.2,162.0 985.8,173.0 975.2,184.0 953.5,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>ILOLPGOP_00993 | glpF_1 | Accessory/other | putative glycerol uptake facilitator protein</title></polygon>
+<text x="969.7" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 969.7 197.0)" fill="#555">glpF_1</text>
+<polygon points="991.9,162.0 1041.0,162.0 1059.0,173.0 1041.0,184.0 991.9,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>ILOLPGOP_00994 | glpK_1 | Accessory/other | Glycerol kinase</title></polygon>
+<text x="1025.4" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1025.4 197.0)" fill="#555">glpK_1</text>
+<polygon points="1165.5,162.0 1081.6,162.0 1063.6,173.0 1081.6,184.0 1165.5,184.0" fill="#d9d9d9" stroke="#111" stroke-width="2.2"><title>ILOLPGOP_00995 | ILOLPGOP_00995 | Hypothetical/accessory | hypothetical protein | PANEL HIT: PROK (Plastics / PLA) | pident=44.215000 qcovs=62.000000</title></polygon>
+<text x="1114.5" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1114.5 197.0)" fill="#111">ILOLPGOP_00995 (PROK)</text>
+<polygon points="1323.6,162.0 1188.1,162.0 1170.1,173.0 1188.1,184.0 1323.6,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>ILOLPGOP_00996 | murJ | Accessory/other | lipid II flippase MurJ</title></polygon>
+<text x="1246.9" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1246.9 197.0)" fill="#555">murJ</text>
+<polygon points="1410.6,162.0 1341.4,162.0 1323.4,173.0 1341.4,184.0 1410.6,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>ILOLPGOP_00997 | ILOLPGOP_00997 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1367.0" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1367.0 197.0)" fill="#555">ILOLPGOP_00997</text>
+<polygon points="1414.0,162.0 1461.9,162.0 1479.9,173.0 1461.9,184.0 1414.0,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>ILOLPGOP_00998 | ILOLPGOP_00998 | Accessory/other | A-adding tRNA nucleotidyltransferase</title></polygon>
+<text x="1446.9" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1446.9 197.0)" fill="#555">ILOLPGOP_00998</text>
+<polygon points="1479.5,162.0 1500.2,162.0 1510.4,173.0 1500.2,184.0 1479.5,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>ILOLPGOP_00999 | gph_2 | Accessory/other | Phosphoglycolate phosphatase</title></polygon>
+<text x="1495.0" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1495.0 197.0)" fill="#555">gph_2</text>
+<polygon points="1512.3,162.0 1523.6,162.0 1530.6,173.0 1523.6,184.0 1512.3,184.0" fill="#fdbf6f" stroke="#888" stroke-width="0.8"><title>ILOLPGOP_01000 | ILOLPGOP_01000 | Regulator | putative HTH-type transcriptional regulator</title></polygon>
+<text x="1521.5" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1521.5 197.0)" fill="#555">ILOLPGOP_01000</text>
+<polygon points="1530.4,162.0 1569.3,162.0 1587.3,173.0 1569.3,184.0 1530.4,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>ILOLPGOP_01001 | entS_3 | Accessory/other | Enterobactin exporter EntS</title></polygon>
+<text x="1558.9" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" transform="rotate(-45 1558.9 197.0)" fill="#555">entS_3</text>
+<polygon points="1664.0,162.0 1607.7,162.0 1589.7,173.0 1607.7,184.0 1664.0,184.0" fill="#1f78b4" stroke="#111" stroke-width="2.2"><title>ILOLPGOP_01002 | lcfB | CoA ligase/synthetase | Long-chain-fatty-acid--CoA ligase | PANEL HIT: fadD (Beta-oxidation / Beta-oxidation) | pident=35.169000 qcovs=98.000000</title></polygon>
+<text x="1626.9" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="end" transform="rotate(-45 1626.9 197.0)" fill="#111">lcfB (fadD)</text>
+<text x="452.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">7,955 bp</text>
+<text x="1664.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">35,377 bp</text>
+<text x="24.0" y="242.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="252" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="262.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="252" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="262.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="252" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="262.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="252" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="262.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="274" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="284.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="274" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="284.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="274" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="284.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="274" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="284.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="296" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="306.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="296" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="306.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="296" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="306.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="296" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="306.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="318" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="328.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>

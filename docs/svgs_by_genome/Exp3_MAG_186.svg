@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="492" viewBox="0 0 1700 492">
+<rect width="100%" height="100%" fill="#f8f8f6"/>
+<text x="24.0" y="34.0" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_186: reference-panel operon/cluster gene maps</text>
+<text x="24.0" y="56.0" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#555">2 shortlisted clusters (&gt;=3 independent panel gene hits) for this genome</text>
+<text x="24.0" y="74.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="start" fill="#555">Arrow direction shows CDS strand. Color shows enzyme class. Bold outline = reference-panel seed hit.</text>
+<rect x="18" y="82" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="82" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="100.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_186_panelcluster_4952</text>
+<text x="32.0" y="118.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_186 | MAGs/Exp3_MAG_186_c_000000000081 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="134.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: atoA; atoB; paaY; pcaI</text>
+<text x="32.0" y="146.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Beta-oxidation; Catechol-ortho; Cyclohexylacetate;</text>
+<text x="32.0" y="158.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Phenylacetate</text>
+<line x1="452" y1="173.0" x2="1664" y2="173.0" stroke="#d0d0d0"/>
+<polygon points="525.7,162.0 470.0,162.0 452.0,173.0 470.0,184.0 525.7,184.0" fill="#cccccc" stroke="#111" stroke-width="2.2"><title>PENCMNOF_01093 | yrdA_1 | Accessory/other | Protein YrdA | PANEL HIT: paaY (Phenylacetate / Phenylacetate) | pident=40.260000 qcovs=78.000000</title></polygon>
+<text x="488.9" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">yrdA_1 (paaY)</text>
+<polygon points="616.4,162.0 545.1,162.0 527.1,173.0 545.1,184.0 616.4,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>PENCMNOF_01094 | PENCMNOF_01094 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="571.7" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">PENCMNOF_01094</text>
+<polygon points="784.5,162.0 633.9,162.0 615.9,173.0 633.9,184.0 784.5,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>PENCMNOF_01095 | miaB_1 | Accessory/other | tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase</title></polygon>
+<text x="700.2" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">miaB_1</text>
+<polygon points="804.9,162.0 865.9,162.0 883.9,173.0 865.9,184.0 804.9,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>PENCMNOF_01096 | PENCMNOF_01096 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="844.4" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">PENCMNOF_01096</text>
+<polygon points="1043.4,162.0 903.0,162.0 885.0,173.0 903.0,184.0 1043.4,184.0" fill="#cccccc" stroke="#888" stroke-width="0.8"><title>PENCMNOF_01097 | rpoH_1 | Accessory/other | RNA polymerase sigma factor RpoH</title></polygon>
+<text x="964.2" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">rpoH_1</text>
+<polygon points="1169.0,162.0 1076.1,162.0 1058.1,173.0 1076.1,184.0 1169.0,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>PENCMNOF_01098 | PENCMNOF_01098 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1113.5" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">PENCMNOF_01098</text>
+<polygon points="1317.2,162.0 1193.5,162.0 1175.5,173.0 1193.5,184.0 1317.2,184.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>PENCMNOF_01099 | PENCMNOF_01099 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1246.3" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">PENCMNOF_01099</text>
+<polygon points="1335.9,162.0 1469.1,162.0 1487.1,173.0 1469.1,184.0 1335.9,184.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>PENCMNOF_01100 | thlA | Thiolase/transferase | Acetyl-CoA acetyltransferase | PANEL HIT: atoB (Beta-oxidation / Beta-oxidation) | pident=53.608000 qcovs=98.000000</title></polygon>
+<text x="1411.5" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">thlA (atoB)</text>
+<polygon points="1487.5,162.0 1559.5,162.0 1577.5,173.0 1559.5,184.0 1487.5,184.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>PENCMNOF_01101 | scoA | Thiolase/transferase | putative succinyl-CoA:3-ketoacid coenzyme A transferase subunit A | PANEL HIT: pcaI (Catechol-ortho / Catechol-ortho) | pident=51.869000 qcovs=93.000000</title></polygon>
+<text x="1532.5" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">scoA (pcaI)</text>
+<polygon points="1580.4,162.0 1646.0,162.0 1664.0,173.0 1646.0,184.0 1580.4,184.0" fill="#a6cee3" stroke="#111" stroke-width="2.2"><title>PENCMNOF_01102 | scoB | Thiolase/transferase | putative succinyl-CoA:3-ketoacid coenzyme A transferase subunit B | PANEL HIT: atoA (Cyclohexylacetate / Cyclohexylacetate) | pident=49.282000 qcovs=95.000000</title></polygon>
+<text x="1622.2" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">scoB (atoA)</text>
+<text x="452.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">4,315 bp</text>
+<text x="1664.0" y="110.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">13,885 bp</text>
+<rect x="18" y="224" width="1664" height="118" rx="6" fill="#ffffff" stroke="#dddddd"/>
+<rect x="18" y="224" width="7" height="118" fill="#b2182b"/>
+<text x="32.0" y="242.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222">Exp3_MAG_186_panelcluster_4957</text>
+<text x="32.0" y="260.0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="start" fill="#b2182b">Exp3_MAG_186 | MAGs/Exp3_MAG_186_c_000000000141 | Multi-hit cluster (&gt;=2 independent panel gene hits)</text>
+<text x="32.0" y="276.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel genes: amnA; amnB; amnC</text>
+<text x="32.0" y="288.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#444">Panel categories: Aromatics</text>
+<line x1="452" y1="315.0" x2="1664" y2="315.0" stroke="#d0d0d0"/>
+<polygon points="452.0,304.0 711.1,304.0 729.1,315.0 711.1,326.0 452.0,326.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>PENCMNOF_01688 | amnC | Dehydrogenase/oxidoreductase | 2-aminomuconic 6-semialdehyde dehydrogenase | PANEL HIT: amnC (Aromatics / 2-Aminophenol) | pident=42.043000 qcovs=99.000000</title></polygon>
+<text x="590.6" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">amnC (amnC)</text>
+<polygon points="765.5,304.0 1057.4,304.0 1075.4,315.0 1057.4,326.0 765.5,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>PENCMNOF_01689 | PENCMNOF_01689 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="920.5" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">PENCMNOF_01689</text>
+<polygon points="1077.8,304.0 1195.1,304.0 1213.1,315.0 1195.1,326.0 1077.8,326.0" fill="#d9d9d9" stroke="#888" stroke-width="0.8"><title>PENCMNOF_01690 | PENCMNOF_01690 | Hypothetical/accessory | hypothetical protein</title></polygon>
+<text x="1145.5" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="middle" fill="#555">PENCMNOF_01690</text>
+<polygon points="1225.1,304.0 1380.7,304.0 1398.7,315.0 1380.7,326.0 1225.1,326.0" fill="#d73027" stroke="#111" stroke-width="2.2"><title>PENCMNOF_01691 | cnbCb | Oxygenase/dioxygenase | 2-aminophenol 1,6-dioxygenase subunit beta | PANEL HIT: amnB (Aromatics / 2-Aminophenol) | pident=59.107000 qcovs=94.000000</title></polygon>
+<text x="1311.9" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">cnbCb (amnB)</text>
+<polygon points="1398.0,304.0 1646.0,304.0 1664.0,315.0 1646.0,326.0 1398.0,326.0" fill="#33a02c" stroke="#111" stroke-width="2.2"><title>PENCMNOF_01692 | rutC | Dehydrogenase/oxidoreductase | Putative aminoacrylate peracid reductase RutC | PANEL HIT: amnA (Aromatics / 2-Aminophenol) | pident=34.701000 qcovs=98.000000</title></polygon>
+<text x="1531.0" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#111">rutC (amnA)</text>
+<text x="452.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#666">1,053 bp</text>
+<text x="1664.0" y="252.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="end" fill="#666">7,586 bp</text>
+<text x="24.0" y="384.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="start" fill="#222">Legend (bold outline = reference-panel seed hit; thin outline = expanded genomic context)</text>
+<rect x="24" y="394" width="16" height="12" fill="#d73027" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="404.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Oxygenase/dioxygenase</text>
+<rect x="424" y="394" width="16" height="12" fill="#1f78b4" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="404.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">CoA ligase/synthetase</text>
+<rect x="824" y="394" width="16" height="12" fill="#6a3d9a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="404.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Carboxylase</text>
+<rect x="1224" y="394" width="16" height="12" fill="#33a02c" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="404.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Dehydrogenase/oxidoreductase</text>
+<rect x="24" y="416" width="16" height="12" fill="#ff7f00" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="426.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydratase/dehydratase/isomerase</text>
+<rect x="424" y="416" width="16" height="12" fill="#b15928" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="426.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hydrolase/decarboxylase/lyase</text>
+<rect x="824" y="416" width="16" height="12" fill="#a6cee3" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="426.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Thiolase/transferase</text>
+<rect x="1224" y="416" width="16" height="12" fill="#cab2d6" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="426.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Transport/efflux</text>
+<rect x="24" y="438" width="16" height="12" fill="#fdbf6f" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="448.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Regulator</text>
+<rect x="424" y="438" width="16" height="12" fill="#fb9a99" stroke="#555" stroke-width="0.6"/>
+<text x="446.0" y="448.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Electron transfer/redox</text>
+<rect x="824" y="438" width="16" height="12" fill="#b2df8a" stroke="#555" stroke-width="0.6"/>
+<text x="846.0" y="448.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Mobile/stress/accessory</text>
+<rect x="1224" y="438" width="16" height="12" fill="#d9d9d9" stroke="#555" stroke-width="0.6"/>
+<text x="1246.0" y="448.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Hypothetical/accessory</text>
+<rect x="24" y="460" width="16" height="12" fill="#cccccc" stroke="#555" stroke-width="0.6"/>
+<text x="46.0" y="470.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="400" text-anchor="start" fill="#333">Accessory/other</text>
+</svg>
