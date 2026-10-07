@@ -27,6 +27,8 @@ RAW_DIR="$WKDIR/raw_reads"
 TRIM_DIR="$WKDIR/trimmed_reads"
 
 # Adapter folder supplied with the Trimmomatic module
+# Libraries were prepared with the NEBNext Ultra II DNA Library Prep kit,
+# whose adapters match the Illumina TruSeq sequences in TruSeq3-PE-2.fa
 adap="$EBROOTTRIMMOMATIC/adapters"
 
 mkdir -p "$TRIM_DIR"
@@ -40,7 +42,7 @@ for r1 in "$RAW_DIR"/*_R1.fastq.gz; do
     java -jar "$EBROOTTRIMMOMATIC/trimmomatic-0.39.jar" PE -threads "$SLURM_CPUS_PER_TASK" "$r1" "$r2" \
         "$TRIM_DIR/${base}_R1_trimmed.fastq.gz" "$TRIM_DIR/${base}_R1_unpaired.fastq.gz" \
         "$TRIM_DIR/${base}_R2_trimmed.fastq.gz" "$TRIM_DIR/${base}_R2_unpaired.fastq.gz" \
-        ILLUMINACLIP:"$adap/NexteraPE-PE.fa":2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+        ILLUMINACLIP:"$adap/TruSeq3-PE-2.fa":2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
 done
 
 echo "Trimming completed successfully."
